@@ -1,0 +1,336 @@
+{
+    "public_identifier": "kushalpillay",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/kushalpillay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221258Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea0d9392a758cf176f684b4d626032051d80c4833241b1f21808bdc567ce2243",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/kushalpillay/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221258Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d94f64ea16ab755fc4936f291723dee2f36a919e944d5e61069b07e6474885f4",
+    "first_name": "Kushal",
+    "last_name": "Pillay",
+    "full_name": "Kushal Pillay",
+    "follower_count": 1501,
+    "occupation": "Chief Technology Officer at Powerhouse.ai",
+    "headline": "Co-Founder & CTO at Powerhouse AI (YC W22)",
+    "summary": "Experienced Head Of Research And Development with a demonstrated history of working in the facilities services industry. Skilled in Management, Deep learning, Computer vision, Robotics, Algorithms, and Commissioning. Strong research professional with a Master's degree focused in Electrical Engineering Specialization in Automation and Control from National University of Singapore. ",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder at Residence",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Powerhouse.ai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/powerhouse-ai/",
+            "title": "Chief Technology Officer",
+            "description": "Al-vision productivity tool for warehouse workers\ud83d\udcf8\n\nThe Al-powered app gives your warehouse superpowers: from automatic counting of goods to scanning multiple labels on go to reading and reconciliation of (paper) documents.\n\nProven to streamline inbound, stocktake, cycle count, and outbound processes by up to 40% with end-to-end coverage.\nWorking with the world's largest companies and 3PLs and backed by investors like Y Combinator and\nEntrepreneur First.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGm1kUPFWwmhQ/company-logo_400_400/0/1630664020478/powerhouse_ai_logo?e=1712793600&v=beta&t=N_eLs4KSLRc61oo2SIspTu7MmdwnEqUgGZSrZorfNbg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Gaussian Robotics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gaussianrobotics/",
+            "title": "Head of Research And Development",
+            "description": "\u2022 Managed, mentored and lead a team to develop products and IoT devices for the FM Industry.\n\u2022 Design and develop system architectures for A.I. centric smart integrated management solutions for the Facility management industry.\n\u2022 Defined and managed the execution of the department business strategy including target definitions, growth areas and business plans.\n\u2022 Create, maintain and manage departmental budget.\n\u2022 Helped the company apply as well as pitch for different funding /Grant calls, also won a grant funding by NEA in 2019 (a grant call to develop security come cleaning robot). I solely designed, developed, and successfully completed the project before the official deadline.\nlink: https://www.businesstimes.com.sg/hub/sff-x-switch-2020/open-innovation-is-the-key-to-overcoming-covid-19-challenges\n\u2022 Standardized processes and monitoring individual/team growth with respect to the project completion and task allocated to improve teams productivity by 15%\n\u2022 Effectively interact with other departments & organizations (e.g.Operations, Sales, Purchasing, Marketing Customers and Suppliers)\n\u2022 Set up processes for strategic product development, from developing a POC to MVP based on design thinking.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGykGbD8ZXvFQ/company-logo_400_400/0/1652159455870/gausiumofficial_logo?e=1712793600&v=beta&t=p7r2lmmtkI4InHSIhoOQHOZrPPqk5zQKa_MgbH7Gx-Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "Gaussian Robotics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gaussianrobotics/",
+            "title": "Research Development Software Engineer",
+            "description": "\u2022\tSecurity & Cleaning robot: Designed and developed a standalone security module for cleaning robots, based on PyTorch and modified Yolo architecture to improve FPS and reduce power consumption; with a 86% mAP over 42 classes integrated with ROS.  It mainly involves object classification, categorization, and human pose estimation to classify humans as suspicious/ lying down.\n\u2022\tSMART clean: A deep learning model based on image segmentation, FRCNN and IR image segmentation to detect undesired substances that the robot cannot clean to improve the efficiency of cleaning by 6%.\n\u2022\tAsset Inspection: Object detection and recognition with some preprocessing based on feature extraction, tracking and MobileNet SSD V2 for asset inspection for a ROS (robotics framework) to achieve 73% mAP @50%IoU.\n\u2022\tFire detection system: Fire detection from an RGB camera using FireNet as well as feature extraction on a model to recognize the optical flow of fire.\n\u2022\tEvaluated and improvised DNN models on error analysis & cost. Developing an AI platform to integrate humans work orders and robots to improve the productivity of cleaning.\n\u2022\tDeveloped a module to integrate and monitor the robots via AWS/GCP cloud.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGykGbD8ZXvFQ/company-logo_400_400/0/1652159455870/gausiumofficial_logo?e=1712793600&v=beta&t=p7r2lmmtkI4InHSIhoOQHOZrPPqk5zQKa_MgbH7Gx-Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Gaussian Robotics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gaussianrobotics/",
+            "title": "Robotics Engineer Intern",
+            "description": "\u2022 Worked on the development of a new cleaning autonomous robot based on ROS framework. \n\u2022 Developed an algorithm to detect coffee stains. Built in Python using open CV and GL.Security surveillance features for real time object detection based on the Tensor Flow data set.\n\u2022 Was a part of the operational R&D, also helped in maintenance and deployment.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGykGbD8ZXvFQ/company-logo_400_400/0/1652159455870/gausiumofficial_logo?e=1712793600&v=beta&t=p7r2lmmtkI4InHSIhoOQHOZrPPqk5zQKa_MgbH7Gx-Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "Tetra Pak",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tetra-pak/",
+            "title": "Automation Engineer",
+            "description": "\u2022 Lead a team for development, testing, commissioning and troubleshooting of production control systems.\n\u2022 Design and developed software automation control solutions based on PLC programming (Rockwell and Siemens) and HMI development for various food processing industries for various countries.\n\u2022 Tested, commissioned and performed troubleshooting of production machine control systems.\n\u2022 Performed project planning during the development phase of the project and successfully executed it by commissioning.\n\u2022 Ensured the accuracy and reliability of instrumentation, GUI/SCADA, control and safety systems.\n\u2022 Authored engineering documentation for timely maintenance and testing of system.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEH4K23HGR8Eg/company-logo_400_400/0/1630643325145/tetra_pak_logo?e=1712793600&v=beta&t=Cm38XXSAi-9Y7ruO_2W7zmvQ_gvA_CgmUiST_sz-Pp4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Electrical Engineering Specialization in Automation and Control",
+            "degree_name": "Master's degree",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Instrumentation and control",
+            "degree_name": "Bachelor's degree",
+            "school": "Vishwakarma Institute Of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGltV9wRWpIjg/company-logo_400_400/0/1631347857195?e=1712793600&v=beta&t=Tz2DZA7MXaE5QRYQDyh2h-soQF0iVdMmqFgtvTXLGk0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Building Conversational Experiences with Dialog flow",
+            "number": null
+        },
+        {
+            "name": "Convolutional Neural Networks",
+            "number": null
+        },
+        {
+            "name": "Deep Learning A-Z\u2122: Hands-On Artificial Neural Networks (Udemy)",
+            "number": null
+        },
+        {
+            "name": "Deep Learning Computer Vision\u2122 CNN, OpenCV, YOLO, SSD & GANs",
+            "number": null
+        },
+        {
+            "name": "Deep Neural network tuning: Hyper parameter tuning, Regularization and Optimization",
+            "number": null
+        },
+        {
+            "name": "Neural Networks and Deep Learning",
+            "number": null
+        },
+        {
+            "name": "Sequence Models",
+            "number": null
+        },
+        {
+            "name": "Structuring ML Models",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "title": "ROS based obstacle avoidance system for Autonomous Surface Crafts",
+            "description": "Developed a GPS navigation module and a camera-based obstacle avoidance system.\nWorking with a team of two PhD engineers to develop the fully autonomous navigation craft based on ROS platform with a single board computer (i.e. Nvidia Jetson TX2).",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "title": "Smart Water Distribution System (Company Funded Project)",
+            "description": "\u2022 This project was developed to reduce wastage of water by monitoring, paying for what you use, automating and making the user experience much simple in controlling their usage of water with just an SMS, in case some water supply is left on accidentally for a while. All of it developed on a centralized web platform with ATmega 32 used to control and monitor each house water supply.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/nelson-jones-238487194",
+            "name": "Nelson Jones",
+            "summary": "Co-founder at Kula | Y Combinator W22",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/burhanultayyab",
+            "name": "Burhan Ul Tayyab",
+            "summary": "Co-Founder & CEO at Ailiverse | Making neural networks run 10x faster",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harry-conor-lucas",
+            "name": "Harry Conor Lucas",
+            "summary": "Co-Founder at Phasio",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gauravmaheshwar2",
+            "name": "Gaurav Maheshwari",
+            "summary": "Founder of RepairMax - Making last mile delivery of repairs hassle-free | Entrepreneur First",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadiaamalia",
+            "name": "Nadia Amalia",
+            "summary": "Co-Founder at Fintelite (Formerly Sribuu) | Forbes 30 under 30 | MIT | Financial Data Automation, AI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samarthshyam",
+            "name": "Samarth Shyam",
+            "summary": "Co-founder & CEO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sinameraji",
+            "name": "Sina Meraji",
+            "summary": "Building in AI x Learning x Community",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabh-chauhan",
+            "name": "Saurabh Chauhan",
+            "summary": "CEO & Founder @ Peakflo (YC W22) | Rocket Internet | McKinsey",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nikhil-ranchod-24672716b",
+            "name": "Nikhil Ranchod",
+            "summary": "CTO at Ctrl Robotics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abhinavwarrier",
+            "name": "Abhinav Warrier",
+            "summary": "Co-Founder, Rightbot | Forbes 30 Under 30",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Kushal Pillay",
+            "link": "https://fj.linkedin.com/in/kushal-pillay-79649266",
+            "summary": "Software Engineer .NET/Microsoft Dynamics, Navigating365.com",
+            "location": "Fiji"
+        },
+        {
+            "name": "Kushal Pillay",
+            "link": "https://fj.linkedin.com/in/kushal-pillay-619a76232",
+            "summary": "Information Technology Analyst",
+            "location": "Suva"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

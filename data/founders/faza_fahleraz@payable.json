@@ -1,0 +1,309 @@
+{
+    "public_identifier": "ffahleraz",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ffahleraz/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221233Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=28270339684f5fea9b90e9a35c762483644cf505cee44056250d2013c4ec4d18",
+    "first_name": "Faza",
+    "last_name": "Fahleraz",
+    "full_name": "Faza Fahleraz",
+    "follower_count": 1093,
+    "occupation": "Co-Founder at Payable (YC S22)",
+    "headline": "Co-Founder at Payable (YC S22)",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Payable (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/payableid",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFiuXfmUHd9nA/company-logo_400_400/0/1655254270009?e=1712793600&v=beta&t=17hMcuyecfI5nwsNrIIOR5U2M-p6X7cj38voHMJxM4c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Sembly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/semblyinc",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQERFwUPDL4Www/company-logo_400_400/0/1688481745746/semblyinc_logo?e=1712793600&v=beta&t=JA78im-errC15ge5PnVnxXMkYQBuQPSv5T-QKy5-I0k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "Sembly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/semblyinc",
+            "title": "Software Engineer Intern",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQERFwUPDL4Www/company-logo_400_400/0/1688481745746/semblyinc_logo?e=1712793600&v=beta&t=JA78im-errC15ge5PnVnxXMkYQBuQPSv5T-QKy5-I0k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Business Analyst",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Shopee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shopee",
+            "title": "Software Engineer Intern",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_400_400/0/1672279162763/shopee_logo?e=1712793600&v=beta&t=DOVbis89lEMS7Ob2LRuq5YqVvkhn9bxPsDuY7WEut1c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Kata.ai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kata-ai",
+            "title": "Machine Learning Research Intern",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGGolrQRR1UZw/company-logo_400_400/0/1638780234104/kata_ai_logo?e=1712793600&v=beta&t=wrPsWYlyxv9x3C7eyru94VC57v95b9k-O1hlmfM2TuI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            },
+            "company": "Bukalapak",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-bukalapak-com",
+            "title": "Software Engineer Intern",
+            "description": "Part of Core AI Team",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGC-91AXtMCHQ/company-logo_400_400/0/1630587700092/pt_bukalapak_com_logo?e=1712793600&v=beta&t=jSRfny3KiocG86ZLLandBLTLSbtJ4Op4-NmgDV5ieM0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Undergraduate",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/14702/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": "Student's Film League"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": "Science and Mathematics",
+            "degree_name": "High School",
+            "school": "SMAN 8 Jakarta",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Student's Media"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Science and Mathematics",
+            "degree_name": "High School",
+            "school": "SMAN 61 Jakarta",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "Junior High School",
+            "school": "SMPI Al-Azhar 8",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Biology Olympiad Team"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": null,
+            "org_name": "ITB Robotics Unit",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "org_name": "ITB Student's Film League (LFM ITB)",
+            "title": "Technology Staff",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1076,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/albertsahala",
+            "name": "Albert Sahala Theodore",
+            "summary": "Co-Founder at Payable (YC S22) | Helping businesses create a seamless checkout experience",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/okky-pratama-84217331",
+            "name": "Okky Pratama",
+            "summary": "Financial Clarity for SMBs in Indonesia | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gerynugraha",
+            "name": "Gery N.",
+            "summary": "Co-Founder @ Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dodongcahyono",
+            "name": "Dodong Cahyono",
+            "summary": "Executive,Startup and  Social Entrepreneurship Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alfaridzrayhan",
+            "name": "Aldian Alfaridz",
+            "summary": "Marketing Management Trainee at ParagonCorp",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Faza Fahleraz",
+            "link": "https://id.linkedin.com/in/faza-fahleraz-170b2620b",
+            "summary": "Software Engineer at Stealth Startup",
+            "location": "Jakarta Raya, Indonesia"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

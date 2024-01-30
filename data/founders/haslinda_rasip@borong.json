@@ -1,0 +1,540 @@
+{
+    "public_identifier": "lindarasip",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lindarasip/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221634Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b644e0523a75190589204763ed26881f45f2004f04cc102b3b69dd39afb854f2",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lindarasip/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221634Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7596bd83a39d5acd8a02448ae5b74d256bb0f775d700984ea312a95a9cd718d0",
+    "first_name": "Ts. Haslinda",
+    "last_name": "Rasip",
+    "full_name": "Ts. Haslinda Rasip",
+    "follower_count": null,
+    "occupation": "Chief Technology Officer & Cofounder at Dropee",
+    "headline": "CTO & Co-Founder at Dropee (Y Combinator W20) | We're HIRING UX Designer, Product Manager, Data Lead: Visit dropee.com/career or DM me.",
+    "summary": "I believe in data driven strategies and implementation for business and technology. I believe technology can have huge impact on business. With entrepreneurship and technical background, I provide an end-to-end advisory service. I am a confident leader seeking to use strong technical skills and shrewd business sense to inspire and lead a company. Combine knowledge of business, strategies, technology, market trends, and education to influence advancement of company goals. Have established lasting relationships throughout career and maintain these relationships to diversify perspective and collect valuable information.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "BETA Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/betafoundation/",
+            "title": "Chief Operating Officer & Co-Founder",
+            "description": "At BETA Foundation, we believe that a thriving community of technopreneurs across South East Asia will ensure economic stability and global competitiveness.",
+            "location": "Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEcpRatFjr49g/company-logo_400_400/0/1563641211336?e=1672272000&v=beta&t=Y18BtZBqOj1HoaLRPKLlJrm9oVu1rkc2hx0TkrZ4ud4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Dropee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropee/",
+            "title": "Chief Technology Officer & Cofounder",
+            "description": "Dropee\u00a0is a B2B eCommerce solution provider that enables businesses to buy and sell in bulk confidently. We do so by simplifying the ordering process, and provide maximum insights on best-sellers across different retail segments.\n \n Our\u00a0Dropee Direct and Dropee Marketplace platforms bring wholesale businesses online and allows retailers to\u00a0source for the right products from the right suppliers.\u00a0\n \n For more info, check out www.dropee.com.",
+            "location": "Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE-YoFewAkThw/company-logo_400_400/0/1519885862365?e=1672272000&v=beta&t=lZbEVJieZLGrwZjo04zq_nie2p5b2j8sZxtAnfHINoU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Jooblii Commerce Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jooblii-commerce/",
+            "title": "Chief Technology Officer & Co-Founder",
+            "description": "Jooblii is an academy committed in providing training, coaching and mentoring for online business. Our tagline is \"We help YOU sell more\". Does not matter who you are.",
+            "location": "Denai Alam, Selangor, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEg2ueZYxyPAw/company-logo_400_400/0/1519878022853?e=1672272000&v=beta&t=SJ43_7D1xHdZZ7MkRwsTk3fafyGKLvJXmT-ZeHZq-b8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "Aleph One Sdn Bhd",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Technology Officer",
+            "description": "Aleph One is company specialising in \"CTOs\" for hire for startups. We assist startups from the ground up with their product or software development. Because startups have limited funds and technical resource, we help founders realise their product vision from prototype/MVPs to commercial release. We bring experience and technical skills crucial to a team in tech-based startups. Our startups include Purelyb, Halal Speed Dating, Iresidenz and etc",
+            "location": "Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEg2ueZYxyPAw/company-logo_400_400/0/1519878022853?e=1668038400&v=beta&t=K_5xr7jVQ5TFDW_R2sFEvVkEjJR8qsSyR94WSO9j78s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2010
+            },
+            "company": "Sage Interactive",
+            "company_linkedin_profile_url": null,
+            "title": "Operation Manager, Custom Content",
+            "description": "Plan and Manage daily operation of Custom Content division. Managing team of 15 in developing elearning material.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "KDEB Anzagain Sn Bhd",
+            "company_linkedin_profile_url": null,
+            "title": "Head of R&D and Network",
+            "description": "Plan and manage Research and Development. Involve in Pre-project processes such as costing,proposal writing to Post project such as printing and cd replication. \n\nManaging the Network and Infra support team.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2004
+            },
+            "company": "DEMC Anzagain",
+            "company_linkedin_profile_url": null,
+            "title": "Technical Analyst",
+            "description": "E-Learning courseware development as per acceptable standard required (SCORM, AICC) and web application projects. My role is as a technical consultant, proposal and R&D Team member. The biggest role is to define and translate the user requirements and produce the technical design. Responsible in managing the project documents and deliverables.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2000
+            },
+            "company": "KDEB ANZAGAIN",
+            "company_linkedin_profile_url": null,
+            "title": "Web Developer",
+            "description": "Position Level\t: Fresh/Entry Level\nSpecialization\t: IT/Computer - Software",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2019
+            },
+            "company": "Joota",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/joota/",
+            "title": "Research & Development , Founding Team",
+            "description": "Design, implement and project manage Joota.com development, infra and research. Joota is a social content networking. It helps user build meaningful social network around content.",
+            "location": "Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF5MOi_f9EkSg/company-logo_400_400/0/1519889543713?e=1672272000&v=beta&t=JmuNyDycePRMCzosFVdDDK-hLbsdHbeWlJjo6eIMhGY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2019
+            },
+            "company": "New Entrepreneurs Foundation (myNEF)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/new-entrepreneurs-foundation-mynef-/",
+            "title": "Chief Operating Officer",
+            "description": "Design, implement and project manage Joota.com development, infra and research. Joota is a social content networking. It helps user build meaningful social network around content.",
+            "location": "Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGpcvYyQg46IQ/company-logo_400_400/0/1519918529007?e=1672272000&v=beta&t=NqFBGnymznG1Wpi-hxOY3JcUI0j24OorEe7DMjO3Ga4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2024
+            },
+            "field_of_study": null,
+            "degree_name": "DBA - Azman Hashim International Business School",
+            "school": "Universiti Teknologi Malaysia",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/universiti-teknologi-malaysia/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEYZw8juFU_Dg/company-logo_400_400/0/1519863097351?e=1672272000&v=beta&t=y6VzCVH9IWzYa4bN9X_F5HabPm6hNCE5vqWTrJllwWI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Information Management",
+            "degree_name": "Master",
+            "school": "Universiti Teknologi MARA",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/universiti-teknologi-mara/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQH6LsQyL_tqyw/company-logo_400_400/0/1519896840506?e=1672272000&v=beta&t=d7yHV1YJEAsfKUnWO8m4R2A-XisAeelqMgS3M1ItwwA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2000
+            },
+            "field_of_study": "Computer Science (Software Eng)",
+            "degree_name": "Degree",
+            "school": "Universiti Teknologi Malaysia",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/universiti-teknologi-malaysia/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEYZw8juFU_Dg/company-logo_400_400/0/1519863097351?e=1672272000&v=beta&t=y6VzCVH9IWzYa4bN9X_F5HabPm6hNCE5vqWTrJllwWI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1994
+            },
+            "field_of_study": null,
+            "degree_name": "SPM",
+            "school": "MRSM Jasin",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Degree in Computer Science",
+            "number": "-"
+        },
+        {
+            "name": "Master in Information Management",
+            "number": "-"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Gamification",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://class.coursera.org/gamification-002"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://class.coursera.org/innovativeideas-001"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": null,
+            "name": "Human-Computer Interaction",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://class.coursera.org/hci"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": null,
+            "name": "Social Network Analysis",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/sna"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://my.linkedin.com/in/lenniseng",
+            "name": "Lennise Ng (\u9ec4\u82b7\u60c5)",
+            "summary": "CEO at Dropee (YC W20) | Wholesale made easy through #eTrade | #eTrade for Women",
+            "location": "Subang Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/aidiel",
+            "name": "Aidiel Ismail",
+            "summary": "Head Of Engineering at Dropee (Y Combinator W20) | We're HIRING! Developer & UX Designer - Laravel / Bootstrap / Vue / Mobile: Visit dropee.com/career or DM me.",
+            "location": "Shah Alam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/shazahazwani",
+            "name": "Shaza Hazwani Ahmad Jefril",
+            "summary": "Relationship Manager at Dropee",
+            "location": "Shah Alam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/hazila",
+            "name": "Nor Hazilawati Awang",
+            "summary": "Vice President of Technology, HeiTech Padu Berhad",
+            "location": "Subang Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/aizatrahim",
+            "name": "Aizat Rahim",
+            "summary": "Co-founder at Dropee (YC W20)",
+            "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia"
+        },
+        {
+            "link": "https://my.linkedin.com/in/nurul-fadhilah-salleh-400b92118",
+            "name": "NURUL FADHILAH SALLEH",
+            "summary": "System Analyst at Dropee.com",
+            "location": "Bandar Puncak Alam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/nabillabhamidon",
+            "name": "Nabilla Hamidon",
+            "summary": "Fulfilment Executive at Dropee",
+            "location": "Shah Alam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/kabir-dhaliwal-a05228133",
+            "name": "Kabir Dhaliwal",
+            "summary": "Supply Chain / E-Commerce",
+            "location": "Subang Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/akmalfikri",
+            "name": "\ud83d\udcbb Akmal Fikri Abdul Rahman",
+            "summary": "Back End Developer at Dropee",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/mohammad-fauzi-mansor-b003664",
+            "name": "Mohammad Fauzi Mansor",
+            "summary": "IT & Digital Banking Professional (CISA, CDCP, MCITP, ITIL, COBiT)",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/teh-hock-keong-4078aa88",
+            "name": "TEH HOCK KEONG",
+            "summary": "IT Product Owner - SAP ByD at Hilti Group",
+            "location": "Seri Kembangan"
+        },
+        {
+            "link": "https://my.linkedin.com/in/kah-yin-low-9a220019b",
+            "name": "Kah Yin Low",
+            "summary": "Fresh graduate | Bachelor of Software Engineering",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/johann-oh",
+            "name": "Johann Oh",
+            "summary": "Data & Product Manager at Dropee",
+            "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia"
+        },
+        {
+            "link": "https://my.linkedin.com/in/hansmoritz",
+            "name": "Hans Moritz",
+            "summary": "Telecom CTO, CTIO, COO, Group CTO and GM  in emerging markets creating shareholders value",
+            "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia"
+        },
+        {
+            "link": "https://my.linkedin.com/in/callie-pan-b64980199",
+            "name": "Callie Pan",
+            "summary": "Graphic Designer",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/jubaer-bari-99b19b5a",
+            "name": "Jubaer Bari",
+            "summary": "Student at Multimedia University",
+            "location": "Malaysia"
+        },
+        {
+            "link": "https://my.linkedin.com/in/menglinglaw",
+            "name": "Mengling Law",
+            "summary": "Application Engineer at Hitachi eBworx Sdn Bhd",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/derrick-liew-41a11b81",
+            "name": "Derrick Liew",
+            "summary": "Chief Executive Officer at Getright Digital",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/saravana-kumar-kuppusamy",
+            "name": "Saravana Kumar K.",
+            "summary": "Addicted to A.I. Coffee and Code | CTO @ Vin Asia",
+            "location": "Cyberjaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/lokingwei",
+            "name": "King Wei Lo",
+            "summary": "CTO at FeedMe POS, seeking passionate developers.",
+            "location": "Johor Bahru"
+        },
+        {
+            "link": "https://www.linkedin.com/in/lilyanalatiff",
+            "name": "Lilyana Abdul Latiff",
+            "summary": "CEO & CoFounder at BETA Foundation",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hakimuddin-a-ajabshah-055417a6",
+            "name": "Hakimuddin A. Ajabshah",
+            "summary": "UX Lead and Product Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hannweijoe",
+            "name": "HannWei Joe",
+            "summary": "Operations Manager at Dropee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amirolzolkifli",
+            "name": "Amirol Zolkifli",
+            "summary": "PHP, Laravel & Flutter Trainer, Founder, CTO, Web & Mobile App Programmer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/izhwan-zaini-230a17142",
+            "name": "Izhwan Zaini",
+            "summary": "Brand Acquisitions Executive at Dropee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kat-yaakub-0305loki",
+            "name": "Kat Yaakub",
+            "summary": "Ops & E - commerce ninja",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lee-hp-14829b60",
+            "name": "Lee HP",
+            "summary": "Head of Commercial at DROPEE.COM",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sabreena-yeong-9833ba1b1",
+            "name": "Sabreena  Yeong",
+            "summary": "Co-Founder, Scentses and Co",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fuzlina-bakri",
+            "name": "Fuzlina Bakri",
+            "summary": "Data Analyst at DROPEE",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/faidhi",
+            "name": "Faidhi Fatkhurrozi",
+            "summary": "Data Analyst at Dropee | Certified Data Scientist",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,250 @@
+{
+    "public_identifier": "akmalakhpah",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/akmalakhpah/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221534Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a89cd39d4de6d1aeedd5af15faac34902a6b83a0450d045bb186503aab68bdf",
+    "background_cover_image_url": null,
+    "first_name": "Akmal",
+    "last_name": "Akhpah",
+    "full_name": "Akmal Akhpah",
+    "follower_count": null,
+    "occupation": "Founder & CTO at FlowyTeam",
+    "headline": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+    "summary": "Hi, I\u2019m Akmal, an OKR enthusiast and an entrepreneur from heart. I like solving real problems, and I run businesses and build high performing teams so I can do just that. Tech allow me to take business problems and solve them!\n\nI started my career at Intel, where I experienced the power of OKR implementation in big organizations. \n\nIn continuing my passion for performance management, I worked in the WHO, where together with many international HR experts, we developed ePMDS, employee performance management and development software. Since then, my passion for building a high-performance team has grown. \n\nSince 2007, I\u2019ve co-founded several tech companies focused on implementing technologies to improve government and public sectors\u2019 service delivery and provide high-quality education to children.\n\nWith AIDAN (aidan.my), our teams have created BORANG (borang.my), the first Government-as-a-Platform in South East Asia, helping hundreds of government officials delivering Citizen-Centric services to the public citizen. PANDAI (pandai.org), an Edtech established to help hundreds of thousands of Malaysian school students access high-quality education.\n\nIn 2015 I introduced OKR to my team, and we\u2019ve continued growing ever since. In 2020, teaming with international OKR coaches, we\u2019ve founded FLOWYTEAM (flowyteam.com), a tool to help companies building a high-performance team with OKR, KPI, 360\u00b0 Review and more.\n\nIf you want to discuss building a high-performance team via OKR and KPI, please connect with me and drop me a LinkedIn message.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "FlowyTeam",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/flowyteam/",
+            "title": "Founder & CTO",
+            "description": "Help companies build high-performance teams by enabling team to plan, manage & link their goals quickly via OKR, KPI, Check-in, 360\u02da Review & more.",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFBY46Ko9SKvg/company-logo_400_400/0/1589247256032?e=1697673600&v=beta&t=9hLMlox37nAgkbg4SJ-X5nYwFjHS3Qax_umBoEgJTaE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Pandai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pandai/",
+            "title": "Founder & CTO",
+            "description": "Founded an EdTech startup to help students learn daily, track performance, collect rewards and achieve higher school exams scores. Scaled the tech team to provide solution used by more than 150,000 students every day.",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFgVSsM4xr2Dg/company-logo_400_400/0/1580745641422?e=1697673600&v=beta&t=dGJjzIhw21oSR6H8KsQ6ty0I9cNKbIruz_buCwUEDXQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Aidan Technologies Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aidantechnologies/",
+            "title": "Founder & COO",
+            "description": "Started a digital agency to help Government delivering better Citizen-Centric services. In 2019, launched BORANG, the first Government-as-a-Platform solution in South East Asia. Today, BORANG has been used widely by Malaysian Government Agencies to provide digital services to the public.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQENGeNqK6F8jw/company-logo_400_400/0/1519901921384?e=1697673600&v=beta&t=IyXUJVLrVnyq5mKUnX3C634Zrl65UTxVxJ2Uu7KWHuQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "World Health Organization",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-health-organization/",
+            "title": "BPM Product Specialist",
+            "description": "Lead the development of the WHO's Employee Performance Management and Development System (ePMDS), a tool to plan and track for performance management that applies to all WHO employees worldwide.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEhC1u0R5DRQQ/company-logo_400_400/0/1663777944960?e=1697673600&v=beta&t=0A-x8e6GkWJuyrsCpv2Ih-8aZQk8HQvscu8Ao5dNOwU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1697673600&v=beta&t=Y49xMZzyM0BUHO_OEPkQxhrvkm25yu6Q5WHwe_0KbdQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "school": "Rensselaer Polytechnic Institute",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGLmKv30v930w/company-logo_400_400/0/1536333746278?e=1697673600&v=beta&t=j8oL0WT9F7ujAiP6iiIUnhBs8DSF4UdjU0GM6lmurbk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Software Engineering",
+            "degree_name": "Master of Science - MS",
+            "school": "Universiti Teknologi Malaysia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYZw8juFU_Dg/company-logo_400_400/0/1519863097351?e=1697673600&v=beta&t=SxddB58wXFtgjFIS1aLPvf_VfdkVKAd-V8cikYPzIeU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/faiz-ismail-5221b992",
+            "name": "Faiz Ismail",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fathiha-johan-6140a014b",
+            "name": "Fathiha Johan",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/firhanabqari",
+            "name": "Firhan Abqari",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/siti-dieyana-ayunie-ghazali-b9372a182",
+            "name": "Siti Dieyana Ayunie Ghazali ",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dirk-schmellenkamp-okr-kpi",
+            "name": "Dirk Schmellenkamp",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aidielmatisa",
+            "name": "Aidiel Mat Isa",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khairul-anwar-mohamad-zaki",
+            "name": "Khairul Anwar Mohamad Zaki",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/suhaimi-ramly",
+            "name": "M. Suhaimi Ramly",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wan-mohd-aizuddin-wan-mohamad-667158122",
+            "name": "Wan Mohd Aizuddin Wan Mohamad",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mazmathassan",
+            "name": "Maz Mat Hassan",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Akmal Akhpah",
+            "link": "https://www.linkedin.com/in/akmal-akhpah-b049912",
+            "summary": null,
+            "location": "Troy, NY"
+        },
+        {
+            "name": "Muhamad Akmal Adib Akhpah",
+            "link": "https://my.linkedin.com/in/akmaladib",
+            "summary": "Senior Cloud Support Engineer at Ingram Micro Cloud",
+            "location": "Yong Peng"
+        },
+        {
+            "name": "Muhammad Akmal Arif Bin Akhpah",
+            "link": "https://my.linkedin.com/in/akmlarf",
+            "summary": "Technical and Service Engineer for Danfoss Authorized Distributor & Service",
+            "location": "Johor, Malaysia"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

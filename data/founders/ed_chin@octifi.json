@@ -1,0 +1,415 @@
+{
+    "public_identifier": "echin6",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/echin6/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221708Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=52916cd87d3267b29df6178f7da4f7aaab3ad7ed477434e0bc8e18ec61f94f7e",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/echin6/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221708Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8e76b74b56966362bd644c154a5c3c39e104f8b4949521f5277d24d694e32127",
+    "first_name": "Ed",
+    "last_name": "Chin, CFA",
+    "full_name": "Ed Chin, CFA",
+    "follower_count": 2726,
+    "occupation": "Founder and CEO at Refy",
+    "headline": "Founder and CEO @ Refy | Green Fintech | Project Finance | Ex-Goldman",
+    "summary": "I am building Refy, a credit-focused fintech platform backed by Wavemaker Impact (wavemaker.vc), with a dedicated mission to transform green asset financing across APAC.\n\nBefore launching Refy, I co-founded and served as the CEO of OctiFi, an innovative buy now pay later platform backed by Y-Combinator (YC W21). Our pioneering use of machine learning in credit underwriting empowered us to provide affordable loans to responsible spenders, culminating in the platform's acquisition by Latitude Financial (latitudefinancial.com.au).  My leadership extended to driving LatitudePay's APAC expansion, managing strategic partnerships, product development and overseeing credit underwriting and risk management. \n\nWith a decade plus in fixed-income credit, trading, and portfolio management, I bring a strong technopreneurial ethos along with hands-on expertise in fundraising, sales, operations, and data science.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "ends_at": null,
+            "company": "Refy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/refycap/",
+            "title": "Founder and CEO",
+            "description": "Our mission at Refy is to empower sustainable developers by providing tailored project financing solutions spanning renewable energy, water, transportation, and energy efficiency sectors. Leveraging an innovative Asset-as-a-Service model, we're enabling developers to build, own, and manage a diverse portfolio of green assets, with a primary emphasis on small to mid-scale projects ($500k-$15m) in the APAC market.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHCne_QnoYesw/company-logo_400_400/0/1704776155547/refycap_logo?e=1712793600&v=beta&t=ykhwyL2Bzr7OXDEBSTYNSYoj7B6u-9lN7EEVGKEI7K4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2023
+            },
+            "company": "LatitudePay Asia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/latitudepayasia/",
+            "title": "Founding Partner | Chief Operating Officer",
+            "description": "Traditional credit left people behind.  We accelerate commerce with instant 0% interest loans for responsible spenders.  We make it easy for businesses of all sizes to offer buy now pay later (BNPL) to spur sales.\n\nLatitudePay Asia is a subsidiary of Latitude Financial Services (previously GE Money), a publicly-listed Australian consumer finance company (AXS: LFS) with $2B+ market cap and 3,400+ merchants.\n\nAppointed to the new role of Chief Operating Officer, I am responsible for leading LatitudePay\u2019s APAC expansion, and managing strategic operational activities that include new product development, strategic partnerships, loan underwriting and risk analytics & controls.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZDp39h8cUJw/company-logo_400_400/0/1650552245707/latitudepaysg_logo?e=1712793600&v=beta&t=gjsLZI1taVFhvhJoTczwBibS03Byrm7iJMDzfLlfWe4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "LatitudePay Asia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/latitudepayasia/",
+            "title": "Founder and CEO, formerly OctiFi (YC W21)",
+            "description": "Our mission is simple: deliver access to affordable credit to anyone with a smartphone.\n\nAt OctiFi (YC W21) we are reinventing digital credit to make it more accessible for all consumers.   We are using modern technology to re-imagine the checkout experience and make it easy for businesses of all sizes to offer responsible credit to their customers.  Together, we are inspired by that moonshot ambition to reshape financial services, starting with Southeast Asia.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZDp39h8cUJw/company-logo_400_400/0/1650552245707/latitudepaysg_logo?e=1712793600&v=beta&t=gjsLZI1taVFhvhJoTczwBibS03Byrm7iJMDzfLlfWe4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Sweeten",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-sweeten/",
+            "title": "Chief Data Officer",
+            "description": "Sweeten was a Series B funded renovation marketplace that connects homeowners to remodelling professionals.  I served on the management team in a dual role as Head of Data and Finance.  My primary role as Chief Data Officer was to leverage our vast data repository to identify product opportunities, build data products and maximise commercial value attained from such data.  Our data team designed and implemented ML-based backend routines and models, data processing pipelines and a next generation matching algorithm.  I also oversaw finance and accounting and worked closely with the CEO in fund raising and strategic planning.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFAQWN1hN9ZQ/company-logo_400_400/0/1630486899247/the_sweeten_logo?e=1712793600&v=beta&t=QVAWAbLvRVKnzwguefPWBYOjEuf5ftFR6p1ACpPaIp4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "RoomUnity",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/roomunity/",
+            "title": "Managing Partner",
+            "description": "Roomunity pioneers co-living concept in the city of New Haven with services ranging from roommate matching, property management to real estate underwriting and investment.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFyxdRLB_KxWA/company-logo_400_400/0/1630626932628?e=1712793600&v=beta&t=Oh_q5kwOCuo4JUuCSylHzT4QaNu6Q9epWP8s_yHix8I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Tilden Park Capital Management",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tilden-park-capital-management/",
+            "title": "Managing Director | Portfolio Manager",
+            "description": "Served as the Co-Head for residential and commercial MBS and senior trader for a 4bn long-short multi-strategy hedge fund with a diverse portfolio of primarily fixed income investments. Investments concentrated in real estate-backed securities, asset-backed structured products and deep-value specialty finance and real estate equities",
+            "location": "New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHcv63I_9kUjQ/company-logo_400_400/0/1633651880135/tilden_park_capital_management_logo?e=1712793600&v=beta&t=9AprIeqBv_LPviDzfFkcWq1pRs3ptdj5bvndq3EOmyQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+            "title": "Managing Director",
+            "description": "- Head of non-agency residential mortgage-backed securities (RMBS) and asset-backed securities (ABS) trading,responsible for managing a $2.5bn proprietary trading book and a $1.5bn liquidity book\n\n- Adopt a fundamentally driven security selection framework with emphasis on downside P&L management via active portfolio construction and diversification\n\n- Managed a trading team of 7 on distressed securitized products and generate/execute proprietary trade ideas\n\n- Led the development of an integrated analytics and risk management platform that incorporated \n(i) loan level data across third-party providers; \n(ii) fundamental bond model analytics/cash flow engine; \n(iii) projecting resulting macro/micro scenario exposures at a portfolio level; \n(iv) automated performance updates and monitoring",
+            "location": "New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712793600&v=beta&t=h_T3rqSgsjtDu3TbQ2EsSad0EkuqQfeiY_5c6w24Yos"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+            "title": "Vice President",
+            "description": "- Primary subprime cash/derivatives trader, with experience managing risk in ABS CDOs and European MBS/ABS\n\n- Developed servicer algorithm to capture changing servicer\u2019s behavior which helped to avoid heavy losses in 2011\n\n- Part of the 4-person team that navigated the subprime crisis successfully and generated $3.4bn P&L in 2007",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712793600&v=beta&t=h_T3rqSgsjtDu3TbQ2EsSad0EkuqQfeiY_5c6w24Yos"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2005
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+            "title": "Analyst",
+            "description": "- Advised clients on the structuring and valuation of various structured credit products, including 9 CLO transactions totaling $3.1bn.  Responsibilities included client coverage, transaction modeling, documentation/execution, and rating agency, surety provider and investor interface in connection with asset securitization\n\n- Created and implemented the first GS \"Coupon Guaranteed Swap\" to optimize deal capital structure.  Design had been adopted in subsequent GS-led CLO transactions",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712793600&v=beta&t=h_T3rqSgsjtDu3TbQ2EsSad0EkuqQfeiY_5c6w24Yos"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+            "degree_name": "W21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": "Economics and Mathematics",
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "school": "Yale University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGGJUjGgSYcWQ/company-logo_400_400/0/1631385636084?e=1712793600&v=beta&t=dTkyKN2umzA8PRo_oRod0H0flBtJn-1rjNnOe5HqaxQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1999
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Groton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHubz404CnrjA/company-logo_400_400/0/1631359256069?e=1712793600&v=beta&t=BeHyye0oVyA-1hvSlRCzNcN-pfbLwWADbbHo5nI_cvU",
+            "grade": "summa cum laude",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1996
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "La Salle College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH6bUXm5FaywA/company-logo_400_400/0/1663590117434?e=1712793600&v=beta&t=61nfFjfnXXvzGmLJqerLns_x66Y4HZGREgiEcowpy0g",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Data Science",
+            "degree_name": null,
+            "school": "Metis",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGfVQ6iNGOE_A/company-logo_400_400/0/1631342344310?e=1712793600&v=beta&t=pawTZvFJ0eOcfuFOfkvnAatrQnNSib3G9-KU-G_MqZc",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "title": "Member Board Of Directors",
+            "cause": "EDUCATION",
+            "company": "Apex for Youth",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/apex-for-youth/",
+            "description": "Apex for Youth is a volunteer-based non-profit that serves at-risk youth in NYC.",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE2Yjqmgf2TrQ/company-logo_400_400/0/1663016750948/apex_for_youth_logo?e=1712793600&v=beta&t=yAIfTiqXAiTqO8naancLR4S5gopVgdUAkgOoD5Cwr0I"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Startup Arena Pitch Battle Regional Winner (Singapore)",
+            "license_number": null,
+            "display_source": "facebook.com",
+            "authority": null,
+            "url": "https://www.facebook.com/watch/?v=2369519060010931"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2006
+            },
+            "ends_at": null,
+            "name": "Chartered Financial Analyst (CFA)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "CFA Institute",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gilliantee",
+            "name": "Gillian Tee",
+            "summary": "CEO & Co-Founder at Homage - We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lloyd-heinrich-6175163",
+            "name": "Lloyd Heinrich",
+            "summary": "Building for the future of the planet",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stevemel",
+            "name": "Steve Melhuish",
+            "summary": "Founder, PropertyGuru I Sustainability Advocate & Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yuan-chun-ling-ba38b215",
+            "name": "Yuan Chun Ling",
+            "summary": "Strategy | Ventures | Account Management | Product Management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cherylkek",
+            "name": "Cheryl K.",
+            "summary": "Venture Analyst | Wavemaker Impact | Climate Tech | VC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/b-paul-santos-b18a052",
+            "name": "B. Paul Santos",
+            "summary": "Managing Partner at Wavemaker Partners",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/colintwh",
+            "name": "Colin Tan, MSc, MTech",
+            "summary": "Data Science/Engineering | Cloud computing, Python, R, Machine Learning | MTech Business Analytics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gayatri-bhatia-",
+            "name": "Gayatri Bhatia",
+            "summary": "Founder in residence @ Wavemaker Impact | Ex Founder CEO @ Saucery (acquired)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/clementtayws",
+            "name": "Clement Tay",
+            "summary": "ClimateTech | Venture Builder | Product & Growth",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hsinyaocheng",
+            "name": "Hsin Yao Cheng",
+            "summary": "Founder, Helios",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

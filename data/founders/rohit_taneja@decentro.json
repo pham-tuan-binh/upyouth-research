@@ -1,0 +1,377 @@
+{
+    "public_identifier": "rohit-taneja-69b30b13",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rohit-taneja-69b30b13/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221623Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e6434875d3ab9c18895aab5a0dc10d179be8783354661e6c633a4621b3650780",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rohit-taneja-69b30b13/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221623Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f383402c469f1cfaf42d2e82d7e62a9938cd926fa704f9a50616c187fd450f09",
+    "first_name": "Rohit",
+    "last_name": "Taneja",
+    "full_name": "Rohit Taneja",
+    "follower_count": 10748,
+    "occupation": "Founder & CEO at Decentro",
+    "headline": "Fintech & Banking | YC S20 | Founder @ Decentro",
+    "summary": "My aim in life is to contribute to the world by solving some of the toughest problems that exist. \n\nI believe that to run a technology venture, the culture needs to be set from the foundation and only a highly knowledgeable and passionate person can get it right. That is why I strive to be a polymath. \n\nThe domains that I am planning to work on (sequentially over the course of my lifetime) are - \n1. Digital payments (Making money sharing as seamless as sending a message) \n2. Block-chain (Helping people make sense of it and give more power to the businesses) \n3. Sustainability & Climate (All geographies should be able to support life in a sustainable manner)",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "First Cheque",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/firstcheque",
+            "title": "Venture Partner",
+            "description": "Investing in tech startups across the country with our partner network at FirstCheque. If you are in fin-tech / deep tech / SaaS, do ping.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQElp1gefS3LTw/company-logo_400_400/0/1630615428877/firstcheque_logo?e=1713398400&v=beta&t=x5mrMeML--pIB1a130A1pzoYudVc9ZrbQOc7iAjkJO0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Decentro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/decentro",
+            "title": "Founder & CEO",
+            "description": "Automated API platform for banking integrations in India, APAC, and soon beyond.\nReducing your integration time by ~10X and capital expenditure by ~80%.\nBacked by YCombinator and some great angels and venture funds.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFb049epmtXaA/company-logo_400_400/0/1704695715073/decentro_logo?e=1713398400&v=beta&t=viaRqLWWiZQR6BZS22_mtp5VqQW0x9dlR1ni4POmrH8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Atal Innovation Mission",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/atal-innovation-mission-official",
+            "title": "Mentor of Change",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHCrcVOALpr8Q/company-logo_400_400/0/1660623569938/atal_innovation_mission_official_logo?e=1713398400&v=beta&t=9G5ZinNfF9xrOLOaMhPamTMu0B0v6IWBMoLkBN55UzI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Wibmo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wibmo",
+            "title": "Director of Product Engineering",
+            "description": "Leading end to end product cycle, design and strategy for our SME focused financial product suite as well as our core payment gateway for banks across India and South East Asia. ",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEWti-CoZZsyg/company-logo_400_400/0/1673326898768/wibmo_logo?e=1713398400&v=beta&t=F--Vlc7dkJZ88zEmAYgv03CpzgntxLoWN97GxAVg1wU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2017
+            },
+            "company": "Mypoolin (Acquired in Nov'17) ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aprogift",
+            "title": "Co-Founder & Director",
+            "description": "Mypoolin (acquired by Wibmo, and then PayU) was India's first social payments platform and a payments infrastructure provider. We got acquired by Wibmo Inc in Feb 2018 in a cash and stock deal. \n\nAs a customer, you can send, receive, split & collect payments (instantly from any bank to any bank) with your friends & colleagues on a daily basis for movies & events, food & drinks, outing & travel as well as gifting & experiences.",
+            "location": "Gurgaon, India",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFd9LErzY1AEw/company-logo_400_400/0/1631393989406?e=1713398400&v=beta&t=TAM6cXhNNKD3icMslcDkP_j_XkuGiZ68i4OkLbEe0Rw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Sony",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sony",
+            "title": "Product Design Engineer",
+            "description": "* Prototype, design and testing of new electronic features for professional Camcorders\n* Planning and implementation in perspective of the whole product design lifecycle\n* Worked on consumer high-end devices as well as lens style cameras",
+            "location": "Tokyo, Japan",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeD2stV0OSRQ/company-logo_400_400/0/1630629120915/sony_logo?e=1713398400&v=beta&t=Kd-QXSxKcfK0rPAy5bmK3qerRRDO-HYV9LHfwuYHVA4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Sony",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sony",
+            "title": "Intern - Camcorder Division",
+            "description": "Added voice-control to microphone attachment module for professional camcorders and implemented the concept of hands-free operator",
+            "location": "Tokyo, Japan",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeD2stV0OSRQ/company-logo_400_400/0/1630629120915/sony_logo?e=1713398400&v=beta&t=Kd-QXSxKcfK0rPAy5bmK3qerRRDO-HYV9LHfwuYHVA4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "Institute for Competitiveness, India",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/institute-for-competitiveness-india",
+            "title": "Intern",
+            "description": "Worked in conjunction with 'Planning Commission' of India to create an index for competitiveness of states in the national manufacturing plan",
+            "location": "Gurgaon, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "Technocracy - IIT Delhi",
+            "company_linkedin_profile_url": null,
+            "title": "Coordinator",
+            "description": "Led a team of 60 members (5 teams) for a platform to promote research activities in the institute. Coordinated and supervised workshops with 200 students over 2 years in the domain of robotics.\n\nEnvisioned and created a society of electronics enthusiasts for active practice and discussions in under the name of 'Electronics Club - IIT Delhi'. Planned and harmonized content development besides linking 4 colleges for collaboration",
+            "location": "New Delhi Area, India",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Bachelor of Technology",
+            "school": "Indian Institute of Technology, Delhi",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/157264/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEtUTK1TcRY4w/company-logo_400_400/0/1630574361169/indian_institute_of_technology_delhi_logo?e=1713398400&v=beta&t=pHAqIhHgJ1LxKqSIuOwvYCWswGlTTxK_pHuSvMIihE0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Genie Des Informatiques",
+            "degree_name": "Exchange Semester",
+            "school": "Ecole des Mines d'Al\u00e8s",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/101604/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHBcDegtnq-CA/company-logo_400_400/0/1631373955709?e=1713398400&v=beta&t=0yIB7mkWkJwZTc0IKT9wKjXY0pQwnUUkPWVNc2ptQKE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Science, Social Sciences",
+            "degree_name": "10+2",
+            "school": "Modern Vidya Niketan School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "My Poolin-Enabling Community Transformation with Technology",
+            "publisher": "The Indian Economist",
+            "published_on": {
+                "day": 24,
+                "month": 10,
+                "year": 2014
+            },
+            "description": "We at Commerce Labs, have solved the problem for group-gifting, group travel and crowd funding with our partner sites and we felt the need to be addressed is much larger and in order to touch millions of people and their groups, we are launching our platform MyPoolin to make the journey between two extremes much more delightful with and for the ones, we care about. ",
+            "url": "http://theindianeconomist.com/my-poolin-enabling-community-transformation-with-technology/"
+        },
+        {
+            "name": "'Application Development for the Cloud'",
+            "publisher": "Unisys Cloud 20/20 V3",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": " Unisys Cloud 20/20 V3 contest - Research paper on 'Application Development for the Cloud' published (Finalist among the 6 selected)\n",
+            "url": "http://www.app3.unisys.com/common/about__unisys/Cloud20-20V3/index.html"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Scholarship Recipient - Indian Delegate HPAIR",
+            "issuer": "Harvard University",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "description": "Invited as delegate to Harvard Project for Asian and International Relations 2012 in Harvard University along with 180 representatives from over 40 nations. One of the 10 scholarship recipients. \n\n"
+        },
+        {
+            "title": "Honorable Recognition - Position Paper",
+            "issuer": "Hamburg University",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "description": "'Honorable Recognition' for Position Paper presented in Hamburg Model United Nations 2010 in Germany"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 5771,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/pawaniitd",
+            "name": "Pawan Gupta",
+            "summary": "CEO and Co-Founder Fashinza | Fashion Tech | Forbes 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vidushi-bhartari-38775b200",
+            "name": "Vidushi Bhartari",
+            "summary": "Undergraduate at IIT Madras | Bain & Co. True North Scholar",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pratikdaudkhane",
+            "name": "Pratik Daudkhane",
+            "summary": "Co-founder at Decentro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sakshamktiwari",
+            "name": "Saksham Tiwari",
+            "summary": "Student",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/siddharthsrivastav",
+            "name": "Siddharth Srivastava",
+            "summary": "Founder, Able Jobs. YC. Forbes 30 | Helping young PMs & Founders",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Sunil Abhilash R\n\n\n\nRohit's biggest strength is his innovation, and resourcefulness. During the various interactions I have had with him, Rohit always kept the bigger picture in mind, and always displayed a hunger to succeed. Rohit will certainly contribute, grow and excel in all the roles he will don, and all the companies he is going to work for in the future. \n\nGood luck, and keep in touch mate! ",
+        "Sankalp Sharma\n\n\n\nRohit has an eye for detail and has worked indefatigably on the project manufacturing competitiveness of states in India. He has a strong analytical ability (which helped) and was always very punctual in project deliverables. His work was flawless. In short, he was a vital asset for this project in the organization.  I would wish him best of luck for all his future endeavors."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Rohit Taneja",
+            "link": "https://in.linkedin.com/in/rohit-taneja-7410a29a",
+            "summary": "Director, Consumer Insights and Consumer Delight - Bombay Shaving Company and Bombae",
+            "location": "Delhi, India"
+        },
+        {
+            "name": "Rohit Taneja",
+            "link": "https://in.linkedin.com/in/rohit-taneja-78890457",
+            "summary": "Manager - Direct Tax at SoftwareONE India",
+            "location": "Gurugram"
+        },
+        {
+            "name": "ROHIT TANEJA",
+            "link": "https://in.linkedin.com/in/rohit-taneja31",
+            "summary": "Strategic Finance Manager at OYO",
+            "location": "Gurugram"
+        },
+        {
+            "name": "Rohit Taneja",
+            "link": "https://in.linkedin.com/in/rohit-taneja-76379286",
+            "summary": "Founder at Taneja Digital Solutions",
+            "location": "South Delhi"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQHg3OLdnVAr6w/group-logo_image-shrink_48x48/0/1545055816634?e=1706158800&v=beta&t=08w1NEBDtuFgcDwo_qOnD0QgU-tnb0BbCc4_2u2-D6k",
+            "name": "Financial Services Technical Leaders Forum",
+            "url": "https://www.linkedin.com/groups/8580275"
+        },
+        {
+            "profile_pic_url": null,
+            "name": "Jobs in AI, ML, Data Science, cyber security, NLP, cloud, Blockchain, AR, VR,  Startups & innovation",
+            "url": "https://www.linkedin.com/groups/10494331"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

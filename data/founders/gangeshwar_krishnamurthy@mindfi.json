@@ -1,0 +1,446 @@
+{
+    "public_identifier": "gangeshwark",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gangeshwark/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221544Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a7a08fd5f1cdabfb87cb76b438dd6ad5bfe8b62a1755e8ef273efa8f0ecb1ff8",
+    "background_cover_image_url": null,
+    "first_name": "Gangeshwar",
+    "last_name": "Krishnamurthy",
+    "full_name": "Gangeshwar Krishnamurthy",
+    "follower_count": 6471,
+    "occupation": "Co-Founder & CTO at MindFi",
+    "headline": "Co-Founder & CTO at MindFi (YC S21)",
+    "summary": "I head the engineering and product teams at MindFi. MindFi (YC S21) is a fast-growing technology mental health and wellness startup backed by prominent VCs & angels such as Y Combinator, Koh Boon Hwee, Zopim and Patsnap cofounders. Our products have been featured by Apple, BBC, Forbes, SCMP. \n\nWe are actively hiring, reach out if you are interested in working with a company on a mission to de-stigmatize mental health in Corporate Asia. \n\nIn my previous life, I was a research engineer in AI. My research focuses on understanding human emotions and sentiment through machine learning and natural language processing. I have worked with A*STAR Research Institutes, TL@NTUsg and Microsoft.\n\nProgram Chair: SSNLP 2020\nPC Member: MML Challenge (ACL 2018), IEEE Computational Intelligence Magazine\nReviewer: CICLing 2018, ICSW 2018\n\nVisit: https://gangeshwark.com/ to know more.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "MindFi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mindfi.co",
+            "title": "Co-Founder & CTO",
+            "description": "MindFi is a data-driven platform that helps employees reduce burnout and reduce stress.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE1BUIJZktY5g/company-logo_400_400/0/1631324695865?e=1711584000&v=beta&t=8dw_CC5ztfzMZd9ge91XAlaoAsSvXGumunyHlee9ejk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "MindFi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mindfi.co",
+            "title": "Head of Engineering",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE1BUIJZktY5g/company-logo_400_400/0/1631324695865?e=1711584000&v=beta&t=8dw_CC5ztfzMZd9ge91XAlaoAsSvXGumunyHlee9ejk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "A*STAR - Agency for Science, Technology and Research",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/astarsg",
+            "title": "Research Engineer",
+            "description": "Member of A*STAR AI Initiative and Social & Cognitive Computing Department at Institute of High Performance Computing (IHPC).\nWorking on various projects such as Causal Learning, Sentiment Analysis, Reading Comprehension, Question Answering and Commonsense Knowledgebase.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGjwGUhEevqqg/company-logo_400_400/0/1630591953679?e=1711584000&v=beta&t=I7ZyyDwepBXNdnX5sEXHsKJeNoD1gHVYxEzVAUrJaJA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2017
+            },
+            "company": "Nanyang Technological University, Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ntusg",
+            "title": "Research Assistant",
+            "description": "With the Temasek Labs@NTU (TL@NTU) under the supervision of Prof. Chng Eng Siong. Worked on Projects named \"Query by Example\" and \"Sentence Boundary Detection\".\nProject descriptions are given in projects section.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682216282/ntusg_logo?e=1711584000&v=beta&t=H6oQBNnIO6QAlWUK-3bE27bTAjqrJUiIg8lCI2yhRDw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+            "title": "Software Development Engineer (Data Science), Intern",
+            "description": "Charted the following projects with Universal Store Team on their advertisement platform, BingAds, to increase Return On Investment of advertisers.\nProject 1: Classification of Advertisements\n1. Analyzed the effect of classifying advertisements related to games into their sub-categories using an SQL-like language named Scope on Petabytes of data.\n\nProject 2: Advertisements based on user search history\n1. Devised a new approach to serving ads using Bing Search history of dominant demographic profiles for each game in Windows Store for billions of users.\n2. All code was reviewed, perfected, and pushed to production (on Petabytes of data).",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1711584000&v=beta&t=_bPVgqCWKFHywAVK-Xb-R2horYWdEug6TEGenSjm7Jg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Androzign",
+            "company_linkedin_profile_url": null,
+            "title": "Google Android Facilitator - Club Head",
+            "description": "Founded Android Club at BIT to foster a learning environment for Android Enthusiasts and Developers under the Mentorship and Sponsorship by Google India. \nClub name: Androzign",
+            "location": "Bangalore Institute of Technology, Bengaluru Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "Solarify.in",
+            "company_linkedin_profile_url": null,
+            "title": "Full-Stack Engineer, Intern",
+            "description": "1. Was responsible for designing and developing the architecture of web app of the firm.\n2. It calculates the savings of the customers if they used solar energy (for different states in India).\nBuilt using Python and deployed on Amazon Web Services.",
+            "location": "Bangaon Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2016
+            },
+            "company": "Grinions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grinions",
+            "title": "Full Stack Engineer",
+            "description": "1. Designed, developed & deployed alpha and beta version of the group-sourcing platform. It was the core product of the company.\n2. Built using Python and deployed on Google App Engine. Implemented RESTful API endpoints for modularity.\n3. Led the Engineering team at Grinions. Designed and developed the alpha and beta version of the core product.",
+            "location": "Bengaluru Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Shwavan Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shwavan-inc-",
+            "title": "CEO & Co-Founder",
+            "description": "I co-founded this start-up along with two of my like-minded friends to work towards our desire to become entrepreneurs and responsible for the overall performance of the company and coding domain in special. More involved in Web App and Mobile App development. Vision and Mission is to grow along with Shwavan Inc., to the highest level in the industry.\n\nWebsite: http://www.shwavan.com/",
+            "location": "Bangalore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGMf2gfVeIfvA/company-logo_400_400/0/1631333591382?e=1711584000&v=beta&t=dVl52A0Hm75icHHsM0GNS_IW2gw6a4W_FFamNnzGAeQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Summer 2021",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1711584000&v=beta&t=kdVNz_ntYcrdsxTNJ-uMgVWgk3Mu0QWfdL11obh6MPE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Engineering (B.Eng.)",
+            "school": "Bangalore Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15138868/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFzpCTD569Dgw/company-logo_400_400/0/1630525941172/bitsince1979_logo?e=1711584000&v=beta&t=87q51PPkbzMkDX1b4LEEoWDWxFgUlB2whYjfh3BkQOw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Science",
+            "degree_name": "Senior Secondary Education",
+            "school": "Kendriya Vidyalaya",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15106896/",
+            "description": "1. School Pupil Leader.\n2. Finalist in Student Web Pages Contest by ThinkQuest(Oracle) in the year 2007-08.\n3. Awarded The Winner in Future Space Scientist Program(Initiative Supported by ISRO) by ThinkQuest(Oracle) in the year 2008-09.\n4. Developed An E-Library app for ThinkQuest Application Development competition by Oracle.\n5. Kho-Kho Regional Player and Football Player.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFiB3Otc6s1Mw/company-logo_400_400/0/1631344654761?e=1711584000&v=beta&t=sz5mWgAbxNthUtqYO-ss-zcj5Tgz6cQIowddA0vK6GY",
+            "grade": null,
+            "activities_and_societies": "Web Programming, School Pupil Leader, Kho-Kho and Football player"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science and Engineering",
+            "degree_name": "Bachelor of Engineering (B.Eng.)",
+            "school": "Visvesvaraya Technological University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/8680105/",
+            "description": "College Name: Bangalore Institute of Technology",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEXLsH7UX9uMw/company-logo_400_400/0/1631303715236?e=1711584000&v=beta&t=Eg5a3g3ugOKhT2EhZmQAtpAj3aQxFCKCEiuZco9IOkY",
+            "grade": "Final year",
+            "activities_and_societies": "1. Member in BIT Google Student Club.\n2. Founded Android Club to develop a rich learning ambiance at Bangalore Institute of Technology for Android Enthusiasts and Developers. Club name: Androzign.\n3. Conducted zero-budget workshops on Java and Android.\n4. Gave tech talks on AI & ML"
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": null,
+            "org_name": "BIT IEEE - Bangalore",
+            "title": "Core Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": null,
+            "org_name": "BlrDroid",
+            "title": "Member",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "A Deep Learning Approach to Multimodal Deception Detection",
+            "publisher": "Springer LNCS",
+            "published_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "description": "Published at 19th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2018)",
+            "url": null
+        },
+        {
+            "name": "Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis",
+            "publisher": "NAACL 2018",
+            "published_on": null,
+            "description": "To appear at 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)",
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Best Technology User",
+            "issuer": "Kendriya Vidyalaya, MG Railway Colony",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "description": "Awarded as \u201cThe Best Technology User\u201d from my school Awarding Committee for possessing immense technical know-how. And for using them in my projects."
+        },
+        {
+            "title": "The Winner of Future Space Scientist Program",
+            "issuer": "ISRO & Oracle Corporation",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2009
+            },
+            "description": "Awarded The Winner of Future Space Scientist Program(Initiative Supported by ISRO) by ThinkQuest(Oracle Corp.) in the year 2008-09."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Android Application Development",
+            "number": ""
+        },
+        {
+            "name": "Automata Theory",
+            "number": ""
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Query by Example: Spoken Term Detection",
+            "description": "In this work, we have developed an end-to-end system for Spoken Term Detection in Audio. Query by Example is a task of searching for query audio within long corpus audio. The key aspect of QbE-STD is to enable multi-lingual and multi-speaker audio search. Due to variations in speaking rates, a non-linear fluctuation occurs in speech pattern versus time axis. To overcome this challenge we implemented a Dynamic Time Warping based algorithm called SPRING which is suitable to monitor streaming data for patterns. For feature representation, we investigated various features of an audio such as MFCC, Filter Bank, Bottleneck and found that Bottleneck features are stable to variations in the multi-speaker environment. The DTW-SPRING is performed on these features of both the query audio and corpus audio. The distance matrix computed by SPRING shows the occurrences of the query in the corpus. Figure on the project site shows the heatmap plot of the distance matrix calculated by SPRING for a corpus audio with four occurrences of the query audio. After this phase, we built a Web-based GUI for the users to interact with the system. The user can record or select the query audio from the system and search for its occurrences in the corpus audio. This system can be extended into an audio search engine by indexing multiple corpus files across clusters.",
+            "url": "https://github.com/gangeshwark/QbE_System"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Sentence Boundary Detection using Sequence to Sequence Learning",
+            "description": "In this work, we investigated a method of using Sequence to Sequence learning model to punctuate a sequence of unpunctuated text from Automatic Speech Recognition system. The aim of this work is to preserve the contextual meaning of a sequence of text which might be a spoken paragraph from ASR. This direction of SUD has not yet been explored in the previous works as far as our knowledge is concerned. It can be intuitively understood that the context of the previous sentence can improve the occurrence of the next sentence boundary. Towards this goal, we are currently investigating the use of sequence models, specifically sequence to sequence (Encoder-Decoder based) model. The dataset was prepared from the Wikipedia articles dump. Here, every paragraph is a sample in the dataset and is considered to be a sequence of text to be punctuated. The sequence length of a paragraph varies from 75 to 750. Around 1.3 million paragraphs were prepared and pre-processed for the task. In the first stage of the pre-processing, only text and periods(.) are retained and all other symbols and punctuations are removed. \n\nThe model is two layered on encoder side with bidirectional Long Short-Term Memory (LSTM) cells. And the decoder is two layered with attention mechanism and uses LSTM cells. The attention mechanism used in this experiment was \"bahdanau\" additive attention as introduced in this ICLR 2015 paper. Alternatively, we will be using the \"luong\" multiplicative attention for comparison. The vocab size was chosen to be 160k and input size of the model is 75. The word embeddings are used as features with dimension size of 300. Every paragraph is sent as a mini batch of input length 75 with variable batch size (depending on the number of words in that paragraph). We used the concept of Truncated BPTT to help the model in remembering the text seen in the previous batches.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Mentor - Android Development",
+            "cause": "Education",
+            "company": "Bangalore Institute of Technology (BIT)",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2024
+            },
+            "name": "All groups Responsible Conduct of Research",
+            "license_number": "39677130",
+            "display_source": "www.citiprogram.org",
+            "authority": "CITI Program",
+            "url": "https://www.citiprogram.org/verify/?wba8a464c-7eea-4a1e-8887-fda5d25ca713-39677130"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "name": "All groups Human Subjects Research",
+            "license_number": "39677128",
+            "display_source": "www.citiprogram.org",
+            "authority": "CITI Program",
+            "url": "https://www.citiprogram.org/verify/?wba8a464c-7eea-4a1e-8887-fda5d25ca713-39677130"
+        }
+    ],
+    "connections": 5571,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/joelleong",
+            "name": "Joel Leong",
+            "summary": "CMO & Co-Founder at Aspire | Fintech | Payments | Strategy | Commercial",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anitasadasivan",
+            "name": "Anita Jiawen Sadasivan",
+            "summary": "Co-Founder & Chief Wellbeing Officer at MindFi | B2B Mental Health & Wellbeing Solutions",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bensadeghi",
+            "name": "Ben Sadeghi",
+            "summary": "Web3 Builder",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saxenaalankar",
+            "name": "Alankar Saxena",
+            "summary": "Founder & CTO at Mudrex(YC-W19), We\u2019re hiring",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ulysse-mizrahi-3357a978",
+            "name": "Ulysse Mizrahi",
+            "summary": "Founder",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQEEIa8lDjk1nA/group-logo_image-shrink_48x48/0/1679059783386?e=1704286800&v=beta&t=t4sjzxLSmYY3a_j_ISy_hOH-gkRAahgZC3-27cf50J0",
+            "name": "Do Work Career Community",
+            "url": "https://www.linkedin.com/groups/1839561"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQEEPpd9reyExA/group-logo_image-shrink_400x400/0/1630999787090?e=1704286800&v=beta&t=EoC8ReFmEDk8B7kvqpahjChIaaS8iK57Z-ZMdJKckNI",
+            "name": "Critical Thinking for Decision Making - LinkedIn Learning",
+            "url": "https://www.linkedin.com/groups/13882003"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

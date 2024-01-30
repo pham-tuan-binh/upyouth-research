@@ -1,0 +1,226 @@
+{
+    "public_identifier": "henri-suhardja-1881a4109",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/henri-suhardja-1881a4109/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221526Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=af76a471ae59aa7e757fcb3039353f2e414ab21dabb32e12f334b97fad85c254",
+    "background_cover_image_url": null,
+    "first_name": "Henri",
+    "last_name": "Suhardja",
+    "full_name": "Henri Suhardja",
+    "follower_count": 4053,
+    "occupation": "CEO at Titipku",
+    "headline": "Co-founder & CEO Titipku (Instacart of Indonesia / YC S21)",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Titipku",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/titipku",
+            "title": "CEO",
+            "description": "PT Terang Bagi Bangsa",
+            "location": "Yogyakarta Area, Yogyakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGY_JvaXAvtkA/company-logo_400_400/0/1630669942286/titipku_logo?e=1712793600&v=beta&t=jRKmo9qpmmWg2lbBH-lSAEcQyZRW40djsbfr2PTnUlA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "CV Pangan Lokal Sejahtera",
+            "company_linkedin_profile_url": null,
+            "title": "Investor",
+            "description": null,
+            "location": "Yogyakarta Area, Yogyakarta, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Hiltons Dryer",
+            "company_linkedin_profile_url": null,
+            "title": "Business Owner",
+            "description": null,
+            "location": "Yogyakarta Area, Yogyakarta, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Personal Real Estate",
+            "company_linkedin_profile_url": null,
+            "title": "Property Broker",
+            "description": "I sold property with a total value more than 30 Billions IDR. I learn about how to become salesperson to executive buyer in Yogyakarta.",
+            "location": "Yogyakarta Area, Yogyakarta, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Bentang Pustaka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bentang-pustaka",
+            "title": "Book Author",
+            "description": "My first book is \u201cSeasoning Madventures\u201d.\nA biography of successful businessman in F&B, Mr Gunawan Wibisono, Founder & CEO Sumber Inti Pangan.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHppDNfG9G2Og/company-logo_400_400/0/1631320230199?e=1712793600&v=beta&t=FsimrgpP02UHsuNUGdYNigwA8W5xcLfMtX61cx7I2cs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": "Food Science and Technology",
+            "degree_name": "Bachelor of agriculture technology",
+            "school": "Universitas Gadjah Mada (UGM)",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15093608/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFbPfOc9lUBrA/company-logo_400_400/0/1631300328238?e=1712793600&v=beta&t=C9y8IF6V0B69JLj7fhJKBELzE4Nxu6ZYY77N9uEEYRw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "field_of_study": "Startup Ecosystem",
+            "degree_name": "Awardee (Australia Award)",
+            "school": "Flinders University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/16164/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH4Ri5OesCW0A/company-logo_400_400/0/1658099082273/flinders_university_logo?e=1712793600&v=beta&t=gUWXK6aOtSDE4R21MhJNPQW-GN8fZcz3Bl2UjhL1ZV4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "S21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 4049,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/felicia-lee-658ab21b",
+            "name": "Felicia Lee",
+            "summary": "Co-Founder at SASC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/williamtanuwijaya",
+            "name": "William Tanuwijaya",
+            "summary": "Co-founder & Co-Chairman at GoTo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/william-tanzania-a33950178",
+            "name": "William Tanzania",
+            "summary": "Pocket Nihongo - Founder & CEO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tan-samuel-43400332",
+            "name": "Tan Samuel",
+            "summary": "Faunder & CEO at PT LSA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dihqon-nadaamist-966873165",
+            "name": "Dihqon Nadaamist",
+            "summary": "Founder & CEO of Cleansheet (PT Cita Indonesia Bersih)\n",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQET4m3xEVN1xQ/group-logo_image-shrink_400x400/0/1631009599308?e=1705438800&v=beta&t=pR5yk2d1X9wJNWgPi-HgSdZktP0wZieRQfRuRgMYbdk",
+            "name": "Australia Awards Indonesia STA - Startup Ecosystem",
+            "url": "https://www.linkedin.com/groups/10525564"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQH9AG0tGitDbA/group-logo_image-shrink_48x48/0/1631001970335?e=1705438800&v=beta&t=mnrMrmyD0bPTl_qQ9TJKssBHKfzE1Dt9hvWyO7XiZ7A",
+            "name": "Australia - Indonesia Alumni Forum",
+            "url": "https://www.linkedin.com/groups/8490219"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,312 @@
+{
+    "public_identifier": "tranngocvan210",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tranngocvan210/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d26848a2ce78f1d4357819a902f7719a955e9b3c428fd847df0677a77c7a596b",
+    "first_name": "Van",
+    "last_name": "Tran",
+    "full_name": "Van Tran",
+    "follower_count": 2756,
+    "occupation": "Co-Founder, Chief Product Officer at Poko",
+    "headline": "Poko (YC W22) | HBS | Ex-Netflix & Bain",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": null,
+            "company": "JP Morgan Chase",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorganchase",
+            "title": "Summer Financial Analyst",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFN7ZGRjNcgeA/company-logo_400_400/0/1656681489601/jpmorganchase_logo?e=1712188800&v=beta&t=rJMmJwKffXpae6X8je2LOtIhESvr5JLaPJM4ecVo0Xg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": null,
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey",
+            "title": "Summer Market Analyst",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1712188800&v=beta&t=D0JabrOxEyj1TLOIf5m2Xh3FJ6eYNupv3dVXtX3VrOs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Senior Product Manager",
+            "description": "Developed a comprehensive product and expansion plan into a new market without Amazon presence.",
+            "location": "Greater Seattle Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1712188800&v=beta&t=YaOXTyuYA4mPaRrtBosXbcS4AOPzpicmCf32tVCpfjY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "company": "Poko",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pokoapp",
+            "title": "Co-Founder, Chief Product Officer",
+            "description": "Enable seamless fiat payment for Web3",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFrze8nFxQQow/company-logo_400_400/0/1665035532581/pokofund_logo?e=1712188800&v=beta&t=pFy0za7N9c9uXxYf6YtPwAD0DGVgdXf1nzW4dmnJB34"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Netflix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/netflix",
+            "title": "Head Strategy & Analysis SEA and ANZ; Co-lead Women@Netflix",
+            "description": "Lead growth strategy and analytics for Netflix in SEA and ANZ\n",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEVb0ZISWk8vQ/company-logo_400_400/0/1631355051964?e=1712188800&v=beta&t=ED3UKPUaq_uGuDrL9ID-WZ4Mc2WYGk4DxdK8QX48rQ0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Bain & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bain-and-company",
+            "title": "Consultant, Senior Associate Consultant, Associate Consulant",
+            "description": "Growth strategy:\n\u2022\tExpanded business of a regional retailer to online channel, add-on services and improved customer advocacy, led to profitability improvement of 5% and successful IPO in the subsequent year\n\u2022\tIdentified top 5 key markets to grow consumer business for a global dairy player, and rolled out key initiatives in Indonesia including increasing trade penetration, optimizing manufacturing footprint and reshaping product portfolio\n\nTurnaround strategy:\n\u2022\tManaged four workstreams including scenario planning, yard consolidation, procurement synergies, and organization rightsizing for a global oil & gas services player, led to a commitment of $200M+ cost savings\n\u2022\tAssessed current decline in performance and proposed actions in trade negotiation, promotion effectiveness and pricing strategy for a regional beverage company, realized $5.5M in annual cost saving\n\nPrivate Equity practice:\n\u2022\tConducted 9 commercial due diligences in consumer products, industrial goods, oil & gas, financial services and agriculture industries \n\u2022\tDesigned strategy and supported implementation to drive full potential growth in Malaysia for a leading snack player through in-store execution, SKUs rationalization, geography expansion and manufacturing optimization\n\u2022\tPerformed sector scanning and proposed recommendations that led to four acquisitions by a leading FMCG company in Vietnam\n\nM&A integration implementation:\n\u2022\tManaged post-merger integration process and facilitated decision making across 11 functions between an MNC and a leading F&B company in Vietnam with more than 6,000 employees\n\n",
+            "location": "Southeast Asia (Singapore, Indonesia, Malaysia, Thailand and Vietnam)",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF-f0ob5Mu0lQ/company-logo_400_400/0/1688168545058/bain_and_company_logo?e=1712188800&v=beta&t=dXDemVMO1QFwFuH_DGG920uo3X07CZmPVnEwPdtKSU8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Yale-NUS College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yale-nus-college",
+            "title": "Senior Manager, Special Projects",
+            "description": "\u2022\tPursued six-month externship at a joint-venture start-up college between Yale University and National University of Singapore\n\u2022\tWorked directly with President and Vice President of Administration on different initiatives in academic, infrastructure, policies and student life to build the first liberal art college in Singapore\n",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFRkwvp6kjbjw/company-logo_400_400/0/1631390754286?e=1712188800&v=beta&t=4Jkg6iz4iapDZYMn58M3aK-_IIB4Qq1rD0XHjlVnPcg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "school": "Harvard Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4867/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712188800&v=beta&t=42zlrWhNWX7KByHH7cmqSaZIF6sGKHYWQHnqkeX23VQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712188800&v=beta&t=EgLxewxI_BDrlASGfsfLrqJBxsMda6-ggIQPdbJ7pks",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5524/",
+            "description": "\u2022\tSingapore Ministry of Foreign Affairs merit-based full scholarship\n\u2022\tDean\u2019s list every semester\n",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712188800&v=beta&t=N7e9iM5HznG0TdgLkutKsCjQQBuw8GgOtMJaDkYlX5A",
+            "grade": "First Class Honors",
+            "activities_and_societies": "NUS Business Incubation of Global Organization; Culture Committee - King Edward VII Hall; NUS Business School Finance Club"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The University of British Columbia",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4373/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH415qlDBkj8Q/company-logo_400_400/0/1630608877834/universityofbc_logo?e=1712188800&v=beta&t=Lt3npMWoCPCJTRsChX51oTSSAjr8DAIB_677QHGrvHs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712188800&v=beta&t=EgLxewxI_BDrlASGfsfLrqJBxsMda6-ggIQPdbJ7pks",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 2559,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/kimnganvu",
+            "name": "Kim Ngan Vu",
+            "summary": "Co-founder & CEO at Aemi | We're hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/elizabethssim",
+            "name": "Elizabeth Sim",
+            "summary": "Director at EQT Partners | Harvard MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jy-tan",
+            "name": "JunYuan Tan",
+            "summary": "CEO & Co-founder at Homebase (YC W'21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vishal-sarin-2874472",
+            "name": "Vishal Sarin",
+            "summary": "Vice President at Netflix APAC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicolasramsay",
+            "name": "Nick Ramsay",
+            "summary": "CEO & founder at Circular | Making subscriptions the best way to access and experience tech | Angel Investor | Advisor | Entrepreneur",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Van Tran",
+            "link": "https://vn.linkedin.com/in/van-tran-12bb8298",
+            "summary": "Feb 2009- Present: Senior accountant at Danone VietNam-Multinational-Dumex, Aptamil brand",
+            "location": "Vietnam"
+        },
+        {
+            "name": "van tran",
+            "link": "https://www.linkedin.com/in/van-tran-04829117",
+            "summary": "CEO at Veritec Financial System Inc.",
+            "location": "United States"
+        },
+        {
+            "name": "Van Tran",
+            "link": "https://www.linkedin.com/in/van-tran-a361b5b",
+            "summary": "Student at Tarrant County College",
+            "location": "Mansfield, TX"
+        },
+        {
+            "name": "Van Tran",
+            "link": "https://www.linkedin.com/in/van-tran-9b02815",
+            "summary": "Family Physician at Dr Van Tran Family Practice",
+            "location": "Houston, TX"
+        },
+        {
+            "name": "Van Tran",
+            "link": "https://vn.linkedin.com/in/van-tran-83a35686",
+            "summary": "Finance and Accounting",
+            "location": "Vietnam"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQF2jG94l8q8tg/group-logo_image-shrink_48x48/0/1631426514794?e=1704654000&v=beta&t=O-dj7R8yybYLtkVIGB-RSQQP0fW23TCpSU9je_evyEE",
+            "name": "HBS MBA Class of 2018",
+            "url": "https://www.linkedin.com/groups/8507332"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQFFjVdfZVP8IQ/group-logo_image-shrink_48x48/0/1631419212707?e=1704654000&v=beta&t=ocGIhj2eCoNZ9dOU7hkELqC8BN7hamPpd--ENN_DsTg",
+            "name": "Bain & Company Global Alumni",
+            "url": "https://www.linkedin.com/groups/88297"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

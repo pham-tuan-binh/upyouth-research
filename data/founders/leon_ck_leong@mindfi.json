@@ -1,0 +1,293 @@
+{
+    "public_identifier": "leonck",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/leonck/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221545Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=83e480635cec5577b868f2b909bb603b52f3c14339ab7f192988ecc966a5adf8",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/leonck/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221545Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=760cdee0b56814c75e524f390d6668f419011e6cc131cbbcf6023be329ed0126",
+    "first_name": "Leon C.K.",
+    "last_name": "Leong",
+    "full_name": "Leon C.K. Leong",
+    "follower_count": null,
+    "occupation": "Chief Revenue Officer (CRO) at MindFi",
+    "headline": "Chief Revenue Officer, MindFi (YC S21)",
+    "summary": "Leon is a co-founder and the Chief Revenue Officer of MindFi, an employee assistance and wellbeing solutions provider backed by prestigious Silicon Valley based start-up accelerator, Y Combinator. After a lifelong struggle with weight and health problems, Leon embarked on a wellness journey and successfully lost over 100 kg (220 lbs) with the help of support groups and online communities. MindFi's community-first approach, inspired by Leon's journey and success, aims to transform traditional employee assistance programs (EAP) and wellbeing at the workplace. MindFi is proud to service enterprises and multi-national corporations including: KPMG, Kimberly-Clark, IHH Healthcare, Visa and Deutsche Bank.\n\nPrior to MindFi, Leon served as VP Business Development of TO THE NEW Digital, a digital services company that leverages technology, analytics, design and content for digital transformation. TO THE NEW acquired Techsailor, a boutique digital agency Leon co-founded. In his tenure with TO THE NEW Digital / Techsailor, Leon has successfully acquired a large clientele of major brands including: LG Electronics, MSIG, CapitaLand, Pernod Ricard, Mazda and CNBC. Before co-founding Techsailor, Leon had started a number of Internet companies including a social wish list website which was featured on Mashable.com, and WhoLivesNearYou.com, a social location-based community, which was successfully acquired privately.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "MindFi",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/mindfi.co",
+            "title": "Chief Revenue Officer (CRO)",
+            "description": "MindFi is a Corporate Wellness solution that focuses on \"Mind Fitness\" to build positive minds and productive workplaces. Our solution involves the MindFi self-care mobile app (rated 4.8/5) designed with simple guided mindfulness exercises, a focus timer and personal wellness assessment; targeted at busy professionals. Employers gain HR insights through our Corporate Wellness analytics which track employee well-being on research-based methodologies. Featured by Forbes, BBC, SCMP and Apple.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQE1BUIJZktY5g/company-logo_100_100/0/1519876003265?e=2147483647&v=beta&t=Sx7PmkPCqnGFRfTmRzAq8slnMPf1yI9XIfV2e3LRUrQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2016
+            },
+            "company": "TO THE NEW",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/tothenew",
+            "title": "VP Business Development",
+            "description": "TO THE NEW Digital is the result of the consolidation of 6 Digital Services agencies, including Techsailor, which were acquired by TO THE NEW Ventures, a leading internet products and services company. We are a born-in-digital company that uniquely combines the power of technology, analytics, creative and content for digital transformation. \n\nAs part of the consolidation, I've been appointed to lead our expansion into the United States. As VP of Business Development, I lead the Business Development Efforts for TO THE NEW Digital in the US West Coast regions. Notable US clientele include: Time Warner Cable, AMC Networks, Isobar and AdoptaPet.com",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGjUZbDAenjbw/company-logo_100_100/0/1519888826511?e=2147483647&v=beta&t=pN1ORt6BpMCCBb99efMYD3yT00XYQw3D1vCfNPWBpS4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Silicon Valley-China Wireless Technology Association",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/silicon-valley-china-wireless-technology-association",
+            "title": "Digital Marketing Adviser",
+            "description": "Silicon Valley-China Wireless Technology Association (SVCWireless), founded in 2000, is the leading non-profit, non-bias independent professional association bridging the technology industries between China and the United States. With 30+ alliance and 5000+ members, SVCWireless is an open association that promotes innovation, entrepreneurship, venture investment, and networking to benefit its members.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEARX0zIwfHIg/company-logo_100_100/0/1519933165903?e=2147483647&v=beta&t=onKukZQquYwSwwHcji_X9dppNFEKU3exqObfN_E2c-o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "Techsailor Group (Acquired by TO THE NEW)",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/techsailor",
+            "title": "VP Business Development",
+            "description": "Subsequent to the acquisition of Techsailor Group by TO THE NEW Ventures, I headed up Business Development for the Singapore and Malaysia markets. Major accounts acquired during this period include: CapitaLand, Mazda, British Council, KFC, Bosch, Pernod Ricard, Changi Airport, 4 Fingers Crispy Chicken\n\nIn 2015, Techsailor and the other service-based portfolio agencies under TO THE NEW Ventures, a leading internet products and services company, were consolidated into TO THE NEW Digital, which specializes in Technology, Digital Marketing, Content and Analytics.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2013
+            },
+            "company": "Techsailor Group (Acquired by TO THE NEW)",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/techsailor",
+            "title": "Business Relations Director",
+            "description": "I served as Client Relations Director of Techsailor, a boutique Social Media and Digital Marketing agency which I had co-founded in my final year of college. We grew the business to a team of 50 in Singapore, Malaysia and China. During this tenure, I'd acquired major clients including: National Trades Union Congress (NTUC), CNBC, MSIG Insurance, LG Electronics, Robinsons Group, NUS Business School, AIA Insurance and Singapore Airlines. \n\nTechsailor was successfully acquired by TO THE NEW Ventures, a leading internet products and services company, in July 2013 in their effort to expand in S.E. Asia and China. The acquisition was widely covered by the press including a feature on Yahoo Finance.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2007
+            },
+            "company": "Wisheus",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": "Wisheus.com is a Social Wishlist concept start-up that I've co-founded. We launched Wisheus.com in 2006 and were featured on A-list Social Blog, Mashable.com. Wisheus is presently defunct.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "WhoLivesNearYou.com",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": "WhoLivesNearYou.com is the first location-based Social Network in Singapore prior to Facebook and Friendster. At our peak, we recruited 260,000 users in Singapore and the website was privately acquired in 2006 by a Marketing company.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2006
+            },
+            "company": "eXS Inc.",
+            "company_linkedin_profile_url": null,
+            "title": "Wireless Network Engineer",
+            "description": "eXS Inc. was a wireless networking start-up based in the Silicon Valley. I served a 1-year internship stint at eXS Inc. in conjunction as part of the prestigious NUS Overseas Colleges program offered by the National University of Singapore (NUS) to small group of selected students. \n\nAs an Intern, my primary role as a Wireless Network Engineer was to test, debug and deploy Wireless Mesh Networks with custom routers engineered by eXS Inc. as well as develop and maintain a web-based Network Monitoring System (NMS).",
+            "location": "San Francisco Bay Area",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "field_of_study": "Computing (Communications and Media)",
+            "degree_name": "Bachelor (Honours)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/national-university-of-singapore/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_100_100/0/1519856127538?e=2147483647&v=beta&t=mloXf-YXc3BFczOTdh1QSWZYLn4dvqK81vY_0_Xae4I",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Management Science and Engineering",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/stanford-university/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378574?e=2147483647&v=beta&t=BP9U1odNwWU1wCofhJ8vUy4jJY8EYDqfhH_-wkFM8NY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Direct Marketing in the Social Age",
+            "publisher": "The Singapore Marketer",
+            "published_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "description": "Direct marketing is about delivering a clear, targeted message directly to the consumer to motivate a purchase. With the advent of social media, companies are no longer the ones dictating conversations. The modern consumer is a \u2018Social Customer\u2019; tech-savvy, spends increasing amounts of time on mobile, and expects not just to listen, but also to be heard and to engage directly with brands. Brands must react to the changing consumer landscape, and develop a \u2018Social IQ\u2019 for their interactions with the social customer.",
+            "url": null
+        },
+        {
+            "name": "Is Social Media ROI a myth?",
+            "publisher": "Marketing Interactive",
+            "published_on": {
+                "day": 21,
+                "month": 5,
+                "year": 2014
+            },
+            "description": "Today, we no longer question if social media is just a passing fad. Social media has reached a level of mainstream adoption and most marketers agree to its importance. Only 15% of the CMOs who responded to a survey by Forbes have seen a proven and quantifiable impact from their social media endeavours. Most marketers still find it challenging to measure ROI and justify their social media expenditure.",
+            "url": "http://www.marketing-interactive.com/features/mmsg_may2014_masterreport_chapter_to-new/"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Most Engaged Facebook Page in Singapore",
+            "issuer": "Campaign Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "description": "Ranked by Campaign Asia:\n1st: NTUC Membership (Managed by Techsailor)\n2nd: HTC Singapore\n3rd: SingTel\n4th: KFC Singapore\n5th: Pizza Hut Singapore"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Steen Puggaard\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Being a bit of a self-professed \"e-dinosaur\", I may have been easy to impress initially, but there is no doubt that Leon knows a heck of a lot about how to drive quality traffic to your website. Whether this is creatively or through Search Engine Optimisation/Marketing or how to measure the results, Leon and the team he has built at Techsailor have been instrumental to our business. Not in a \"cookie cutter\" way but rather by providing solutions that are tailored to our brand, business and customers. His profound knowledge and expertise are obvious, and his pleasant and style meant that we were always looking forward to our starting new projects with him since we started our collaboration more than one year ago.",
+        "Rex Huang\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Leon is my good buddy in Techsailor. Having been working with him for 3 years, I have always been impressed by his PR skills and patience to work with all our clients. Leon is very knowledgeable in the field of Social Media. Moreover, he has a keen mind to learn and a kind heart to share. He is the man who defines Techsailor\u2019s core products. Talk to him whenever you need, he will be able to formulate an excellent package of solutions for you to better engage your customers online."
+    ],
+    "activities": [
+        {
+            "title": "The race of skilling is critical to enable the Human and Machine collaboration. The ROI is the licence to operate in a digital world.",
+            "link": "https://sg.linkedin.com/posts/gast%C3%B3n-carri%C3%B3n-a95b816_the-race-of-skilling-is-critical-to-enable-activity-6985993826448379904-yIF7",
+            "activity_status": "Liked by Leon C.K. Leong"
+        },
+        {
+            "title": "Yes, today is World Mental Health Day, and yes, there is still much to do to improve the mental health of employees at the workplace! It\u2019s been\u2026",
+            "link": "https://sg.linkedin.com/posts/aurelia-ong_clock-your-happiness-campaign-mindfi-activity-6985181163678031872-fqpq",
+            "activity_status": "Liked by Leon C.K. Leong"
+        },
+        {
+            "title": "It was great chatting with Mid Day on the importance of customer retention and first party data for all brands going forward.",
+            "link": "https://sg.linkedin.com/posts/puneet-johar-b590b12_customer-retention-paramount-for-brands-activity-6986184389462294528-I_TE",
+            "activity_status": "Liked by Leon C.K. Leong"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Leon (C.K.) Leong",
+            "link": "https://sg.linkedin.com/in/leon-c-k-leong-a98006b",
+            "summary": "Director of Sales and Maketing & Web Consultant at Techsailor Group Pte. Ltd.",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Prioritising Workforce Mental Health and Wellbeing during COVID-19",
+            "link": "https://www.linkedin.com/pulse/prioritising-workforce-mental-health-wellbeing-during-leon-c-k-leong",
+            "published_date": {
+                "day": 11,
+                "month": 1,
+                "year": 2020
+            },
+            "author": "By Leon C.K. Leong",
+            "image_url": "https://media-exp1.licdn.com/dms/image/C5112AQH_eIMYiPuzWA/article-cover_image-shrink_180_320/0/1586570739633?e=2147483647&v=beta&t=CaAmCYRG1QB01n7tap_sl0sT-8_ezTqXgbS-7KNGuhA"
+        }
+    ],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

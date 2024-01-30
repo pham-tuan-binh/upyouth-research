@@ -1,0 +1,326 @@
+{
+    "public_identifier": "reinhart-hermanus-6a149115",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/reinhart-hermanus-6a149115/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221248Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3245203f7777467e683989a6a9a30500c8bff94b549419bb10e2b784d6f665f7",
+    "background_cover_image_url": null,
+    "first_name": "Reinhart",
+    "last_name": "Hermanus",
+    "full_name": "Reinhart Hermanus",
+    "follower_count": 2246,
+    "occupation": "Co-Founder & CEO at Finnix",
+    "headline": "Co-Founder & CEO - Finnix (YC W22)",
+    "summary": "Vision: To bring the most positive impact to the society.\n\nMission: Leverage technology and innovations to provide the basic needs of people (education, finance, housing, etc).\n\nTalk to me about anything related to startup, education, economy, media, people, real estate. Would love to connect with new people and explore anything new so please connect and drop me a message if we have anything in common!",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Finnix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finnix-id/",
+            "title": "Co-Founder & CEO",
+            "description": "Financial technology services to help Indonesian creative entrepreneurs.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEGQcMPEzZvZw/company-logo_400_400/0/1673005672832?e=1712793600&v=beta&t=Np_AV3x7bLUD43Xqhh_5ERMTkqpccRxRDW3Gw8xpTnM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Ikatan Alumni Tim Olimpiade Komputer Indonesia (IA TOKI)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ia-toki/",
+            "title": "President",
+            "description": "IA TOKI is the alumni association of the Indonesian informatics olympiad team, consists of former high school students that are part of the Indonesian team in preparation for the International Olympiad in Informatics (IOI)",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFHJw4Q7IeV9g/company-logo_400_400/0/1631328697003?e=1712793600&v=beta&t=vA8OCKEP3Z6KBQ8HSmvQjl6J3zdNRtVk0NP0lFoHE9I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2021
+            },
+            "company": "Bareksa.com (PT. Bareksa Portal Investasi)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bareksacom/",
+            "title": "Chief Product Officer",
+            "description": "Bareksa is the first and the largest online mutual fund marketplace in Indonesia, aiming to offer the best investment experience for both retail and institutional investors.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHfdnC6t7fk8Q/company-logo_400_400/0/1649730110848/bareksacom_logo?e=1712793600&v=beta&t=bldJN52-s6u-eWNfaMMOjwoA4-o79i0Qj6hg7BSKe-w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Senior Product Manager",
+            "description": "Building lending product & services in OVO, the largest mobile payment platform in Indonesia.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2019
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Director of Engineering (Taralite)",
+            "description": "Taralite is a leading P2P lending startup for e-commerce merchants. Acquired by OVO in Feb 2019.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Korzen",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/korzen/",
+            "title": "Co-Founder",
+            "description": "Building a powerful and customizable cloud based integrated business software for retail, distribution and manufacturing businesses in Indonesia.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEC6Ckz-6dqpg/company-logo_400_400/0/1631315385855?e=1712793600&v=beta&t=gBqFN97yYbWiOCDdub2xZny4ToMMsdWYPu7WLITFx2k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Addepar",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/addepar/",
+            "title": "Product Engineer",
+            "description": "Addepar provides software for wealth management firms to manage complex investment portfolios and create instant reports for their clients.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFCyv6tjvy-Zw/company-logo_400_400/0/1674761909215/addepar_logo?e=1712793600&v=beta&t=Pg0-OjWjZGNGb4XHySzFE-XHPZ13IzdVebQLqymemyQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook/",
+            "title": "Software Engineering Intern",
+            "description": null,
+            "location": "Menlo Park, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2013
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook/",
+            "title": "Software Engineering Intern",
+            "description": null,
+            "location": "Menlo Park, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2023
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Nexford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGLM9fDMy-AFw/company-logo_400_400/0/1630501247189/nexforduniversity_logo?e=1712793600&v=beta&t=g1giXC1duPo7J8H8TOmX681Tie66COZn4kHQpOkKKdA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Undergraduate",
+            "school": "BINUS University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_400_400/0/1630634861276/universitas_bina_nusantara_logo?e=1712793600&v=beta&t=l5hFpxpmUv82MX2ORQVv4SKnRsWWtzwfrIz59e0HBzU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Kujawab",
+            "description": "Kujawab is a place to discuss Indonesian olympiad problems.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": null,
+            "name": "The Global Financial Crisis",
+            "license_number": "EPDJSK8AE545",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/EPDJSK8AE545"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/philipmoniaga",
+            "name": "Philip M.",
+            "summary": "Co-Founder - CTO Finnix (YC W22) | ex Bloomberg Booking.com Carousell Ondeck Fellow",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/edowindratno",
+            "name": "Edo Windratno",
+            "summary": "CEO at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadiaamalia",
+            "name": "Nadia Amalia",
+            "summary": "Co-Founder at Fintelite (Formerly Sribuu) | Forbes 30 under 30 | MIT | Financial Data Automation, AI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadia-fadhila-alatas-patompo-b9ba4675",
+            "name": "Nadia Fadhila Alatas Patompo",
+            "summary": "Co-Founder at Fintelite",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mfajark",
+            "name": "Fajar Kuntoro",
+            "summary": "Co Founder - CTO @ PINA Indonesia | Building Future Finance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chandni-chainani",
+            "name": "Chandni Chainani",
+            "summary": "Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alifjafar",
+            "name": "Alif Jafar Fatkhurrohman",
+            "summary": "Co-Founder & CTO at UpBanx (YC W22) | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ivan-darmawan-850887b1",
+            "name": "Ivan Darmawan",
+            "summary": "Co-Founder at BAKOOL | Y Combinator W22",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

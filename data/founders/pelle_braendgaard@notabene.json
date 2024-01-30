@@ -1,0 +1,308 @@
+{
+    "public_identifier": "pelleb",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/pelleb/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f5ca2a8c0141781919558c3259e527e1bd2ed5d1d77ec646119e43347e13c00",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/pelleb/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=78d6abeaa0b868142b9daec4ba644dcf6a9054d99ca8dae11b1e92143bd58d41",
+    "first_name": "Pelle",
+    "last_name": "Br\u00e6ndgaard",
+    "full_name": "Pelle Br\u00e6ndgaard",
+    "follower_count": 4841,
+    "occupation": "Chief Executive Officer at Notabene",
+    "headline": "CEO of Notabene (YC S20) - hiring in tech and ops. 20 years of Crypto/ID/Fintech.  Co-founded uPort and Kipochi. Ex. ConsenSys, Doximity, and AltaVista.",
+    "summary": "Blockchains, cryptocurrencies, and other shared ledger technologies are changing the world's financial infrastructure for the better. Financial regulators are now requiring the same level of compliance with anti-money laundering laws as traditional institutions have done.\n\nComplying can be difficult for companies who haven't had to deal with this in the past but is a sign that the technology is maturing and is proving itself.\n\nI have always had a strong interest in financial innovation and believe it is a precursor for real financial inclusion. I have worked in the field for more than 20 years and am really excited by what I believe will happen in the next five years.\n\nMy team at Notabene is bringing our experience in this field as well as our prior work in decentralized identity systems to allow the next generation of financial companies (and smart established ones) to manage regulatory risk.",
+    "country": "CH",
+    "country_full_name": "Switzerland",
+    "city": "Greater Zurich Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Notabene",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/notabene-id/",
+            "title": "Chief Executive Officer",
+            "description": null,
+            "location": "Zug, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFjA2_JR3GX7A/company-logo_400_400/0/1630462390910/notabene_id_logo?e=1712188800&v=beta&t=ItKTM3h5bqB9nSW-7HS_oWG2rsh9pjsLKCTWo3pBaPc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "ConsenSys",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/consensys-software-inc/",
+            "title": "uPort Technical Lead",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE3hYT2QCBRzw/company-logo_400_400/0/1687864720039/consensys_software_inc_logo?e=1712188800&v=beta&t=L58OulPpVU6Nvu5Wxez4pbke6lXC9v7wc07Gx37hSlM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "uPort",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uport/",
+            "title": "Chief Technology Officer",
+            "description": "We are working on the worlds first identity platform that is controlled by the users themselves through an easy to use mobile app. Businesses from banks to small developers can easily ask users who they are and help users verify who they are to third parties. In addition since uport operates on the Ethereum blockchain, regular users can for the first time interact securely with Ethereum smart contracts and dapps.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEUo7DsJTPEpw/company-logo_400_400/0/1630570189330/uport_logo?e=1712188800&v=beta&t=qwXEltLmHr34YCBhD7AiVoH5F7vviAB60ULw-Yfz-kM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Raise",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/raise-com/",
+            "title": "Blockchain Consultant",
+            "description": "Clojure and Solidity coding plus security and blockchain advising",
+            "location": "Greater Chicago Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHKSbJcbIIrGg/company-logo_400_400/0/1699643893866/raise_com_logo?e=1712188800&v=beta&t=3l1SjKiAKTZWCvPGfcj-myMyuNuFVbcSpqje4xmcJQQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Mondome",
+            "company_linkedin_profile_url": null,
+            "title": "Co Founder",
+            "description": "Connecting bitcoin exchanges for remittance purposes",
+            "location": "Managua",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Kipochi Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Created the first mobile bitcoin wallet with a focus on Africa",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2013
+            },
+            "company": "Economi.co",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "Realtime financial analytics dashboard for on-line startups and their investors.",
+            "location": "Miami/Fort Lauderdale Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "NASDAQ Private Market",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nasdaq-private-market/",
+            "title": "Consultant",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFdLjwTEpvIGg/company-logo_400_400/0/1647011422790/nasdaq_private_market_logo?e=1712188800&v=beta&t=TASIJvdfEgiUMGHYF_Gq3R2eFBkbvJ0IHBoJBYzcOOI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Trumaker",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trumaker/",
+            "title": "Senior Software Engineer",
+            "description": "Rails, React and refactoring large legacy app",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFoFj8xZkwLIw/company-logo_400_400/0/1631330346384?e=1712188800&v=beta&t=DceCASIZFUnh-ntIAnQPfa-Ih-ayfRX2iaNCBqMtpXA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2013
+            },
+            "company": "Doximity",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/doximity/",
+            "title": "Consultant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQER4AZ96xuSYQ/company-logo_400_400/0/1630606527133/doximity_logo?e=1712188800&v=beta&t=D-RB9XG067lDBPf2ExDnomAf4MgAtc-wXaoway2FcJg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1995
+            },
+            "field_of_study": "Computer Systems",
+            "degree_name": "BSc",
+            "school": "Cardiff University / Prifysgol Caerdydd",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF1733-I6Nn4w/company-logo_400_400/0/1631303614001?e=1712188800&v=beta&t=YXkBXH-ah1w56UHHIVEvk_hvcItN_5Yial6Eypo-NWU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Danish",
+        "English",
+        "German",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ajunge",
+            "name": "Andres Junge",
+            "summary": "Co-Founder and CTO at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lukas-schor",
+            "name": "Lukas Schor",
+            "summary": "Co-founder @ Safe",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ania-lipinska",
+            "name": "Ania Lipinska",
+            "summary": "Co-founder & Chief Product Officer at Notabene (YCS20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/myles-milston",
+            "name": "Myles Milston",
+            "summary": "CEO & Co-founder at Globacap",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ralf-kubli-644393",
+            "name": "Ralf Kubli",
+            "summary": "Building the Decentralized Economy",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/magdielarivas",
+            "name": "Magdiela Rivas N\u00fa\u00f1ez",
+            "summary": "Global Partnerships Leader | Crypto/Web3 Business Development and Marketing Professional",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anastasiia-kostrub",
+            "name": "Anastasiia K.",
+            "summary": "Senior Poduct Manager | web3 enthusiast | launcher \ud83d\ude80",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vishal-sacheendran-a5a60139",
+            "name": "Vishal Sacheendran",
+            "summary": "Head of Regional Markets",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gainzirillo",
+            "name": "Gabrielle Inzirillo",
+            "summary": "Head of Ecosystem Development, Financial Services Regulatory Authority at Abu Dhabi Global Market",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/miriamkiwan",
+            "name": "Miriam  Kiwan",
+            "summary": "Circle| ex-ADGM| ex-DIFC| Co-Chair Digital Assets @MFTA| Venture Partner| Digital Assets| Tech Ecosystem Development| Strategic Partnerships",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

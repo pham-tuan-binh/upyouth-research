@@ -1,0 +1,421 @@
+{
+    "public_identifier": "andrea-baronchelli-0979a541",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andrea-baronchelli-0979a541/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221210Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f22a9b192748c58d1bac13ed24bd1fb2337802896ef45c1474d020640496983",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andrea-baronchelli-0979a541/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221210Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f325682d9bce881297128bc2dd82955ff9cce12daeb717830bcdeabd9c536b79",
+    "first_name": "Andrea",
+    "last_name": "Baronchelli",
+    "full_name": "Andrea Baronchelli",
+    "follower_count": 11555,
+    "occupation": "Co-Founder & CEO at Aspire",
+    "headline": "Co-Founder & CEO at Aspire",
+    "summary": "Y-Combinator & Rocket Internet Alum. Entrepreneur at heart. I love finding solutions to challenging problems, getting things done and managing hyper growth products.\n\nCEO and Co-Founder of Aspire the all-in-one finance operating system for SEA businesses\n\nPreviously EVP and part of Lazada (Alibaba Group) founding team.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Aspire",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aspireapp-global/",
+            "title": "Co-Founder & CEO",
+            "description": "Y-Combinator backed company. Building the all-in-one finance operating system for modern businesses in SEA & APAC.\n\nASPIRE is a technology organisation that serves businesses with convenient and modern financial tools. We started Aspire with one thing in mind - serve businesses with speed and simplicity. No long waits, paperwork, or hidden fees - so business owners and finance professionals could concentrate on growing their businesses.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw4Jpn0midiA/company-logo_400_400/0/1597287478522/aspire_sea_logo?e=1707350400&v=beta&t=yevllrS0mzo2dMSZcfFqXzK4YlhxjYLZ07_wv3nhtik"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Alibaba Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alibaba-group/",
+            "title": "EVP Lazada (Alibaba Group)",
+            "description": "Part of core tech and product transformation taskforce leading Lazada and Alibaba platforms integration",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFm7hV8es67ZQ/company-logo_400_400/0/1662629305153/alibaba_group_logo?e=1707350400&v=beta&t=ikAyGVQp3zoR2rWpRMwO2VQHkJMh6sKiocHdCJBqhZA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Lazada Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lazada/",
+            "title": "Chief Marketing Officer",
+            "description": "Managing all functional teams within marketing, including Performance Marketing, Branding & Communication, Strategic Partnerships, Merchandising & Campaigns to establish Lazada as the leader in the e-commerce industry in SEA\n\u2022\tResponsible for defining strategy, deploying marketing budget and setting KPI for the departments\n\u2022\tResponsible for the development of Lazada brand and all its aspects\n\u2022\tDesign, test and implement innovative strategies to acquire and retain customers",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFLWq6zwV6npw/company-logo_400_400/0/1609837860144/lazada_logo?e=1707350400&v=beta&t=b1-4KmQF8EVU6OvDOKnglLG35nRrzHWSfkLdw0UtAiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Lazada Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lazada/",
+            "title": "Chief Executive Officer",
+            "description": "\u2022 CEO - Lamido Vietnam (Lazada)\n\u2022 Responsible for a team of 100+ people, in rapid expansion\n\u2022 Directly responsible for the P&L and growth targets\nResponsible for onboarding, incubating, managing new and existing merchants on Lazada\n\u2022 Design, test and implement processes to manage the whole merchants life-cycle\n\u2022 Define key strategic goals and KPIs to measure department effectiveness",
+            "location": "Ho chi Minh",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFLWq6zwV6npw/company-logo_400_400/0/1609837860144/lazada_logo?e=1707350400&v=beta&t=b1-4KmQF8EVU6OvDOKnglLG35nRrzHWSfkLdw0UtAiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Lazada Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lazada/",
+            "title": "Regional Management / Founding Team",
+            "description": "Category Management - Home\n\u2022 Responsible for the P&L of Lazada Home Appliance category across SEA\n\u2022 Plan and execute effective sourcing / pricing / content / marketing actions to drive sales\n\nCo-founder - HK Crossborder Hub\n\u2022 Initial venture set-up & recruiting, structuring of Sourcing/Ops/Finance/BI processes and SOPs\n\u2022 Head of Finance/BI/Ops department. Manage in-house brand development",
+            "location": "Hong Kong / Thailand / Vietnam / Malaysia / Indonesia / Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFLWq6zwV6npw/company-logo_400_400/0/1609837860144/lazada_logo?e=1707350400&v=beta&t=b1-4KmQF8EVU6OvDOKnglLG35nRrzHWSfkLdw0UtAiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2014
+            },
+            "company": "Rocket Internet SE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rocket-internet-se/",
+            "title": "Global Venture Development",
+            "description": "Involved in early stage set up of several rocket internet initiatives including: lazada, lamido, rocket internet global sourcing hub. Part of Lazada Founding Team.",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHXANtSz2TYzQ/company-logo_400_400/0/1631403106850?e=1707350400&v=beta&t=Uvp8WoXRXYVdyAe5cjnH01yDSdwcFl8Tw9XFq0JfmcM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Jefferies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jefferies/",
+            "title": "Investment Banking Analyst, Consumer Goods & Retail",
+            "description": "\u2022 Sell-side/Buy-side M&A pitch' books preparation.\n\u2022 Transactional and trading comparables \u201cspreading\u201d, DCF valuation modelling\n\u2022 Conducted extensive industry and company specific research",
+            "location": "London (UK)",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE-rqJlT3FBSA/company-logo_400_400/0/1688145525573/jefferies_logo?e=1707350400&v=beta&t=81ireh39uxMUcVQgWT1AmnsN7D7XvYGJ1tY_twR8M54"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "Societe Generale",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/societe-generale/",
+            "title": "Investment Banking Analyst, Oil & Gas",
+            "description": "\u2022 Industry coverage, DCF valuation modelling\n\u2022 Acquisition capacity, accretion/dilution modelling\n\u2022 Extensive contribution in a project to identify potential Oil & Gas opportunities in Africa",
+            "location": "London (UK)",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEGbq0lpQiZXA/company-logo_400_400/0/1630637825727/societe_generale_logo?e=1707350400&v=beta&t=pAGInd0IOsMoFCHumZ0LXWwQ_9E1GBUzQrJPscDQEok"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2010
+            },
+            "company": "LGT Capital Partners",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/followlgt/",
+            "title": "Private Equity Analyst, European Buyouts",
+            "description": "\u2022\tDue-diligence of several primary, secondary and co-investment opportunities.\n\u2022\tUnrealized Valuation and Track Record Analysis.\n\u2022\tPrivate Equity Funds comparison and competitor landscape analysis.",
+            "location": "Zurich (Switzerland)",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGcPOPbU8UFLw/company-logo_400_400/0/1526655002092/followlgt_logo?e=1707350400&v=beta&t=SzdTLkNbz1EBzV-Vt6jC0XxICgxiYy1nKxO1S2zft7c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2010
+            },
+            "company": "TECHO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/techo-teto/",
+            "title": "Consultant - Microcredit & Business Development",
+            "description": "\u2022 Early-stage business plan development and implementation\n\u2022 Leadership role in assigned group of borrowers, enhancement of communication and social skills\n\u2022 Dealt with local entrepreneurs, development of their mgmt skills through group sessions",
+            "location": "Buenos Aires (Argentina) / Italy (Milan)",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGcHywg5JZvmQ/company-logo_400_400/0/1651064916942/techo_teto_logo?e=1707350400&v=beta&t=-uS88my408XNEqqzPabfSyWzQ5CHxA7sD51QjG5bufc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Banking, Corporate, Finance, and Securities Law",
+            "degree_name": "MSc in Quantitative Finance + BSc in Business Administration",
+            "school": "Universit\u00e0 Bocconi",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGoWODFvonTQ/company-logo_400_400/0/1656918903301/universita_bocconi_logo?e=1707350400&v=beta&t=RAn4SBlYh7VGfsTQdaYA9j-C-9AU6i9SOlx8OdTgecE",
+            "grade": "110 Cum Laude (TOP 1%)",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Master in Business Administration",
+            "degree_name": "MBA",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1707350400&v=beta&t=oryOsL3KljBwTN5hRQXrIhBKf0kW58diDHnsXeyj4dU",
+            "grade": "4.00 (TOP 1%)",
+            "activities_and_societies": "Member of NUS Finance Club."
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English",
+        "French",
+        "Italian",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Lombardia Net Generation",
+            "issuer": "Regione Lombardia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "description": "\u20ac24,000 prize - \"Net generation\" competition - Gloovfood project"
+        },
+        {
+            "title": "3rd place Microsoft Development Award",
+            "issuer": "Microsoft Italia",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "description": "Startup Weekend - Brescia 2012"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2012
+            },
+            "title": "Tableblind - Business Developer",
+            "description": "TableBlind is the first social \"meating\" app to meet people at your table!\n",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "title": "Lenovo Going Global - The Challenge Ahead",
+            "description": "The report studies Lenovo acquisition of IBM under a strategic and operative prospective and analyses the implications for the core business. The main sections are focused on: Operational, Turnover and Cultural Impact",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "title": "Water & Wastewater Treatment in China - Market Opportunity and Entry Strategy for Foreign Firms",
+            "description": "In this report we have attempted to analyze how specific Chinese government policy\nactions revolving around water and wastewater (W&WW) treatment are creating a huge\nmarket opportunity (US$6.5 billion by 2016) for wastewater treatment firms. The\ngovernment has taken a targeted approach to solve the problem of water pollution and\nenvironmental degradation by encouraging overseas participation and has placed\ngreater emphasis on quality of water. Particularly, given that domestic Chinese firms\nlack the experience, scale and technological knowhow to treat the wastewater to meet\nChina\u2019s water quality standard and cater to the entire market, we explore how foreign\ncompanies in the wastewater treatment industry stand to gain by pouncing onto this\nmarket opportunity. We analyze the various structures and routes for these firms to\nenter the Chinese market and we give our recommendation on which one to choose and\non how to establish a successful business model.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/fnandes",
+            "name": "Ferdy Nandes",
+            "summary": "Experienced Commercial Leader",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/miltonnghiem",
+            "name": "Milton Nghiem",
+            "summary": "Senior Talent Acquisition Partner @ Aspire | Driving Talent Acquisition Success",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alyssa-aw",
+            "name": "Alyssa Aw",
+            "summary": "Lead, People Operations & Experience (Regional) at Aspire",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/astri-dewayani-2a678838",
+            "name": "Astri Dewayani",
+            "summary": "Regional Talent Acquisition Manager | Aspire | Reinventing Finance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/thomasjeng",
+            "name": "Thomas Jeng",
+            "summary": "GM @ Aspire | ex-BCG | ex-500 Startups",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/valenciakwek",
+            "name": "Valencia Kwek",
+            "summary": "Talent Acquisition at Aspire | Ex-TikTok, Shopee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tarini-ponniah-cfa-cams-7a78714",
+            "name": "Tarini Ponniah, CFA, CAMS",
+            "summary": "Senior Director & APAC Head of Compliance, Instarem | Nium",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/allen-jaeyoon-lee-32b30339",
+            "name": "Allen Jaeyoon Lee",
+            "summary": "We're hiring! Head of People | Startup Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alvin-ip-ting-wah",
+            "name": "Alvin Ip",
+            "summary": "Chief Financial Officer at Aspire | We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/caritan",
+            "name": "Cari Tan",
+            "summary": "Regional Talent Acquisition Manager | IHRP-CP | B2B FinTech",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Andrea Baronchelli",
+            "link": "https://it.linkedin.com/in/andreabaronchelli1997",
+            "summary": "Strategy& | Italian Winner CFA Challenge 2021 | Politecnico di Milano",
+            "location": "Brescia"
+        },
+        {
+            "name": "Andrea Baronchelli",
+            "link": "https://uk.linkedin.com/in/baronka",
+            "summary": null,
+            "location": "London"
+        },
+        {
+            "name": "Andrea Baronchelli",
+            "link": "https://it.linkedin.com/in/andrea-baronchelli-62346322",
+            "summary": "Proprietario, Foxilfree Srl",
+            "location": "Mantua"
+        },
+        {
+            "name": "Andrea Baronchelli",
+            "link": "https://it.linkedin.com/in/andreabaronchelli",
+            "summary": "Head Of Risk Management & Deputy CRO presso BNP Paribas Leasing Solutions",
+            "location": "Milan"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

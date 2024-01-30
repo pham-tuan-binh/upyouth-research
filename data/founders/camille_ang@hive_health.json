@@ -1,0 +1,549 @@
+{
+    "public_identifier": "camille-ang-19224647",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/camille-ang-19224647/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221558Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e2599ee1cfacbcf69aa4ac99f177378df5c66ab53a1e6b01bcfd9f036150420a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/camille-ang-19224647/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221558Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd73b54e17a7bd0757ea50464a6460f47aea4fae31b8f3efba8a0709d5349bc2",
+    "first_name": "Camille",
+    "last_name": "Ang",
+    "full_name": "Camille Ang",
+    "follower_count": null,
+    "occupation": "CEO & Co-Founder at Hive Health",
+    "headline": "CEO & Co-Founder at Hive Health (YC S21) | Harvard MBA & MPA/ID",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Hive Health",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/our-hive-health",
+            "title": "CEO & Co-Founder",
+            "description": "Digital health insurance for SMBs. Y Combinator S21.",
+            "location": "Manila, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHuuhoIe6r_pw/company-logo_100_100/0/1625765686615?e=2147483647&v=beta&t=3JKXpqyqKj_iDA64IkVmlkg3zvpgg1BOzpZDaoS1efU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Rwanda Development Board (RDB)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rdb-rwanda-development-board",
+            "title": "Graduate Intern - Deal Accelerator Division",
+            "description": null,
+            "location": "Rwanda",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEUt9xcaw5LiA/company-logo_100_100/0/1543326080899?e=2147483647&v=beta&t=Ij14KIfUytkqZ0S4atk3ujDNKA4l4uZXJyqCb5VX1rk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "company": "Knife Capital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/knifecap",
+            "title": "Summer Associate",
+            "description": null,
+            "location": "South Africa",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHJat4sXoVvcw/company-logo_100_100/0/1519909382790?e=2147483647&v=beta&t=3xMVTzPMcCwBhzc1okC_YbHZABIL6My8or8mXxxvb2I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Macquarie Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/macquariegroup",
+            "title": "Private Equity Executive",
+            "description": "Macquarie Infrastructure and Real Assets (MIRA)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFWxaMqRxHNZQ/company-logo_100_100/0/1618184856997?e=2147483647&v=beta&t=ndtB0JQCrSp2-EyJxYNtlPuZkFbbiTAXhHHNiXnGZo0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Macquarie Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/macquariegroup",
+            "title": "Private Equity Analyst",
+            "description": "Macquarie Infrastructure and Real Assets (MIRA)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFWxaMqRxHNZQ/company-logo_100_100/0/1618184856997?e=2147483647&v=beta&t=ndtB0JQCrSp2-EyJxYNtlPuZkFbbiTAXhHHNiXnGZo0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Department of Transportation - Philippines",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/department-of-transportation-philippines",
+            "title": "Senior Project Development Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFGBdbNN-Svlg/company-logo_100_100/0/1519891890318?e=2147483647&v=beta&t=mJ3Iv6BOSa5s7RqOidSlmybNnaC-FA7BiCOP8MGl2j4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Department of Transportation - Philippines",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/department-of-transportation-philippines",
+            "title": "Project Development Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFGBdbNN-Svlg/company-logo_100_100/0/1519891890318?e=2147483647&v=beta&t=mJ3Iv6BOSa5s7RqOidSlmybNnaC-FA7BiCOP8MGl2j4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2013
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey",
+            "title": "Summer Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHP1XsqU9L_XQ/company-logo_100_100/0/1656621713859?e=2147483647&v=beta&t=aI0T4FA6INOIASEGIZKAiMrO_VUHMIz3j75k0k77PFs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Smith Street Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/smithstreetsolutions",
+            "title": "Business Analyst Intern",
+            "description": null,
+            "location": "Shanghai, China",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHCyKa4oP1FWA/company-logo_100_100/0/1528704635557?e=2147483647&v=beta&t=loLKc_6y5ChTKhDochc6lMr0EAWksWTfOCx-LLBHVN8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Unilever",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unilever",
+            "title": "Customer Marketing Development Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_100_100/0/1663661969458?e=2147483647&v=beta&t=gHIR-5NJzMQ1pIr1f00ke4ngRLbugsRxLT5HODB2Bjc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Meralco Electric Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meralco",
+            "title": "Strategy and Corporate Development Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE7_ZRImqdbUQ/company-logo_100_100/0/1586138587811?e=2147483647&v=beta&t=KWnfeh40lf8TO8AdxzZsQCEtxHCtjsr0M8NNhI4YIvY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "Harvard Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_100_100/0/1639781479002?e=2147483647&v=beta&t=gEn4dEdK1wOcEr7bNcUrrzvfaVxMSgzMrSW4FZ3aDkk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Master in Public Administration in International Development (MPA/ID)",
+            "school": "Harvard Kennedy School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-kennedy-school-of-government/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGz7JtcRoH-Hg/company-logo_100_100/0/1519909851068?e=2147483647&v=beta&t=foOfNnSTwOdeqS79hZiVg1OA3xG4IVtwdrpQZ8CRbrQ",
+            "grade": null,
+            "activities_and_societies": "David M. Rubenstein Fellowship, George Fellowship, Cheng Fellowship"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Management Engineering",
+            "degree_name": "Bachelor of Science (B.S.)",
+            "school": "Ateneo de Manila University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/ateneo-de-manila-university/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-u2zCop0Eig/company-logo_100_100/0/1627748006583?e=2147483647&v=beta&t=BbcZTwywLjkFO4y0V8Q9VU2ny8lTvUYmwCanmm6Kw1s",
+            "grade": "Cum Laude",
+            "activities_and_societies": "Management Engineering Association (MEA), Ateneo Junior Marketing Association (AJMA), Consultants for Organization Development and Empowerment (CODE)"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "masteral and undergraduate business courses",
+            "degree_name": "Exchange program, scholarship",
+            "school": "IESEG School of Management, Lille France",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": null,
+            "degree_name": "High School",
+            "school": "Immaculate Conception Academy",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": "Salutatorian",
+            "activities_and_societies": "Dramatics Guild, Social Action Student Staff (SASS), ICAlettes (school newspaper), Cheerdance, Student Council Production Crew, Class Vice President"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Consulting for Bayani Brew Inc.",
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jiawentang",
+            "name": "Jiawen Tang",
+            "summary": "Co-Founder @ Hive Health | Stanford MBA | Harvard MPA/ID",
+            "location": "United States"
+        },
+        {
+            "link": "https://www.linkedin.com/in/delfin-villafuerte-96586950",
+            "name": "Delfin Villafuerte",
+            "summary": "MBA & MPA-ID candidate at Harvard Business School & Harvard Kennedy School",
+            "location": "Boston, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/frandsensarah",
+            "name": "Sarah Frandsen",
+            "summary": "MBA @ Stanford | MPA @ Harvard",
+            "location": "Stanford, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/michiferreol",
+            "name": "Michelle Denise \"Michi\" Ferreol",
+            "summary": "Co-Founder @ KadaKareer | Consultant @ Bain | Harvard MBA | Building and investing in EdTech and Future of Work",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/janvishah",
+            "name": "Janvi Shah",
+            "summary": "Co-Founder, Hue | Harvard MBA '22 | x-Google PM",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/shelby-schrier-3aaba04a",
+            "name": "Shelby Schrier",
+            "summary": "Co-Founder, The Equity Network | Harvard Business School MBA \u201822",
+            "location": "Boston, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/elleekang",
+            "name": "Elle Kang",
+            "summary": "Stanford MBA + Harvard MPA/ID Candidate | Future of Work + Entrepreneurship",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/zainab-raji",
+            "name": "Zainab Raji",
+            "summary": "MBA/ MPA-ID Candidate at Harvard Business School & Harvard Kennedy School",
+            "location": "Greater Boston"
+        },
+        {
+            "link": "https://www.linkedin.com/in/eric-david-schneider",
+            "name": "Eric Schneider",
+            "summary": "Co-Founder @ AKKO (Hiring!)",
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ana-rocha-b951398a",
+            "name": "Ana Rocha",
+            "summary": "Harvard MPA/ID Candidate | Economics | Data Science | Public Policy",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/diego-auvert-albornoz-2785a8141",
+            "name": "Diego Auvert Albornoz",
+            "summary": "MPA/ID Candidate at Harvard Kennedy School",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/vanessaroyle",
+            "name": "Vanessa Royle",
+            "summary": "Co-Founder at Jasper Cocktails & MBA Candidate at Harvard Business School",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/veronica-polin",
+            "name": "Veronica Polin",
+            "summary": "J.P. Morgan | Harvard MBA & MPA-ID",
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://www.linkedin.com/in/munmun-biswas-b296b038",
+            "name": "Munmun Biswas",
+            "summary": "MPA/ID from Harvard University, John F. Kennedy School of Government",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/fatine-guedira-a6653667",
+            "name": "Fatine Guedira",
+            "summary": "MPA/ID Candidate at Harvard Kennedy School",
+            "location": "Greater Boston"
+        },
+        {
+            "link": "https://www.linkedin.com/in/dawn-d-kang",
+            "name": "Dawn Kang",
+            "summary": "MPA/ID Candidate at Harvard Kennedy School",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nikhil-swaminathan-39122676",
+            "name": "Nikhil Swaminathan",
+            "summary": "MPA/ID candidate at Harvard Kennedy School",
+            "location": "Tiruchirappalli"
+        },
+        {
+            "link": "https://www.linkedin.com/in/camcarag",
+            "name": "Camilla Mia Carag",
+            "summary": "Co-Founder at KadaKareer | Product at Amazon | Harvard MS/MBA",
+            "location": "Boston, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/joshhoffmansenn",
+            "name": "Josh Hoffman-Senn",
+            "summary": "Co-Founder & Co-CEO at LS",
+            "location": "Greater Boston"
+        },
+        {
+            "link": "https://fr.linkedin.com/in/alex-mathe-cathala",
+            "name": "Alex Math\u00e9-Cathala",
+            "summary": "VP of Investment Strategy at Lifeworks \u2014 MIT",
+            "location": "Niort"
+        },
+        {
+            "link": "https://www.linkedin.com/in/angelicasinay",
+            "name": "Angelica Sinay",
+            "summary": "Growth @ Hive Health",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tina-sabarre-15374b16",
+            "name": "Tina Sabarre",
+            "summary": "Experienced Business & Commercial Leader, now in Health Tech & Ecommerce",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kirsten-soong-b409b110",
+            "name": "Kirsten Soong",
+            "summary": "Founder + CEO of Feather Health | Harvard Business School | Ex-Googler",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lindsay-dorf",
+            "name": "Lindsay Dorf",
+            "summary": "MBA Candidate at Harvard Business School | MS Candidate at Harvard School of Engineering",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ezeanikingsley",
+            "name": "Kingsley Ezeani",
+            "summary": "Tech Entrepreneur | Harvard MPA | Oxford MBA",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "I decided to do something DIFFERENT with my latest investment!Those who know me, know that I am primarily focused on crypto and fintech, but I just\u2026",
+            "link": "https://www.linkedin.com/posts/joshua-schlisserman_stell-wants-to-modernize-the-unsexy-workflows-activity-7021139907322544128-llBr",
+            "activity_status": "Liked by Camille Ang"
+        },
+        {
+            "title": "Happy to share some thoughts in Tech in Asia on the prospects of #insurtech in #SoutheastAsia. It\u2019s a sizable sector with low penetration, but so\u2026",
+            "link": "https://www.linkedin.com/posts/davidyin44_is-2022-the-year-of-insurtech-not-so-fast-activity-7008239679909023744-5f_p",
+            "activity_status": "Liked by Camille Ang"
+        },
+        {
+            "title": "Ten years. Ten years ago today I went into the board meeting that would ultimately be the end of my first company, Quincy Apparel. Walking out of\u2026",
+            "link": "https://www.linkedin.com/posts/christinawallace_startups-entrepreneurship-failure-activity-7005983906059427841-VkLF",
+            "activity_status": "Liked by Camille Ang"
+        },
+        {
+            "title": "It was fun to organize with Dhia Izza Nabila Saad & Maria Yeti Khim a meetup of the #SoutheastAsia #startup community at Harvard University and\u2026",
+            "link": "https://www.linkedin.com/posts/davidyin44_southeastasia-startup-tech-activity-7004212065368199168-9phg",
+            "activity_status": "Liked by Camille Ang"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Camille Ang",
+            "link": "https://sg.linkedin.com/in/cja1111",
+            "summary": "VP, Digital Sales and Innovation",
+            "location": "Singapore"
+        },
+        {
+            "name": "Camille Ang",
+            "link": "https://www.linkedin.com/in/camilleang",
+            "summary": "Medical Records Assistant at Elevate Care North Branch",
+            "location": "Des Plaines, IL"
+        },
+        {
+            "name": "Camille Ang",
+            "link": "https://ph.linkedin.com/in/camille-ang-66365a136",
+            "summary": "Master of Science in Innovation & Business student at the Asian Institute of Management",
+            "location": "Philippines"
+        },
+        {
+            "name": "Camille Ang",
+            "link": "https://sg.linkedin.com/in/camille-ang-065027166",
+            "summary": "Operations Officer (Planning & Readiness)",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,389 @@
+{
+    "public_identifier": "hendra-kwik-4a291242",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hendra-kwik-4a291242/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221206Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f044b66f51b389fb7f8ed47c203236fec86110a4a0bb8a2084593253a1cfcdbd",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hendra-kwik-4a291242/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221206Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5a44d3f560078a5cac0c047bd9acb08684a716f2bf0f6ddcc5fd026194550f92",
+    "first_name": "Hendra",
+    "last_name": "Kwik",
+    "full_name": "Hendra Kwik",
+    "follower_count": 5046,
+    "occupation": "Group CEO at FAZZ Financial Group",
+    "headline": "Building FAZZ (YCS17) | Forbes 30 Under 30",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+            "title": "IT Analyst",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1714003200&v=beta&t=7NtFlJMF6AP-Vsli9en3hh5So19ttS8mnHV8YPBGjtk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "FAZZ Financial Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-financial",
+            "title": "Group CEO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEYWB0HXsXsuQ/company-logo_400_400/0/1692592136515/fazz_financial_logo?e=1714003200&v=beta&t=Cd_Q7Zb5L0kRRFXBDphr50jps23Cezjtp1pSgrtiDJ8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "company": "PT Medco Energi Internasional Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/medco-energi-international-tbk",
+            "title": "Field Engineer",
+            "description": null,
+            "location": "Palembang, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE8oHZWP3zYhg/company-logo_400_400/0/1701829628870/medco_energi_international_tbk_logo?e=1714003200&v=beta&t=Bphu5rN4VsX9SJblyvrtKcn6Pchwp0IGw6_VFYDlHtU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "PAYFAZZ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-agen",
+            "title": "CEO",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHxKs2Ei0hofQ/company-logo_400_400/0/1692845494045/fazz_agen_logo?e=1714003200&v=beta&t=kkeeLQU8nWLiuZgINixipjDef-Y_9Lg-MqCr70S215g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "PT Kudo Teknologi Indonesia (KUDO)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kudo",
+            "title": "Head of Product and Growth",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFJkt30QtLJWQ/company-logo_400_400/0/1631412831387?e=1714003200&v=beta&t=0sKJ5J1o5gucX7Jc5dvM4Cq3-cuRYpKSSX4LI55zkts"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal",
+            "title": "Wireline Field Engineer",
+            "description": null,
+            "location": "Rio De Janeiro, Brazil",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1714003200&v=beta&t=xJk9XouauhZwpEiiuaQx11XT5p0R99DyZPAf_5_gqLQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal",
+            "title": "Wireline Field Engineer Trainee",
+            "description": null,
+            "location": "Rio De Janeiro, Brazil",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1714003200&v=beta&t=xJk9XouauhZwpEiiuaQx11XT5p0R99DyZPAf_5_gqLQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "PERTAMINA EP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pertamina-ep",
+            "title": "Researcher",
+            "description": null,
+            "location": "Bandung, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHww0ZAqCw3pw/company-logo_400_400/0/1631427871292/pertamina_ep_logo?e=1714003200&v=beta&t=B_oxVFJ6qewf8ow2KfFAQ7xg7PJMquTEt7Ug1-24Oow"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "Startup",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Field Engineering",
+            "school": "Schlumberger Learning Center",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/14702/",
+            "description": "Best Graduate & Valedictorian with Cum Laude Title",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1714003200&v=beta&t=fB4aakPWLSee5jx2WlpEIhppOVDazYd-mxi8-VZzWH8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Natural Sciences",
+            "degree_name": "SMA",
+            "school": "SMA Xaverius I Jambi",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "Bahasa Inggris"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 2871,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/adegokeolubusi",
+            "name": "Adegoke Olubusi",
+            "summary": "Co-founder/CEO @ Helium Health & Managing Partner @ MAGIC Fund",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rezarizkydarmawan",
+            "name": "Reza Rizky Darmawan",
+            "summary": "Operator & Investor | Fazz | POST. App | Traveloka | IBM",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tianweiliu",
+            "name": "Tianwei Liu",
+            "summary": "Building FAZZ | Co-founder at Xfers(YCS15, Fazz Financial Group)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aizatto",
+            "name": "Aizat Faiz",
+            "summary": "VP of Engineering at Fazz (YCS15), ex Facebook (2010-2016)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/victorliewjiahao",
+            "name": "Victor Liew Jia Hao",
+            "summary": "We are hiring! | Co founder StraitsX (Fazz Financial Group) | YCombinator S15 | Forbes 30 Under 30",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Firman Ardiansyah\n\n\n\nHendra is one of those people you meet who radiates confidence, and rightly so. He is an amazing person to work with, not only as managers, but inspires and leads. He is extremely detail-oriented while at the same time never taking his eyes off the big picture. It takes an immense amount of hard work and dedication to do what he does on a daily basis. Working with him at KUDO is an extremely rewarding experience for me, and that would not have been the case, if not for him. I think the best people to work with are those who love their job. Hendra is definitely one of them. His achievements, style of working, passion and his confidence, all inspire me to aim higher, work harder and dream bigger. it certainly a pleasure meeting him.",
+        "Hartanto Sulim\n\n\n\nI worked once with him in a business competition, saw a true leader figure in him. He is also a great achiever and hard worker with helpful and down to earth personality."
+    ],
+    "activities": [
+        {
+            "title": "Emotional and happy day. \ud83c\uddfa\ud83c\uddf8 Next to me at the ceremony was an old man from El Salvador. His daughters are Americans, and he has been waiting for\u2026",
+            "link": "https://www.linkedin.com/posts/gustafalstromer_emotional-and-happy-day-next-to-me-activity-7051608689975185408-PLTC",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "The United States is making a significant investment into onshoring the production of clean energy products, including batteries, green hydrogen, and\u2026",
+            "link": "https://www.linkedin.com/posts/shiva-adireddy-5aab1850_inflation-reduction-act-has-spurred-100000-activity-7044353299063480320-ExCq",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "ICYMI: a few months back we kicked off a new initiative on our trades by penetrating new areas; traditional markets, and supermarkets. We aimed to\u2026",
+            "link": "https://www.linkedin.com/posts/sayurboxofficial_lifeatsayurbox-sayurlife-activity-7049016632970514432-wZxQ",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "ICYMI: Last week, I had the pleasure of recording an episode of my podcast with Vivi Mandasari, COO of Verihubs. We discussed a range of topics, from\u2026",
+            "link": "https://www.linkedin.com/posts/paulojoquino_southeastasia-techcompanies-podcast-activity-7048982560365834240-U4S-",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "This is not exactly a professional post, but I wanted to share a bit of personal reflection given how many people today are facing hardship due to\u2026",
+            "link": "https://www.linkedin.com/posts/wafataftazani_this-is-not-exactly-a-professional-post-activity-7049765103281311745-8dEP",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Our parent company, Fazz has partnered with Goldfinch, a decentralized finance (DeFi) lending platform, to connect on-chain lenders with credit\u2026",
+            "link": "https://www.linkedin.com/posts/straitsx_sme-loans-in-southeast-asia-goldfinch-activity-7046671734757851137-7M30",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "I can\u2019t count the times I\u2019ve been told that AVs will *never* be able to handle certain situations.How about taking a passenger through North Beach\u2026",
+            "link": "https://www.linkedin.com/posts/kylevogt_i-cant-count-the-times-ive-been-told-that-activity-7046893618195795968-Klst",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "I grew up in a poor family. My parents couldn't afford my high school tuition fee so I have to earn scholarships to go to school. When I was applying\u2026",
+            "link": "https://www.linkedin.com/posts/stefani-herlie-96891b34_pusat-prestasi-nasional-on-instagram-olimpiade-activity-7046721101372035072-D3JI",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Robert Kiyosaki is right ........ the best way to beat inflation and high interest rates is by investing in proven companies with great earnings in\u2026",
+            "link": "https://www.linkedin.com/posts/kees-oomen-0886a87_robert-kiyosaki-is-right-the-best-activity-7045960880068456448-krXP",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "We\u2019re proud and privileged to be a global venture capital partner of Malaysia\u2019s sovereign wealth fund Khazanah Nasional Berhad!Khazanah Nasional\u2026",
+            "link": "https://www.linkedin.com/posts/500southeastasia_500global-500strong-startup-activity-7043853862591500289-vuXI",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Selain menjalani hidup dengan cara \"Easy Come, Easy Go. Whatever happens, happens\", ada 4 jalur lain dalam menjalani kehidupan:1. Kaya di mata\u2026",
+            "link": "https://www.linkedin.com/posts/ranggo_tipe-manusia-kepribadian-activity-7041358265460379648-1SJc",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Great moment ! Bronze medal of the Performed by Schlumberger Award program.I'm very proud to be part of the team and participated of this project\u2026",
+            "link": "https://www.linkedin.com/posts/rodrigo-alves-dos-santos-365044146_great-moment-bronze-medal-of-the-performed-activity-7041426693969821696-uJP8",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Do you do this when leading a new team?\ud83e\udd1dLeading a new team can be a challenging task, but with the right approach, it is possible to successfully\u2026",
+            "link": "https://www.linkedin.com/posts/projectmanagementinformation_free-stuartandrews-leadership-activity-7040083825934090240-MGNa",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "Hello everyone,I wanted to share something personal with you all today. Last Wednesday, the news was announced that I was one of the many employees\u2026",
+            "link": "https://www.linkedin.com/posts/nghuilingiris_fintech-company-fazz-lays-off-staff-across-activity-7038419787378528257-qdMS",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        },
+        {
+            "title": "StraitsX  doesn\u2019t see itself as a challenger to Circle or Tether. Rather, it\u2019s building a niche for itself by solving domestic payment problems with\u2026",
+            "link": "https://www.linkedin.com/posts/fangshihan_singapore-stablecoins-to-gain-market-share-activity-7037262706873143296-AoAK",
+            "activity_status": "Disukai oleh Hendra Kwik"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Hendra Kwik",
+            "link": "https://id.linkedin.com/in/hendra-kwik-99172728",
+            "summary": "Student at Institut Teknologi Bandung",
+            "location": "Bandung"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQE44whKOapo5g/group-logo_image-shrink_400x400/0/1691567414804?e=1706770800&v=beta&t=GewT86dVxakL9wZF_yO2nR96qPF6OePrSyw8gL8wM8w",
+            "name": "Graphic Designer & Art Director",
+            "url": "https://www.linkedin.com/groups/2056001"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQEkNwpu1s2zHw/group-logo_image-shrink_48x48/0/1631000626072?e=1706770800&v=beta&t=4yKWeqRtYfKl1ocvCpIqyMHHmr-LN6KOvLBQGhphrzk",
+            "name": "UX Indonesia",
+            "url": "https://www.linkedin.com/groups/6661883"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

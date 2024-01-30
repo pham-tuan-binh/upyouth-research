@@ -1,0 +1,647 @@
+{
+    "public_identifier": "alifjafar",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/alifjafar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221324Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1c875c97cfcf46a4872748b1daafd29de86ca05ad518d9ad0df8fc53c605640c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/alifjafar/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221324Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2db67c45f539f831bc83ddb92bacb00a5be4c4624b60c233432ef5ed5cf1401c",
+    "first_name": "Alif",
+    "last_name": "Jafar Fatkhurrohman",
+    "full_name": "Alif Jafar Fatkhurrohman",
+    "follower_count": 506,
+    "occupation": "Co-Founder & CTO at UpBanx (YC W22)",
+    "headline": "Co-Founder & CTO at UpBanx (YC W22) | Forbes 30 Under 30",
+    "summary": "Hi, i'am Alif Jafar. Over four years experience as Software Engineer, interested in Internet of Things, Cyber Security, Highly motivated and have a great passion about programming",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Bandung",
+    "state": "West Java",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "UpBanx (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/upbanx/",
+            "title": "Co-Founder & CTO",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHmEXiB1RtyZg/company-logo_400_400/0/1661916762129/upbanx_logo?e=1712793600&v=beta&t=Ko94u-yeaXfhhkItBOOTqvPvfK1fzOYAiPsyV5Fes_8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "TechX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/techx-id/",
+            "title": "Full Stack Engineer",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFXJAz_G_teuQ/company-logo_400_400-alternative/0/1630636493353?e=1712793600&v=beta&t=YZcfmwRnGD2HDBHTny2sb0v9uhnhxqIHetJVo5YJpEY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "IOTX Solutions Sdn Bhd",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "Work in a team of 4 people, we :\n\n- Build website application to mazage apartment booking management.\n- Developed website module to control IoT Device.\n- Build API to work with other business partner.\n\nWork using Java Spring boot, Laravel & Lumen and PostgreSQL database.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "DASPRO Laboratory",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/daspro-laboratory/",
+            "title": "Laboratory Assistant",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEQRPFAx-31Wg/company-logo_400_400/0/1631325190130?e=1712793600&v=beta&t=b-CuhfKCa2Juh5O0as51WGAbQdltO3idTR9E8VRzzLQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "DASPRO Laboratory",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/daspro-laboratory/",
+            "title": "Coordinator Practicum Data Structure & Algorithms",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEQRPFAx-31Wg/company-logo_400_400/0/1631325190130?e=1712793600&v=beta&t=b-CuhfKCa2Juh5O0as51WGAbQdltO3idTR9E8VRzzLQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "company": "UP TKJ SMK Telkom Purwokerto",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/networking-smk-telkom-purwokerto/",
+            "title": "IT Technician",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH9GG9TsX_gWg/company-logo_400_400/0/1631327155586?e=1712793600&v=beta&t=FyK33LhJoqmYf4lR7y6ja8QNjfwypBv-I3zpR_n88pM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "company": "UP TKJ SMK Telkom Purwokerto",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/networking-smk-telkom-purwokerto/",
+            "title": "Networking Instructor",
+            "description": null,
+            "location": "Purwokerto, Jawa Tengah",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH9GG9TsX_gWg/company-logo_400_400/0/1631327155586?e=1712793600&v=beta&t=FyK33LhJoqmYf4lR7y6ja8QNjfwypBv-I3zpR_n88pM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "field_of_study": "Information Systems",
+            "degree_name": "Bachelor of Computer Information Systems",
+            "school": "Telkom University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH4_rcyldo-1Q/company-logo_400_400/0/1630603372617/telkom_university_logo?e=1712793600&v=beta&t=VySJ8kNGOqYToONTLlkIH5C28crNK7gxuEbap-1NXfY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Computer Systems Networking and Telecommunications",
+            "degree_name": "Graduated",
+            "school": "SMK Telkom Purwokerto",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English",
+        "Javanese"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "org_name": "Rohani Islam SMK Telkom Purwokerto",
+            "title": "Coordinator UD",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 under 30 Asia (Finance & Venture Capital)",
+            "issuer": "Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Juara 1 Emotycon Agriculture Mobile Technology Competition",
+            "issuer": "Universitas Sebelas Maret Fakultas Pertanian",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "description": "Agriculture Mobile App Technology Competition "
+        },
+        {
+            "title": "Juara 2 Bussiness and Technology Creation",
+            "issuer": "Fakultas Informatika Telkom University ",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "description": null
+        },
+        {
+            "title": "Juara 3 Web Development",
+            "issuer": "Universitas Jendral Soedirman",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist Apps Today IPB 2018",
+            "issuer": "Institut Pertanian Bogor",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist CNSA Corefest 2015",
+            "issuer": "Universitas Diponegoro",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist CCENT NetRider Indonesia 2015",
+            "issuer": "Cisco",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "title": "Maqmur Mobile App (PT. Neu Inklusi Keuangan)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "title": "API IOTX PLATFORM (Malaysia)",
+            "description": "Provides an API for doorlock management\n- Create Temporary User\n- Remove Temporary User\n- Unlock Doorlock\n- List User Temporary\n\nFor IOTX PLATFORM Partners using lumen framework",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "title": "SMAN 1 Ngamprah Web Sekolah",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "title": "Streaming Server",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "title": "Mobile App Minjemin",
+            "description": "Pengembangan Aplikasi Sewa Pinjam Barang  berbasis aplikasi mobile menggunakan flutter",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "title": "SekitarKita",
+            "description": "Aplikasi pencatat perangkat yang saling bersinggungan berdasarkan history data interaksi dengan orang lain.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "title": "SmartVen Vending Machine Client (PT. Ritra Media Distribusi)",
+            "description": "Developed front-end vending machine client with Next JS framework. Abilities :\n- List and Show Product \n- Transaction Product with Offline Payment (Cash) \n- Transaction Product with Online Payment (Ovo, Gopay, LinkAja)\n- Offline Mode in Cash Payment (machine can continue the transaction even if there is no internet connection)",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "title": "Aplikasi Mobile App Android Minjemin (MVP)",
+            "description": "Pengembangan Aplikasi Sewa Pinjam Barang  berbasis aplikasi mobile menggunakan android dengan bahasa pemrograman kotlin menggunakan framework MvRx by Airbnb",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "title": "IOTX PLATFORM (Malaysia)",
+            "description": "IOTX PLATFORM is a platform that provides control for IoT devices based on web applications through mqtt. Its main features are:\n- Unlocking Doorlock\n- Manage Doorlock User Temporary\n- Read Statistics Real-time Power (Watt) and Cummulative Power (Miniature Circuit Breaker) MCB (Miniature Circuit Breaker)\n- Motion Sensor\n- Control Switch",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "Nelayan Digital",
+            "description": "Sistem Tracking Nelayan, Potensial Area Ikan dan Informasi Pelelangan menggunakan Framework Laravel, dan Kotlin untuk aplikasi Android",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "PIP Makassar",
+            "description": "Pengembangan Sistem Pelaporan pengaduan Akademik menggunakan Framework Laravel Sebagai Backend\nDeveloper",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "BP2IP Barombong",
+            "description": "Pengembangan Sistem Survey & Pelaporan pengaduan menggunakan Framework Laravel sebagai Backend Developer",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "title": "Budayaku",
+            "description": "Budayaku adalah sebuah platform untuk booking jasa kesenian",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "title": "Schedule Picker",
+            "description": "Schedule Picker (Schepick) adalah sistem manajemen pengambilan jadwal praktikum untuk mahasiswa S1 Sistem Informas Fakultas Rekayasa Industri Telkom University",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "title": "Siakad TK Albiruni",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "title": "E-Learning Video (Enterprise System)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "title": "Wireless Hotspot MikroTik",
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "name": "Pengembang Web (Web Developer)",
+            "license_number": "582002513400248072018",
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "SAP 01 Fundamental",
+            "license_number": null,
+            "display_source": null,
+            "authority": "SAP",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gabrielglowdy",
+            "name": "Achmad Gabriel Glowdy",
+            "summary": "Front End Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rifqi-rosidin",
+            "name": "Rifqi Rosidin",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/erzaputra",
+            "name": "Erza Putra",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Finnix (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christianhanggra",
+            "name": "Christian Hanggra",
+            "summary": "CEO at Modal Rakyat, Financial & Tech Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ariannurrifqhi",
+            "name": "Arian Nurrifqhi",
+            "summary": "UI Designer | E-Govt Researcher",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adityosb",
+            "name": "Adityo Satrio",
+            "summary": "Software Quality Assurance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadia-fadhila-alatas-patompo-b9ba4675",
+            "name": "Nadia Fadhila Alatas Patompo",
+            "summary": "Co-Founder at Fintelite",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ibnu-anggara",
+            "name": "Ibnu Anggara",
+            "summary": "Co-Founder & CCO at VCGamers \ud83c\udfae",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hendri-wijaya-kwik-b556901a5",
+            "name": "Hendri Wijaya Kwik",
+            "summary": "Co-Founder & COO at UpBanx (YC W22) | Forbes 30 Under 30",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

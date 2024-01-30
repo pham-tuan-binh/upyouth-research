@@ -1,0 +1,352 @@
+{
+    "public_identifier": "zhiconglim",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/zhiconglim/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221600Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b5816b148fcdd032944fc0f272eaa2f2206f2313988ee8fbffd01479b3635d9c",
+    "background_cover_image_url": null,
+    "first_name": "Zhicong",
+    "last_name": "L.",
+    "full_name": "Zhicong L.",
+    "follower_count": 1132,
+    "occupation": "CTO & Co-founder at Cococart",
+    "headline": "CTO & Co-founder at Cococart \u00b7 YC S21",
+    "summary": null,
+    "country": "JP",
+    "country_full_name": "Japan",
+    "city": "Tokyo",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "company": "Cococart",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cococart-co/",
+            "title": "CTO & Co-founder",
+            "description": "- Raised US$4.2M from Sequoia Capital and Forerunner Ventures, with participation from Y Combinator, Uncommon Capital, Soma Capital, Liquid 2 Ventures, Fitbit\u2019s CEO, Curated\u2019s CEO, and other angels.\n- Grew revenue from zero to US$700K/year in 3 years, from 50K local businesses across 118 countries.\n- Hired for and managed fully-remote engineering team of 12 members across 9 countries and 8 timezones.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEMapGUEBZr7A/company-logo_400_400/0/1667808076901/cococart_co_logo?e=1712793600&v=beta&t=n_kFn0p4cb4oM3JA_kEuqvCha_amIzIeptHZGJxfmQA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "Essential",
+            "company_linkedin_profile_url": null,
+            "title": "Product Manager",
+            "description": "As Essential's only PM, I managed most of the software on the Gem smartphone. I defined the product vision and specs of 12 apps and services, and managed them from design through completion across offices in 2 countries. I also liaised internationally with 5 partners in evaluating quotes, writing SOWs, and coordinating technical work.",
+            "location": "Palo Alto",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "Essential",
+            "company_linkedin_profile_url": null,
+            "title": "Product Engineer",
+            "description": "Cameras are notoriously one of the hardest components on a smartphone to work with. (The iPhone makes it look easy.) Despite not having previous imaging experience, I mastered the Android Camera2 API and was in charge of dramatically improving the speed, stability and feature set of the stock Camera app shipped on the Essential Phone. Working internally with image quality and design teams and externally with vendors, I drove product direction beyond delivering quality code.\n\nLiaising directly with our software partners, ArcSoft and Qualcomm, I owned and built four critical camera features:\n- Portrait mode\n- Dual-camera image fusion for noise reduction and sharpness\n- HDR (High Dynamic Range) captures\n- Auto-HDR scene detection\n\nI was also the DRI for a laundry list of core features, including:\n- Flash captures\n- Burst mode\n- Tap to focus/expose\n- Digital zoom\n- Face detection\n- Multiple video resolutions (4K, HD and HD 60)\n- Slow-mo video\n- Video snapshots\n- Responding to requests from external apps for a photo or video capture\n\nOn the engineering front, I re-architected the code to improve resource management and thread safety. I conceived constructs allowing images to be safely processed by multiple threads simultaneously, and for asynchronous management of camera assets and the preview stream. Our work shrunk the crash rate from 1.4% to 0.1% of sessions.\n\nFrom being initially panned by reviewers, our rapid updates made the phone competitive. TechCrunch even praised: \"Essential Phone is the best deal in smartphones thanks to camera updates\" (Nov 1, 2017).",
+            "location": "Palo Alto",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "owlcove.sg",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": "owlcove.sg is a non-profit education portal aimed at reshaping Singapore's academic landscape.\n\nAs the technical co-founder, I coded all of the site's features - Facebook API integration, document sharing, article publishing and Q&A-style discussion boards - from scratch in the CodeIgniter PHP framework.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Occuhunt",
+            "company_linkedin_profile_url": null,
+            "title": "Android Lead",
+            "description": "Occuhunt connects students and recruiters, streamlining the process of job fairs while allowing students to find a job they love.\n\nI led development of Occuhunt's Android app. Through our integrated web and mobile platform, candidates are able to have their resumes evaluated beforehand by other users, \"drop\" an electronic copy of their resumes to recruiters' devices without ever having to wait impatiently in line, and then follow through the entire application process online.",
+            "location": "Berkeley, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "company": "Pixnplay Pte. Ltd.",
+            "company_linkedin_profile_url": null,
+            "title": "Creative Technologist",
+            "description": "Pixnplay is a Singapore-based tech startup delivering innovative solutions for B2B clients.\n\nI oversaw the development of mobile and web CRM apps, an overhaul of POS systems and company rebranding through new media for five B2B clients. In the process, I took charge of project management, app wireframing, business proposals and client correspondence.\n\nAlso performed well enough to be offered a full-time position.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "company": "Banq.co",
+            "company_linkedin_profile_url": null,
+            "title": "Web Developer (Part-Time)",
+            "description": "Built web platform for executing market offerings and providing investors direct access to IPOs,     private placements and hedge funds.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Dropbox",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropbox/",
+            "title": "Software Engineer Intern",
+            "description": "I built and launched photo editing tools in the core Dropbox Android app, a top-requested feature by its 500 million users. My work enabled rotating and cropping images from within the Dropbox app. Image modifications were performed losslessly, with EXIF metadata preserved as much as possible.",
+            "location": "San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHjnNsmL5L2NA/company-logo_400_400/0/1654114493492/dropbox_logo?e=1712793600&v=beta&t=3hpfGAHV3oqUfJz99BCK3sAsB0STm_8NWrwqgT4fI6U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Figma, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/figma/",
+            "title": "Software Engineer Intern",
+            "description": "I was Figma\u2019s first intern!\n\nI worked in the two-person Web Services team to deliver a folder-based file management system for users\u2019 design files on the web, using Backbone.js and the new HTML5 drag and drop standards. We then enhanced it further with shared folders for teams and real-time synchronization of team data, so all changes are seen immediately by other members.\n\nI also significantly improved the aesthetics and loading speed of the site. In particular, I overhauled the marketing, signup and onboarding pages to give a proper first-time user experience.",
+            "location": "San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGjPX8xmdHxgw/company-logo_400_400/0/1690557728311/figma_logo?e=1712793600&v=beta&t=NpoOqoFz1AuiZbcgfS6h7P9hMnaH2BAW0phzkM7Bwfc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Sprig: Eat Well",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sprig-dine-on-demand/",
+            "title": "Software Engineer Intern",
+            "description": "I designed, led and successfully implemented two production-level projects in Ruby on Rails and Android Wear in one summer. Working with the existing codebase, I overhauled delivery operations by building an automated scheduling tool for Sprig\u2019s several hundred drivers. I also brought Sprig's consumer services to the groundbreaking Android Wear platform, allowing customers to view and order straight from their smartwatch.",
+            "location": "San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFhaAnvpy0pNA/company-logo_400_400/0/1631320131014?e=1712793600&v=beta&t=VkWpU2_08d9ZU4Ubc5EB6fQdIVNhxZVJzl7EFU5PVvU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Republic of Singapore Air Force",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/republic-of-singapore-airforce/",
+            "title": "First Lieutenant",
+            "description": "Served as Assistant Manpower Head of 6&9 Div. Air Defense Battalion. Managed manpower deployment, finance planning, monthly reports and overall battalion welfare.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQESuZWEdacKSQ/company-logo_400_400/0/1630650635136?e=1712793600&v=beta&t=mPzXgozRcn6YsUbY2wW-CNi9iIE959z75WpzoMrEMYs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Electrical Engineering and Computer Science (EECS)",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM",
+            "grade": "3.85",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Hwa Chong Institution",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHkuYW3rTW5xg/company-logo_400_400/0/1631325968209?e=1712793600&v=beta&t=jeocAaTdA2-d9BLZ9NydI4AdBL5rwcTPF0ZwnUraLtg",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/junaidulhaque",
+            "name": "Junaid Ul Haque",
+            "summary": "Software Engineer at Cococart (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ngeechong",
+            "name": "Ngee Chong Yeo",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/liliwei25",
+            "name": "Liwei Li",
+            "summary": "Fullstack Engineer, AWS Certified Solutions Architect (Associate)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/edmharfabros",
+            "name": "Edmhar Fabros",
+            "summary": "Senior Software Engineer at Cococart (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ash-rhazaly-402533209",
+            "name": "Ash Rhazaly",
+            "summary": "Co-Founder & CTO at Friz (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dereklmy",
+            "name": "Derek Low",
+            "summary": "Co-Founder & CEO at Cococart | YC S21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marcelowiermann",
+            "name": "Marcelo Wiermann",
+            "summary": "Head of Engineering @ Cococart (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gaelgthomas",
+            "name": "Ga\u00ebl Thomas",
+            "summary": "Senior Software Engineer at Cococart (YC S21) \ud83d\udc68\u200d\ud83d\udcbb - Available for Technical Writing requests \u270d\ufe0f",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aakashgupta1236",
+            "name": "Aakash Gupta",
+            "summary": "Full-Stack Developer at Cococart",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tanvirulislamdipto",
+            "name": "Tanvirul Dipto",
+            "summary": "Growth | Ex-Cococart | YC S21",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "ZC L",
+            "link": "https://cn.linkedin.com/in/zc-l-388910225",
+            "summary": "\u5b66\u751f - \u6c5f\u95e8\u804c\u4e1a\u6280\u672f\u5b66\u9662",
+            "location": "Jiangmen"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,238 @@
+{
+    "public_identifier": "christlie",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/christlie/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f2fe3dde7ea9992bc68ffa0d6e33a85d6737bddfb1674092f0d4e967e040871e",
+    "background_cover_image_url": null,
+    "first_name": "Christian",
+    "last_name": "Lie",
+    "full_name": "Christian Lie",
+    "follower_count": 610,
+    "occupation": "Co-Founder & COO at CrediBook (YC W22)",
+    "headline": "Building CrediBook | We are hiring!",
+    "summary": "Experienced Sales Business Development with a demonstrated history of working in the Internet Tech industry. \n",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "CrediBook (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credibook/",
+            "title": "Co-Founder & COO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFqG7KmANBCNg/company-logo_400_400/0/1664512238550/credibook_logo?e=1712793600&v=beta&t=-cMnAXI3_Wssr4ucAI45K7HfbHEfQ96ENQLWJzHprBM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "PT Payfazz Teknologi Nusantara",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-agen/",
+            "title": "Head of Regional West Java",
+            "description": "Building Relationship with prospect Partnership \nManaging Sales Team West Java \nPilot new product",
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHxKs2Ei0hofQ/company-logo_400_400/0/1692845494045/fazz_agen_logo?e=1712793600&v=beta&t=9zg3idiLw3mqCsNNPHdiosrYy76rLfIRbBZCYcKQoTk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "PT Payfazz Teknologi Nusantara",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-agen/",
+            "title": "Head of Regional Sales East Java",
+            "description": "Maintain growth potential From offline perspective\nBuilding New ways to approach Customer or Agent\nDirectly Build Regional team (East Java)\nPilot New Project or Product",
+            "location": "Surabaya Area, East Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHxKs2Ei0hofQ/company-logo_400_400/0/1692845494045/fazz_agen_logo?e=1712793600&v=beta&t=9zg3idiLw3mqCsNNPHdiosrYy76rLfIRbBZCYcKQoTk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "PT Payfazz Teknologi Nusantara",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-agen/",
+            "title": "Sales Business Development",
+            "description": "Developing sales strategy \nTraining Offline sales \nBuild Channel for Partnership (offline)\nResearch New Product\nTesting New Product\n\nReport based on offline channel to CCO (Chief Commercial Officer) Payfazz",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHxKs2Ei0hofQ/company-logo_400_400/0/1692845494045/fazz_agen_logo?e=1712793600&v=beta&t=9zg3idiLw3mqCsNNPHdiosrYy76rLfIRbBZCYcKQoTk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "PT Payfazz Teknologi Nusantara",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-agen/",
+            "title": "Sales Lead",
+            "description": "The only one Sales Member on Payfazz Till July 2018\n\nResearch Product Market Fit\nPilot New System or Product \nWorking closely with Founder to Build system on Payfazz based on offline channel",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHxKs2Ei0hofQ/company-logo_400_400/0/1692845494045/fazz_agen_logo?e=1712793600&v=beta&t=9zg3idiLw3mqCsNNPHdiosrYy76rLfIRbBZCYcKQoTk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Marketing communication",
+            "degree_name": null,
+            "school": "LSPR Communication and Business Institute",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEpI_z-lMCbxA/company-logo_400_400/0/1681104965826/lsprofficial_logo?e=1712793600&v=beta&t=jZRmnN5QDgn1FahOe34sy5FK6EuVzxBaiwc-xbsqw-0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gbyfrans",
+            "name": "Gabriel Frans",
+            "summary": "Building CrediBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/auroramarsye",
+            "name": "Aurora M.",
+            "summary": "Co-founder of Lumina (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jan-sebastian-52b275112",
+            "name": "Jan Sebastian",
+            "summary": "VP (Finance, People, and Corporate Support) | Building CrediBook | Accountant | Business Strategist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dekha-anggareska-5a27374b",
+            "name": "Dekha Anggareska",
+            "summary": "Building CrediBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wilson-yanaprasetya-357a055",
+            "name": "Wilson Yanaprasetya",
+            "summary": "Digitizing Tier 3 & Rural Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/charleslee5",
+            "name": "Charles Lee",
+            "summary": "Co-Founder at CoderSchool",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roolin-njotosetiadi",
+            "name": "Roolin Njotosetiadi",
+            "summary": "CEO & Co-Founder at Logisly",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roselinda15",
+            "name": "Rose Linda",
+            "summary": "General Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gracesellanatasha",
+            "name": "Gracesella Natasha",
+            "summary": "HR System and Development at Galva Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sutantosteve",
+            "name": "Steve Sutanto",
+            "summary": "Co-Founder & Group GM at Glints | Forbes 30 Under 30",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Christian Lie",
+            "link": "https://no.linkedin.com/in/christian-lie-71019b3",
+            "summary": null,
+            "location": "Oslo"
+        },
+        {
+            "name": "Christian Lie",
+            "link": "https://id.linkedin.com/in/christian-lie-06761a222",
+            "summary": "Sales Engineer PT. Industre Teknik Indonesia",
+            "location": "Kota Tangerang"
+        },
+        {
+            "name": "Christian Lie",
+            "link": "https://id.linkedin.com/in/christian-lie-021767b5",
+            "summary": "Marketing di Pt. Baria Bulk Terminal",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Christian Lie",
+            "link": "https://no.linkedin.com/in/chlie",
+            "summary": "Interim management * M&A integrations * project management * digital transformation * sourcing and negotiations * cross-border/culture experience * retail, telecom, public sector and more",
+            "location": "Bekkestua"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

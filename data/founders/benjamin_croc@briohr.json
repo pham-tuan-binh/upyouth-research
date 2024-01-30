@@ -1,0 +1,330 @@
+{
+    "public_identifier": "benjamin-croc-93669426",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/benjamin-croc-93669426/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221615Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=26ba3f2760f4b280fa1ce1238b50b7ae8d85f5f5d917cc8b31fed31808a31f6e",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/benjamin-croc-93669426/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221615Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7239fe5f363fb8f04fabe8155223d1595c1a482e9767bbb2488674d56cec968e",
+    "first_name": "Benjamin",
+    "last_name": "Croc",
+    "full_name": "Benjamin Croc",
+    "follower_count": 8178,
+    "occupation": "Cofounder & CEO at BrioHR",
+    "headline": "Cofounder & CEO at BrioHR (YC W21)",
+    "summary": null,
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Wilayah Persekutuan Kuala Lumpur",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "BrioHR",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/briohr",
+            "title": "Cofounder & CEO",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHrMhXDclqvcQ/company-logo_100_100/0/1579056676157?e=2147483647&v=beta&t=LCHth-aLqLOZso7y_gp-fIbzTR-ZG-DByE8jL9Ei7aY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/y-combinator",
+            "title": "YC W21",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/0/1673555092951?e=2147483647&v=beta&t=PD-V4liY5FyU2ywkU45XGknc9_UIxAk2uHRdeW47YWg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Lazada Group",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/lazada",
+            "title": "SVP Head of Strategy - CEO Office - Lazada Malaysia",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFLWq6zwV6npw/company-logo_100_100/0/1609837860144?e=2147483647&v=beta&t=fQ5NUFMv_ORu6o4Q_O1QAiCfxXI5cqOh-5Prdc1sTOk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/mckinsey",
+            "title": "Associate",
+            "description": null,
+            "location": "Kuala Lumpur, Malaisie",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFoUbUO_cH8SA/company-logo_100_100/0/1677676892044?e=2147483647&v=beta&t=_psTLf4ZxFx58Vx7-4Ve8AtJvnxpGgrikg0FGn9sMzk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "CMA CGM",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/cma-cgm",
+            "title": "Head of Global Finance Shared Services Center",
+            "description": null,
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQErbDTaXxx_JA/company-logo_100_100/0/1530519185365?e=2147483647&v=beta&t=yqBca26pginZfl_PAEdbB5Z76LRKzqXTM_ZkqIiWEVw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "company": "PwC",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/pwc",
+            "title": "Senior financial auditor",
+            "description": null,
+            "location": "France",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEMcCsKYUoUKw/company-logo_100_100/0/1658309646399?e=2147483647&v=beta&t=zWgPkgspgKPP3IXN_YfNHrhzGGD8WkZEZlDDuivh30s"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/insead/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_100_100/0/1593585120945?e=2147483647&v=beta&t=yaaaj-zcEyCugVp5pG1VgWqWbtrwlbcSySW2jui2iJg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Science (M.Sc.)",
+            "school": "NEOMA Business School",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/neoma-business-school/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_100_100/0/1573113253683?e=2147483647&v=beta&t=W-wtNrefa0fNgalWTJA4Fa8xfOowOjdk5fe_v6Ne5y0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "750 (98th percentile)",
+            "school": "GMAT",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://my.linkedin.com/in/nabil-oudghiri-870372b5",
+            "name": "Nabil Oudghiri",
+            "summary": "Cofounder & CTO at BrioHR (YC W21)",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/georg-chmiel-b579aa2",
+            "name": "Georg Chmiel",
+            "summary": "Co-Founder and Chair at Juwai-IQI / Company Director, Investor and Advisor",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/chunwei-edison-tan-767200107",
+            "name": "ChunWei, Edison Tan",
+            "summary": "Client Success Executive at BrioHR",
+            "location": "Puchong"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/oscar-jesionek",
+            "name": "Oscar Jesionek",
+            "summary": "CEO & Co-Founder at Fonos",
+            "location": "Bandar Raya Ho Chi Minh, Vietnam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/arveena-kaur-121383182",
+            "name": "Arveena Kaur",
+            "summary": "Client Success Specialist at BrioHR",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/thomas-legoff",
+            "name": "Thomas LE GOFF",
+            "summary": "CEO & Co-Founder at HR2O Asia",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/alexisbauduin",
+            "name": "Alexis Bauduin",
+            "summary": "Yolo Group - Founder & CEO",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://my.linkedin.com/in/francescachia",
+            "name": "Francesca Chia",
+            "summary": "Co-Founder at GoGet.my | WEF Young Global Leader | Alibaba UNCTAD eFounder",
+            "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia"
+        },
+        {
+            "link": "https://my.linkedin.com/in/rubinikandasamy",
+            "name": "Rubini Kandasamy",
+            "summary": "Client Success Manager at BrioHR",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/valentin-bor%C3%A9-a23a9858",
+            "name": "Valentin Bor\u00e9",
+            "summary": "Founder at TingTang Design",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/thomastempez",
+            "name": "Thomas TEMPEZ",
+            "summary": "Marketing Lead @BrioHR | Crypto Enthusiast",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://my.linkedin.com/in/diyana-kaseharom-2a5590141",
+            "name": "Diyana Kaseharom",
+            "summary": "Client Success Specialist at BrioHR",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/bryanchonghanhsiung",
+            "name": "Bryan Chong",
+            "summary": "Solution Consultant at BrioHR",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://fr.linkedin.com/in/teshana-vignes-97b078108",
+            "name": "Teshana Vignes",
+            "summary": "A creative thinker with a lively imagination",
+            "location": "Strasbourg"
+        },
+        {
+            "link": "https://my.linkedin.com/in/hafizuddinothman",
+            "name": "Hafizuddin Othman",
+            "summary": "UI UX Manager at BrioHR",
+            "location": "Shah Alam"
+        },
+        {
+            "link": "https://my.linkedin.com/in/matthieu-mertens-78b07348",
+            "name": "Matthieu Mertens",
+            "summary": "Product & Impact",
+            "location": null
+        },
+        {
+            "link": "https://my.linkedin.com/in/anusuya-krishnan",
+            "name": "Anusuya Krishnan",
+            "summary": "I am passionate about helping people to learn & grow, and I am always on the lookout for new and creative ways of enhancing people\u2019s lives by leveraging technology.",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "link": "https://my.linkedin.com/in/roslan-noor-8a704239",
+            "name": "Roslan Noor",
+            "summary": "CEO at Trans Data Management",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://my.linkedin.com/in/christopher-yee-46758285",
+            "name": "Christopher Yee",
+            "summary": "CEO at J Code Solution Sdn Bhd",
+            "location": "Selangor, Malaysia"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/rezakhosravi",
+            "name": "Reza Khosravi",
+            "summary": "IoT & LoRaWAN/NB-IoT/CAT-M1 Network Specialist at Smart Wireless Innovation Facility (SWIFt)",
+            "location": "Nottingham"
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Benjamin Croc",
+            "link": "https://fr.linkedin.com/in/benjamin-croc-89a565224",
+            "summary": "\u00c9tudiant \u00e0 IUT de Montpellier-S\u00e8te",
+            "location": "Montpellier"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,302 @@
+{
+    "public_identifier": "shyam-kalairajah",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Shyam",
+    "last_name": "Kalairajah",
+    "full_name": "Shyam Kalairajah",
+    "follower_count": 2927,
+    "occupation": "Co-Founder at Finku",
+    "headline": "Co-Founder at Finku (YC W22) | Ex-BCG",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Finku",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finku/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF6l8HCKkFfaA/company-logo_400_400/0/1696927526051?e=1714608000&v=beta&t=BsJTcBC9pLftKB6EQNZAyRvdzl-JVl5XzGDUb1lzSHU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Senior Associate",
+            "description": "Experience solving strategic problems facing multinational institutions across Asia Pacific (South East Asia and Australia), select case experience:\n\n1) Banking: Led transformation of SME banking teams to agile. Managed bankwide KPI setting process\n2) Telecommunications: Analyzed IT cost and organization structure throughout company. Led meetings with key IT management stakeholders to identify areas of excess spend\n3) Telecommunications: Created synergy uplift model for a client merging with a competitor\n4) Banking: Designed and implemented process improvements and digital initiatives to drive profit for corporate and commercial loan segment\n5) Banking: Reorganised Bank's Business Banking, Risk & Credit, IT functions\n6) Mining: Asset optimisation with a top 5 global gold mining company\n7) Public Sector (Government): Established and enhanced a special economic zone in a major South East Asian province\n8) Banking: Formed 5 year strategy for fast growing bank's retail banking division\n\nLead office Alumni Engagement and Social Impact Consulting teams for Associate cohort for 2019-2020",
+            "location": "South East Asia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714608000&v=beta&t=eSXExVNib1M0peiYsJWBYhlu2bFTrTTghLBYBOjQYzQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Associate",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714608000&v=beta&t=eSXExVNib1M0peiYsJWBYhlu2bFTrTTghLBYBOjQYzQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "Oliver Wyman",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/oliver-wyman/",
+            "title": "Management Consultant intern",
+            "description": "Case experience: Set up best-in-class sovereign venture capital Fund",
+            "location": "Dubai, United Arab Emirates",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHe6ToOXI7ggw/company-logo_400_400/0/1688572318376/oliver_wyman_logo?e=1714608000&v=beta&t=o5Cvpk4Be_PwHaWIsL5NxrYFvCqdw-pK8_F-devABAk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Barclays Investment Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/barclays-corporate-and-investment-bank/",
+            "title": "Macroeconomic Research intern",
+            "description": null,
+            "location": "London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHejwlUyjHyJg/company-logo_400_400/0/1663668016576/barclays_corporate_and_investment_bank_logo?e=1714608000&v=beta&t=Xz88H_F8ys16OEvOLmM3G668-a_T2MNuxp52y1eHJo4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Frontclear",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/frontclear/",
+            "title": "Macroeconomic Research intern",
+            "description": "Analysed the currency risk faced by Frontclear when offering guarantees on repo transactions between African & European banks. \n\nGoal is to improve developing country banks\u2019 access to international financial markets.",
+            "location": "Amsterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHpGnNgYpedvw/company-logo_400_400/0/1675103201767/frontclear_logo?e=1714608000&v=beta&t=zzThpBR0kCoIaYDQ_2slnpRDAwIB-lmSziafiHgQsvI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Point72 Asset Management",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/point72-asset-management-l-p-/",
+            "title": "Equity Research intern",
+            "description": "Insight into hedge fund industry. \n\nChosen to interview with CNBC on Hedge Fund Industry.",
+            "location": "Stamford, US",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQH3lvEFcMCVrQ/company-logo_400_400/0/1688392818996/point72_asset_management_l_p__logo?e=1714608000&v=beta&t=kcF1RBx4aA2dFBzHHYWkZMciUvf-bbuoqTzmo_LIhrc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Brown University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/brown-university/",
+            "title": "Data Analysis intern",
+            "description": "Study into improving how social networks (caste, village, pachayat) can be leveraged to improve Tuberculosis Direct Observation Treatment rates in South India.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEK5eP7BQ975w/company-logo_400_400/0/1630594275590/brown_university_logo?e=1714608000&v=beta&t=ytqdpoYFYolfNb-112aYpAvR0M-At1CNJY7maAfgSts"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": "Economics, B.A & M.A",
+            "school": "University of Cambridge",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833279033/university_of_cambridge_logo?e=1714608000&v=beta&t=KrBakn6cuCgNYnpf0cA7ORdfyjoubM9PrL6qP-yhcy4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "High school",
+            "school": "International Baccalaureate",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH1trVeMU7kyA/company-logo_400_400/0/1631325578760?e=1714608000&v=beta&t=Kgfka1zi3aLe_98VsMhKefSU7340LJpVEKsQXCGxvpY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Tamil"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Cleary Award",
+            "issuer": "Fred Cleary",
+            "issued_on": null,
+            "description": "Grant awarded by Magdalene College (Cambridge University) Alumnus, Fred Cleary, to study the effects of the Common Agricultural Policy on French Dairy farmers. "
+        },
+        {
+            "title": "Member of England Chess team",
+            "issuer": "English Chess Federation",
+            "issued_on": null,
+            "description": "Qualified to play chess for England at age 12 after gaining two half norms. Represented  country in Poland, Czech Republic and Gibralter. In Poland I was the highest scorer in the English team, and as a team we placed 4th place out of more than 20 national teams, winning a cup. "
+        },
+        {
+            "title": "Tan Bursary",
+            "issuer": "Boon Seng Tan",
+            "issued_on": null,
+            "description": "Grant awarded by Cambridge University alumnus and Hong Kong businessman Boon Seng Tan to help fund my further studies at Cambridge University. "
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yosia-sugialam-55b21364",
+            "name": "Yosia Sugialam",
+            "summary": "CEO / Co-Founder at Paper.id",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/susli",
+            "name": "Susli Lie",
+            "summary": "Partner at Monk's Hill Ventures | YC Founder turned VC | Proud Mom",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mfajark",
+            "name": "Fajar Kuntoro",
+            "summary": "Co Founder - CTO @ PINA Indonesia | Building Future Finance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Finnix (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christian-hermawan-26293952",
+            "name": "Christian Hermawan",
+            "summary": "Co Founder PINA Indonesia, President Commissioner Trust Sekuritas, Portfolio Investors",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeremylimman",
+            "name": "Jeremy Limman",
+            "summary": "Co-Founder & CPO at Paper.id | Building B2B Payment Solution",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gavin-tan",
+            "name": "Gavin\ud83c\udfd7\ufe0f Tan",
+            "summary": "CEO & Co-founder at Brick - we're hiring!",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

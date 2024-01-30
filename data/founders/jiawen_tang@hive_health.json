@@ -1,0 +1,501 @@
+{
+    "public_identifier": "jiawentang",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jiawentang/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221558Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=64f351235f4b6103d489162a5edadf12c62150d053fbbe92593ab14c160d5342",
+    "background_cover_image_url": null,
+    "first_name": "Jiawen",
+    "last_name": "Tang",
+    "full_name": "Jiawen Tang",
+    "follower_count": 1838,
+    "occupation": "President & Co-Founder at Hive Health (YC S21)",
+    "headline": "President & Co-Founder @ Hive Health | Stanford MBA | Harvard MPA/ID",
+    "summary": "Join the Hive Team: bit.ly/HiveHealthCareers",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Hive Health (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ourhivehealth/",
+            "title": "President & Co-Founder",
+            "description": "https://bit.ly/HiveHealthCareers | Full stack digital health insurance for the Philippines",
+            "location": "Philippines, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHuuhoIe6r_pw/company-logo_400_400/0/1630580632297/our_hive_health_logo?e=1707955200&v=beta&t=UwlEGDTzkGAKojX0qvNmndqvL1Ei7PZVORqP970lXrM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "International Monetary Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/international-monetary-fund/",
+            "title": "Co-Author and Project Lead | Africa COVID-19 Nowcast",
+            "description": "Co-author of IMF Working Paper \"Impact of COVID-19: Nowcasting and Big Data to Track Economic Activity in Sub-Saharan Africa\" (May 2021)\n\nCollaboration facilitated by Harvard College Data Analytics Group",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEBM8ZXjvt56g/company-logo_400_400/0/1630488929769/international_monetary_fund_logo?e=1707955200&v=beta&t=Q09hpw6eWMMJyYkAJHjOWR4_dKrNhr1F-BkGkiXF8O0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "The World Bank, Digital Development Global Practice",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-world-bank/",
+            "title": "Consultant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFpviKDVKdyrQ/company-logo_400_400/0/1697547918462/the_world_bank_logo?e=1707955200&v=beta&t=B1YKixwPUWxzWn9dWgck1AUH6x_-TbAUWZZGpgdz1n8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "United Nations",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/united-nations/",
+            "title": "Strategic Planning Graduate Intern | Executive Office of the Secretary General",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEJd9iXSB3aTQ/company-logo_400_400/0/1630553832803/united_nations_logo?e=1707955200&v=beta&t=n5DNMb_PKe_eTgPjxB8o4fbddIyEqShz--XoWNAh_2g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2020
+            },
+            "company": "Harvard Ministerial Leadership Program",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/harvard-ministerial-leadership-program/",
+            "title": "Research Lead | Kenya Ministry of Public Service, Youth and Gender Affairs",
+            "description": "Reported directly to Cabinet Secretary for Kenya's Ministry of Public Service, Youth and Gender Affairs. \n\nAssessed effectiveness of Kenya's national Youth Enterprise Development Fund in achieving its youth economic empowerment goals.",
+            "location": "Nairobi, Kenya and Cambridge, MA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGQSeErnhroVw/company-logo_400_400/0/1631354781152?e=1707955200&v=beta&t=TfRiHGtJWzPn79BkDl74RAFggYd7DNO6RrfthcTlfKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Oliver Wyman",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/oliver-wyman/",
+            "title": "Engagement Manager",
+            "description": "Retail & Business Banking Practice (Financial Services Group) with focus on payments and fintech\n\nLed 3-5 person consulting teams in project execution for strategy, operations, and transformation of customer financial services and products across financial institutions and retailers\n\nServed as Global Co-Chair of EMPOWERED (Employee Resource Group focused on Racial & Ethnic Diversity) and Head of Columbia Entry-Level Recruiting",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHe6ToOXI7ggw/company-logo_400_400/0/1688572318376/oliver_wyman_logo?e=1707955200&v=beta&t=drENjb7NqGR-A4gEo4jQnWzL_FNYSqzOyqxozxnP6NU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Oliver Wyman",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/oliver-wyman/",
+            "title": "Summer Consultant",
+            "description": "Communications, Media & Technology",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHe6ToOXI7ggw/company-logo_400_400/0/1688572318376/oliver_wyman_logo?e=1707955200&v=beta&t=drENjb7NqGR-A4gEo4jQnWzL_FNYSqzOyqxozxnP6NU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "TechnoServe",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/technoserve/",
+            "title": "Volunteer Consultant",
+            "description": "Small-holder Market-Led Project (SMLP) - Designed agriculture commercialization operating models with goal of increasing incomes and food security for rural communities in Swaziland",
+            "location": "Mbabane, Swaziland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHhv68ebD8QJg/company-logo_400_400/0/1630628699886/technoserve_logo?e=1707955200&v=beta&t=E-88e1B-7qSS_0sfrjOmMYFeQ3fFoIIXIXmzsZy9wUQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "Columbia University in the City of New York",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/columbia-university/",
+            "title": "Teaching Assistant | Intermediate Macroeconomics",
+            "description": "Department of Economics, Professors Ricardo Reis and Jon Steinsson",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1707955200&v=beta&t=0TRetUNL-hH85JeqZ2Ca1-xnNdjkXVigWa4EyyNKIIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "Columbia University in the City of New York",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/columbia-university/",
+            "title": "Various work-study roles | Center for Student Advising",
+            "description": "- Peer Adviser (2013-2015)\n- Student Coordinator for Visiting Students Program (2011-2012)\n- Administrative Assistant (2011-2012)",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1707955200&v=beta&t=0TRetUNL-hH85JeqZ2Ca1-xnNdjkXVigWa4EyyNKIIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "New York State Department of Financial Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nydfs/",
+            "title": "Capital Markets Intern",
+            "description": "Quantitative analysis and research and analysis of regulated banking and insurance entity investment portfolios",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHp1emFo1o7Yw/company-logo_400_400/0/1658164744878/nydfs_logo?e=1707955200&v=beta&t=0aHlbQDKcMDfqzLaoHhWWXFk-XF_g1-Dm2OnSXD_ygI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2023
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Stanford University Graduate School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1707955200&v=beta&t=9Z0siHuLtJVnaCqRg5VL4sFnakdWT4sVOV3OqfMx6NQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Master in Public Administration - International Development (MPA/ID)",
+            "school": "Harvard Kennedy School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGz7JtcRoH-Hg/company-logo_400_400/0/1631329665234?e=1707955200&v=beta&t=VdIAhoAXvhfjtKWkDK298S1wdLuUklC85f4UgjuYcjg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Economics-Political Science",
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "school": "Columbia University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1707955200&v=beta&t=0TRetUNL-hH85JeqZ2Ca1-xnNdjkXVigWa4EyyNKIIk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The Wheeler School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFKnS2cRLbTlQ/company-logo_400_400/0/1631314099119?e=1707955200&v=beta&t=zwn9vL_-uXBuffZRVEBGi5FKrfHmzTSHcGctj3foHYk",
+            "grade": null,
+            "activities_and_societies": "Cum Laude Society, EcoReps, Model UN, Horseshoe Crab Research Team"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "org_name": "Columbia Fed Challenge Team 2014",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Phi Beta Kappa",
+            "issuer": "Columbia College, Columbia University",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Asian Women In Business (AWIB) Scholarship Award",
+            "issuer": "Asian Women In Business (AWIB)",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "description": "The Asian Women In Business Scholarship encourages and promotes exceptional Asian female students who have demonstrated scholarship, leadership, community service and/or entrepreneurship. The AWIB Scholarship Fund annually awards merit-based scholarships to \"students who have the attributes to be our next generation of leaders.\""
+        },
+        {
+            "title": "Phyllis Stevens Sharp Fellowship in American Politics",
+            "issuer": "Columbia University Political Science Department",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "description": "The Phyllis Stevens Sharp Endowment Fund provides stipends each year during either academic semester or the summer for one or more Columbia College or School of General Studies students majoring or concentrating in political science to support research in American politics or policymaking or otherwise uncompensated internships in a government office, agency or other organization serving the public."
+        },
+        {
+            "title": "Columbia Global Fellows in Sustainable Development",
+            "issuer": "Columbia University Earth Institute",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2015
+            },
+            "title": "Political Science Senior Thesis",
+            "description": "Received Columbia University Political Science Department Honors for senior thesis entitled, \"Economic Geographies of U.S. Trade Policy: An Empirical Study of the Effects of Local Factor Endowments on Congressional Voting for Free Trade Agreements.\"",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "title": "Strategic Adviser",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "Catalyze",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/catalyze-eswatini/",
+            "description": "http://catalyzeswaziland.org",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE8LFlkgioZjg/company-logo_400_400/0/1631372687501/catalyze_swaziland_logo?e=1707955200&v=beta&t=i_Ti9sAo6mYU_NPAq247WEcsHGPLgv-DdrRjhHX-RUI"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/camille-ang-19224647",
+            "name": "Camille Ang",
+            "summary": "CEO & Co-Founder at Hive Health (YC S21) | Harvard MBA & MPA/ID",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abhisatya",
+            "name": "Abhi Satyavarapu",
+            "summary": "Stanford MBA and Harvard MPA Candidate",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cherylcampos",
+            "name": "Cheryl Campos",
+            "summary": "Stanford GSB - MBA Candidate | Harvard | Co-Founder, LaFamilia Foundation",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/frandsensarah",
+            "name": "Sarah Frandsen",
+            "summary": "McKinsey | MBA @ Stanford | MPA @ Harvard",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marta-milkowska-a2181a7",
+            "name": "Marta Milkowska",
+            "summary": "Consultant at BCG | Med-Tech, Digital Health, Dtx | Stanford MBA | Harvard MPA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lucy-montgomery",
+            "name": "Lucy Montgomery",
+            "summary": "Building for women athletes | Stanford MBA | Harvard MPA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chenteresa",
+            "name": "Teresa Chen",
+            "summary": "Stanford MBA | Harvard MPA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aliceyingjuchen",
+            "name": "Alice Chen",
+            "summary": "BCG | HKS MPA/ID | MIT Sloan",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diana-ayoub-1366a376",
+            "name": "Diana Ayoub",
+            "summary": "MBA Candidate at MIT Sloan | MPA/ID Candidate at Harvard Kennedy School",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michellexie148",
+            "name": "Michelle Xie",
+            "summary": "Co-founder & CEO, Stellation Care",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jiawen Tang",
+            "link": "https://www.linkedin.com/in/jiawen-tang-23598020b",
+            "summary": "Actively looking for Full-Time SDE Opportunities \uff5c Graduate Student",
+            "location": "Houston, TX"
+        },
+        {
+            "name": "Jiawen Tang",
+            "link": "https://cn.linkedin.com/in/jiawen-tang-51259928",
+            "summary": "Account Director at BIPO Service (Shanghai) Limited\n---- HR Service Profession ----\n---- Powered By BIPO",
+            "location": "Changning District"
+        },
+        {
+            "name": "Jiawen Tang",
+            "link": "https://www.linkedin.com/in/jiawen006",
+            "summary": "AI @CMU \u201925, CS @UoL \u201823",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "name": "Jiawen Tang",
+            "link": "https://cn.linkedin.com/in/jiawen-tang-409734104",
+            "summary": "Deloitte - Associate Analyst",
+            "location": "Huangpu District"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

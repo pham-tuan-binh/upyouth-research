@@ -1,0 +1,268 @@
+{
+    "public_identifier": "smitibhattdeorah",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/smitibhattdeorah/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221555Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2250162ab6d1aee0667d1c3039ed12d76dd17197829d54db3f0529aba66d619a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/smitibhattdeorah/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221555Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=067ee997510d136d4ae36da440f88d64d9a5e417132c680d86caeb9389132b99",
+    "first_name": "Smiti",
+    "last_name": "Bhatt Deorah",
+    "full_name": "Smiti Bhatt Deorah",
+    "follower_count": 10216,
+    "occupation": "Co-founder and COO at Advantage Club",
+    "headline": "Co-Founder & Chief Operating Officer at Advantage Club (YC S21) | TEDx Speaker | ET Inspiring Woman Leader 2023 | Times Ascent Entrepreneur of the Year 2023 | BW BusinessWorld Disrupt Best Entrepreneur in Technology 2023",
+    "summary": "After spending a couple of years in Microsoft Redmond writing code, talking to SQL Azure customers and learning how to manage them, I decided to ditch the 9am-5pm life and switch to a 9am-9am life! As a founder at Advantage Club, I wear various hats, focusing on Business Development, Marketing, Hiring, Content and Customer Relations. I'm a people person and love making new connections. I truly believe that real business associations are a combination of business synergy plus friendships.\n\nI'm blessed to have been able to transform Advantage Club from a small startup to a multi-million dollar venture. Ping me to talk anything HR, Business, Sales, Tech, Startups or if you simply want to enjoy some Harry Potter trivia :)",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Advantage Club",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/advantageclub",
+            "title": "Co-founder and COO",
+            "description": "Advantage Club is a global platform for employee engagement and financial wellness including perks, rewards and early wage access. We bring multiple benefits on a single platform and are running successfully with 370+ companies across 60+ countries. I run business development and marketing here.",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFwR5zjO9CnHg/company-logo_400_400/0/1688150143781/advantageclub_logo?e=1706140800&v=beta&t=Gkk-i3uarEHkDok5bABpFMPTC3f5JifKfviEskO-8ns"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Old Advantage Club",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder and Chief Operating Officer",
+            "description": "Advantage Club during this time was focused on providing employee perks to SME's and then eventually pivoted to a better model in 2019.",
+            "location": "Gurgaon, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+            "title": "Software Engineer",
+            "description": "- Auto Verify for SQL dump analysis and defect interactions (June 2013 to present)\n\n- SQL Azure Configuration Management Framework (January 2013 to May 2013)\n\n- Data Quality as a Service (DQaaS) on Windows Azure. (April 2012 to December 2012)",
+            "location": "Remond, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419/microsoft_logo?e=1706140800&v=beta&t=x-oH4uYaAWjMOXkV_Aa1vsW1coa4k0mRrAzByJo59P8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Zynx Health",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zynx-health",
+            "title": "technology intern",
+            "description": "developer for a content management system for hospitals and medical companies, using extended javascript 3.4.0 for front end and MSSQL for backend development.",
+            "location": "Greater Los Angeles Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEeSuc_r_YZaQ/company-logo_400_400/0/1631722441879/zynx_health_logo?e=1706140800&v=beta&t=VKaXYBkumDERiunaf6rTr9eSIm34_ugsXuHUcxe5ATE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2010
+            },
+            "company": "Reliance",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/reliance",
+            "title": "project intern",
+            "description": null,
+            "location": "Mumbai Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGL2p38Nc6Qkg/company-logo_400_400/0/1661518369816/reliance_logo?e=1706140800&v=beta&t=Csnrd3q-3ZEzMmWQzhhzlqtH-pHpEKLU41YZGxSyYo4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951/y_combinator_logo?e=1706140800&v=beta&t=Zhn2tIxdQvjsRaKubwfRzX7NL2nvLoUOuPu32sapDuM",
+            "grade": "S21",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Master's degree",
+            "school": "UCLA",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2477/",
+            "description": "MS in Computer Science",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831139/ucla_logo?e=1706140800&v=beta&t=TfFhpLwDHhG41knRm8B11FHuLAtNhbMgwTpeVO0ANAE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Tie Delhi, We-Connect",
+            "title": "Dec 2014 - Present",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 9260,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/preeti-reddy-9642824",
+            "name": "Preeti Reddy",
+            "summary": "Erstwhile CEO & Chairwoman- South Asia, Insights Division, Kantar  |  Erstwhile Chairperson- CII-IWN (West)  |  Board Member- MMA India",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vishpala-reddy-b9b80944",
+            "name": "Vishpala Reddy",
+            "summary": "CHRO at Philips Indian Subcontinent, Ex-APAC Regional HR Director Uber, Business World 'Most Influential Women in HR 2022-23', LinkedIn Power Profile 2018-19",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shirin-sehgal-90259311",
+            "name": "Shirin Sehgal",
+            "summary": "Chief People Officer | PwC India ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kanishk-gaur-90a331103",
+            "name": "Kanishk Gaur",
+            "summary": "Senior Vice President - Alliances at Advantage Club (formerly, Work Advantage)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/srimathi-shivashankar-aab9ab20",
+            "name": "Srimathi Shivashankar",
+            "summary": "CVP and Global Head - EdTech Services Business.  Distinguished Alumna Awardee- NIT. WeQual Winner 2021 in Business Transformation Category.  Top 25 Women leaders in Consulting for 2022 and 2023 by The Consulting Report.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/simran-punjabi-63966a133",
+            "name": "Simran Punjabi",
+            "summary": "Associate Vice President - Alliances",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/natasha-singh-b89b1b13",
+            "name": "Natasha Singh",
+            "summary": "Head HR India & China, Sopra Banking Software ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sourabh-deorah",
+            "name": "Sourabh Deorah",
+            "summary": "Founder & CEO @ Advantage Club | Employee Engagement, Flexible Benefits",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/radhika-ahluwalia-88079632",
+            "name": "Radhika Ahluwalia",
+            "summary": "Executive Assistant to Co-Founder & COO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shailaja-venkat-iyer-444089129",
+            "name": "Shailaja Venkat Iyer",
+            "summary": "EVP, Global CHRO and India Country Head",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "For me personally, the support received from the entire ecosystem, existing investors, and other fellow founders was pivotal and also showed the\u2026",
+            "link": "https://www.linkedin.com/posts/sourabh-deorah-a4912b1a_advantageclub-founders-startups-activity-7041343539615514624-bp-9",
+            "activity_status": "Liked by Smiti Bhatt Deorah"
+        },
+        {
+            "title": "Sharing a few #tips on how women in #leadership roles can make significant contributions not only in their businesses but also in the day-to-day\u2026",
+            "link": "https://www.linkedin.com/posts/smitibhattdeorah_8-tips-that-every-women-should-follow-in-activity-7041305579406901248-_TjB",
+            "activity_status": "Shared by Smiti Bhatt Deorah"
+        },
+        {
+            "title": "Are you looking to gain insights on the latest HR strategies and developments in the field? Listen to our CSO & Head HR, Raj T., as he shares his\u2026",
+            "link": "https://www.linkedin.com/posts/advantageclub_advantageclub-hrstrategy-theshapeofwork-activity-7041023369642676224-JZa3",
+            "activity_status": "Liked by Smiti Bhatt Deorah"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQFbSJqut4Ektg/group-logo_image-shrink_48x48/0/1638357288123?e=1698922800&v=beta&t=yGR_i2xuSDO-LKGUrFuRkqwfg0lR1I9kD3_D9IWiiCk",
+            "name": "International Employee Benefits Group",
+            "url": "https://www.linkedin.com/groups/12583018"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHrOUH4jq4oPQ/group-logo_image-shrink_400x400/0/1631008655609?e=1698922800&v=beta&t=8DUtxC9YR2Pk5qb40151nfdsRTrHbxTgn4JEFpY7dbk",
+            "name": "Philippines HR Group",
+            "url": "https://www.linkedin.com/groups/6770145"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

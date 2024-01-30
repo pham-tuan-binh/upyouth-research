@@ -1,0 +1,263 @@
+{
+    "public_identifier": "donpansacola",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/donpansacola/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221607Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=de11353c0f97d6e03ff67914aec1e2b836162036e9fcaa2c431b1046299fcd49",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/donpansacola/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221607Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=63e7255bd59ba744d6b0dd60d5a28cbd955a09295670a14b6e458dea2a9bac75",
+    "first_name": "Don",
+    "last_name": "Pansacola",
+    "full_name": "Don Pansacola",
+    "follower_count": 2858,
+    "occupation": "CEO, Co-Founder, Senior Software Engineer at NextPay",
+    "headline": "CEO and Co-Founder at NextPay (YC W21)",
+    "summary": "Don is the CEO and Co-founder of NextPay.ph, the best alternative to bank accounts for small businesses and entrepreneurs in the Philippines.\n\nHis background in software engineering, blockchain, distributed technologies, and digital product design made him integral to the growth and success of a major tech startup, OpenDNS. He was part of the core product team who saw its eventual acquisition by Cisco Systems, a Fortune 100 company.\n\nHis passion for building superior products and business model innovation allowed him to follow the path of entrepreneurship, building his career throughout the US, Canada, and the Philippines. This has given him the unique opportunity to take the best practices abroad and instill it in the local Filipino landscape, while building a world class fintech product that can positively impact the lives of millions.",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "NextPay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nextpayph",
+            "title": "CEO, Co-Founder, Senior Software Engineer",
+            "description": "NextPay is the best alternative to bank accounts for small businesses and entrepreneurs in the Philippines. Lowering the barriers for growing businesses, NextPay operates on a pay-per-use model and does not require any set-up fees, maintaining balances, or ridiculously steep requirements.\n\nThrough the platform, businesses can collect customer payments via digital invoices, manage their company money, and pay their employees, or suppliers, or bills in batches\u2013to any bank or e-wallet.\n\nSince it started in 2020, the digital platform has processed more than P3 billion worth of transactions for hundreds of companies in the Philippines.\n\nI'm a co-founder, CEO, and commit code from time to time.",
+            "location": "Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEJsC5CDngSow/company-logo_400_400/0/1630585855002/nextpayph_logo?e=1711584000&v=beta&t=jMew6OhR6obJLYJEXGH-MD2nXyxt9Igd6PgDeKlzdaw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Vessel Innovation Design Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/11833456/",
+            "title": "CTO",
+            "description": "Vessel is an Innovation Design firm that was created to help established companies solve a problem which they are simply not equipped to solve: disruptive competition from the future.\n\nhttps://vesselgroup.io",
+            "location": "Metro Manila, Philippines",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Cisco Systems Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cisco",
+            "title": "Senior Software Engineer",
+            "description": "Formerly OpenDNS (before they were acquired by Cisco Systems on August 2015), I was part of the core team that built Umbrella, a cloud security product that debuted in November 2012. Since then, I've worked with several teams on different internal projects, with a focus on building things aimed at enabling and delighting users.\n\nhttp://umbrella.cisco.com\nhttp://www.opendns.com",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_400_400/0/1688482473854/cisco_logo?e=1711584000&v=beta&t=QDVUpE2CVNhzv9n08MfZ8pUHICBKbJPDVjBclMSnvx4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "COCAHALA",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cocahala",
+            "title": "Composer/Arranger, Producer, Co-founder",
+            "description": "I'm a songwriter, producer and musician for alternative indie rock band COCAHALA.\n\nhttps://soundcloud.com/cocahala",
+            "location": "Vancouver, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQG7vekqCAi1dw/company-logo_400_400/0/1631436633064/cocahala_logo?e=1711584000&v=beta&t=ijASt4Ff177ZyfbPNNezWUpoeF80Jn-VVKHuoE9OGrI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "CleanClub",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cleanclub",
+            "title": "CTO, Co-founder",
+            "description": "CleanClub is a luxury residential housekeeping service.\n\nhttp://www.cleanclub.co",
+            "location": "Vancouver, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF4anyEiA91Bg/company-logo_400_400/0/1631316232867?e=1711584000&v=beta&t=czPkLYWVy8BXUU_OdoVmcA9F6rl4fW-I9SyVjBlki_M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "QuikPiq",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/quikpiq",
+            "title": "Designer and Developer, Co-founder",
+            "description": "QuikPiq is a mobile and web app that allows for users to quickly poll friends through the use of photos.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUoy5_O_UhQA/company-logo_400_400/0/1631302167324?e=1711584000&v=beta&t=orPDGrKVcxzwRBAkBl0WRoX6l13zI24fH7HZKtpldqg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2010
+            },
+            "company": "Red Rocket Creative Strategies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/red-rocket-creative-strategies",
+            "title": "Lead Web Developer",
+            "description": "Red Rocket Creative is a digital creative agency composed of a multi-disciplinary team of marketers, brands strategists, designers and web developers, backed by strong project management.\n\nI was brought in to jumpstart the in-house web development department.",
+            "location": "Vancouver, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGxntuObIpbvg/company-logo_400_400/0/1698809613228/red_rocket_creative_strategies_logo?e=1711584000&v=beta&t=l7IIeDlWB1D_i54UPu33QWLjsueXquvGEwxtlVyT8iw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "Simon Fraser University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/simon-fraser-university",
+            "title": "Instructor",
+            "description": "I served as an instructor for IAT100 classes at Simon Fraser University.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1711584000&v=beta&t=8xIiLNHXYrsAbVqctxJy2er41IlXqUqcupVN2ESygH8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Interactive Arts and Technology",
+            "degree_name": "Bachelor of Arts",
+            "school": "Simon Fraser University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/simon-fraser-university",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1711584000&v=beta&t=8xIiLNHXYrsAbVqctxJy2er41IlXqUqcupVN2ESygH8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": null,
+            "degree_name": "Highschool",
+            "school": "PAREF Southridge",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 2776,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/anfernyvanta",
+            "name": "Anferny Vanta",
+            "summary": "Software Engineer at NextPay (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/luis-sia-356877148",
+            "name": "Luis Sia",
+            "summary": "Co-Founder @ PayMongo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stefano-fazzini-9192396",
+            "name": "Stefano Fazzini",
+            "summary": "CEO, MetroMart - WE ARE HIRING!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/plazaf",
+            "name": "Francis Plaza",
+            "summary": "Co-Founder of PayMongo. Studied computer science and economics at MIT. Did multiple software engineering jobs, started a few startups. Forbes 30 under 30.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kimberlyyao",
+            "name": "Kimberly Yao",
+            "summary": "Co-Founder and Group CEO at CloudEats ",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQF9xe2W43ez6Q/group-logo_image-shrink_48x48/0/1550690757352?e=1704402000&v=beta&t=nyHfc9qv1R0KEsNHxnXlukM40U7ySJWm_mNXPO-51gY",
+            "name": "FinTech 20/20",
+            "url": "https://www.linkedin.com/groups/50424"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

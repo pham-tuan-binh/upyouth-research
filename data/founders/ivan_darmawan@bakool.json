@@ -1,0 +1,364 @@
+{
+    "public_identifier": "ivan-darmawan-850887b1",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ivan-darmawan-850887b1/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221319Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b1b72df948152d17ae331626c218f875dd80d1d56aab3ec9fe5afc435cd08b91",
+    "background_cover_image_url": null,
+    "first_name": "Ivan",
+    "last_name": "Darmawan",
+    "full_name": "Ivan Darmawan",
+    "follower_count": 2693,
+    "occupation": "Co-Founder at BAKOOL (YC W22)",
+    "headline": "Co-Founder at BAKOOL | Y Combinator W22",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "BAKOOL (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bakool/",
+            "title": "Co-Founder",
+            "description": "Group buying for fresh produce in Indonesia's tier 2 cities",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFsrmGbJHGAOA/company-logo_400_400/0/1671507977175/bakool_logo?e=1712793600&v=beta&t=LoMc5rnRXRhVZYNvdQ5vzO3uOAOfM-4iTMo_ea9eAXI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "Batch Winter 2022",
+            "description": null,
+            "location": "Silicon Valley, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Traveloka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traveloka/",
+            "title": "Country Business Manager",
+            "description": "Traveloka is South East Asia's #1 Travel and lifestyle app. Incubated and led business growth in Malaysia, Singapore, and Australia for Xperience vertical from ground up",
+            "location": "Malaysia, Singapore and Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_400_400/0/1700635813325/traveloka_logo?e=1712793600&v=beta&t=uMnSTR8Wpy2Z3SlvBYZeu8EHfHV_hKAIA4MaiKYq5gU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Traveloka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traveloka/",
+            "title": "Revenue & Growth Management",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_400_400/0/1700635813325/traveloka_logo?e=1712793600&v=beta&t=uMnSTR8Wpy2Z3SlvBYZeu8EHfHV_hKAIA4MaiKYq5gU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Business Development Strategy & Solutions",
+            "description": "Grab is South East Asia\u2019s leading ride-hailing company providing multi-modal transportation, delivery, and financial services",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Business Improvement ",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "YCP Solidiance",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ycpsolidiance/",
+            "title": "Business Consultant",
+            "description": "YCP Solidiance is a corporate strategy consulting firm specializes in advising multinational and top 500 Asian corporations on growth in Asia. Led projects in Indonesia and Thailand on consumer goods, automotive, property, and education sectors.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEXGELudefMTg/company-logo_400_400/0/1630594253801/solidiance_logo?e=1712793600&v=beta&t=bGGgQvQ874wUSs_AfnfC2tGuDCfDAUrQ-h3ugvX0ZFs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "Sinarmas Forestry",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sinarmasforestry/",
+            "title": "Material and Warehouse Management",
+            "description": null,
+            "location": "Tangerang Selatan, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFcSeIiKzd2dA/company-logo_400_400/0/1631329790092?e=1712793600&v=beta&t=YYw6m-uLDX65BKG4oFY8fCnaryS_6aseb_AiGvxCSxs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Maersk Line, Limited",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/maersk-line-limited/",
+            "title": "Logistics and Warehouse Operations",
+            "description": null,
+            "location": "Jakarta Pusat, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG_S_zB_nZajQ/company-logo_400_400/0/1684849794358/maersk_line_limited_logo?e=1712793600&v=beta&t=WCvvkqiXn0mmKXsX9Op8OedlNwnzS_mPZFJ7O2oUToo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "industrial and systems engineering",
+            "degree_name": "Bachelor of Science (B.S.)",
+            "school": "University of Southern California",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHatTfEv4Af6w/company-logo_400_400/0/1631312619853?e=1712793600&v=beta&t=ESjC8Pmxfnj_288_Q1x2ZbrFSvjquriiEpOU5LuS8J0",
+            "grade": null,
+            "activities_and_societies": "USC Association of Indonesian Students (ASIS)"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Industrial Engineering",
+            "degree_name": "Associate\u2019s Degree",
+            "school": "Shoreline Community College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGEdWJVziauHQ/company-logo_400_400/0/1631314334817?e=1712793600&v=beta&t=wTNuF4t6-i4bZM241BoeNkCScBEh5RyUHsroIbUVsQg",
+            "grade": null,
+            "activities_and_societies": "Phi Theta Kappa"
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "org_name": "USC ASIS (Association of Indonesian Students)",
+            "title": "VP of Operations",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "org_name": "PERMIAS LA (The Indonesian Student Association in Los Angeles)",
+            "title": "VP of External Relations",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/stephanie-wongsoredjo",
+            "name": "Stephanie Wongsoredjo",
+            "summary": "Co-Founder at BAKOOL (Y-Combinator W22) | Global Shaper World Economic Forum",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chandni-chainani",
+            "name": "Chandni Chainani",
+            "summary": "Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/williamtanuwijaya",
+            "name": "William Tanuwijaya",
+            "summary": "Co-founder & Co-Chairman at GoTo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cheryl-pangestu",
+            "name": "Cheryl Pangestu",
+            "summary": "VP of Products at Dealls Jobs (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mfajark",
+            "name": "Fajar Kuntoro",
+            "summary": "Co Founder - CTO @ PINA Indonesia | Building Future Finance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marcella-moniaga-077a97a0",
+            "name": "Marcella Moniaga",
+            "summary": "Co-Founder and CFO at Astro",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Ivan Darmawan",
+            "link": "https://id.linkedin.com/in/ivan-darmawan-a00003110",
+            "summary": "Formulator and Quality Control Manager",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Ivan Darmawan",
+            "link": "https://id.linkedin.com/in/ivan-darmawan-593379146",
+            "summary": "Senior Sales Coating at PT Adyabina Putramas",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "name": "Ivan Darmawan",
+            "link": "https://id.linkedin.com/in/ivandarmawan",
+            "summary": "Scrum Organization Craftsman",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Ivan Darmawan",
+            "link": "https://id.linkedin.com/in/ivan-darmawan-457791b1",
+            "summary": "Project Manager di PT. Livia Andalan Indonesia",
+            "location": "Gunung Sindur"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

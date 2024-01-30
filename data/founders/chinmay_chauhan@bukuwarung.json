@@ -1,0 +1,476 @@
+{
+    "public_identifier": "chinmaychauhan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/chinmaychauhan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221216Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9807003acf17bb47c9135e303741a0cf5090898bf08706db5ea28ff3651fe998",
+    "background_cover_image_url": null,
+    "first_name": "Chinmay",
+    "last_name": "Chauhan",
+    "full_name": "Chinmay Chauhan",
+    "follower_count": 19175,
+    "occupation": "Angel Investor & Advisor at Angel Investor",
+    "headline": null,
+    "summary": "I'm passionate about helping early stage founders succeed and create meaningful impact for humanity & planet: \n\n\u2022 Co-Founder @BukuWarung (YC S20), empowering 60 million Indonesian MSMEs. Raised $80m, built team of 250+\n\u2022 Angel Investor & Advisor in 40+ startups\n\u2022 Director of Product @Carousell, largest second-hand marketplace in SEA\n\u2022 Product Lead @Grab, PM #8 - drove 21X growth\n\u2022 Software Engineer @Microsoft, IIT Bombay Computer Science",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Angel Investor",
+            "company_linkedin_profile_url": null,
+            "title": "Angel Investor & Advisor",
+            "description": "Angel investor & advisor in 40+ startups in SEA, India",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "BukuWarung",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bukuwarung",
+            "title": "Co-Founder & President",
+            "description": "BukuWarung is revolutionizing the way MSMEs in Indonesia manage their businesses through our technology platform. We've raised $80M from top-tier investors globally, including Peter Thiel's Valar Ventures, Goodwater Capital, Y-Combinator, SoftBank Partners, DST Global Partners, and strategic angel investors from Stripe, PayPal, Plaid, Grab, Gojek, Facebook, Airbnb, and Mastercard. Our vision is to empower 60 million MSMEs in Indonesia.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEpdD48gFZ1dA/company-logo_400_400/0/1630646596390?e=1714003200&v=beta&t=CdGs7o72ddTnl_oa5Wv3vO1Rs9L8vzrmMLZk2QgEbiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Iterative",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/iterativevc",
+            "title": "Visiting Partner",
+            "description": "Iterative is a YC-style accelerator for Southeast Asia",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE8kVcekG6NdA/company-logo_400_400/0/1630588508797/iterative_capital_logo?e=1714003200&v=beta&t=r_yUUVqX-qDNM46Ix-0MLqtKPoTaYW3Dny2QxR29gJs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Kudo - PT Kudo Teknologi Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kudo",
+            "title": "Product Lead",
+            "description": "Part of the Grab team that acquired Kudo for a valuation of ~$100m",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFJkt30QtLJWQ/company-logo_400_400/0/1631412831387?e=1714003200&v=beta&t=0sKJ5J1o5gucX7Jc5dvM4Cq3-cuRYpKSSX4LI55zkts"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+            "title": "Software Engineer",
+            "description": "Developed and managed a framework to automate testing of Windows Azure Cloud product.",
+            "location": "Hyderabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1714003200&v=beta&t=hhqkzn1xTW3d7mnIavjKUDigI3thcmGegfwWo5mjkc4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Carousell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/carousellgroup",
+            "title": "Director of Product",
+            "description": "Carousell is the largest mobile classifieds platform in SEA backed by Telenor, Naspers, Sequoia Capital, Rakuten Ventures, 500 Startups and EDBI",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETxuGkcTm-Dw/company-logo_400_400/0/1630570449681/carousell_logo?e=1714003200&v=beta&t=baEYRqEmLtpN557Cwk7eWMII907SZ2cazAKQvmAUVv8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp",
+            "title": "Product Lead",
+            "description": "As PM #8 at Grab, I led the development of multiple product and engineering teams that delivered key products such as Driver Experience, Driver Acquisition, GrabPay Merchant Payments, and Digital Goods. During my time, played a key role in Grab's hyper-growth, which saw the company scale up to a team of 150 PMs. My contributions were instrumental in Grab's success, including securing several billion-dollar funding rounds, acquiring Uber SE Asia, and transforming into a Super app. I take great pride in my work at Grab, and the impact it had on millions of users across Southeast Asia.",
+            "location": "Singapore, Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1714003200&v=beta&t=25D1snwPWeYH9jDwUrtvRWetS1YTnrRYIwNKDJXM4JI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Startups",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/london-startup-network",
+            "title": "Tech Advisor & Speaker   ",
+            "description": "I'm deeply involved in the tech and startup scene in Singapore/SEA:\n\n\u2022 Speaker at Product Management Festival'18, Singapore: \"Product Localisation: How Grab dominated SEA through Localisation\" \n\n\u2022 Speaker at LMFA'19, \"Will Cash Always Be King in Asia e-Commerce?\u201d\n\n\u2022 Speaker at Tech in Asia'18, Singapore: \"Ace-ing Product Management Interviews\" \n\n\u2022 Judge at SoundBoard Asia'17, Singapore: Evaluated 6 startups and selected a winner for seed funding\n\n\u2022 Fintech Speaker at ProductCamp'17, Singapore: \"Payments in Indonesia: Banking the Un-banked\" \n\n\u2022 Mentor at Startupbootcamp: Advised a fintech start-up on their growth strategies and localisation for SEA\n\n\u2022 Panelist at Startup Weekend Singapore 2018\n\n\u2022 Speaker, \"Navigating Complexity when creating Product Roadmaps\" (https://generalassemb.ly/education/navigating-complexity-when-creating-product-roadmaps/singapore/59738)\n\n\u2022 Speaker, \"Startup Playbook: Malaysia vs Indonesia\" (https://generalassemb.ly/education/navigating-complexity-when-creating-product-roadmaps/singapore/59738)\n\n\u2022 Contributor to ProductCoLLab (Product Manager community in SG)\n\n\u2022 Writer at medium.com/@chinmaychauhan",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHTflifKJyM4A/company-logo_400_400/0/1631368548108?e=1714003200&v=beta&t=nrlexVb-FDpwFgZni6Q_Y023qdP880jmi9_v36mPMlo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Works Applications",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/works-applications",
+            "title": "Product Manager, Software Engineer",
+            "description": "Product management, conceptualisation, design & development of core features on Worksap's e-Commerce product, a complete solution for businesses to setup their e-Commerce store. Think of Shopify for Japanese enterprises.\n\nSkills developed: e-commerce products, product roadmapping, market research, wireframing, design, web technologies, consumer psychology",
+            "location": "Singapore, Tokyo",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQECBNrgvwxs_w/company-logo_400_400/0/1631349356831?e=1714003200&v=beta&t=QZSzlNfSF1h9rq1d_d44pCQ0SX0f5FjUZEJ4vDqqEbM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": null,
+            "degree_name": "BukuWarung (YC S20)",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science & Engineering",
+            "degree_name": "B.Tech",
+            "school": "Indian Institute of Technology, Bombay",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/157266/",
+            "description": "Corporate Relations, The Entrepreneurship Summit (ecell.in/esummit)\nEvent Management, Techfest (www.techfest.org)",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGmDoDCx_FYpA/company-logo_400_400/0/1660636307357/indian_institute_of_technology_bombay_logo?e=1714003200&v=beta&t=qZ1yHHKDK5jrITPx00qXNZsKwWBp2HbejO0VavWIDh8",
+            "grade": null,
+            "activities_and_societies": "Entrepreneurship Cell, Techfest, FinQuest (Finance club) at IIT-Bombay"
+        }
+    ],
+    "languages": [
+        "English",
+        "Gujarati"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": null,
+            "org_name": "IIT-Bombay Alumni Association",
+            "title": "Executive Committee Member, Singapore Chapter",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "HackerRank",
+            "title": "Hacker",
+            "description": "All time highest rank ~500 out of 30,000 members."
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 under 30",
+            "issuer": "Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "description": "https://www.forbes.com/profile/chinmay-chauhan/"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Analytical Models of Computing Systems",
+            "number": "CS 462"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "number": "CS 344"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GMAT",
+            "score": "760 (Q51, V41, A6.0)",
+            "date_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "description": "99th Percentile out of 0.8 million entrants. Entrance examination to top business schools."
+        },
+        {
+            "name": "AIEEE",
+            "score": "99th percentile",
+            "date_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2009
+            },
+            "description": "99th Percentile out of 1 million entrants. Entrance examination to major engineering institutes in India."
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Volunteer",
+            "cause": "Animal Welfare",
+            "company": "ACRES Singapore (Animal Concerns Research & Education Society)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/1082388/",
+            "description": "Animal Rescue & Investigations, Fundraising, Event Management.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEEorXaZmYhsg/company-logo_400_400/0/1661244116739/acres_singapore_animal_concerns_research__education_society__logo?e=1714003200&v=beta&t=9BXPMcR-nQjZbnCyXcYc7Itnit74kvUEBoZLMGkxLXI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "title": "Volunteer",
+            "cause": "Environment",
+            "company": "WWF",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/805644/",
+            "description": "Event Management, Corporate Outreach.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEyzhZTb-W81A/company-logo_400_400/0/1678101440945/wwf_international_logo?e=1714003200&v=beta&t=y-8T0QshXXEOWU_aBmaRLykSi2lSbDS0W1g-KcwgrWc"
+        }
+    ],
+    "certifications": [],
+    "connections": 19160,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/abh1nay",
+            "name": "Abhinay Peddisetty",
+            "summary": "Co-Founder & CEO at BukuWarung | YC S20",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yinsylvia",
+            "name": "Sylvia Y.",
+            "summary": "VC | Supporting Founders | Customer Success",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hsukenooi",
+            "name": "Hsu Ken Ooi",
+            "summary": "Co-Founder and Managing Partner at Iterative",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rajesh-chandrashekaran-27a8044",
+            "name": "Rajesh Chandrashekaran",
+            "summary": "SVP of Engineering at BukuWarung; Tech Advisor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabhpandey1995",
+            "name": "Saurabh Pandey",
+            "summary": "Building BukuWarung",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Ellery Jose, MTM\n\n\n\nI was very fortunate to have had the chance to work with Chinmay for the second time, this time in his capacity as BukuWarung's Co-Founder/President and overall Technology leader. He oversaw the scaling up of both the Product, Design and Engineering teams, bringing top-notch people to lead these teams. He is as I remember him from Grab, a very smart product-oriented technical person. He is thoughtful, equally challenging in his questions to his leaders but also deeply empathetic to all who work with him. He is also decisive, can cut through the noise and provide clear direction.",
+        "Stuart Thornton\n\n\n\nIve worked with Chinmay in a few capacities. Chinmay was an angel investor in hoolah where he clearly demonstrated his strategic and tactical capabilities with a professional due diligence into our business. This tested our knowledge of the business and contributed to our learning. His capabilities with product leadership was also evident as we began to work with him on more tactical opportunities outside of investment. Ive also been honored to try and return the favour as he set on his startup course - not that he has needed it at all. Smart, sharp, dependable I know success is around the corner for his latest venture. "
+    ],
+    "activities": [
+        {
+            "title": "Builders take risks. Risk takers are often mocked by those who don\u2019t take risks or failed when they took risk. Often these mockers want to see\u2026",
+            "link": "https://www.linkedin.com/posts/kunalshah1_builders-take-risks-risk-takers-are-often-activity-7051151386603909120-j2qo",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "The deadline to apply for Y Combinator Summer 2023 batch is tomorrow, Friday, April 7 at 8pm PT! Apply at https://lnkd.in/gmXU8qDC",
+            "link": "https://www.linkedin.com/posts/gustafalstromer_apply-to-y-combinator-y-combinator-activity-7049802373149442048-v27G",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "VCs are Vultures.Initially, I was resistant to that notion. However, recent experiences in the industry have caused me to reconsider this belief\u2026",
+            "link": "https://www.linkedin.com/posts/vincentlauria_vcs-are-vultures-initially-i-was-resistant-activity-7049988713560363008-ve4k",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Being a founder is a calling, and an incredible journey.  But after 12, 18, 24 months ... it does change you:1/ You will think about your start-up\u2026",
+            "link": "https://www.linkedin.com/posts/jasonmlemkin_being-a-founder-is-a-calling-and-an-incredible-activity-7049750911639846913-KmM6",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Don't miss Una Brands & our brand JIERA along with our investor Alpha JWC Ventures featured on CNBC Indonesia prime time show deep-diving into the\u2026",
+            "link": "https://www.linkedin.com/posts/kirentanna_bareng-aggregator-umkm-ri-siap-bersaing-activity-7049659502849126400-_zQ1",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "We have kickstarted this year's mentoring programme for the women lawyers in our firm. For this year, we have adopted Tara Mohr's \"Playing Big\" as\u2026",
+            "link": "https://www.linkedin.com/posts/debby-lim-43a27a26_we-have-kickstarted-this-years-mentoring-activity-7045165930208792576-Pk-G",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "I often hear founders say they've validated an idea when they haven't. Typically it's because they've used a validation method that's results just\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_how-to-validate-startup-ideas-not-all-validation-activity-7047009539447029760-QpBB",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Since our launch in 2020 we\u2019ve been on a mission to provide our clients with a platform of the highest calibre, a comprehensive platform that takes\u2026",
+            "link": "https://www.linkedin.com/posts/vamsi-krishna-38534b5b_g2-g2leader-customerfeedback-activity-7048239660082368512-Te7A",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Super proud to be launching Inri on Hacker News today! https://lnkd.in/g5dHF-bZHacker News is one of my favourite tech news sources, and this is\u2026",
+            "link": "https://www.linkedin.com/posts/hemantgangolia_nish93-1-day-ago-prev-next-activity-7047619978430218240-a01W",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "As a Partner at Sequoia Capital over the last 34 years, Douglas Leone has cemented his place in venture hall of fame with:- Investments in Nubank\u2026",
+            "link": "https://www.linkedin.com/posts/harrystebbings_founder-funding-business-activity-7047257740720631808-vEtL",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Going live on Product Hunt today \ud83d\ude03",
+            "link": "https://www.linkedin.com/posts/hemantgangolia_inri-wealthfront-for-indian-expats-product-activity-7046191629543624705-eBO8",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "This is a picture of Willis Wee , the founder of Tech in Asia interviewing me in 2015. Last week, he interviewed me again, this time, in private. He\u2026",
+            "link": "https://www.linkedin.com/posts/khailee_startups-media-tech-activity-7044305755247673344-9UsR",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Leading with empathy means having the ability to understand and relate to the feelings, thoughts, and experiences of your team members. Here are some\u2026",
+            "link": "https://www.linkedin.com/posts/williamkusuma_leadership-startuplife-activity-7043872055737405441-mdYc",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Inri is making India investing easier and faster for Indians living abroad. One of the first steps here is creating awareness on the investing\u2026",
+            "link": "https://www.linkedin.com/posts/hemantgangolia_inri-activity-7043810672421306368-4Esh",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Tell me your startup idea and I'll tell you how to validate it in 2 weeks, without code. We did this last year and had so much fun, we had to bring\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_you-tell-me-your-idea-ill-tell-you-how-activity-7041581270992056321-c2V8",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "\ud83d\udc4b\ud83c\udffcDear network,\ud83e\uddd0\u2600\ufe0fIt's hard to believe that it's been almost a year since I joined l'Institut Open Diplomacy, a Paris-based think tank dedicated\u2026",
+            "link": "https://www.linkedin.com/posts/elise-varrey-b0718011b_opendiplomacyinstitute-europeanunion-globalsouth-activity-7024670449053659136-0ZH1",
+            "activity_status": "Disukai oleh Chinmay Chauhan"
+        },
+        {
+            "title": "Chinmay Chauhan is the co-founder of BukuWarung - and he's also a Visiting Partner at Iterative. In 2021, BukuWarung raised a $60M Series A\u2026",
+            "link": "https://www.linkedin.com/posts/chinmaychauhan_spotlight-on-visiting-partners-chinmay-chauhan-activity-7041726566585802752-Rq_7",
+            "activity_status": "Dibagikan oleh Chinmay Chauhan"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Chinmay Chauhan",
+            "link": "https://uk.linkedin.com/in/chinmay-chauhan-0957bb17",
+            "summary": "sales at abc",
+            "location": "London"
+        },
+        {
+            "name": "chinmay chauhan",
+            "link": "https://in.linkedin.com/in/chinmay-chauhan-336578174",
+            "summary": "Proprietor at balwani agro traders",
+            "location": "Bharuch"
+        },
+        {
+            "name": "Chinmay Chauhan",
+            "link": "https://in.linkedin.com/in/chinmay-chauhan-310ba9179",
+            "summary": "Software Developer Intern @TechieAid",
+            "location": "Bangalore"
+        },
+        {
+            "name": "Chinmay Chauhan",
+            "link": "https://in.linkedin.com/in/chinmay-chauhan-a049a6103",
+            "summary": "Branch Manager (Homefirst)",
+            "location": "Perkotaan Nagpur"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQFhIPuHUDIqqw/group-logo_image-shrink_400x400/0/1695149484491?e=1706749200&v=beta&t=Fizt_2W77ByhXURbnuR4NmyCuGGErb2SJiisCfDy7Gc",
+            "name": "CSE @ IIT Bombay Alumni",
+            "url": "https://www.linkedin.com/groups/14282338"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQEySmc2vjH3Pg/group-logo_image-shrink_400x400/0/1677679534202?e=1706749200&v=beta&t=pEtiKUuvS-mPqesVq6TFGWT39XrC2WlfAa_gEFHf3JI",
+            "name": "Entrepreneur Exchange - Entrepreneurs of LI",
+            "url": "https://www.linkedin.com/groups/9297757"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

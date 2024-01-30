@@ -1,0 +1,476 @@
+{
+    "public_identifier": "ghuniyu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ghuniyu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c8aa2dbec777da7dd37a005de8a456b390f90f833a9b06e19c5c8de35a81530b",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ghuniyu/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3e5b8c2e0015de07a0200c63cf5210b12554bbf03fce022d05b3e8bf6461c1a4",
+    "first_name": "Ghuniyu Fattah",
+    "last_name": "Rozaq",
+    "full_name": "Ghuniyu Fattah Rozaq",
+    "follower_count": 340,
+    "occupation": "Co-Founder and CTO at StafBook",
+    "headline": "Building StafBook, People-First HR Partner",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "StafBook",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/stafbook-com",
+            "title": "Co-Founder and CTO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFiZWQLxMo2eA/company-logo_100_100/0/1680000792636?e=2147483647&v=beta&t=RMb1XbCIO8slPm5jyFJs2B1O_AjoLit5p-Hq8Z_1twY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Ritase.com",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/ritase",
+            "title": "Mobile Application Developer",
+            "description": "Developing Ritase Merchant Apps and Retail Apps",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGXWBB2_BB-Lw/company-logo_100_100/0/1569556885957?e=2147483647&v=beta&t=5PeWdeKplEXT46ZwT3VcU9DxBlMrosFI8rWxwjhuVrU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Ritra Media Distribusi",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/smartvenid",
+            "title": "Full Stack Engineer",
+            "description": "Developing Content Management System and Controller System of Vending Machine",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHNvtdhW5gUxA/company-logo_100_100/0/1593997103284?e=2147483647&v=beta&t=54yFUvEBf7dQh5k5pmbdbJgwy23hbLPz-rFCIu7f83c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "DASPRO Laboratory",
+            "company_linkedin_profile_url": null,
+            "title": "Research Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "company": "PT Solusi Hijau Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "Web Developer",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2017
+            },
+            "company": "Insertra",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/insertra",
+            "title": "Founder",
+            "description": null,
+            "location": "Bandung dan Sekitarnya, Jawa Barat, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2017
+            },
+            "company": "Insertra",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/insertra",
+            "title": "Trainer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Sistem Informasi",
+            "degree_name": "Gelar Sarjana",
+            "school": "Telkom University",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/telkom-university/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH4_rcyldo-1Q/company-logo_100_100/0/1557799548882?e=2147483647&v=beta&t=zBTbAjMmfKGlbe1PtRD9-z9VeW-qGjqqs6EVaeE2Ib0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Finalist of National Cyber Jawara Competition 2020",
+            "issuer": "CSIRT Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National RedmaskCTF 2020",
+            "issuer": "CSIRT Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of Gemastik 2020 Network Security",
+            "issuer": "Kemdikbud",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National Hology CTF",
+            "issuer": "Brawijaya University",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National IPB Hacktoday 2020",
+            "issuer": "Agricultural Bogor Institute",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Traveloka Bug Bounty Program",
+            "issuer": "Traveloka",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "description": "Awarded 800$ for Critical Vulnerability on the Traveloka Bug Bounty Program"
+        },
+        {
+            "title": "3rd Winner of IDSECCONF 2019 Cirebon Security Contest",
+            "issuer": "IDSECCONF and APJII",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of Gemastik 2017 Network Security",
+            "issuer": "KEMENRISTEK-DIKTI dan Universitas Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National Cyber Jawara Competition 2017",
+            "issuer": "Ministry of Communication and Informatics with ID-SIRTII",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "description": "Finalist of National Cyber Jawara Competition 2017"
+        },
+        {
+            "title": "1st Winner of National BNI Hackfest 2017",
+            "issuer": "Bank BNI",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "DINACOM Mobile Application Competition",
+            "issuer": "Dian Nuswantoro University",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "2nd Winner of National Cyber Jawara Competition 2016",
+            "issuer": "Ministry of Communication and Informatics with ID-SIRTII",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "3rd Winner of FIT Competition \"Network Security\"\u200b 2016",
+            "issuer": "Universitas Kristen Satya Wacana",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National Cyber Jawara Competition 2015",
+            "issuer": "Ministry of Communication and Informatics with ID-SIRTII",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of National Sisfotime3 \u201cNetwork Security\u201d 2015",
+            "issuer": "Telkom University",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "4th Winner of Cyber Defense Competition Kemhan 2014",
+            "issuer": "Ministry of Communication and Informatics with ID-SIRTII",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "3rd Winner of Born2Protect 2017 Bandung",
+            "issuer": "Ministry of Communication and Informatics and Xynexis",
+            "issued_on": null,
+            "description": "https://www.borntoprotect.id/about\nhttps://www.borntoprotect.id/result#bandung"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 324,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/fransiskus-raymond-59b2604a",
+            "name": "Fransiskus Raymond",
+            "summary": "Building StafBook, People-First HR Partner",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/umizahroh",
+            "name": "Umi Zahroh",
+            "summary": "Bank-end Developer",
+            "location": "Banten, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dekha-anggareska-5a27374b",
+            "name": "Dekha Anggareska",
+            "summary": "Building CrediBook",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kresna-adiputra",
+            "name": "G N KRESNA ADIPUTRA",
+            "summary": "User Experience Designer at StafBook",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/frw",
+            "name": "Frederick Widjaja",
+            "summary": "Building Whiz",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nadiafitrisafira",
+            "name": "Nadia Fitri Safira",
+            "summary": "Marketing Specialist at StafBook | Business Development | Quality Assurance | Content Writer | Let's connect!",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://id.linkedin.com/in/johansutrisno",
+            "name": "Johan Sutrisno",
+            "summary": "Product Engineer (Mobile - Flutter)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammadalifakhsan",
+            "name": "Muhammad Alif Akhsan",
+            "summary": "Business Development Enthusiast",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhamadrizki",
+            "name": "Muhamad Rizki",
+            "summary": "Engineering Manager | Fintech | We are hiring!",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kristian-frits-harris-sinaulan-04610744",
+            "name": "Kristian Frits Harris Sinaulan",
+            "summary": "Founder & CTO, Jutsoo",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/septian-saputra-92aa46234",
+            "name": "SEPTIAN SAPUTRA",
+            "summary": "--",
+            "location": "Banyuwangi"
+        },
+        {
+            "link": "https://id.linkedin.com/in/satrio-agil-puji-saputro-65aa9a247",
+            "name": "Satrio agil puji saputro",
+            "summary": "Junior Design graphic, vector art, Motion Graphic, Video Editing | Stafbook (YC W22)",
+            "location": "Sidoarjo"
+        },
+        {
+            "link": "https://id.linkedin.com/in/funggriffin",
+            "name": "Sumardi Fung",
+            "summary": "Co-Founder & CEO Reku.id",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ikhsan-perdana-4555b2178",
+            "name": "ikhsan perdana",
+            "summary": "Siswa di Universitas Telkom",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dwiwulansaarps17",
+            "name": "Dwi Wulan Sary",
+            "summary": "Quality Assurance | Research and Development",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://www.linkedin.com/in/dendisuhubdy",
+            "name": "Dendi Suhubdy",
+            "summary": "CEO Bitwyre",
+            "location": "Palo Alto, CA"
+        },
+        {
+            "link": "https://id.linkedin.com/in/jeffrey-hoyanson-52ba7592",
+            "name": "Jeffrey Hoyanson",
+            "summary": "Co-Founder at bearbox.id",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/stephanie-wongsoredjo",
+            "name": "Stephanie Wongsoredjo",
+            "summary": "Co-Founder at BAKOOL (Y-Combinator W22) | Global Shaper World Economic Forum",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ayinmursalin",
+            "name": "Muhammad Moersalin",
+            "summary": "Mobile Application Developer",
+            "location": "Palembang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/novilawati-350710113",
+            "name": "Novilawati -",
+            "summary": "Saya adalah seorang IT Programmer mobile di sebuah perusahaan swasta.",
+            "location": "Jakarta Raya, Indonesia"
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,588 @@
+{
+    "public_identifier": "hrishioa",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hrishioa/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221614Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e85643ca955d326dfe2f35f16be2bd07ec8ae5a7d518d384e622ecfd1584604b",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hrishioa/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221614Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d5e04d726efa4595eaa85c7f664a2608bd1fabf3eda874aa2bb573eb592be296",
+    "first_name": "Hrishi",
+    "last_name": "Olickel",
+    "full_name": "Hrishi Olickel",
+    "follower_count": null,
+    "occupation": "CTO at Greywing",
+    "headline": "CTO at Greywing (Y Combinator W21)",
+    "summary": "Chief Technology Officer at Greywing, working on intelligence and data for maritime applications.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Greywing",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/greywing/",
+            "title": "CTO",
+            "description": "Building SaaS-enabled marketplaces for physical security.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEbyFNyFjo9hQ/company-logo_400_400/0/1657557096308?e=1671667200&v=beta&t=UPuNKFqySVayqLFXvr5LNp6t-q0fRjGAaMWKT07fyuw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Entrepreneur In Residence",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFryofqr7-45w/company-logo_400_400/0/1551278478769?e=1671667200&v=beta&t=3trWh6N1UdA9oR2oN2EiltMrjuPLcDr5vX76bxtXdzA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "LMB Insurance Broker",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lmb-insurance-broker/",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Thiruvananthapuram Area, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFblmsogwy2Tw/company-logo_400_400/0/1647528908245?e=1671667200&v=beta&t=fVBN7qtcPUH288YwoMKNbhGIMDYm-qMh9Oo3l-uYqUU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Anquan Capital",
+            "company_linkedin_profile_url": null,
+            "title": "Developer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "AngelHack",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/angelhack/",
+            "title": "Ambassador",
+            "description": "Organising hackathons for and engaging the developer community in Singapore",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFpOhTOnklUWw/company-logo_400_400/0/1604913210676?e=1671667200&v=beta&t=6FrOjcFM-LiuEhkq4tz2d_r-KCGWHUR3Js464x81kYc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "National Geographic",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-geographic/",
+            "title": "Software Lead - Singapore Team",
+            "description": "Work on Upcoming show Machine Impossible - developing automated sentry systems with computer vision and machine learning",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGKMu4T5tw0Ew/company-logo_400_400/0/1648818645936?e=1671667200&v=beta&t=Njyf8oPW6_Zw4CKAjczVKtA4MYkVcFBkD1IzqB6mPMs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Kulicke & Soffa",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kulicke-and-soffa/",
+            "title": "Dream Engineer",
+            "description": "Worked on exploring possible avenues of organic growth for the company, along with ideation.\nInventor of a patent under review on Automated Fire Detection and Suppression Systems (US - 183467-3169, China and Singapore)",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEx0w-5AueNXw/company-logo_400_400/0/1618991695464?e=1671667200&v=beta&t=piGI90v-qoAPKLn-0eLG-rtGza1C9vlpz0xomuIEVwI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "University of Kerala",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-kerala/",
+            "title": "Research Assistant",
+            "description": "Worked on Biosequencing and the use of Natural Language Processing in DNA",
+            "location": "Trivandrum, Kerala, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHKfUkGpKRKEw/company-logo_400_400/0/1519866209573?e=1671667200&v=beta&t=JEMb5zwonxBxJVukH0mqjB_HJPMbdfWClh6OZaZMY4g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2011
+            },
+            "company": "Quark Cybernetics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/quark-cybernetics/",
+            "title": "Embedded Software Developer",
+            "description": "Embedded Systems Development for ARM and AVR",
+            "location": "Ernakulam, Kerala, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBZPWjh0ebrw/company-logo_400_400/0/1519877583488?e=1671667200&v=beta&t=SN3Yxv77o3t1bV-ghZf3InszZe85mhatux_gU7Ja_SU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Science (BS)",
+            "school": "Yale-NUS College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFRkwvp6kjbjw/company-logo_400_400/0/1519908527352?e=1671667200&v=beta&t=m1z773HbAGh2SnirnrAWcmLPtRx2yWS4Ez8D_LMMNlY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Computer Science HL, Mathematics HL, Physics HL, French SL, Business and Management SL, English SL",
+            "degree_name": "International Baccalaureate Diploma",
+            "school": "Anglo Chinese School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Hindi",
+        "Malayalam",
+        "Sanskrit",
+        "Tamil"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Improving Data Analysis in Chemistry and Biology Through Versatile Baseline Correction",
+            "publisher": "Chemistry Methods ECSP",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmtd.202000027"
+        },
+        {
+            "name": "Goosebumps: Towards sensory substitution using servo motors",
+            "publisher": "2017 ACM ISS",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": null,
+            "url": "https://dl.acm.org/citation.cfm?id=3132293"
+        },
+        {
+            "name": "Oyente: Making Smart Contracts Smarter",
+            "publisher": "2016 ACM SIGSAC CSS",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "https://dl.acm.org/citation.cfm?id=2978309"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "NUS HacknRoll 2015 - 2nd Runner Up",
+            "issuer": "National University of Singapore Hackerspace",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": "Developed a cheap and affordable wireless Virtual Reality solution under $60.\nhttp://challengepost.com/software/oculus-drift"
+        },
+        {
+            "title": "NUS Practicum Grant",
+            "issuer": "National University of Singapore",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": "Practicum Grant for Innovation of 10,000 SGD to develop thermal fire detection systems."
+        },
+        {
+            "title": "National Olympiad for Informatics",
+            "issuer": "National University of Singapore",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": "Silver - 2010\nBronze - 2009"
+        },
+        {
+            "title": "A*STAR Youth Scholarship",
+            "issuer": "Agency for Science, Technology and Research",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "description": null
+        },
+        {
+            "title": "1st Runner Up - BattleHack 2015",
+            "issuer": "BattleHack Singapore",
+            "issued_on": null,
+            "description": "Introduced Portal, an iBeacon based direct marketing solution."
+        }
+    ],
+    "accomplishment_patents": [
+        {
+            "title": "A cyber-physical system for fire detection and prevention of catastrophic destruction in residential and commercial premises",
+            "issuer": "us",
+            "issued_on": null,
+            "description": null,
+            "application_number": "183467-3169",
+            "patent_number": null,
+            "url": null
+        }
+    ],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Aviato",
+            "description": "Online travel platform that uses machine learning and Big Data in order to anticipate travel patterns and provide useful suggestions to customers, while providing trends and analytics information on the backend.\n\nWon 2nd place at Emirates Travel Hackathon.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Blackhat",
+            "description": "Wearable that can record and transmit the health and safety conditions of workers in realtime. Allows for continuous monitoring of safety situations, and to provide useful data to employers that can help increase productivity.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Capture",
+            "description": "Prototype role-playing historical game, designed to take large repositories of historical information and convert it into an interactive, playable world that can be explored.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Gruber",
+            "description": "A ride-sharing platform built on top of Ethereum (blockchain technology) for a truly decentralized sharing economy.\nUses scriptable sidechains of the bitcoin network to facilitate service-sharing while truly eliminating the middleman.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Navo",
+            "description": "Automated Collision Avoidance for vehicles using motion sensing and low-energy bluetooth. Developed for Raspberry Pi and the Tweeq platform.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Nomohead",
+            "description": "Automatic ngrok tunnelling and dweeting service to facilitate headless environments on embedded platforms.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Oculus Drift",
+            "description": "Low-cost VR project built in two parts - \n1. Extremely low-cost VR content creation system that lowers the barrier to entry in Virtual Reality streaming.\n2. Virtual Reality car and companion mobile app to demonstrate viability of the platform.\nWon 3rd Place at NUS HacknRoll 2015.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Qanda",
+            "description": "SMS based Q&A system that uses Natural Language Processing to understand large amounts of legal and procedural text to provide automated assistance to foreign workers in Singapore. Questions are answered in natural language so as to be easily understandable.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/bob-poekert-408a5a49",
+            "name": "Bob Poekert",
+            "summary": "Software Engineer at pronto.ai",
+            "location": "Berkeley, CA"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/johnmosesventura",
+            "name": "John Moses Ventura",
+            "summary": "Chief Technology Officer at Skipjack Corporation",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/gabrielmgardner",
+            "name": "Gabriel Gardner",
+            "summary": "Executive Director at Scherzo Games",
+            "location": "Washington, DC"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ilya-shupta-b9709a143",
+            "name": "Ilya Shupta",
+            "summary": "Lead Backend Software Engineer at Bot M.D.",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/nick-j-clarke",
+            "name": "Nick Clarke",
+            "summary": "Greywing is a digital platform that automates everything that gets on or off a vessel. Excluding Cargo. Right now we are starting with Crew Changes. \ud83d\udea2 \ud83d\udc68\u200d\ud83d\udcbb",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/lynn-heng",
+            "name": "Lynn H.",
+            "summary": "Chief Technology Officer at Stabilize Ltd.",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://in.linkedin.com/in/kmanojkumar",
+            "name": "K Manoj Kumar",
+            "summary": "Founder, PeerXP | Y Combinator | NASSCOM | DevOps, Security and Automation for Businesses",
+            "location": "Bengaluru South"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yanchuan",
+            "name": "Yanchuan Sim",
+            "summary": "Co-Founder at Bot M.D. (YC S18)",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/dotkoh",
+            "name": "Dorothea K.",
+            "summary": "Founder & CEO at Bot MD (YC S18) - We're Hiring!",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/giovannicasinelli",
+            "name": "Giovanni Casinelli",
+            "summary": "Co-Founder & CTO at Aspire (YC W18)",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://in.linkedin.com/in/whogaurav",
+            "name": "Gaurav Arora",
+            "summary": "Co-Founder @ Spenny (Y Combinator W20)",
+            "location": "Bengaluru"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/andrea-baronchelli-0979a541",
+            "name": "Andrea Baronchelli",
+            "summary": "Co-Founder & CEO at Aspire",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nuhbye",
+            "name": "Kunal Sangwan",
+            "summary": "Co-Founder/CTO at Piggy",
+            "location": "Bangalore Urban"
+        },
+        {
+            "link": "https://in.linkedin.com/in/chezhiyanveerasamy",
+            "name": "Mr.Chezhiyan Veerasamy",
+            "summary": "Founder and CEO at Jubisoft Ltd",
+            "location": "Karaikkudi"
+        },
+        {
+            "link": "https://mm.linkedin.com/in/kyaw-zin-oo-64a17a102",
+            "name": "Kyaw Zin Oo",
+            "summary": "Sales Manager at Daung Capital",
+            "location": "Myanmar"
+        },
+        {
+            "link": "https://in.linkedin.com/in/priyanshu-agarwal-949719b7",
+            "name": "Priyanshu Agarwal",
+            "summary": "Co-Founder at AccioJob || Y Combinator W'19 || IIT Delhi",
+            "location": "Gurgaon"
+        },
+        {
+            "link": "https://in.linkedin.com/in/terance98",
+            "name": "Thomas Terance",
+            "summary": "Software Engineer at Saleshandy",
+            "location": "Alleppey"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/joanna-zhang-89891b20a",
+            "name": "Joanna Zhang",
+            "summary": "Boston University",
+            "location": "Jing'an District"
+        },
+        {
+            "link": "https://cy.linkedin.com/in/natalie-schumann-357201216",
+            "name": "Natalie Schumann",
+            "summary": "HR-Manager",
+            "location": "Larnaca"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yik-jiun-lee-4babb0106",
+            "name": "Yik Jiun Lee",
+            "summary": "CTO at Switcheo Network | ex Grab",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/hendy-chua-833b2046",
+            "name": "Hendy Chua",
+            "summary": "Software Engineer at Greywing (Y Combinator W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/swayam-narain",
+            "name": "Swayam Narain",
+            "summary": "Co-Founder & CTO at Affable | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/meghna-ray-523120119",
+            "name": "Meghna Ray",
+            "summary": "Growth at Greywing | YC W21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arynn-gupta",
+            "name": "Aryan Gupta",
+            "summary": "Frontend Developer at Greywing",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/song-chee-kien-026304b8",
+            "name": "Song Chee Kien",
+            "summary": "Writing System Engineer at HP Ink Manufacturing Plant",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kukiron",
+            "name": "Kafil Uddin",
+            "summary": "Software Developer. Once a Textile Engineer.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sumitrajan",
+            "name": "Sumit Rajan",
+            "summary": "Incoming MBA Candidate at Michigan Ross | Ex-Revolut,J.P. Morgan | Cleared CFA Level 3 | BITS Pilani",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/byliu88",
+            "name": "Brandon L.",
+            "summary": "Teaching Assistant at Justice Through Code",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/keechin",
+            "name": "Keechin Goh",
+            "summary": "CEO at Datature | We're Hiring! \u2192 datature.io/careers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zhiconglim",
+            "name": "Zhicong L.",
+            "summary": "CTO & Co-founder at Cococart \u00b7 YC S21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aaronongcs",
+            "name": "Aaron Ong",
+            "summary": "Founding Partner at Blue Square | Ex-Facebook | Ex-Cronos",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Hugh Poh\n\n\n\n\"Hrishi has a very technically curious mind. He help accelerated our experimentation and expanded our possible solutions set.\""
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,490 @@
+{
+    "public_identifier": "madhugnadig",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/madhugnadig/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221317Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2f16a77df88c13ee525476e3b307d4ad7ff8309a405821da527254667c97e820",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/madhugnadig/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221317Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=de71517c8ac1fb53f98f7e03205d7c85813b61a458dc677edd0d8825324dde83",
+    "first_name": "Madhu G",
+    "last_name": "Nadig",
+    "full_name": "Madhu G Nadig",
+    "follower_count": 2427,
+    "occupation": "Co-Founder & CTO at Flagright",
+    "headline": "Co-founder & CTO at Flagright (YC W22)  | ex-Palantir, AWS",
+    "summary": "Obsessive problem solver. ",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco Bay Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Flagright",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/flagright/",
+            "title": "Co-Founder & CTO",
+            "description": "Flagright arms financial institutions with a flexible, no-code platform to prevent financial crime to comply with AML compliance regulations. Flagright customers quickly set up their infrastructure to prevent fraud and money laundering with our API-first solution that can be integrated in a week compared to 2-4 months industry benchmark of similar solutions. Product portfolio includes real-time transaction monitoring, customer risk scoring, merchant monitoring, case management, sanctions screening, and more.\n\nWe are hiring competent and motivated engineers to join the crew. DM if interested!",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG0lZTnXV_01A/company-logo_400_400/0/1656584426887/flagright_logo?e=1712793600&v=beta&t=zk5WoZUSpefuf2bsjuIQd-8EF404Crp5OEPcIgDptvA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Amazon Web Services (AWS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-web-services/",
+            "title": "Software Development Engineer",
+            "description": "Built no-code, real-time, multi-region automated deployment products at the world's most innovative cloud infrastructure provider",
+            "location": "Berlin, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264051233/amazon_web_services_logo?e=1712793600&v=beta&t=40pQCsCoaQYhiCS0b2SgouLZeOH9Z-FcDbxIlXPvqVA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Forto",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fortocompany/",
+            "title": "Full Stack Engineer",
+            "description": "Building disruptive logistical software products in Europe's first digital freight-forwarder Forto(Formerly FreightHub GmbH). Joined as Engineer #20 at Series A stage, left after Series C that made Forto an Unicorn.",
+            "location": "Berlin, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF-WX3zeUQKtw/company-logo_400_400/0/1630530820050/fortocompany_logo?e=1712793600&v=beta&t=8xG2o_U-qhp68-OvKXR3EtvNMNS2wCinW0BdQiadY-Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Affable",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/affable/",
+            "title": "Full Stack Engineer",
+            "description": "Developed a Big Data and AI based SaaS platform in a fast-moving early stage startup as Engineer #1. Setup the entire backend data infrastructure.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGmxbxltHQjw/company-logo_400_400/0/1664339951016/affable_logo?e=1712793600&v=beta&t=CQoGD1rthAT4huet-RCN78nBb4WxHXIVMMOTOTmODRs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Palantir Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/palantir-technologies/",
+            "title": "Forward Deployed Engineer",
+            "description": "One of the first hires for Palantir India. Helped large organizations unlock value in their data, with cutting-edge data integration, data versioning and analytics. Worked on-site for Palantir's India and SEA based enterprise customers.",
+            "location": "Mumbai, India & Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGxa0XGCRty6A/company-logo_400_400/0/1644957302590/palantir_technologies_logo?e=1712793600&v=beta&t=NcUQwTDXpYRtlaQpC94YtU7unsFSntXNC8Jo7rk46rE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Ministry of Defense, Government of India",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ministry-of-defense-government-of-india/",
+            "title": "Software Development Contractor",
+            "description": "Worked on software for large scale data processing and analytics for the Department of Defense Production (DDP),  Ministry of Defense, India - as an external contractor",
+            "location": "Bengaluru, Karnataka, India",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEIfcaXtrDB5Q/company-logo_400_400/0/1630588261395?e=1712793600&v=beta&t=DoEeMifZ5spr-qpOdrf8QA65lhAzC86k4Pn_ItO3Csc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "Walmart Labs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/walmartglobaltech/",
+            "title": "Software Engineering Co-op",
+            "description": "Large scale data analytics. Markdown Optimization.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEjq-bcaW-GSg/company-logo_400_400/0/1630657358931/walmartglobaltech_logo?e=1712793600&v=beta&t=h4VJTiEjauWuzyoHNr1PJvkgIOpWGQfwJiEYKuhQ_Fk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2017
+            },
+            "company": "PES University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/pesuniversity/",
+            "title": "Research Assistant",
+            "description": "Large scale data analytics and text mining - in the Center for Knowledge Analytics and Ontological Engineering, PES University",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH160aiVx0W8Q/company-logo_400_400/0/1662235342381/pesuniversity_logo?e=1712793600&v=beta&t=GEH1WBBcPMRCk4aB3D0m5Ky6L6vhJz6dOQB2LifT9Os"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Alumini, YC W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Computer Science. Minor : Management studies",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "PES University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH160aiVx0W8Q/company-logo_400_400/0/1662235342381/pesuniversity_logo?e=1712793600&v=beta&t=GEH1WBBcPMRCk4aB3D0m5Ky6L6vhJz6dOQB2LifT9Os",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Mathematics and Computer Science",
+            "degree_name": "High School",
+            "school": "Kendriya Vidyalaya",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFiB3Otc6s1Mw/company-logo_400_400/0/1631344654761?e=1712793600&v=beta&t=3vYKh7QFhw-CTx1dXfBNgs4eNAD6qyVJNQEdr9J_GxY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Hindi",
+        "Kannada",
+        "Sanskrit"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Empirical Analysis of Indian Political Ecosystem as an Application of Generic Textual Processing",
+            "publisher": "ICDL 2016 - International Conference in Digital Libraries",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Computed Science-to-Economy Conversion for Better Farming and Forestry",
+            "publisher": "International Journal Of Research in Computer Science",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://www.ijorcs.org/manuscript/id/90/madhu-g-nadig/computed-science-to-economy-conversion-for-better-farming-and-forestry"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Persistent Inspiration Award ",
+            "issuer": "Dept. of Defense Production, Ministry of Defense, India.",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "description": "Awarded the Inspiration Award in Smart India Hackathon - 2017 - World\u2019s Largest Hackathon - for\na project on real time data analytics and intelligence for Dept. of Defense Production, Ministry of\nDefense, India. "
+        },
+        {
+            "title": "Best Paper Award",
+            "issuer": "TERI",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "description": "Awarded a prize in Best Paper Award category at International Conference in\nDigital Libraries for the paper: Empirical Analysis of Indian political ecosystem as an\napplication of genetic textual processing"
+        },
+        {
+            "title": "National Talent Search Examination",
+            "issuer": "Govt. Of India",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "title": "Empirical analysis of the Indian political ecosystem as an application of generic textual processing",
+            "description": "\u00b7 A cloud-based text analysis platform that enables the procurement, integration, storage, and analysis of large\ntext-based data sets from multiple sources or domains.\n\u00b7 Full implementation of the platform with end-to-end integration between multiple techonologies such as Python,\nnltk, Node.js, Javascript and D3.js. Extensively used Machine learning and implemented custom Machine Learning\nalgorithms.\n\u00b7 Platform successfully applied to the Indian political domain.\n\u00b7 Selected to present in the International Conference in Digital Libraries(ICDL) 2016, was awarded a prize in best\npaper award category",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Computer Assembler",
+            "description": "Coded a fully-functional computer assembler based on a hypothetical machine. \nLanguage Used: C",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2017
+            },
+            "title": "ConPaaS - a Platform as a Service from scratch",
+            "description": "An implementation of Platform-as-a-Service Cloud model using LXC containers as a part of Cloud Computing( CS341 ) Course. The PaaS is built using Node.js and is made to run on Linux machines. The PaaS is now able to host node.js code along with MongoDB, essentially supporting the mean stack.\n\nMulti-user deployment is supported with the maximum number of containers per user set to 3. Each user can create upto 3 containers that run the same Node.js server program. The requests are forwarded to the different in a round-robin fashion by the load balancer.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "title": "Distributed columnar key value datastore",
+            "description": "A demonstration of the implementation of a distributed columnar NoSQL key-value pair based datastore for big data. With support for multiple nodes, node management, centralized control, replica management and fault tolerance. Implemented with GET(Query) and POST(entry) requests with persistent storage.  Architecture suitable for 'read once write consistently' type of applications.\n\n\nBuilt the application from scratch with Python and NodeJS.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [
+        {
+            "name": "PSA (Problem Solving Assesment)",
+            "score": "96.15, 99.89 & 98.56",
+            "date_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "title": "Technical Resource",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "ReDI School of Digital Integration",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/redi-school-of-digital-integration/",
+            "description": "I volunteer as a technical resource and teach Java classes to refugees, women and disenfranchised communities in Berlin.",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHxhovVdTuqzQ/company-logo_400_400/0/1700222610518/redi_school_of_digital_integration_logo?e=1712793600&v=beta&t=UI6g8CymSDd67fLlCCzlgfwawVafQouHoId4vfJzk5I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "title": "Mentor for WEST (Women Entering & Staying in Tech) Program",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "Everwise",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/everwise/",
+            "description": "Women Entering & Staying in Tech (WEST) helps more women enter & flourish in technical roles through 1:1 mentorships. ",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEjP1tVmmfbfg/company-logo_400_400/0/1657899611058/everwise_logo?e=1712793600&v=beta&t=g45THe1dPmW_O37IrQk8ZUB2vP2PmMaeYp2gs4Y249s"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": null,
+            "name": "Machine Learning",
+            "license_number": "44Z5H8NLMTSV",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/44Z5H8NLMTSV"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/chialunwu",
+            "name": "Chia-Lun Wu",
+            "summary": "Software Engineer at Flagright",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/baranozkan",
+            "name": "Baran Ozkan, CAMS",
+            "summary": "Co-founder & CEO at Flagright (YC W22) - AI-powered AML compliance for fintechs & banks",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ritika-agrawal",
+            "name": "Ritika Agrawal",
+            "summary": "Building Flagright \ud83d\ude80 || Crafting Talent Strategies || Talent Acquisition || Workplace Culture || FinTech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jinalex",
+            "name": "Alex Jin",
+            "summary": "CTO of Greenlite - AI for Financial Crime & Fintech Compliance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/timqin",
+            "name": "Tim Q.",
+            "summary": "Co-Founder & CEO at Roame (YC S23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maxvwolff",
+            "name": "Max von Wolff",
+            "summary": "Making the world a more creative place.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cesargandino",
+            "name": "Cesar Gandino",
+            "summary": "AML transaction monitoring for fintechs | Flagright (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/victorialorena-lozadamora",
+            "name": "Victoria Lozada",
+            "summary": "MBA | AML transaction monitoring for fintechs | Flagright (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lawrencewill",
+            "name": "Will Lawrence",
+            "summary": "Co-founder at Greenlite - AI for Financial Crime, AML and EDD | Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/toyibatadele",
+            "name": "Toyibat Adele",
+            "summary": "\u2022 Mechatronics Engineering undergraduate \u2022 ML Engineer \u2022 Technical writer \u2022 MLSA \u2022",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

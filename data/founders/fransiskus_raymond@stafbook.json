@@ -1,0 +1,380 @@
+{
+    "public_identifier": "fransiskus-raymond-59b2604a",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/fransiskus-raymond-59b2604a/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=81a0429b251b2f3b2a55bd9af205d921cd1cef0e188bde4644912a7595ff2dbf",
+    "background_cover_image_url": null,
+    "first_name": "Fransiskus",
+    "last_name": "Raymond",
+    "full_name": "Fransiskus Raymond",
+    "follower_count": 3503,
+    "occupation": "Co-Founder and CEO at StafBook",
+    "headline": "Building StafBook, People-First HR Partner",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "StafBook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stafbook-com/",
+            "title": "Co-Founder and CEO",
+            "description": "Help businesses to streamline HR and build high-performing teams",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFiZWQLxMo2eA/company-logo_400_400/0/1680000793725?e=1707955200&v=beta&t=K4OZyunOpJ9IIrPOXs-xCNWGab5jXLhSg2TvxysD5Gg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Blocknom (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/blocknom/",
+            "title": "Co-Founder and CEO",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG1VcPBTVbsIw/company-logo_400_400/0/1641446397546?e=1707955200&v=beta&t=OMgVdVi5eQIToVYL9VrR09FZKy9QtVjsmRXpZdm_JMY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Shopee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shopee/",
+            "title": "Project Management, Operations",
+            "description": "Primarily focus on Logistics for Shopee E-Commerce",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_400_400/0/1672279162763/shopee_logo?e=1707955200&v=beta&t=qCJtdvc8g6VoX4jRuZAwDAvAGn_jHqQaVfPrdTuiwa8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "Gojek",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gojek/",
+            "title": "Sales Manager",
+            "description": "Building Food and Pay services through merchants",
+            "location": "Makassar, South Sulawesi, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHCmfKRtPXKDg/company-logo_400_400/0/1658813682786/gojek_logo?e=1707955200&v=beta&t=ZldYxN0O8EwPcQ_HCmzsLSD-VT6-hr4HHvE8IYrwa4c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "company": "Gojek",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gojek/",
+            "title": "Business Analyst",
+            "description": "Solving problem in Ops and Sales",
+            "location": "Jakarta, Makassar, Manado",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHCmfKRtPXKDg/company-logo_400_400/0/1658813682786/gojek_logo?e=1707955200&v=beta&t=ZldYxN0O8EwPcQ_HCmzsLSD-VT6-hr4HHvE8IYrwa4c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Senior Consultant",
+            "description": "Operations Excellence & PMO, Organization Design, Change Management",
+            "location": "Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1707955200&v=beta&t=p-8Khk_Sa0h47FHHhBgl1asP0K0gq2tsWHb0G4KB4Hs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "company": "Young Leaders for Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "Community Member",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Summer Business Analyst",
+            "description": null,
+            "location": "Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1707955200&v=beta&t=6RAmlPWlyPsljJV8byNMBQUh_F0rggrjb2_xuwNlWFg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "PT. Astra International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt.-astra-international/",
+            "title": "Astra1st Scholar",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEM6oE-kYjm-A/company-logo_400_400/0/1631319377177?e=1707955200&v=beta&t=I3AJ7bI6zXlKHlzSCeG3JiaJGbwW-oJsp5X5T_XcCfQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Vacation Trainee",
+            "description": null,
+            "location": "Cilandak 410 (office), Karang Baru (KRB D-3 field)",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1707955200&v=beta&t=SaW9isMRJZal4vSj5YRY0FcGI55OHE4S7V8E2etNkF0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Industrial Engineering",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1707955200&v=beta&t=MWedQKEG8Lf7MRO6uF7T4vDO2sSNPtpxY1ikp9ZqC4s",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Natural Science",
+            "degree_name": "Junior & Senior High School",
+            "school": " Canisius College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "org_name": "MTI Consulting",
+            "title": "Project Leader",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "National Finalist in Office365 Apprentice",
+            "issuer": "Microsoft Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "National Runner Up in Henkel Innovation Challenge 7",
+            "issuer": "PT Henkel Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Best Student of Faculty of Industrial Technology 2011",
+            "issuer": "ITB Rector",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/muhammadalifakhsan",
+            "name": "Muhammad Alif Akhsan",
+            "summary": "Business Development Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ghuniyu",
+            "name": "Ghuniyu Fattah Rozaq",
+            "summary": "Building StafBook, People-First HR Partner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/neng-fajri-inayah",
+            "name": "Neng Fajri Inayah",
+            "summary": "Senior Business Development at StafBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maratul-hafidzah-436146b5",
+            "name": "Maratul Hafidzah",
+            "summary": "Senior Business Development | Account Manager | SaaS | Partnership | Business Acquisition |",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abh1nay",
+            "name": "Abhinay Peddisetty",
+            "summary": "Co-Founder & CEO at BukuWarung | YC S20",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alfred-ali",
+            "name": "Alfred Ali",
+            "summary": "Building product for rural Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yahya-maulana-juliansyah-a2510a154",
+            "name": "Yahya Maulana Juliansyah",
+            "summary": "Building People First HR Partner for Southeast Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/evan-tanotogono-6b9a5672",
+            "name": "Evan Tanotogono",
+            "summary": "Building InsurTech in Indonesia | Ex-Tokopedia | Ex-BCG | QCRO certified",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gbyfrans",
+            "name": "Gabriel Frans",
+            "summary": "Building CrediBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adrian-azwar-sugian-2b486514b",
+            "name": "Adrian Azwar Sugian",
+            "summary": "Business Development Executive",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Fransiskus Raymond",
+            "link": "https://ca.linkedin.com/in/fransiskus-raymond-565617194",
+            "summary": "Student at Canadore College",
+            "location": "Ontario, Kanada"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

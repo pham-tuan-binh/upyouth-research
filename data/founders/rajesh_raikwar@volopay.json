@@ -1,0 +1,248 @@
+{
+    "public_identifier": "rajeshraikwar",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rajeshraikwar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221625Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a0c421182dc12a59d2c3db9797324e320531294b9dffc166e578c5c10ee21fb",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rajeshraikwar/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221625Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f48cb27276f78d0c16119c607c3beb5dbde6e34c6e32879057befe864bc8b793",
+    "first_name": "Rajesh",
+    "last_name": "Raikwar",
+    "full_name": "Rajesh Raikwar",
+    "follower_count": 1429,
+    "occupation": "Founder & CTO at Volopay",
+    "headline": "Founder & CTO at Volopay",
+    "summary": "With over a decade of experience in product development, I have built multiple products from the ground up and turned them into scalable solutions for a variety of problems. A polyglot programmer with a strong passion for technology and entrepreneurship has always been at the heart of my work. Throughout my career, fintechs have been a primary focus, and I see vast potential for growth and improvement in this field.\nCurrently, the main focus is on solving the SME business expensing problem by utilizing smart corporate cards to develop a streamlined, efficient solution. The aim is to help businesses save time and money by making the process more accessible, cost-effective, and straightforward.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Volopay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/volopay",
+            "title": "Founder & CTO",
+            "description": "Volopay helps you automate accounts payable by combining corporate cards, bill payments and accounting automation.",
+            "location": "Singapore, Australia, Bengaluru",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEvX6zwDsFzeg/company-logo_400_400/0/1566894193507/volopay_logo?e=1706745600&v=beta&t=eGqIOJnYFzrS7Mro1hioPKUOzO7r1A4pWc0iu9qZavM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2019
+            },
+            "company": "MoneySmart Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/moneysmartgroup",
+            "title": "Senior Software Engineer",
+            "description": "Led the development, and integration with multiple car insurance providers.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG3k3X7xHlCMA/company-logo_400_400/0/1664931552304/moneysmartgroup_logo?e=1706745600&v=beta&t=j15wzEGxJ8wOCX-jPPwCW5j5Qb3EbtVL_-BKdYjqFxs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "WeInvest Robo-Advisory Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/weinvest-sg",
+            "title": "Senior Software Developer",
+            "description": "Developed and worked with wealth analysis too and a Robo advisory solution.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHaL-8ync1iKA/company-logo_400_400/0/1670944523023?e=1706745600&v=beta&t=U9NgTg0D-sMoZg2Jsd2p-TY9AYceXeO-kCneyHFa3Uk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "PipeCast",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pipecast",
+            "title": "Co-Founder",
+            "description": "Implemented the backend stack from scratch.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGybMQGvitI3w/company-logo_400_400/0/1519901338897?e=1706745600&v=beta&t=dA-m5o6AWFQCfy_Ve8rsm01k1ERi1ZHUghtoRiYK83Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "company": "Tech Mahindra",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tech-mahindra",
+            "title": "Software developer",
+            "description": "Software development using J2EE ,struts and front end development using jquery and ajax",
+            "location": "Bangalore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_400_400/0/1692161732584/tech_mahindra_logo?e=1706745600&v=beta&t=ZQEyPgHOm1kIi-RNdHMmn6yvYCgtTMOhuZIO4XiuwVY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Bachelor of Technology (BTech)",
+            "school": "JSS ACADEMY OF TECHNICAL EDUCATION, NOIDA",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15118293/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFzWWb7UxXa8A/company-logo_400_400/0/1589002755561/jss_academy_of_technical_education_noida_logo?e=1706745600&v=beta&t=fSEam5dcZNugzmTHzKpksjIKhvA5s0peNGxRWy17Cog",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/vishalsinghal2",
+            "name": "Vishal Singhal",
+            "summary": "Co-founder,  KumoHQ & CampaignHQ | B2B Sass, Fintech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/srishti-kapoor-617052105",
+            "name": "Srishti Kapoor",
+            "summary": "Global Talent Acquisition Manager @ Volopay (YC S20) | L&D | Performance Management | FinTech | SaaS | University of Maryland 17' | University of Melbourne 21'",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rohit-bhageria-a7667b13",
+            "name": "Rohit Bhageria",
+            "summary": "FinTech Executive | \nCorporate & Investment Banker | \nCertified Trade Finance Professional (CTFP)\u00ae",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rajiths",
+            "name": "Rajith Shaji",
+            "summary": "Co-founder & CEO at Volopay",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dileep-krishna-6ab49521",
+            "name": "Dileep Krishna",
+            "summary": "Creator | Building Volopay @Indonesia",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "We are delighted to announce the winners of the Startup Awards 2023, which took place at the Hotel Hilton, Bengaluru.Rajesh Raikwar |\u2026",
+            "link": "https://www.linkedin.com/posts/entrepreneur-media-india_startupawards2023-w3globalawards2023-awards-activity-7043882904480854016-fPhD",
+            "activity_status": "Liked by Rajesh Raikwar"
+        },
+        {
+            "title": "It\u2019s said that brilliant things happen in calm minds. So what better way to relax than to engage in a group sound bath healing session with Tibetan\u2026",
+            "link": "https://www.linkedin.com/posts/moneysmartgroup_mentalhealth-moneysmart-soundbath-activity-7041670788994781184-NSHC",
+            "activity_status": "Liked by Rajesh Raikwar"
+        },
+        {
+            "title": "The 43rd episode of our series 'Tricks Of The Trade' is now available on YouTube! \ud83d\ude80This episode will feature Chirag Gopal, who is currently\u2026",
+            "link": "https://www.linkedin.com/posts/cur8-in_tricks-of-the-trade-podcast-feat-chirag-activity-7036324907105816576-cSqx",
+            "activity_status": "Liked by Rajesh Raikwar"
+        },
+        {
+            "title": "This is a significant accomplishment that demonstrates our expertise and commitment to delivering high-quality solutions in Data Analytics space.",
+            "link": "https://www.linkedin.com/posts/elangobalusamy_squareshifts-data-analytics-specalization-activity-7031513417437896704-Vshj",
+            "activity_status": "Liked by Rajesh Raikwar"
+        },
+        {
+            "title": "Check out my latest interview!https://lnkd.in/e748wZuZ",
+            "link": "https://www.linkedin.com/posts/kavehk_is-he-the-next-elon-musk-interview-with-activity-7030588106483359744-tz17",
+            "activity_status": "Liked by Rajesh Raikwar"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Rajesh R.",
+            "link": "https://ie.linkedin.com/in/rajesh-r-78653b10",
+            "summary": "Certified Scrum Master, Senior Developer, Tech Lead and Enthusiastic Learner",
+            "location": "Limerick"
+        },
+        {
+            "name": "Rajesh Raikwar",
+            "link": "https://in.linkedin.com/in/rajesh-raikwar-7a67a89a",
+            "summary": "Electrical engineer",
+            "location": "Greater Ahmedabad Area"
+        },
+        {
+            "name": "Rajesh Raikwar",
+            "link": "https://in.linkedin.com/in/rajesh-raikwar-a44760159",
+            "summary": "Assistant Professor at Vishwakarma Institute Of Technology",
+            "location": "Pune"
+        },
+        {
+            "name": "rajesh raikwar",
+            "link": "https://in.linkedin.com/in/rajesh-raikwar-123137244",
+            "summary": "Sr. HR Executive",
+            "location": "Chhindwara"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": null,
+            "name": "Bangalore Startups",
+            "url": "https://www.linkedin.com/groups/767147"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQE7G9Cb66LZ6A/group-logo_image-shrink_48x48/0/1631366184985?e=1699524000&v=beta&t=nowZ_02meAQxWLmCWf7pho4dsqNcRq-XVOx2gwdSB2Q",
+            "name": "Startup Network- bangalore",
+            "url": "https://www.linkedin.com/groups/2299619"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

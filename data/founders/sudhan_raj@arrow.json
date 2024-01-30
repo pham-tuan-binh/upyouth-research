@@ -1,0 +1,350 @@
+{
+    "public_identifier": "sudhan-raj",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sudhan-raj/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221541Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=23c4c28f9b4d22665693b329a9a3d4763ce7f6d58b53bfd02ba791e244779740",
+    "background_cover_image_url": null,
+    "first_name": "Sudhan",
+    "last_name": "Raj",
+    "full_name": "Sudhan Raj",
+    "follower_count": 1034,
+    "occupation": "Chief Technology Officer at Arrow (YC S21)",
+    "headline": "CTO of Arrow - Making it easier for shoppers and merchants to buy and sell online",
+    "summary": "I am a computer engineering graduate from Nanyang Technological University graduate with a keen interest in Entrepreneurship. I was the key developer behind Popcorn: Movie Showtimes app. Currently with more than 2 million downloads with users spanning across several countries in Asia Pacific. I lead the team which developed Cornflix.Tv, an online television network consisting of over 600 channels and running globally. I founded Appreneurs.Co Pte. Ltd., an IT Consulting company, based in Singapore, focusing on architecting customised IT Solutions (both software and hardware) for businesses.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Arrow (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/arrowcheckout",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeAipheS4HCQ/company-logo_400_400/0/1636453171724/arrowcheckout_logo?e=1712793600&v=beta&t=6cX1O9W_lkddxT7Yd5C4Xjg4iFBubM-xLE_q3sKO1Gg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "Appreneurs.Co Pte. Ltd.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/appreneurs-co-pte-ltd-",
+            "title": "Founder",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHIiDC_RAB5IQ/company-logo_400_400/0/1631335683109?e=1712793600&v=beta&t=rF_06dURy25a_j9XqBq3ht0fZBpG1OrMDjuRS8MucAs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "company": "Dei Holdings Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dei-holdings-pte-ltd",
+            "title": "Chief Technology Officer / Chief Product Officer",
+            "description": "Architected, Planned and Executed the Digitalisation of E-Commerce solution for Dei\n\nSupported for ordering of groceries and daily essentials from over 300 merchants across Singapore to be collected, consolidated and delivered within the same day.\n\nIntegrated with Singapore's well-known supermarkets like FairPrice, Phoon Huat, Jothi Stores, Sri Murugan, Selvi Stores, Karthika, Dashmesh, Sri Ambikas, and many others. Interfaced with their existing processes to retrieve regular updates of price and stock changes.\n\nConnected any driver from anywhere instantly via a quick link onboarding process (via WhatsApp) to get the driver onto Dei's delivery tracking module and assigned the drops for the day. Including customer DO sign-off.\n\nUtilised AI/ML to suggest tips to merchants on how they can spruce up their listings as well as to identify buying patterns of consumers",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "Popcorn App",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Architect",
+            "description": "Popcorn is the only movie showtimes and ticketing app you\u2019ll ever need for booking movie tickets on the go.\n\nCheck movie showtimes and book tickets at all major cinema chains with Popcorn, and get access to the latest movie information, movie trailers and movie news wherever you are.\n\nPopcorn is now available in the following regions:\n\nExpanded Popcorn to 5 countries within a span of a year",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2017
+            },
+            "company": "Cornflix TV",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Technology Officer",
+            "description": "Cornflix TV reimagines internet video by curating the best videos from YouTube in a beautifully seamless TV-like experience. Internet TV will never be the same!\n\nCornflix TV features hundreds of the top media brands, personalities and YouTube creators on the planet including BBC, CNN, TheEllenShow, Jimmy Kimmel Live, Martha Stewart, FoodTube by Jamie Oliver, BuzzFeed, Pewdiepie, Red Bull TV, College Humor, Adult Swim, Dude Perfect, Top Gear, Epic Meal Time, and tons of other favourites!\n\nCovering News & Business, Entertainment, Food & Drink, Tech & Gadgets, Sports, Fashion & Beauty, Kids and many other categories, Cornflix TV has something for everyone.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Picky Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Senior Software Developer",
+            "description": "Development of Picky App on iOS, Android and the development of a web backend portal for the management of content.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "MyDoc Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "IT Project Manager",
+            "description": "Architected and developed MyDoc from ground up to funding",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "Mercatus Healthcare",
+            "company_linkedin_profile_url": null,
+            "title": "IT Projects Manager",
+            "description": "ZapRad",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2012
+            },
+            "company": "Peasinapod Pte. Ltd.",
+            "company_linkedin_profile_url": null,
+            "title": "Software Developer",
+            "description": "Popcorn\nGameOn\nPunk'D\nSGDeals.SG\nPocketDeals",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "Pellucid Networks Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pellucideyecare",
+            "title": "IT Projects Manager",
+            "description": "ZapRad",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGo_Ng4rOAqzA/company-logo_400_400/0/1630601772693/pellucideyecare_logo?e=1712793600&v=beta&t=MoHMypXqiiG16mWJzyyFU4WPF0fDGVI-91ys_rEpenk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2008
+            },
+            "company": "Daimler",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mercedes-benz_ag",
+            "title": "Software Developer",
+            "description": "RUG - Request Handling System",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGZtbba2xf4gg/company-logo_400_400/0/1688373976599/mercedes_benz_ag_logo?e=1712793600&v=beta&t=fDOGoQRQXbOvfYO8AYxu0gwY1dAiJ6wwHpaMHiq3kTg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor of Engineering (BE)",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/165091/",
+            "description": "Computer Engineering",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682216282/ntusg_logo?e=1712793600&v=beta&t=Vv26QAd02puP-pRuiOyy4sLRl6IFgbNWrCRc164Uy4I",
+            "grade": null,
+            "activities_and_societies": "Students' Union"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2003
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Catholic Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Tamil"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1007,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/viktor-villalobos",
+            "name": "V\u00edctor Villalobos",
+            "summary": "CTO at RendaloMaq (YC S21), Hiring Devs (Remote)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leia-ng",
+            "name": "Leia Ng",
+            "summary": "Sales Executive at CardUp",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jay-varman-64424827",
+            "name": "Jay Varman",
+            "summary": "Director Business Development",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/federico-benavides-06985016b",
+            "name": "Federico Benavides",
+            "summary": "Co-Founder & Chief Technology Officer at Paycaddy YC (W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/garrettwu",
+            "name": "Garrett Wu",
+            "summary": "Co-Founder & CTO @ Roger (YC W21) \ud83d\udcdd\ud83c\udf7e",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Sudhan Raj",
+            "link": "https://in.linkedin.com/in/sudhan-raj-147747188",
+            "summary": "Student",
+            "location": "Chennai"
+        },
+        {
+            "name": "SUDHAN RAJ",
+            "link": "https://in.linkedin.com/in/sudhan-raj-9b6234115",
+            "summary": "UI UX designer - Graphics designer",
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "name": "Sudhan Raj",
+            "link": "https://in.linkedin.com/in/sudhan-raj-33b0a367",
+            "summary": "Project Manager at Total Environment Building Systems Pvt Ltd",
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Sudhan Raj",
+            "link": "https://in.linkedin.com/in/sudhanrajpvp",
+            "summary": "Test Specialist | Automation | Manual",
+            "location": "Chennai"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHKUvNKXqQy6w/group-logo_image-shrink_48x48/0/1631002840410?e=1705464000&v=beta&t=byolXl-vV-CjcnMOy_RALesVr8FVNNnKTuV4ccrJ29w",
+            "name": "zerotomastery.io",
+            "url": "https://www.linkedin.com/groups/12121940"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHEUnUhHUffvA/group-logo_image-shrink_48x48/0/1631400162859?e=1705464000&v=beta&t=QNC6f-r9QBPhyqUvncIPWtzu-x7QgKOLuwvLOWc86Fg",
+            "name": "Jobs @ Singapore",
+            "url": "https://www.linkedin.com/groups/3969174"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

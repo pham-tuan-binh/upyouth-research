@@ -1,0 +1,365 @@
+{
+    "public_identifier": "tranviettung",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tranviettung/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221307Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5766fac5220084341d12ca3e3e314e3a2aaf52edacad7ed1db97d383d08887a3",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tranviettung/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221307Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6936e41a9847db5227f2cb6818cdb23d19519690847fe19fadf075f8eb324271",
+    "first_name": "Tran",
+    "last_name": "Viet Tung",
+    "full_name": "Tran Viet Tung",
+    "follower_count": 757,
+    "occupation": "Co-Founder at Marathon Education",
+    "headline": "Serial entrepreneur",
+    "summary": "Driven by the impact on community, my proud achievements are the ground work and foundation we created for the entire hosting community in Vietnam, our training of a whole new generation of young enthusiastic graduates who work out of passion to create lasting impressions and values to the people visiting Vietnam. The potential community impact would be the underlying principle in which I choose all my future projects.\n\nSetting strategies are important, but to get there, my favorite role would be to build the team culture, maintain the strong cohesive family environment and create a working place where people are challenged and thrive.\n\nTo contact, please email tran.viet.tung@gmail.com",
+    "country": "VN",
+    "country_full_name": "Vietnam",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Marathon Education",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/marathon-education/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Ho Chi Minh City, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHCuiaMDLllyw/company-logo_400_400/0/1696504822704/marathon_education_logo?e=1712793600&v=beta&t=9TMfwN1lAIAGpb_yeIqcUKn0AO9bihSuYgTjEGuGOXc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "company": "Klook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/klook/",
+            "title": "Vietnam Country Head",
+            "description": null,
+            "location": "Ho Chi Minh City, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF746W5e9rHcg/company-logo_400_400/0/1656651038481/klook_logo?e=1712793600&v=beta&t=mk9DFdyp1F0t5hZkF92sKUjYf56L9W4Y74nSOK3awBY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2020
+            },
+            "company": "Leroy Merlin",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/leroy-merlin/",
+            "title": "Chief Operating Officer",
+            "description": "Leroy Merlin is a multi-billion dollar home improvement conglomerate operating in 15 countries. Here in Vietnam we pioneer a seamless B2B2C 3 pillar platform: service (network of professionals), products (network of home improvement brands), and inspirations, providing customers with a unique one stop solution to all home improvement needs. The project was prematurely closed due to corona virus group corporate restructure.",
+            "location": "Ho Chi Minh City, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEWDbY13kn7qw/company-logo_400_400/0/1685006143140/leroy_merlin_logo?e=1712793600&v=beta&t=66AwsbRu9_d1VlwrCSCo6F4z2PiNrirS4bcqXiT3nDI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "Christina's",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/christinas-vn/",
+            "title": "Co-Founder | co-CEO | COO",
+            "description": "(www.christinas.vn) A team of close to 500, operating in 8 cities in Vietnam, providing awesome local experience to travelers around the world. Our products and services encompass all aspects of your trip.\n\nWe were ranked number 1 in Saigon and/or Vietnam in hotel and tour categories in TripAdvisor for 3 consecutive years. All properties under our management are consistently rated above 9/10 across 8 cities in Booking.com\n\nCmego | Christina\u2019s | Onetrip | The Joi Factory | M\u00fcvv\n\nCmego - technology backbone\nChristina\u2019s - social accommodation\nOnetrip - tour platform\nThe Joi Factory - F&B\nM\u00fcvv - transportation",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF8en-c-uS5_w/company-logo_400_400/0/1630640935556?e=1712793600&v=beta&t=CbH_PcxxEZW5FFt1Tgy9ys46fk9SnZID0YcwRwHTo8s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Triip Pte. Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/triipme/",
+            "title": "Co-Founder and Director",
+            "description": "(www.triip.me) Triip is a global travel platform that enables travelers to enjoy amazing tours passionately crafted by local experts. Triip aims to connect travelers who love to experience life the local way with the locals who are passionate about sharing the beauty of their city.\n\nArticles on Triip:\n\nhttp://skift.com/2013/02/21/skiftseedlings-five-early-stage-travel-startups-offer-niche-travel-experiences/\n\nhttp://www.techinasia.com/vietnamese-startup-triip-crowdsources-tour-guides-asia/\n\nhttp://thenextweb.com/asia/2013/08/22/tired-of-getting-scammed-while-traveling-triip-links-tourists-up-with-locals-in-southeast-asia/?fromcat=all\n\nhttp://ventureburn.com/2013/06/around-the-world-in-7-startups-traveling-ventures-with-a-twist/\n\nhttp://www.tnooz.com/article/triip-wants-to-bridge-local-people-and-travelers-to-create-rich-experience/\n\nhttp://e27.co/2013/06/10/triip-a-new-hope-for-vietnam-tourism/",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFfewuPDuy6dg/company-logo_400_400/0/1630594270148/triipme_logo?e=1712793600&v=beta&t=guEYk_mma1VkB2Fd45QvReiRrGWS1J0Gvx0batDqyHc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "TNK Capital Partners & MDKT Company Limited",
+            "company_linkedin_profile_url": null,
+            "title": "Investment Consultant & Assistant to Partner",
+            "description": "A Vietnam boutique M&A and advisory firm. Worked in more than 20 deals with major local industrial players such as Masan, AA Corporation, Coteccons, Hoa Sen Group, Golden Gate, as well as the buy-side players such as VinaCapital, Mekong Capital, Maj Invest, Mount Kellett, ect.. during the period working in TNK Capital and MDKT Capital.\n\nIn charge of producing pitching materials. Acted as the contact point for deal execution, data collection and correspondence between different parties. Followed up and managed DD process, dealing with both financial due diligence and legal due diligence teams.",
+            "location": "Vietnam",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "Thien An Holding",
+            "company_linkedin_profile_url": null,
+            "title": "Head of Board of Supervisors",
+            "description": "A Vietnam real estate developer.\n\nMonitored company financial movement. In charge of monthly financial reporting to Singapore investor. Worked with company management on budget and execution of financial plan.",
+            "location": "Vietnam",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2010
+            },
+            "company": "CLSA",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/clsa/",
+            "title": "Assistant Manager",
+            "description": "CLSA - Credit Lyonnaise Securities Asia. Enrolled in rotation program through various departments in securities operation such as Futures & Options, Trade Support, Settlement, Treasury.\n\nPart of a team to develop and test a system built to handle millions of trades across platforms and products for multiple international institutional stock brokerage firms.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFEzLsFpngKfg/company-logo_400_400/0/1631363550791?e=1712793600&v=beta&t=hthaI_bm3hJOq7DlgmNx2ab4WwpYbtcc2Tn-7m-zuoQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2007
+            },
+            "company": "KPMG US",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kpmg-us/",
+            "title": "Auditor",
+            "description": "Key clients were in financial and manufacturing sectors",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHbnWdsb2zvMg/company-logo_400_400/0/1689011295423?e=1712793600&v=beta&t=zRNdMkc_F9c3T-W-M4f8FJeGkPYdF4LZoL5eVYsmCPk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Banking and Finance",
+            "degree_name": "Bachelor",
+            "school": "The London School of Economics and Political Science (LSE)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1712793600&v=beta&t=gctmdf0LjL_BTXiy-gxLLSTch8OoO4cEkeiPgmTJLrw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Accounting",
+            "degree_name": null,
+            "school": "ACCA",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGzSU3_p9owzA/company-logo_400_400/0/1630575686181/acca_logo?e=1712793600&v=beta&t=kgAly3G9FF3bXsGgDL8y1VGyEtA0rSTHeZcE1TDqWT0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": null,
+            "degree_name": "High School",
+            "school": "Hanoi-Amsterdam High School for the Gifted",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHxcLSBOlgb6A/company-logo_400_400/0/1630596363666?e=1712793600&v=beta&t=CUkJE7CouWSDmTI8b0yS5Tt0jaRPdyMXKkUTv-VaU7I",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "title": "Co-Founder & Deputy Director of \"Be A Guardian\" Project",
+            "cause": "CHILDREN",
+            "company": "Gentle Fund Organization",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gentle-fund-organization/",
+            "description": "Managed the whole operation of the project which provides monthly financial support for destitute children across Vietnam to ensure their education is not disrupted.\n\nMore than 200 children were enrolled in the program.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGSucAcI1NBsQ/company-logo_400_400/0/1631302091661?e=1712793600&v=beta&t=MPmLtGYSrJc3vnQtM8NIiQdJSZPNHLFt0DH-Ys65YXQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "title": "Co-Founder & Finance Director",
+            "cause": "CHILDREN",
+            "company": "Gentle Fund Organization",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gentle-fund-organization/",
+            "description": "Managed both accounting and financial management of the organization. Estimated SGD 500,000 were disbursed during the period.\n\nGentle Fund Organization, founded by a group of Vietnamese students in Singapore, is the only Vietnamese charity organization registered with Singapore Ministry of Home Affair. Although governed by Singapore laws, the organization is dedicated to support destitute Vietnamese children through various projects and activities.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGSucAcI1NBsQ/company-logo_400_400/0/1631302091661?e=1712793600&v=beta&t=MPmLtGYSrJc3vnQtM8NIiQdJSZPNHLFt0DH-Ys65YXQ"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/nguy\u00ean-\u0111i\u1ec3u-nguy\u1ec5n-tr\u1ecdng-10336b24b",
+            "name": "Nguy\u00ean \u0110i\u1ec3u Nguy\u1ec5n Tr\u1ecdng",
+            "summary": "Designer at Marathon Education (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tuyet-nguyen-795a9a229",
+            "name": "Tuyet Nguyen",
+            "summary": "Marketing Intern at Marathon Education (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/duc-pham-b22b21101",
+            "name": "Duc Pham",
+            "summary": "Chief Jogger & Co-Founder at Marathon Education",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/huyen-trang-tran-tira-9baa7325",
+            "name": "Huyen Trang Tran (Tira)",
+            "summary": "Product management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kien-nguyen-852b3a4",
+            "name": "Kien Nguyen",
+            "summary": "Co-founder at Asia Partners",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/giang-chu-a38bb059",
+            "name": "Giang Chu",
+            "summary": "Go to Market | Marketing and Business Leader | General Manager | PnL",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicholas-a-nash",
+            "name": "Nick Nash",
+            "summary": "Managing Partner and Co-Founder of Asia Partners",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mariatramnguyen",
+            "name": "Maria Tram Nguyen",
+            "summary": "VP of HR at Marathon Education | People & Culture Lead",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tra-nguyen-b99680142",
+            "name": "Tra Nguyen",
+            "summary": "Title will be no sense when you work for yourself and your desire.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/duyanhngo",
+            "name": "Duy Anh Ngo",
+            "summary": "Tech Transformation Conquistador | Experienced: TravelTech - Fintech - Martech - Edtech - Saas",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

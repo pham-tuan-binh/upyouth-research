@@ -1,0 +1,368 @@
+{
+    "public_identifier": "bochen303",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bochen303/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221147Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd7e1962691e44606cf08681544ba56838fa83d4aa21434611923d71fc48b6f0",
+    "background_cover_image_url": null,
+    "first_name": "Bo",
+    "last_name": "Chen",
+    "full_name": "Bo Chen",
+    "follower_count": 1143,
+    "occupation": "Co-Founder at Xendit",
+    "headline": "Co-Founder at Xendit",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Xendit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xendit",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_400_400/0/1630456612741/xendit_logo?e=1714003200&v=beta&t=h_RNU5v0RxbW0b6V-mw40fnjsR6lvfa29L-MH7au4gI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Xendit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xendit",
+            "title": "Founder and CTO",
+            "description": "Building digital infrastructure for SEA with a team of highly motivated and talented engineers:\n- YC15\n- One of the fastest growing companies in SEA",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_400_400/0/1630456612741/xendit_logo?e=1714003200&v=beta&t=h_RNU5v0RxbW0b6V-mw40fnjsR6lvfa29L-MH7au4gI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Ripple Labs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rippleofficial",
+            "title": "Software Engineer",
+            "description": "Managed open source javascript client libraries to the ripple network\nBuilt autobridging feature that produces synthetic order books out of two direct books",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFgKLDTZieS_Q/company-logo_400_400/0/1657577435533/rippleofficial_logo?e=1714003200&v=beta&t=rrRUXYUg3Gad_6xuydGvrRZEukbf4yzfkKSV_4WwFBQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "company": "Brandcast Inc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/brandcast-inc",
+            "title": "Full Stack Engineer",
+            "description": "Developed an HTML5 content-editable rich text editor\nDeveloped and maintained a front and back end integration testing framework (Selenium, Mocha)\nBuilt integrations with third party APIs (Salesforce, Twitter, etc)\nBuilt roles, permission, and collaboration system",
+            "location": "San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFlFD5eK45LIQ/company-logo_400_400/0/1630671806377/brandcast_inc_logo?e=1714003200&v=beta&t=MwCBp2PMKHo2iAwZvVodc2LEv0BJwBFcHk-RyRQiPSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2013
+            },
+            "company": "POPSUGAR",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/popsugar",
+            "title": "Software Engineering Intern",
+            "description": "Built an auditing system for crawlers posting and collecting data from Amazon Mechanical Turk\nBuilt crawlers for product data from major retailers' sites (Nordstrom, Neiman Marcus, etc.)",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGOy693E-3vgg/company-logo_400_400/0/1664828952091/popsugar_logo?e=1714003200&v=beta&t=M9HGewA4Vqz3H2qZJzGb4jry5jbER5-vyetPDcjk92s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2013
+            },
+            "company": "Happpening",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Full stack development with HTML5, CSS3, JavaScript front end and Ruby on Rails and PostgresDB back end\nWrote BDD style tests using RSpec and Cucumber",
+            "location": "Berkeley, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2012
+            },
+            "company": "Pagoki Inc",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "Designed and developed the User Interface using HTML, CSS, and JavaScript\nDesigned and implemented the back-end under the Spring MVC architecture\nDefined ER relationships and database schema and implemented and maintained the database",
+            "location": "Oakland, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "Noldus Information Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/noldus-information-technology",
+            "title": "Software Engineering Intern",
+            "description": "Designed an Audio Waveform Visualizer plug-in using Microsoft COM which displays and plays\naudio, and synchronizes with the video player in The Observer.\nDeveloped Multi-Viewer plug-in using Microsoft COM and allows users to create widgets such as\ngauges to monitor external data values for easy recognition of dangerous levels.",
+            "location": "Wageningen, NL",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEReJnqZRp9Vg/company-logo_400_400/0/1631328090728?e=1714003200&v=beta&t=RMYcfY-I0s8go3Zx2YQKO9VxlBEouSIdxIlZCqlbYpo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Electrical Engineering and Computer Science",
+            "degree_name": "Bachelors of Science",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1714003200&v=beta&t=mq1DT7e66nSVkezshV-eEYQsORpnYaaGJ5ccmf5IQe8",
+            "grade": null,
+            "activities_and_societies": "Asian Pacific Islander American Public Affairs (APAPA)"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": null,
+            "degree_name": "High school diploma",
+            "school": "Wootton High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Science Bowl, Math Team, National Honors Society"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Algorithms",
+            "number": "CS 170"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 849,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/dvdhsu",
+            "name": "David Hsu",
+            "summary": "Founder, CEO @ Retool",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tessawij",
+            "name": "Tessa W.",
+            "summary": "Co-Founder and COO Xendit ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pfranceschi",
+            "name": "Pedro Franceschi",
+            "summary": "Founder at Brex",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/muruge",
+            "name": "Murugesh Annadurai",
+            "summary": "Senior Director of Engineering | Leading High-Performing Engineering Teams",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/edrichhans",
+            "name": "Edrich Hans Chua",
+            "summary": "Xendit Tech Lead",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "We are excited to announce that we have secured $62M in funding to revolutionize the Healthcare Industry. Nitra is building an ecosystem that\u2026",
+            "link": "https://www.linkedin.com/posts/nitrahq_fintech-healthcare-doctors-activity-6967884443415941120-LC9G",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Hi everyone, this is my latest article in the Office Hours series. In this article, I shared a common trait that stands out among top\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-5underpromise-overdeliver-activity-6961701920801529858-wZ5o",
+            "activity_status": "Shared by Bo Chen"
+        },
+        {
+            "title": "In paving the way for digitisation and innovating payments in Southeast Asia, Xendit sees more conglomerates, startups and SMEs process payments and\u2026",
+            "link": "https://www.linkedin.com/posts/xendit_recipes-for-growth-tessa-wijaya-activity-6947103777602576385-3NTx",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Excited for the in person meet-up of Y Combinator Startup School at Jakarta! And looking forward to hearing the candid founding story of Xendit with\u2026",
+            "link": "https://www.linkedin.com/posts/kumar-puneet_excited-for-the-in-person-meet-up-of-y-combinator-activity-6955494002255101952-mLKw",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Are you the next Filipino unicorn? Xendit, Southeast Asia\u2019s fastest growing unicorn, is here to help build the next unicorn in Southeast Asia\u2019s\u2026",
+            "link": "https://www.linkedin.com/posts/xendit_ycstartupschoolmanila-startups-growth-activity-6955103812613267456-QBub",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Are you an aspiring founder, or having just commenced your startup? This is the perfect opportunity for you! Learn all about founding and growing a\u2026",
+            "link": "https://www.linkedin.com/posts/xendit_xendit-ycombinator-startup-activity-6954692069860802560-0Hrx",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Hi everyone, this is my 4th article in the Office Hours series. In this article, I shared some ideas for:1. Startup founder to increase your\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-4make-yourself-redundant-activity-6952092767229546496-xytD",
+            "activity_status": "Shared by Bo Chen"
+        },
+        {
+            "title": "Hello Fellow Startup Founders and Engineers! I will be speaking at Alibaba Cloud Go Startup Program Masterclass on Tuesday, 12th July 2022! Be sure\u2026",
+            "link": "https://www.linkedin.com/posts/teofebano-kristo-117658126_godigital-alibabacloud-activity-6950662934045831169-tPXC",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Read how Moses Lo, Tessa W. as cofounders build up Xendit from nothing to something! and more to come - worth to read :)https://lnkd.in/dAQ3UwT7\u2026",
+            "link": "https://www.linkedin.com/posts/nor-meydia-80958844_two-cofounders-of-xendit-on-pioneering-fintech-activity-6946012202176782336-eWPV",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Hi everyone, this is my third article in the Office Hours series. I shared some ideas on how to manage people who have more experience than\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-3managing-more-senior-hires-activity-6948667187154874368-KM9Z",
+            "activity_status": "Shared by Bo Chen"
+        },
+        {
+            "title": "Spend it, send it, lend it with Xendit. \ud83d\udcb8 Xendit is a leading payments gateway for Indonesia, the Philippines and Southeast Asia with a single\u2026",
+            "link": "https://www.linkedin.com/posts/partech_spend-it-send-it-lend-it-with-xendit-activity-6946017633351696384-pWek",
+            "activity_status": "Liked by Bo Chen"
+        },
+        {
+            "title": "Hi everyone, this is my second article about titles. I believe you can maximize your value by unconditioning from thinking primarily in terms of\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-2you-are-not-your-hat-activity-6945443721328959489-juDd",
+            "activity_status": "Shared by Bo Chen"
+        },
+        {
+            "title": "Hi everyone, I've just started a new series called Office Hours. Office Hours will focus on topics that I\u2019ve gathered through one on one and group\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-1-ics-and-managers-activity-6943403915577098240-cGgY",
+            "activity_status": "Shared by Bo Chen"
+        },
+        {
+            "title": "In order to build a product, there are 2 things that we have to take notice of. The first one is the product roadmap to communicate the why & what\u2026",
+            "link": "https://www.linkedin.com/posts/impactto_impactto-gowiththefoe-impacttocollective-activity-6935065021047521280-rrce",
+            "activity_status": "Liked by Bo Chen"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Bo Chen",
+            "link": "https://www.linkedin.com/in/bochen2",
+            "summary": "Sr. Engineering Leader @ Snap",
+            "location": "Seattle, WA"
+        },
+        {
+            "name": "Bo Chen",
+            "link": "https://www.linkedin.com/in/bo-chen-3471018a",
+            "summary": "Senior Illustrator at Riot Games",
+            "location": "Santa Monica, CA"
+        },
+        {
+            "name": "Bo Chen",
+            "link": "https://jp.linkedin.com/in/%E6%B3%A2-%E9%99%B3-80277561",
+            "summary": "I work at Nisshin-scientia in Tokyo.",
+            "location": "Saitama, Japan"
+        },
+        {
+            "name": "Bo Chen",
+            "link": "https://www.linkedin.com/in/bochencs",
+            "summary": "Software Engineer at Google",
+            "location": "Greater Seattle Area"
+        },
+        {
+            "name": "bo chen",
+            "link": "https://cn.linkedin.com/in/%E6%B3%A2-%E9%99%88-88967195",
+            "summary": "BD Director",
+            "location": "Shanghai, China"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

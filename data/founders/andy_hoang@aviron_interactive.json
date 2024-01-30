@@ -1,0 +1,348 @@
+{
+    "public_identifier": "andy-hoang-93067226",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andy-hoang-93067226/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221618Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9111c8faa9cb1e0977aabdd1d212b566e5ce244ccd1c65385e22c90f55126af1",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andy-hoang-93067226/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221618Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f7b30f6165fc702c6b16c64840ea1a6b47ed95ee27c2dfbc6675182c99fb0653",
+    "first_name": "Andy",
+    "last_name": "Hoang",
+    "full_name": "Andy Hoang",
+    "follower_count": 2808,
+    "occupation": "Founder & CEO at Aviron Interactive",
+    "headline": "Founder & CEO at Aviron",
+    "summary": "They call me Aviron Andy",
+    "country": "CA",
+    "country_full_name": "Canada",
+    "city": "Greater Toronto Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Aviron Interactive",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aviron-interactive/",
+            "title": "Founder & CEO",
+            "description": "Game-Based Rowing Machines. 22\" HD Touchscreen. 1 to 100+ Lbs of Smart Resistance. Fierce Races, Exciting Games, Guided Strength Programs taking you On and Off the rower.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG8Bg6CVgjHCw/company-logo_400_400-alternative/0/1630648909054/aviron_interactive_logo?e=1708560000&v=beta&t=Ln_6nk1TcGSJs1kCuAO0KxYhopf89E9AD0yMrLdTHzo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "i3 international",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/i3-international/",
+            "title": "Chief Operating Officer",
+            "description": null,
+            "location": "Toronto, Ontario, Canada",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGq57d-lOg1uA/company-logo_400_400/0/1659046204615/i3_international_logo?e=1708560000&v=beta&t=yGMFNF2hN1slKdwQSaeErARNEB2AMq8OIdjfsW4G9hw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "i3 international",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/i3-international/",
+            "title": "Director, Corporate Development & Strategy",
+            "description": null,
+            "location": "Toronto, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGq57d-lOg1uA/company-logo_400_400/0/1659046204615/i3_international_logo?e=1708560000&v=beta&t=yGMFNF2hN1slKdwQSaeErARNEB2AMq8OIdjfsW4G9hw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "i3 international",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/i3-international/",
+            "title": "National Sales Manager",
+            "description": null,
+            "location": "Toronto, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGq57d-lOg1uA/company-logo_400_400/0/1659046204615/i3_international_logo?e=1708560000&v=beta&t=yGMFNF2hN1slKdwQSaeErARNEB2AMq8OIdjfsW4G9hw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "company": "i3 international",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/i3-international/",
+            "title": "Regional Sales Manager",
+            "description": null,
+            "location": "Toronto, Canada Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGq57d-lOg1uA/company-logo_400_400/0/1659046204615/i3_international_logo?e=1708560000&v=beta&t=yGMFNF2hN1slKdwQSaeErARNEB2AMq8OIdjfsW4G9hw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2010
+            },
+            "company": "Canadian Tire",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/canadian-tire/",
+            "title": "Marketing Coordinator",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGudctNTcQi5A/company-logo_400_400/0/1678464679384/canadian_tire_logo?e=1708560000&v=beta&t=6osyFv9kBs4Z2TnkYGvbRHOvatnkdK1gGybOWKZwmso"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "Frito Lay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pepsico/",
+            "title": "Operations Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQES6SfNFl84wA/company-logo_400_400/0/1679328336145/pepsico_logo?e=1708560000&v=beta&t=KVU36uKN0TaS64EdX4qmZPn2Jq76QbtvkuF5SBq5wWs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1708560000&v=beta&t=VtLwykLKpEbpcnmmwDFlUAqn3VcD-rCc21W-0gNFFcU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Management",
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "Schulich School of Business - York University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQER-zL1OM0XlA/company-logo_400_400/0/1647029412885/schulichschool_logo?e=1708560000&v=beta&t=DFgKH-UjOMB7_7XaFvg5eTBWyrJOMR47NOyC6_uQsDQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Logistics, Materials, and Supply Chain Management",
+            "degree_name": "Bachelor of Business Administration (BBA)",
+            "school": "Lazaridis School of Business & Economics at Wilfrid Laurier University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG1N-MWIjBJwA/company-logo_400_400/0/1630653417681/lazaridis_school_of_business__economics_at_wilfrid_laurier_university_logo?e=1708560000&v=beta&t=eEO6_d4wwOxf35nSzciOaHeF5KDUExQOmyKw7UwzmRQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Sales Management",
+            "degree_name": "B2B Sales Management Program",
+            "school": "Ivey Business School at Western University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFi9pCOBrPeow/company-logo_400_400/0/1690892532337/ivey_business_school_logo?e=1708560000&v=beta&t=vpAulvp4hcYQfDGzIt3nMzwlburDVamOHJupMibUPMI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Lean Six Sigma Black Belt (ICBB)",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/amycs",
+            "name": "Amy Curry-Staschke",
+            "summary": "Senior Executive | Champion of People, Culture and Development | Board Member",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christina-watson-",
+            "name": "Christina Watson",
+            "summary": "Manager, People & Culture",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lindsaytcook",
+            "name": "Lindsay Cook",
+            "summary": "Co-Founder / CEO at FitOn",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lfoundos",
+            "name": "Lauren Foundos",
+            "summary": "Founder & Chief Executive Officer at FORT\u00cb",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/julie-cartwright-b313785",
+            "name": "Julie Cartwright",
+            "summary": "President - Pvolve",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lorenzonmarco",
+            "name": "Marco Lorenzon",
+            "summary": "Investor at Stripes",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jaykshah",
+            "name": "Jay Shah",
+            "summary": "Building something new | Previously: founder of BufferBox (YC-S12) (acq by Google), PM @Google, Director of Velocity",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/brandon-mckinnon-73414a20",
+            "name": "Brandon Mckinnon",
+            "summary": "Head of Sales: Aviron",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/inessakarlinsky",
+            "name": "Inessa Karlinsky",
+            "summary": "CMO @ Aviron (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bao-ho-871b6a14",
+            "name": "Bao Ho",
+            "summary": "CTO @ Aviron",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Andy Hoang",
+            "link": "https://www.linkedin.com/in/andy-hoang-0a078ab8",
+            "summary": "Senior Customer Success Manager at Rackspace Technology",
+            "location": "Atlanta Metropolitan Area"
+        },
+        {
+            "name": "Andy Pham",
+            "link": "https://www.linkedin.com/in/hoangp",
+            "summary": "Making NFTs smart | Co-founder & CSO at Enter The Void | Below Average Tennis Player",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "name": "Andy Hoang",
+            "link": "https://uk.linkedin.com/in/hoangandy",
+            "summary": "I use LEGO as a tool to create opportunities for people to learn programming, engineering and teamworking skills",
+            "location": "London"
+        },
+        {
+            "name": "Andy Hoang",
+            "link": "https://www.linkedin.com/in/andy-hoang-651723b2",
+            "summary": "Computer management system for restaurant/bar and retail solution. #freepos",
+            "location": "Greater Sacramento"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

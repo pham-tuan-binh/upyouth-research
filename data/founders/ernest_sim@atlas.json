@@ -1,0 +1,351 @@
+{
+    "public_identifier": "ernestsim",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ernestsim/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221533Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=937587690abe2bcf2f9c0d70078b1490f663f4619bd80c73f5059cd54e0b9800",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ernestsim/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221533Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9784d26c8a7fb36fea5ff865db0aea539f359189be99df35e2beb524876e0d31",
+    "first_name": "Ernest",
+    "last_name": "Sim",
+    "full_name": "Ernest Sim",
+    "follower_count": 2777,
+    "occupation": "Co-Founder at Atlas",
+    "headline": "Co-Founder of Atlas and Grain | Forbes 30U30",
+    "summary": "I'm building the future of food, my mission is to improve lives through meaningful food experiences. I want to create a world where eating becomes effortless and enjoyable.\n\nIf you would like to build the future of food, hit me up over coffee.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grain",
+            "title": "Co-Founder, CTO",
+            "description": "Grain is building the future of food, our mission is to make great food sustainable and accessible for everyone. We want to create a world where eating becomes effortless and enjoyable.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_400_400/0/1630625797116/grain_logo?e=1713398400&v=beta&t=94z0VHzouSgsiVbCXs8PHiELmkbkJolgDnjoFq1nmew"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Atlas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/atlaskitchen",
+            "title": "Co-Founder",
+            "description": "YC S21. Building the infrastructure for F&B online.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGWhcfZEh_X_g/company-logo_400_400-alternative/0/1630669402017/atlaskitch3n_logo?e=1713398400&v=beta&t=cW1wUQLau2tPNw8DKbs14qTYcxBvVlXQmmZZVCeBnJs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Method",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/method-now",
+            "title": "Director, Technology",
+            "description": "Worked with various clients like Samsung, Ministry of Education and NYC on Mobile/Web/Design projects.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHn_aKQn2dOtw/company-logo_400_400/0/1631303186674?e=1713398400&v=beta&t=sakfPtwc39geSOLTofzsv1npWiToYhGIt9qBk4AMrYY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2013
+            },
+            "company": "Actatlys",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/actatlys",
+            "title": "Co-Founder, CTO",
+            "description": "Managed the tech team and built up the business trading platform also designed and maintained the infrastructure for the web application.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            },
+            "company": "Freelance",
+            "company_linkedin_profile_url": null,
+            "title": "Software Developer",
+            "description": "Worked freelance designing and building websites and applications.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2008
+            },
+            "company": "National Research Foundation (PMO)",
+            "company_linkedin_profile_url": null,
+            "title": "Admin Assistant / IT Support",
+            "description": "Worked part-time as an admin assistant and IT support staff before enlistment.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2010
+            },
+            "company": "Singapore Armed Forces (SAF)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/singapore-army",
+            "title": "Commando Medic",
+            "description": "Served as a Corporal in the Commando formation for National Service. I was vocationally trained as a Combat Medic and was equipped with basic first aid knowledge. I was appointed Company Medic and was further assigned the role of Scout Medic in the field.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEqaycg6_-zMQ/company-logo_400_400/0/1679987388159/singapore_army_logo?e=1713398400&v=beta&t=X6CXRtEmSS7m5m_wl0rToJKNry4TuhVHmL0GUw8LZEU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Making something people want",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1713398400&v=beta&t=9Iaf0MFJYwgxwsyVyDdKi3iLsMdrTVvBsSnuxgp8AJs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Diploma",
+            "school": "Ngee Ann Polytechnic",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/165191/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEc-IoUGeW79Q/company-logo_400_400/0/1697524879652/ngee_ann_polytechnic_logo?e=1713398400&v=beta&t=wUnXzgoK1tZ77Uz5bvpF7g_IRzrFRQY3WOIVMIsnoCk",
+            "grade": null,
+            "activities_and_societies": "Students Sports Council"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2004
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Anglo-Chinese School (Barker Road)",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/13634035/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEfidZ-lfsNtw/company-logo_400_400/0/1631341643441?e=1713398400&v=beta&t=vldhC8RHozpxQuMyU2qKLX_7_EOV7YglMY5clF0cOXQ",
+            "grade": null,
+            "activities_and_societies": "Snooker club"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2002
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Catholic High School \u516c\u6559\u4e2d\u5b66",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/66334050/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE8Qe0igFGz1A/company-logo_400_400/0/1630639728281/catholic_high_school_chs__logo?e=1713398400&v=beta&t=voUvDfwM660kZ7nPbSUk_T4ApYLcxMAlaB00QBlYNeo",
+            "grade": null,
+            "activities_and_societies": "Arts club"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Grain",
+            "description": null,
+            "url": "http://grain.com.sg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Ritual",
+            "description": "Created the Ritual website, front-end and back-end development. Managed analytics page and mobile web booking application.",
+            "url": "http://www.ritual.sg"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Enterprise Design Thinking Practitioner",
+            "license_number": null,
+            "display_source": "www.youracclaim.com",
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/691605f8-dc65-49cd-99ef-bc79d66a7910/linked_in_profile"
+        }
+    ],
+    "connections": 2683,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/marcusting",
+            "name": "Marcus Ting",
+            "summary": "Chief of Staff | Grain",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/quek-isaac",
+            "name": "Isaac Quek",
+            "summary": "Co-Founder @ Commune",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yongyisung",
+            "name": "Yi Sung (Sung) Yong",
+            "summary": "Bus driver at Grain and Atlas | Forbes 30U30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/varicklim",
+            "name": "Varick Lim",
+            "summary": "Co-Founder @ Commune | Ex-Grab",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ena-lee",
+            "name": "Ena Lee",
+            "summary": "Chief Operating Officer at Grain",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Ernest Sim",
+            "link": "https://sg.linkedin.com/in/mistsenre",
+            "summary": "Senior Audit Manager at Grant Thornton Singapore",
+            "location": "Singapore"
+        },
+        {
+            "name": "Ernest Sim",
+            "link": "https://sg.linkedin.com/in/ernest-sim-17118922b",
+            "summary": "Computer Science Student at NTU",
+            "location": "Singapore"
+        },
+        {
+            "name": "Ernest Sim",
+            "link": "https://sg.linkedin.com/in/ernest-sim-a2aa1854",
+            "summary": "Senior Account Manager at StarHub",
+            "location": "Singapore"
+        },
+        {
+            "name": "Ernest Sim",
+            "link": "https://sg.linkedin.com/in/ernestswz",
+            "summary": "Fixed Income Specialist at Citi",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFj9tjPdPYh_w/group-logo_image-shrink_48x48/0/1525123661062?e=1706122800&v=beta&t=qsMk_IZK0VJPsVEf7LF-VLBANXk8OZ2zrtK748fgDJQ",
+            "name": "FOSSASIA",
+            "url": "https://www.linkedin.com/groups/3762811"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQHcOzVlmDuc5A/group-logo_image-shrink_48x48/0/1652320041157?e=1706122800&v=beta&t=qoQRQ21fqIiLAev1jjbwJ6OXADT4vAeoXC6ChrJV21Y",
+            "name": "\u279c\ud83d\ude80STARTUP GROUP:  JOIN NOW!\u25bd",
+            "url": "https://www.linkedin.com/groups/109785"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

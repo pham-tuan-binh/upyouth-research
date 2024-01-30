@@ -1,0 +1,277 @@
+{
+    "public_identifier": "wendy-noel-wijaya-b9b6648b",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/wendy-noel-wijaya-b9b6648b/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221228Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c40a794115a62934cfb7cc966aa1a8ece89689936ec6bab39899763b7f458c34",
+    "background_cover_image_url": null,
+    "first_name": "Wendy Noel",
+    "last_name": "Wijaya",
+    "full_name": "Wendy Noel Wijaya",
+    "follower_count": null,
+    "occupation": "CEO & Co-Founder at Joomba",
+    "headline": null,
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Trinusa Baja Nusantara",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Miyazaki Japanese Grill",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Ademax Bluline Investment",
+            "company_linkedin_profile_url": null,
+            "title": "Junior Analyst",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "company": "Ademax Bluline Investment",
+            "company_linkedin_profile_url": null,
+            "title": "Internship",
+            "description": "- Valuation\n- Merger & Acquisition\n- LBO Analysis",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Joomba",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/joombasmoothies/",
+            "title": "CEO & Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQEuJHtnIkUjsw/company-logo_400_400/0/1636961217810?e=1664409600&v=beta&t=YDbLD_DB4TOgXHvKAhGv4oa5WLJKoGcm0XTV6Yg6Ldo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Summer Internship",
+            "description": "Worked on Pertamina general affairs and restructuring project. Focusing on 2 towers, HSSE and Quality Management.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQHEQadDieF8mg/company-logo_400_400/0/1652888549818?e=1664409600&v=beta&t=Cg7Ii1dLoJ6uHAUK0od1Wu6D-Y475mzfJPov-wXfGQ8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Economics and Finance",
+            "degree_name": "Bachelor's degree",
+            "school": "RMIT University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/rmit-university",
+            "description": null,
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C4D0BAQFLUFgnbTSpwQ/company-logo_400_400/0/1653619090353?e=1664409600&v=beta&t=8CwmQTc1GEQUQraiPp1wADWxwLsA5VisP-2MSLkDhSw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "field_of_study": "Economics and Finance",
+            "degree_name": "Bachelor's degree",
+            "school": "Trinity College, the University of Melbourne",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQHbsXv7y0802A/company-logo_400_400/0/1573429285196?e=1664409600&v=beta&t=Mu4yPk-i5Z7vzJWLtuQn54V-hLDTcpsp8WwOhpF-RSs",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 59,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/syarif-hidayatullah-a8013362",
+            "name": "Syarif Hidayatullah",
+            "summary": "Chief Executive Officer - Chief Creative Officer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vindy-lautricia-310799",
+            "name": "Vindy Lautricia",
+            "summary": "Operational Manager at PT. Joomba Karya Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/devy-natalia-0669b7227",
+            "name": "Devy Natalia",
+            "summary": "Co-Founder at Bohopanna",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/giadsr",
+            "name": "Gia  Desiree",
+            "summary": "Marketing & Business Development at Joomba",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yosepinenoviaa",
+            "name": "Yosepine Novia Ayu Yustika",
+            "summary": "Brand Manager at Joomba",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kevin-ciang-594606195",
+            "name": "Kevin Ciang",
+            "summary": "Chief Executive Officer and Co-founder at Woilo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rio-ferdinand-indrajaya",
+            "name": "Rio Ferdinand Indrajaya",
+            "summary": "Business Development Manager at Joomba",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rafdi-ahmad-fachreza-18b763229",
+            "name": "Rafdi Ahmad Fachreza",
+            "summary": "Head of Summer Minibar Salemba",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/muhammad-hadiyatullah-a63858172",
+            "name": "Muhammad Hadiyatullah",
+            "summary": "CEO & Founder PT Brighty Global Sinergi (BRIGHTY)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tryadhi-putra-setiawan",
+            "name": "Nyoman Gede Tryadhi Putra Setiawan",
+            "summary": "CEO & Founder at Rentrips.id",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/elsen-wiraatmadja-948401101",
+            "name": "Elsen Wiraatmadja",
+            "summary": "Co-Founder at Belanjaparts",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gerry-narayan-7195981b9",
+            "name": "Gerry Narayan",
+            "summary": "Co-Founder & CTO at Jiwa Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/m-ridha-indradewa-935b87226",
+            "name": "M Ridha Indradewa",
+            "summary": "Chief Executive Officer di PT Rimaji Teknologi Negeri",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tania-maris-85b74b2a",
+            "name": "Tania  Maris",
+            "summary": "Founder & CFO at PT. Kuvera Arthakara Perkasa",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nabila-destaza-aghnasyifa-43b613190",
+            "name": "Nabila Destaza Aghnasyifa",
+            "summary": "Accounting Administrator at PT. Joomba Karya Indonesia",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

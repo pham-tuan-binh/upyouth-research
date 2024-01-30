@@ -1,0 +1,303 @@
+{
+    "public_identifier": "arvindbramesh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/arvindbramesh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221240Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=60b07702379d1dde07ad21843c25da89795fab6a50e6919332a0b13d43e30ffe",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/arvindbramesh/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221240Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=112a5c7b37fba3f94ec0c77527a04c8fdd2c7ec7ea66afb915b2c2f463d9343c",
+    "first_name": "Arvind",
+    "last_name": "Ramesh",
+    "full_name": "Arvind Ramesh",
+    "follower_count": null,
+    "occupation": "Co-Founder and CTO at Metafi (YC S22)",
+    "headline": "Co-Founder and CTO at Metafi",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Metafi (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/metafi-pte-ltd/",
+            "title": "Co-Founder and CTO",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHpNfsRskmnng/company-logo_400_400/0/1661116653951?e=1670457600&v=beta&t=IBPqnbTrpcMxZBekplvIPwXwImsv3R_eNY48A70ApUk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "dateideas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dateideas/",
+            "title": "Co-Founder and CTO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQH0dCrWgZsIVg/company-logo_400_400/0/1652445902959?e=1670457600&v=beta&t=bDOKGT6wTHKE7IJdSOZQn6vYCwNEdBUMOXt4BMSqu94"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Engineering",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1586755776220?e=1670457600&v=beta&t=9oLBo3k1WGw7XvSockogJklBzBCh2OQ53e-QFjsUtdk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Bloomberg LP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bloomberg-lp/",
+            "title": "Engineering",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF0uyE7RGKDGg/company-logo_400_400/0/1531146047122?e=1670457600&v=beta&t=3L_PxV03wDO2mEBicjH3vk6sGfpFigXRMHCuVK6Eo8E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Bank of America Merrill Lynch",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-of-america-merrill-lynch/",
+            "title": "Intern",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEwSq6HbLmEdQ/company-logo_400_400/0/1519916718424?e=1670457600&v=beta&t=7_e4T_hRIdBDkMS8S0YukuUIpIQYgPOxiqbeb_0s1qA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "PwC Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc-singapore/",
+            "title": "Intern",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFrLVW3_SA2Vg/company-logo_400_400/0/1519900631869?e=1670457600&v=beta&t=yAPZg7CJgufjk963eU9b5_zfmFoDsZuSB-WUp-lraUE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "S22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/ntusg/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_400_400/0/1519894128493?e=1670457600&v=beta&t=U-m0AFT5YgqkwjahsVN__5DY2z4sfwuLiIUBnWiFRn8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Bachelor of Engineering",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/national-public-school/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682215525?e=1670457600&v=beta&t=yIpO9bQo6tZhnheGUJx3zRRf7I6IrPmVDSDidtaGAvo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "CBSE Secondary School Diploma",
+            "school": "National Public School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQG7pWNSiLgUdw/company-logo_400_400/0/1519899541174?e=1670457600&v=beta&t=jPd_RfFZE_q6Ag4T8Ls8pMvmBeajySyxaZXJFz3hYLU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "President's Research Scholarship",
+            "issuer": "Nanyang Technological University",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "INSPIRE Scholarship",
+            "issuer": "Department of Science and Technology, India",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "National Talent Search Scholarship",
+            "issuer": "NCERT",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2009
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GMAT",
+            "score": "760",
+            "date_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "name": "Bloomberg Aptitude Test",
+            "score": "99th Percentile",
+            "date_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Chartered Financial Analyst (CFA)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "CFA Institute",
+            "url": null
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Arvind Ramesh",
+            "link": "https://au.linkedin.com/in/arvindramesh1",
+            "summary": "Associate Director, Advisory at KPMG Australia",
+            "location": "Greater Melbourne Area"
+        },
+        {
+            "name": "Arvind Ramesh",
+            "link": "https://uk.linkedin.com/in/arvind-ramesh-33a9021a2",
+            "summary": "Amazonian | Ex Bank of America.",
+            "location": "London Area, United Kingdom"
+        },
+        {
+            "name": "Arvind Ramesh",
+            "link": "https://ie.linkedin.com/in/arvind-subbu-ramesh",
+            "summary": "SpeakUp office Expert ( Driving AI and Data science) at Novartis| MSc AI | Ex-Accenturite",
+            "location": "Dublin 4"
+        },
+        {
+            "name": "Arvind Ramesh",
+            "link": "https://in.linkedin.com/in/arvind-r-ramesh",
+            "summary": "Project Intern at Collins Aerospace",
+            "location": "Chennai"
+        },
+        {
+            "name": "Arvind Ramesh",
+            "link": "https://in.linkedin.com/in/arvind-ramesh-24a124198",
+            "summary": "Bachelor of Design  at MS Ramaiah University of applied science./ Building Orazo (we are hiring!) Email at hr@orazo.in",
+            "location": "Bengaluru"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

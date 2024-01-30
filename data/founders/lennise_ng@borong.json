@@ -1,0 +1,338 @@
+{
+    "public_identifier": "lenniseng",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lenniseng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221633Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fc211a0f4917a7ae1d99186091f0a9d8faf16fc60ee87880667442fa45cc2bc2",
+    "background_cover_image_url": null,
+    "first_name": "Lennise",
+    "last_name": "Ng (\u9ec4\u82b7\u60c5)",
+    "full_name": "Lennise Ng (\u9ec4\u82b7\u60c5)",
+    "follower_count": 4254,
+    "occupation": "SEA eTrade for Women Advocate at UNCTAD",
+    "headline": "CEO at Dropee (YC W20) | Wholesale made easy through #eTrade | #eTrade for Women",
+    "summary": null,
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Dropee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropee/",
+            "title": "Chief Executive Officer and Co-Founder",
+            "description": "Dropee\u00a0is a B2B eCommerce solution provider that enables businesses to buy and sell in bulk confidently. We do so by simplifying the ordering process, and provide maximum insights on best-sellers across different retail segments.\n\nOur\u00a0Dropee Direct and Dropee Marketplace platforms bring wholesale businesses online and allows retailers to\u00a0source for the right products from the right suppliers.\u00a0\n\nFor more info, check out www.dropee.com.\nTo join our team, visit www.dropee.com/career",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-YoFewAkThw/company-logo_400_400/0/1519885862365?e=1704326400&v=beta&t=r2IayBKKm7E1FgiQbRSn0f0XQZKYkWnbwmn3ZgfkvnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "UNCTAD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unctad/",
+            "title": "SEA eTrade for Women Advocate",
+            "description": "Creating a more equitable society across Southeast Asia developing nations through empowering women to trade & go-digital #eTrade",
+            "location": "Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH8OHen_Aqb9A/company-logo_400_400/0/1597831116764?e=1704326400&v=beta&t=Ldu6M_EB2r03toQYF0m9Jovwb3_XZp1jHbN7kLhMOdQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Hot Gadgets Solution",
+            "company_linkedin_profile_url": null,
+            "title": "Director of Finance",
+            "description": "Distribution business of Harman Kardon and JBL products in APAC.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Kildonan UnitingCare",
+            "company_linkedin_profile_url": null,
+            "title": "External Consultant (Finance)",
+            "description": null,
+            "location": "Melbourne, Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Infinite Ventures Malaysia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/infinite-ventures-malaysia/",
+            "title": "Head of Business Relations (Acquired - Kern Technologies)",
+            "description": "https://www.pressreader.com/malaysia/mint-asia-st/20161209/281857233166777",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHToDus3r7YsA/company-logo_400_400/0/1519907758062?e=1704326400&v=beta&t=chsk45RkMsydddD003l3u9SS_oP1wq80Q0HiKC2zpuc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Yelp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yelp-com/",
+            "title": "Country Manager",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZtZ8AGku9DA/company-logo_400_400/0/1631836421767?e=1704326400&v=beta&t=MclvHK2zG0RHxxS81RKhj4l9E0gAScAyJGd2Gq4jhJo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "company": "Yelp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yelp-com/",
+            "title": "Community Management and Marketing",
+            "description": null,
+            "location": "Melbourne, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZtZ8AGku9DA/company-logo_400_400/0/1631836421767?e=1704326400&v=beta&t=MclvHK2zG0RHxxS81RKhj4l9E0gAScAyJGd2Gq4jhJo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Bachelor of Commerce (BCom)",
+            "school": "University of Melbourne",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEACkXGOAWOFg/company-logo_400_400/0/1691363408363?e=1704326400&v=beta&t=fHr7TaC-5ojAUBJAAhRkpMhZL1Rg5q5OsyX4mh3S_Zw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English",
+        "Malay",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "2nd ASEAN Business Challenge (Runner-up)",
+            "issuer": "MASCA Victoria",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "description": "A one day case study competition hosted by Institute of Chartered Accountants in England and Wales with panel judges from ICAEW, Deloitte, Ernst & Young, PwC, & TalentCorp."
+        },
+        {
+            "title": "Long Tan Leadership and Teamwork Award",
+            "issuer": "Australian Defence Force",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2008
+            },
+            "description": "The ADF Long Tan Youth Leadership and Teamwork Awards recognises students who demonstrate leadership and teamwork within both the school and the broader local community. In addition recognising those who display strong values such as doing one\u2019s best, respect for others and \u201cmateship\u201d, characteristics that are integral to Australian society.\n"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2013
+            },
+            "title": "ICAEW 2nd ASEAN Business Challenge 2013",
+            "description": "Analyzed and evaluated various strategic options for future growth of a real-world corporation and presented the proposal under strict time constraints.\n",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "title": "BCom Case Competition",
+            "description": "Performed strategic analysis and recommendations on Zynga\u2019s current business model and financial problems.\n",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Volunteer",
+            "cause": "SOCIAL_SERVICES",
+            "company": "Habitat for Humanity Australia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/habitat-for-humanity-australia/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE8fCjer6xIJQ/company-logo_400_400/0/1561509490591?e=1704326400&v=beta&t=wJkU_wTgoh4VTAHh6qOTIU7FaGi73J4NIUib3S3I6GM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": null,
+            "title": "eFounders Fellow",
+            "cause": "EDUCATION",
+            "company": "Alibaba Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alibaba-group/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFm7hV8es67ZQ/company-logo_400_400/0/1662629305153?e=1704326400&v=beta&t=obiXkV37VYbdjgiI-BpkigDL1svX4ksrRWrVLAYpRsg"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Applied NLP in Business (Consulting)",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Certified Practitioner of Neuro-Linguistic Programming",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/aizatrahim",
+            "name": "Aizat Rahim",
+            "summary": "Managing Director, Dropee (YC W20) - SEA's top & profitable B2B Marketplace. Open to connect with VCs/PEs.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/liyen-tan",
+            "name": "Liyen Tan",
+            "summary": "Founder & Chief Eating Officer @ Hawkr (Iterative S21) | Venture Partner at Iterative",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yienyee88",
+            "name": "Yienyee Soh",
+            "summary": "Championing commerce across APAC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rongliew",
+            "name": "Rong Liew",
+            "summary": "Cofounder & CEO @ Showwcase | Building a network for developers | Investor | DMs on Showwcase",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melvinchee99",
+            "name": "Melvin Chee",
+            "summary": "CEO @ RPG | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ericcheng85",
+            "name": "Eric Cheng",
+            "summary": "CEO & Co-Founder at CARSOME",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/waihongfong",
+            "name": "Wai Hong Fong",
+            "summary": "Chieftain / Co-Founder at StoreHub",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/damilola-olokesusi-37638035",
+            "name": "Damilola Olokesusi",
+            "summary": "Cofounder & CEO at Shuttlers | UNCTAD etrade for Women Advocate in Anglophone Africa region | Forbes30under30 2019 | Global Shaper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lindarasip",
+            "name": "Ts. Haslinda Rasip",
+            "summary": "CTO & Co-Founder at Dropee (Y Combinator W20) | We're HIRING UX Designer, Product Manager, Data Lead: Visit dropee.com/career or DM me.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aiko-reyes-62899b1ba",
+            "name": "Aiko Reyes",
+            "summary": "Creating and leading a hyper-engaged community of micro and small businesses in the Philippines. \ud83d\ude80",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

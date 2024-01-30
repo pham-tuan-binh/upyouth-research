@@ -1,0 +1,414 @@
+{
+    "public_identifier": "ramavito-mountaino-12873a132",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ramavito-mountaino-12873a132/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221659Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7cf7cb0324d87a28ecebcf8147693bd0860c3a2811dcb98011a413df31546faa",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ramavito-mountaino-12873a132/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221659Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4f73096ee9fbbb2085a876b97f28b73462cc5572ce06581e85431ad0aff09ca2",
+    "first_name": "Ramavito",
+    "last_name": "Mountaino",
+    "full_name": "Ramavito Mountaino",
+    "follower_count": null,
+    "occupation": "Co-Founder & CFO at Eden Farm",
+    "headline": "Co-Founder & CFO at Eden Farm (YC S19)",
+    "summary": "Feeding the Nation. Working with millions of farmers to deliver fresh ingredients to Restaurants & Cafes accross Indonesia\n\nFind us on:\nWww.edenfarm.id",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Eden Farm",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/pt-eden-pangan-indonesia",
+            "title": "Co-Founder & CFO",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGw6qGH3Kuuvg/company-logo_100_100/0/1592541199093?e=2147483647&v=beta&t=Z0iot0y4BZvl-HE1J1qFSeENuQD3IUbh4MFsfUACrV0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "SAFE Logistics",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/safe-logistics",
+            "title": "Co-founder & Director",
+            "description": "Www.safelogistics.co.id",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE2gtSQtgJ8yw/company-logo_100_100/0/1519912682494?e=2147483647&v=beta&t=TetUN_KVu4mTFvRhgRUcaYEoKTQzAnRevfy_lAeFPak"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Manulife Asset Management",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/manulife-investment-management",
+            "title": "Assistant Portfolio Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEekfedaHZZoQ/company-logo_100_100/0/1584455719740?e=2147483647&v=beta&t=RPC2UC-pehw7Cbom6FuawS1sjs1WwyBIuE9r8-Pa6vQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": "S19",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_100_100/0/1519894128493?e=2147483647&v=beta&t=Upq9ys0OyE2KKmOBbMpXsILE4_ghl1-y21CpXjTHPfg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Master's degree",
+            "school": "Prasetiya Mulya Business School",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/prasmul/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_100_100/0/1567486096706?e=2147483647&v=beta&t=6SHXQFy0T4dXgwqCGngXHNEIv4F0ckE2CZZeATycGPk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Bachelor's degree",
+            "school": "Institut Teknologi Telkom",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/institut-teknologi-telkom/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQGopZA6V3NBlg/company-logo_100_100/0/1552571147112?e=2147483647&v=beta&t=s5oWo2k8NtzhcQ69kqZhw0vZEbYlbFH0LgS7maFiRX0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Indonesian",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Wakil manajer investasi",
+            "license_number": null,
+            "display_source": null,
+            "authority": "The Indonesia Capital Market Institute",
+            "url": null
+        }
+    ],
+    "connections": 402,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/safitri-febrianita",
+            "name": "Safitri Febrianita",
+            "summary": "Budget Controller at Eden Farm (YC S19)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/oki-harmawan-msc-a7506324",
+            "name": "Oki Harmawan, MSc",
+            "summary": "Chief Supply Officer",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/tria-darma-jayanti-909b3b17b",
+            "name": "Tria Darma Jayanti",
+            "summary": "Finance Operation at Eden Farm (YC S19)",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hendry-gunawan-6b5822142",
+            "name": "Hendry Gunawan",
+            "summary": "CEO Team at Eden Farm",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/sastra-brilliant-33777468",
+            "name": "Sastra Brilliant",
+            "summary": "CEO Office at Eden Farm",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nadia-khairunnisa-a63714184",
+            "name": "Nadia Khairunnisa",
+            "summary": "Corporate Communications at Eden Farm",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/khurnia-januari-630283128",
+            "name": "Khurnia Januari",
+            "summary": "Solution & Support Manager at Eden Farm",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/roby-hariyanto-403346140",
+            "name": "Roby Hariyanto",
+            "summary": "sourcing staff di Eden Farm",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/cindy-praharasti-khoirunnisa-a615a4130",
+            "name": "Cindy Praharasti Khoirunnisa",
+            "summary": "Finance Administrative Officer at Eden Farm",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/christo-okulian-7a40b347",
+            "name": "Christo Okulian",
+            "summary": "Chief Sales Officer at PT Eden Pangan Indonesia",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://id.linkedin.com/in/immanueltanacha",
+            "name": "Noel Sianturi",
+            "summary": "People Partner Lead at Eden Farm (YC S19)",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://id.linkedin.com/in/glory-victor-201068119",
+            "name": "Glory Victor",
+            "summary": "Sales Manager di Eden Farm (YC S19)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nopiati-amelia",
+            "name": "Nopiati Amelia",
+            "summary": "Talent Acquisition at Eden Farm",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/panji-nasrullah",
+            "name": "Panji Nasrullah",
+            "summary": "Area Sales Manager at Eden Farm",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/lilisrukmana",
+            "name": "Lilis Hardiyanti Rukmana",
+            "summary": "Account Executive di Eden Farm (YC S19)",
+            "location": "Bandung dan Sekitarnya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/baynoegroho",
+            "name": "Bayu Nugroho Putra Sandewa",
+            "summary": "Project Manager at KADIN Jawa Tengah",
+            "location": "Semarang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wahyu-nur-qaidiazam-22561a19b",
+            "name": "Wahyu Nur Qaidiazam",
+            "summary": "Finance Officer ( Account Payable ) at Eden Farm",
+            "location": "Jakarta Selatan"
+        },
+        {
+            "link": "https://id.linkedin.com/in/vanyafarellia",
+            "name": "Vanya Farellia Iwasakathi",
+            "summary": "Talent Acquisition | Eden Farm is Hiring!",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gitta-laras-m-46891518b",
+            "name": "Gitta Laras M.",
+            "summary": "Senior Account Executive at Eden Farm",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rizza-ramdhania-ab3432121",
+            "name": "Rizza Ramdhania",
+            "summary": "Area Sales Manager at Eden Farm",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-putra-aryanditama-44746998",
+            "name": "Muhammad Putra Aryanditama",
+            "summary": "Quality Manager Eden Farm",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/putri-c-sari-b416b844",
+            "name": "Putri C Sari",
+            "summary": "HR Manager at Eden Farm (YC S19)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ruth-theresia-021ab91b1",
+            "name": "Ruth Theresia",
+            "summary": "Talent Acquisition at Eden Farm",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/christian-eko-wicaksono-s-psi-chrp-22124b130",
+            "name": "Christian Eko Wicaksono, S. Psi., CHRP.",
+            "summary": "People Partner  at Eden Farm",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dany-riswanto-a93b92201",
+            "name": "Dany Riswanto",
+            "summary": "VP of Supply at Eden Farm",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hubertchristophe",
+            "name": "Christophe Hubert",
+            "summary": "VP Engineering at Edenfarm (YC S19)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/jihan-avianti-7b60681b1",
+            "name": "Jihan Avianti",
+            "summary": "People Culture & Engagement Officer at Eden Farm",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/desy-komalawati-884760203",
+            "name": "Desy Komalawati",
+            "summary": "Executive Secretary at Edenfarm.id",
+            "location": "Kota Bekasi"
+        },
+        {
+            "link": "https://id.linkedin.com/in/faizal-arief-wibowo-26b800b0",
+            "name": "Faizal Arief Wibowo",
+            "summary": "Agri Development Supervisor at Eden Farm",
+            "location": "Bogor"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dgunawan1",
+            "name": "David Gunawan",
+            "summary": "Strategic",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rizka-safira-junitasari-5b10a0192",
+            "name": "Rizka Safira Junitasari",
+            "summary": "Key Account Executive Supervisor at Eden Farm (YC S19)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/tyarahansel",
+            "name": "Tyara Putri",
+            "summary": "Corporate Communications Manager at EdenFarm",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gayatri-dyah",
+            "name": "Gayatri Dyah Wiastuti",
+            "summary": "Talent Acquisition Support at Eden Farm",
+            "location": "Jakarta"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Eden Farm is honored to be invited by MARKPLUS, INC. to share our insights on how we Exceed The Challenge during pandemic, and how to plan our next\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "Eden Farm proudly supports closed-loop #horticulture agribusiness pilot project in Garut. As mentioned by Rudy Salahuddin, Deputy Minister of\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "Thank you so much for all the opportunities that given to me in this three years. Eden Farm is the place where let me to grow, learn, and develop my\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "The goal is to build value, Value in delivery,Value in the last mile,Adding value to what we are doing day to day basis. If profit-making was\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "The Mount Semeru eruption last December has damaged #agricultural land in Lumajang Regency, especially in Pronojiwo and Candipuro District. Eden Farm\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "Bismillah,It's been a month since I joined Eden Farm and as a beginner in Agritech, the experience has been really #growing on me \ud83c\udf31The challenges\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "Pada minggu lalu, Saya berkesempatan membawakan materi anti-fraud pada Sales Training Jabodetabek. Menyenangkan sekali melihat wajah - wajah \"mantan\"\u2026",
+            "link": "https://id.linkedin.com/posts/immanueltanacha_pada-minggu-lalu-saya-berkesempatan-membawakan-share-6919845123971309568-P-DL",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "Last Tuesday (15/2) we gathered up with Perkumpulan Penyelenggara Jasa Boga Indonesia (PPJI) Central Java members to discuss about the struggles and\u2026",
+            "link": "https://id.linkedin.com/posts/pt-eden-pangan-indonesia_last-tuesday-152-we-gathered-up-with-perkumpulan-share-6900088003448991744-GBEH",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        },
+        {
+            "title": "The goal is to build value, Value in delivery,Value in the last mile,Adding value to what we are doing day to day basis. If profit-making was\u2026",
+            "link": "https://id.linkedin.com/posts/kumarmathan_the-goal-is-to-build-value-value-in-delivery-share-6891600193024856064-nIYx",
+            "activity_status": "Disukai oleh Ramavito Mountaino"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

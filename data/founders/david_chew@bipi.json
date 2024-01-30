@@ -1,0 +1,280 @@
+{
+    "public_identifier": "david-chew-ab5a5336",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/david-chew-ab5a5336/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221331Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d8eee74354223e0c4021b8a2c29abd8e89a2bd72da93e02e675d0c9a882e50f",
+    "background_cover_image_url": null,
+    "first_name": "David",
+    "last_name": "Chew",
+    "full_name": "David Chew",
+    "follower_count": 1102,
+    "occupation": "Co-founder & CTO at bipi (YC W22)",
+    "headline": "Co-founder & CTO at bipi (YC W22)",
+    "summary": "I am a consultant-turned-entrepreneur. I am passionate about building high calibre and collaborative teams that consistently deliver beyond expectations.\n\nIn my consulting career, I helped companies solve complex end-to-end problems, from formulating strategies and re-working business models, to building digital tools and managing large-scale technology programs.\n\nI now spend my time building bipi, a tech start-up that helps digitise and empower Indonesian micro-retailers as Co-founder and CTO.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "bipi (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bipi-id/",
+            "title": "Co-founder & CTO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHjMNFzyc9YMA/company-logo_400_400/0/1647753292549/axross_logo?e=1712793600&v=beta&t=PS_he6Js6bWgdSa4iuQ9I09XxNXZ1yCMcBOo86eKNd4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "Wood Mackenzie",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wood-mackenzie/",
+            "title": "Principal",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFHNuC6ZHvQ4Q/company-logo_400_400/0/1688451461217/wood_mackenzie_logo?e=1712793600&v=beta&t=cffs-sh0AVf2RzsPZKhPBmL1gNvY2AaXpF823WSN05w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "company": "Wood Mackenzie",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wood-mackenzie/",
+            "title": "Managing Consultant",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFHNuC6ZHvQ4Q/company-logo_400_400/0/1688451461217/wood_mackenzie_logo?e=1712793600&v=beta&t=cffs-sh0AVf2RzsPZKhPBmL1gNvY2AaXpF823WSN05w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Business Strategy Manager",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1712793600&v=beta&t=JCN1hMcZ-FlvNHRkavoviTAxdcdYbVVS_uFDZ7R0JTE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Business Strategy Consultant",
+            "description": null,
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1712793600&v=beta&t=JCN1hMcZ-FlvNHRkavoviTAxdcdYbVVS_uFDZ7R0JTE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Strategy Analyst",
+            "description": null,
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1712793600&v=beta&t=JCN1hMcZ-FlvNHRkavoviTAxdcdYbVVS_uFDZ7R0JTE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "company": "Rolls-Royce",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rolls-royce/",
+            "title": "Computational Fluid Dynamics Researcher",
+            "description": null,
+            "location": "Bristol, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG026Y0w2F9ZA/company-logo_400_400/0/1688142449677/rolls_royce_logo?e=1712793600&v=beta&t=Iwcu0ATT5FMre-uBnSBzKmqMXS2CyyP4tqUR0AMZQwQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Aeronautical Engineering",
+            "degree_name": "MEng",
+            "school": "Imperial College London",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFIhkSnjV0YNg/company-logo_400_400/0/1688215735026?e=1712793600&v=beta&t=lh-52hdbqPQgoV610bmEbHX8udPOKvhLX-YHGC6sATk",
+            "grade": "First Class Honours",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabh-chauhan",
+            "name": "Saurabh Chauhan",
+            "summary": "CEO & Founder @ Peakflo (YC W22) | Rocket Internet | McKinsey",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dakshshah",
+            "name": "Daksh Shah",
+            "summary": "Co-Founder & CTO at Tilt (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michael-wang-99b98237",
+            "name": "Michael Wang",
+            "summary": "Founder @ Roger | Helping sales teams close deal faster",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/normanjwanto",
+            "name": "Norman Wanto",
+            "summary": "Founder and CEO at Gotrade (YC S19) #fintech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicolasramsay",
+            "name": "Nick Ramsay",
+            "summary": "CEO & founder at Circular | Making subscriptions the best way to access and experience tech | Angel Investor | Advisor | Entrepreneur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicol\u00e1s-piqueras-38404226",
+            "name": "Nicol\u00e1s Piqueras",
+            "summary": "Co-Founder @ Lenk (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rasmuschow",
+            "name": "Rasmus Chow",
+            "summary": "Co-Founder at Power to the Brand (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andhikasudarman",
+            "name": "Andhika Sudarman",
+            "summary": "CEO at Dealls \u2013 Jobs & Mentoring (YC W22) // \ud83c\udfeb Ex-Harvard // \ud83d\udd06 Building Dealls to revolutionize how Indonesian talents land their next career",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "David Chew",
+            "link": "https://www.linkedin.com/in/david-chew-27511016",
+            "summary": "Vice President Sunbelt Business Brokers",
+            "location": "Fairhope, AL"
+        },
+        {
+            "name": "David Chew",
+            "link": "https://www.linkedin.com/in/david-chew-6819b37a",
+            "summary": "Consultant at Kaiser Consulting as CFO For Hire and Custom Data Analytics",
+            "location": "Columbus, OH"
+        },
+        {
+            "name": "David Chew",
+            "link": "https://sg.linkedin.com/in/david-chew-98a94324",
+            "summary": "Owner, Green Cartridge Pte Ltd",
+            "location": "Singapore"
+        },
+        {
+            "name": "David Chew",
+            "link": "https://my.linkedin.com/in/david-chew-9922799b",
+            "summary": "Business Control Manager at CMA CGM",
+            "location": "Selangor, Malaysia"
+        },
+        {
+            "name": "David Chew",
+            "link": "https://my.linkedin.com/in/david-chew-a45184102",
+            "summary": "Marketing and Sales Manager at Metrotube S/B",
+            "location": "Kuala Lumpur"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

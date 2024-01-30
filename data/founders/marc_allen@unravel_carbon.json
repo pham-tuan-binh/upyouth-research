@@ -1,0 +1,422 @@
+{
+    "public_identifier": "marc-allen-90697227",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/marc-allen-90697227/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221310Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4fc6e92408546121c8b7e3f6db2132bdcf59c3fb0ba4710fe58f3294e7dc7e2d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/marc-allen-90697227/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221310Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=02ab6f6384bb08b344d2fe59e1516e2fea88e66db154009f7fff1ef4d3f03b5c",
+    "first_name": "Marc",
+    "last_name": "Allen",
+    "full_name": "Marc Allen",
+    "follower_count": 4951,
+    "occupation": "Co-Founder at Unravel Carbon (YCW22)",
+    "headline": "Unravel Carbon (YC W22) - Climate-tech co-founder. Sustainability, greenhouse gas and energy management professional - climate change risk advisor. Certified advisory board chair. Company director",
+    "summary": "I'm a chemical engineer, specialising in greenhouse gas (GHG), sustainability and renewable energy, with close to 20 years experience in both operational and consulting roles across a wide range of industries including mining, mineral processing, oil and gas and chemicals/heavy industry. \n\nI'm currently working in the greenhouse gas space helping businesses understand the risks of climate change - both from a financial/transition point of view, as well as potential physical risks. This includes development of corporate GHG strategy, risk management for GHG issues, analysis of external factors relating to legislation changes and social license, reporting of energy and emissions, identification/evaluation of carbon and energy abatement opportunities and assisting with the management of carbon liabilities.\n\nI'm also a certified advisory board chair and able to work with businesses to set up advisory boards, helping them navigate changes take advantage of opportunities associated with the energy transition and decarbonisation and avoiding the risks that come with this transformation.\n\nKey skills - business strategy development, climate change strategy, analysis of climate change risk, analysis of climate related opportunities, Implementation of business strategy, advisory boards, mentoring, emissions measurement and monitoring, emissions abatement options, energy efficiency, renewable energy, sustainable development, sustainable development goals, design thinking, system level thinking, circular economy",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": "Perth",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "National Mirror Committee (Singapore) for ISO/TC 323 - Circular Economy",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Chair",
+            "description": "Co-chair of Singapore's National Mirror Committee for ISO/TC 323, the ISO Technical Committee developing standards and guidance in the area of circular economy. The national mirror committee participates in the development of the international standards and provides input to these. The co-chairs also participate in the international plenary meetings. ",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 1997
+            },
+            "company": "West Australian Petroleum Pty Ltd (now Chevron Australia)",
+            "company_linkedin_profile_url": null,
+            "title": "Vacation work student",
+            "description": "During University summer break, this role was as a vacation work student in the WAPET Perth office and on site on Thevenard Island. Projects completed during this time included completing separation efficiency test work and studies on the equipment in the oil and water separation circuit and a project to develop isolation procedures for major unit operations in preparation for a maintenance turnaround.",
+            "location": "Perth, Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "CEEC Coalition for Eco Efficient Comminution",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ceecinternational",
+            "title": "Director",
+            "description": "The Coalition for Eco-Efficient Comminution (CEEC) is a not for profit organisation dedicated to improving energy efficiency in the mining sector, with comminution as a key focus. The CEEC mission is to raise awareness of research findings, alternative comminution strategies and installed outcomes and to accelerate information, knowledge and technology transfer with the objective of lower processing costs and raising shareholder value as a result of improved practices in mineral processing.\n\nThis knowledge transfer comes through running workshops and webinars, providing case studies from the industry and via the CEEC medal, which is awarded annually to the author/s of the most outstanding published paper, article or case study profiling beneficial strategies for energy-efficient comminution.\n\nThe online energy curves tool, where mineral processing operations can benchmark their performance against others is a key tool provided by CEEC on the website. This is being expanded into the CEEC Advanced Energy Curves Project - a partnership between CEEC, the Queensland Government and METS Ignited.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHKGU5-G1KRWg/company-logo_400_400/0/1631376113026?e=1712188800&v=beta&t=Inr_Zb-_cy6T_5WgT8nV5PuWOPK2Gupaog6GO10etqg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Unravel Carbon (YCW22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unravelcarbon",
+            "title": "Co-Founder",
+            "description": "Did you know that fewer than 10,000 out of 400M businesses globally have good visibility of their GHG emissions? We enable enterprises to decarbonize themselves and their networks of SMEs (suppliers, customers, partners), with speed and at scale with rigorous data science, consumer-grade product and deep climate expertise.\n\nUnravel Carbon brings together a team of very experienced founders and experts in climate change, sustainability, risk management professionals and venture building to develop emissions estimation decarbonisation solutions at scale. We're focussed on enabling decarbonisation across supply chains by targeting the companies that are in the supply chains of enterprises and providing them the visibility and tools to reduce their emissions in a pragmatic, cost-effective way.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF5sKiaGGejFw/company-logo_400_400/0/1689062972679/unravelcarbon_logo?e=1712188800&v=beta&t=f5IBO75R9BQ6uwJpYJG9NBwbGhqcwiAXDmTr1hyualo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "engeco",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/engeco-singapore",
+            "title": "Technical Director",
+            "description": "engeco is a Singapore based management consultancy providing advisory services primarily in energy and greenhouse gas management and strategy across the Australasian region. The global energy transition that is currently under way will affect most companies in some way - engeco provides specialised advice to assist with management of this transition through analysing and understanding risks and opportunities associated with regulatory transition, physical impacts and social license.\n\nThe Technical Director is responsible for the quality of all work produced by engeco. Particular areas of expertise in this role are:\n\nDevelopment of emissions footprints for companies, facilities or products - including Scope 3 emissions\nForecasting greenhouse gas emissions for companies or facilities\nUnderstanding current and future policy impacts on companies from emissions and energy reporting through to direct and indirect carbon pricing\nIdentifying risks and opportunities associated with climate change\nTechnical and financial analysis of greenhouse gas abatement or energy efficiency projects, including renewable energy\nTechnical and financial assessments of offset projects\nSustainability assessments of companies or facilities\nCompliance reporting",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGpEDRDiRAY5A/company-logo_400_400/0/1631370557916?e=1712188800&v=beta&t=W7cIg_X7IxUkpyvGsILHGh0Iss0bUq_Hwyk5jdQn74s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "INPEX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/inpex",
+            "title": "Greenhouse Gas Management",
+            "description": "Reporting to the Director, Business Strategy and Governance, the key focus of this role is the technical management of greenhouse gas (GHG) emissions for INPEX and the development of robust GHG management strategy. \n\nThis includes ensuring that GHG and energy reporting is correct and satisfies legislative requirements, identification and evaluation of carbon and energy abatement opportunities, development of estimates of future emissions profiles and providing input to the GHG and energy management systems to ensure ongoing compliance is maintained through having a well designed framework. \n\nThe outputs of this work are then used as the basis for the INPEX Australia GHG strategy, which uses a risk management framework that considers potential Government policy levers, international climate change efforts, external factors such as social license and financial sector response, and the actions of other industry players to develop a suite of potential control measures.",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQENNCznEAO7dQ/company-logo_400_400/0/1631301654272?e=1712188800&v=beta&t=EYAI1tN8ZQ_uglvp1NY8zAkizcg-PeMw5hCqxx9QMhA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2013
+            },
+            "company": "Energetics Pty Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/energetics-pty-ltd",
+            "title": "Principal Consultant",
+            "description": "Reporting to the General Manager of Consulting, this Principal Consultant role was primarily a management consulting role assisting clients who are large energy users and large emitters with development of energy efficiency opportunities and carbon mitigation strategies and assisting them with preparations for a low carbon future. The key client base for this role was major resources companies in mining and oil and gas though projects were completed across the economy in sectors such as the industrial sector and in chemicals manufacturing.\n\nThe Principal Consultant is a key technical resource for consulting projects, providing direction and overall project management for Consultants and Senior Consultants through a project's execution. Quality assurance of final outputs to clients was also completed as part of this role.\n\nIn addition to project execution, this role was responsible for client management and business development. Sales targets and growth targets for new business were set on a sector by sector basis (e.g., base metals, gold, oil and gas, uranium etc.). Business development in this role included generating the sales strategies for the target sectors in terms of potential clients and potential service offerings and then making contact with identified targets for new business. Identification of the value proposition based on client needs and preparation of proposals followed.\n\nFinally, this position was responsible for management of a team of Consultants and Senior Consultants based in Western Australia and Queensland. ",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFnRV77FiXZXQ/company-logo_400_400/0/1656500669923/energetics_pty_ltd_logo?e=1712188800&v=beta&t=WGGXqzDx0XhgvLvyFrMQ_EtrNYvcmN5RO4DAy8pAkMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2011
+            },
+            "company": "Energetics Pty Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/energetics-pty-ltd",
+            "title": "Senior Consultant",
+            "description": "The Senior Consultant role at Energetics was responsible for delivery of advisory projects for clients, primarily in the areas of energy efficiency and greenhouse gas management. The Senior Consultant also acted as project manager for smaller projects when required.\n\nBusiness development was also part of this role as proposals were prepared for, and negotiated with, clients for new projects.",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFnRV77FiXZXQ/company-logo_400_400/0/1656500669923/energetics_pty_ltd_logo?e=1712188800&v=beta&t=WGGXqzDx0XhgvLvyFrMQ_EtrNYvcmN5RO4DAy8pAkMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2009
+            },
+            "company": "The Simulus Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-simulus-group",
+            "title": "Senior Process Engineer and Simulation Co-ordinator",
+            "description": "This role was as a Senior Process Engineer and Simulation Co-ordinator for an engineering company providing consulting services to the mining and minerals processing industry.\n\nIn this role, projects were completed for a number of different minerals processing operations primarily involving the development of steady state and dynamic models of the process operations in a number of software packages and interrogation of the models' results to provide information for process engineering design of mineral processing plants, development of financial models, sizing and costing of equipment and delivery of scoping and pre-feasibility studies. In addition to simulation of processing plants, projects were also completed in dynamic modelling packages to simulate discrete event processes such as transport networks and reliability and maintenance models.\n\nSimulus was agnostic to the modelling package used to develop the models and significant experience was gained in SysCAD, Metsim, Unisim, Hysys, OLI Stream Analyser, IDEAS and ExtendSim.\n",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHqzyEqDE9p2Q/company-logo_400_400/0/1631375534672?e=1712188800&v=beta&t=nQ7UR5oI27zNbYDoJBjO9nqTIwwSR-jsG8719XicUk8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2006
+            },
+            "company": "BOC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boc-south-pacific",
+            "title": "Production manager - Murrin Murrin",
+            "description": "As Production Manager for the Murrin Murrin Operations this role had direct management responsibility for two site supervisors and four plant operator technicians at BOC's facilities. The plants, located at the Murrin Murrin nickel cobalt refinery near Leonora in Western Australia, were a 225 t/d cryogenic air separation plant and a 22 t/d steam methane reformer that produced high purity hydrogen. Oxygen, nitrogen and hydrogen were supplied via pipeline throughout the customer's refinery.\n\nThe primary responsibilities of this role were to ensure safe and efficient operation of these plants and direct line management of the operations personnel. This role was also the primary point of contact for the customer for any issues relating to supply of products.",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQElMKWY-18eZQ/company-logo_400_400/0/1651462377894/boc_south_pacific_logo?e=1712188800&v=beta&t=3aEw9KDoBb0FPn9qgcoDKzyhu2065rhPjooMZ-cVXLs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "company": "BOC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boc-south-pacific",
+            "title": "Production Engineer - WA",
+            "description": "Production engineer/production manager looking after Kwinana and Fimiston plants and providing engineering support to the Kemerton plant.\n\nThe plants across the facilities included both cryogenic and non-cryogenic air separation, hydrogen purification, nitrogen liquefaction and carbon dioxide liquefaction.",
+            "location": "Perth, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQElMKWY-18eZQ/company-logo_400_400/0/1651462377894/boc_south_pacific_logo?e=1712188800&v=beta&t=3aEw9KDoBb0FPn9qgcoDKzyhu2065rhPjooMZ-cVXLs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": "Sustainability",
+            "degree_name": "Masters",
+            "school": "Curtin University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/8788/",
+            "description": "Currently completing a Masters in Science, majoring in Sustainability. This post graduate course concentrates on Cleaner Production techniques through green engineering, eco efficiency and industrial ecology.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGbRm8FLHuYDg/company-logo_400_400/0/1630595775003/curtinuniversity_logo?e=1712188800&v=beta&t=cd6F9mocLASiFkFtkyiPPEV3NxWRea8kXSzUEa4_7uY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1998
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor",
+            "school": "Curtin University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/8788/",
+            "description": "Completed an undergraduate degree in Chemical Engineering",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGbRm8FLHuYDg/company-logo_400_400/0/1630595775003/curtinuniversity_logo?e=1712188800&v=beta&t=cd6F9mocLASiFkFtkyiPPEV3NxWRea8kXSzUEa4_7uY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Risky Business - The Changing Climate of Disclosure",
+            "publisher": "Australian Institute of Energy Journal",
+            "published_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "description": "This article discusses recent trends and frameworks around disclosure of climate risk. In particular, discussion around the transition risks of climate change.",
+            "url": "http://www.aie.org.au/energy-news-journal"
+        },
+        {
+            "name": "Exporting Renewable Energy - Could Hydrogen be the Answer?",
+            "publisher": "Australian Institute of Energy Journal",
+            "published_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "description": "This article explores the use of renewable hydrogen (that is, manufacture of hydrogen from renewable energy and electrolysis) and discusses the plans for Australia to become an exporter of hydrogen to the world. Manufacture, storage and distribution are discussed.",
+            "url": "http://www.aie.org.au/energy-news-journal"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Don Watts Award",
+            "issuer": "Curtin University Chemical Engineering Alumni",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "description": "The Don Watts award is presented by the Curtin University Chemical Engineering Alumni. It recognises chemical engineering leadership for Curtin graduates over 30 years old."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Committee Member and lead for the sustainability working group",
+            "cause": "Environment",
+            "company": "Vic Park Collective",
+            "company_linkedin_profile_url": null,
+            "description": "The Vic Park Collective works to foster collaborations between local businesses, residents and the Town of Victoria Park to make Vic Park uniquely awesome.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": "Education",
+            "company": "Curtin University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/8788/",
+            "description": "Each year, for the last four years, I have participated in the Curtin University Next Step mentoring program as a mentor. The purpose of the program is to prepare students close to graduation for their transition into the workforce. This is done through linking volunteer mentors with mentees in similar fields and giving them the opportunity to provide advice and guidance in the areas they want it.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGbRm8FLHuYDg/company-logo_400_400/0/1630595775003/curtinuniversity_logo?e=1712188800&v=beta&t=cd6F9mocLASiFkFtkyiPPEV3NxWRea8kXSzUEa4_7uY"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Certified chair",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Advisory Board Centre",
+            "url": null
+        }
+    ],
+    "connections": 3812,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/genevieve-joan-soh",
+            "name": "Genevieve Soh",
+            "summary": "Chief Product & Strategy Officer @ Climate Impact X | ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ramananraghavendran",
+            "name": "Ramanan Raghavendran",
+            "summary": "Managing Partner, Amasia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/iljx",
+            "name": "Isabel Loh",
+            "summary": "Sustainability | GHG Management | Net Zero",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melllow",
+            "name": "Melissa Low",
+            "summary": "Research Fellow at the National University of Singapore",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gracesai",
+            "name": "Grace Sai",
+            "summary": "Unravel Carbon (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Marc Allen",
+            "link": "https://www.linkedin.com/in/marc-allen-8544a910",
+            "summary": "Publisher, New World Library",
+            "location": "Novato, CA"
+        },
+        {
+            "name": "Marc Allen",
+            "link": "https://uk.linkedin.com/in/marc-allen-9652b42a",
+            "summary": "Transport Manager at Park Logistics",
+            "location": "Nottinghamshire"
+        },
+        {
+            "name": "Marc Allen",
+            "link": "https://uk.linkedin.com/in/marc-allen-72554b53",
+            "summary": "--",
+            "location": "United Kingdom"
+        },
+        {
+            "name": "Marc Allen",
+            "link": "https://www.linkedin.com/in/marc-allen-a5680a8",
+            "summary": "Ship Communications Officer at US Military Sealift Command",
+            "location": "Orange Park, FL"
+        },
+        {
+            "name": "Marc Allen",
+            "link": "https://www.linkedin.com/in/marc0allen",
+            "summary": "Venue Manager of Loft433",
+            "location": "Saratoga County, NY"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQFKx8zwqsFo-A/group-logo_image-shrink_400x400/0/1653474987837?e=1704657600&v=beta&t=6VYrJeX-8h7VWscQEo1ks522ZAEsc3irALxYUo-ogjw",
+            "name": "Sustainability professionals Singapore",
+            "url": "https://www.linkedin.com/groups/10528233"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQGt28Xf74u6Lw/group-logo_image-shrink_48x48/0/1631005507118?e=1704657600&v=beta&t=o8t6kvQElaUFrIE_1LrbMPfOw0SZcuN4FzTCElo-Glo",
+            "name": "Swan River Renewables ",
+            "url": "https://www.linkedin.com/groups/13992410"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

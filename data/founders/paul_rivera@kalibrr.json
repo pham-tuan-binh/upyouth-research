@@ -1,0 +1,419 @@
+{
+    "public_identifier": "paulvrivera",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/paulvrivera/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221704Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7211721c717931e893c7604f30a5a7f1ecc5c841f70cec9e251ba8161ca27612",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/paulvrivera/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221704Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ffbd9896b6d4320405f294d3aa7e42b24fe8acc4f1b277ee3129cd1bcab7c0ca",
+    "first_name": "Paul V.",
+    "last_name": "Rivera",
+    "full_name": "Paul V. Rivera",
+    "follower_count": 8232,
+    "occupation": "Founder & Managing Director at Healthspan Global Inc",
+    "headline": "Entrepreneur ",
+    "summary": "Paul is the co-founder and CEO at Kalibrr. Kalibrr provides strategic talent acquisition solutions to the the fastest growing and most innovative companies in Southeast Asia.\n\nPreviously, Paul was the co-founder and President at Open Access, a pioneering BPO that help scale the people operations of numerous Silicon Valley startups in Manila.\n\nVisit us at www.kalibrr.com to learn more about how your organization can instantly connect to hundreds of thousands of the best candidates in the Philippines and Indonesia.\n\n#wherejobsfindyou",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": "Metro Manila",
+    "state": "National Capital Region",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Remedy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/remedy-ph",
+            "title": "Co-Founder and COO",
+            "description": "Remedy Skin Solutions is the Philippines' first online dermatology solution. Using technology, we aim to transform one of the fastest growing industries in the Philippines and become the most trusted innovative acne solution. Visit us at www.remedy.ph",
+            "location": "Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHFfQId8nwb_A/company-logo_400_400/0/1630714503711/remedy_ph_logo?e=1711584000&v=beta&t=-aDsGCqUtyR4CGmql3eVjIyWRMb18lHKrupByYpeV2Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Asia Society",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/asia-society",
+            "title": "Asia 21 Young Leader 2018",
+            "description": "More than a decade ago, Asia Society had a dream: To build a network of young leaders (under the age of 40) across the Asia-Pacific as a way to promote mutual understanding and effective collaboration among the next generation\u2019s most important and influential leaders. A decade later, we have built a movement of more than 900 powerful alumni from 40 countries and regions. Today, the Asia 21 Young Leaders Initiative stands as the Asia-Pacific\u2019s foremost young leaders network.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGEf8xUid5JjQ/company-logo_400_400/0/1631103572850/asia_society_logo?e=1711584000&v=beta&t=-wadCm79I3c_VmU0xJFiMtB1nMIendDtNSSfCC2Mu20"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "company": "Kalibrr Inc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kalibrr-technology-ventures",
+            "title": "Co-Founder and Executive Chairman",
+            "description": "Kalibrr connects talent and opportunity and is the fastest growing employability platform in Southeast Asia with over 8,000,000 members.\n\nIf you're a jobseeker, visit us at http://www.kalibrr.com\n\nIf you're an employer and are hiring, start now at https://www.kalibrr.com/employers",
+            "location": "San Francisco and Makati City",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCKXJa7FhyuQ/company-logo_400_400/0/1633449669041/kalibrr_technology_ventures_logo?e=1711584000&v=beta&t=tPkRJ3FjqlNtWdPrbm39Wx9BZpTpjH3zUB7wQ0xVtqM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Endeavor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorglobal",
+            "title": "Endeavor Entrepreneur",
+            "description": "Endeavor is the world's leading community of high-impact entrepreneurs. Selected to join at the February 2020 Saudi Arabia ISP",
+            "location": "New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG9Nglb0ZU1kQ/company-logo_400_400/0/1681235668619/endeavorglobal_logo?e=1711584000&v=beta&t=gygk2cfBX7CaYt3wj-9KHEa-IvWeB5Rh8ud2hp0eVBs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Unreasonable",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unreasonable",
+            "title": "Unreasonable FUTURE Fellow",
+            "description": "Unreasonable is an organization, investment fund, and private global network dedicated to supporting entrepreneurs positioned to bend history in the right direction. Unreasonable's mission is to drive resources into and break down barriers for select companies leveraging profit to solve the seemingly intractable social and environmental challenges of our time.\n\nUnreasonable envisions a world in which the most valuable and influential companies are those solving humanity's most pressing challenges. Unreasonable has raised over $2.3 billion dollars in funding and works with 162 entrepreneurs who actively impacting the lives of over 260 million individuals across 180+ countries.\n\nA unique partnership with Fossil Foundation, Pearson and Accenture, Unreasonable FUTURE is aligning the promise of leading edge technologies with the future of inclusive work and social equality. ",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE9t7jf0wab3w/company-logo_400_400/0/1630666921923/unreasonable_logo?e=1711584000&v=beta&t=0ljE2Hn6cJZ1DhEVYcrDySLX1EPS_J4kTaCgKWBc_bw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Maria Health",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/maria-health",
+            "title": "Co-Founder and Board Member",
+            "description": "Maria Health is the largest online health insurance marketplace in the Philippines.",
+            "location": "Makati, National Capital Region, Philippines \u00b7 Remote",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQG3DZmRdb00Mw/company-logo_400_400/0/1630606343562/maria_health_logo?e=1711584000&v=beta&t=sgbwbPeWILwCvwHtPKY6xAWVgYm03Rx7Op8J9ZvuVAg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Healthspan Global Inc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/healthspan-global-inc",
+            "title": "Founder & Managing Director",
+            "description": "Healthspan Global Inc is the exclusive distributor of Innoaesthetics and Meline in the Philippines. Healthspan is also the exclusive distributor of SkinPen, the first U.S. FDA approved micro needling device.",
+            "location": "Makati, National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHSNICDwj1oWQ/company-logo_400_400/0/1631931976073?e=1711584000&v=beta&t=VoU1g_HWO5mwekXLa6S4v6hfzE3ufhli2R37E70fosY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum",
+            "title": "Young Global Leader",
+            "description": "We are an accelerator for a dynamic community of exceptional people with the vision, courage, and influence to drive positive change in the world.\n\nOur growing membership of more than 1,400 members and alumni of 120 nationalities includes civic and business innovators, entrepreneurs, technology pioneers, educators, activists, artists, journalists, and more.\n\nAligned with the World Economic Forum\u2019s mission, we seek to drive public-private co-operation in the global public interest. We are united by the belief that today\u2019s pressing problems present an opportunity to build a better future across sectors and boundaries.",
+            "location": "Davos, Graub\u00fcnden, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1711584000&v=beta&t=R47YkccVgSFj3pVag61kLt-WIb3r-lzjiu3fHr88QRg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Open Access BPO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/open-access-bpo",
+            "title": "Co-Founder & President",
+            "description": "Open Access BPO is a pioneer in the Philippine BPO industry. Open Access BPO helps Silicon Valley's top venture backed startups scale their operations and has worked with Mint.com, Friendster, StumbleUpon, Adchemy, Goodreads, Lyft and TripAdvisor.",
+            "location": "San Francisco and Manila",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGEASYyYVRVDw/company-logo_400_400/0/1672822796664/open_access_bpo_logo?e=1711584000&v=beta&t=zpi_ccbFHHCk1K-IrCVUvxdvibrnG474jVeCBqDaovs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2007
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "AdWords",
+            "description": "Worked with customers to optimize their advertising spend on Google's AdWords platform.",
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1711584000&v=beta&t=B7fq0ofbaBLsQMUQoenKqlmT5cxeGcoKj9XJXFG7IT0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2006
+            },
+            "company": "Mercantila",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mercantila",
+            "title": "Product Manager",
+            "description": "Key driver in setting up captive shared services operations in Bangalore, India with over 100+ FTE in 18 months spanning the range of Mercantila's ecommerce needs including merchandising, support, engineering, and product management.",
+            "location": "San Francisco, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2003
+            },
+            "company": "Wells Fargo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wellsfargo",
+            "title": "Summer Analyst",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGLxWPpGqaVmw/company-logo_400_400/0/1630471638964/wellsfargo_logo?e=1711584000&v=beta&t=xZskg8HgQHAGRkBy4mVSRTPjfIlkBwXYPx9SteWcBmo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Political Economy",
+            "degree_name": "Bachelor of Arts - BA",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1711584000&v=beta&t=VIZcsAGwAKAsonNggFPog7jKiVRQ3wuoldfzCYbpHv0",
+            "grade": null,
+            "activities_and_societies": "Beta Alpha Psi"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "W13",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1711584000&v=beta&t=kdVNz_ntYcrdsxTNJ-uMgVWgk3Mu0QWfdL11obh6MPE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Filipino"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes Asia 100 To Watch - FedEx Small Business Grant Finalist",
+            "issuer": "Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "description": "From underwater drones to satellite propulsion systems and everything in between, the inaugural Forbes Asia 100 to Watch list spotlights notable small companies and startups on the rise across the Asia-Pacific region. At a time when economies worldwide are struggling from the pandemic, these agile companies are on a growth path. Their inclusion in the list comes in part from addressing problems such as improving transportation in congested cities, expanding affordable connectivity in remote regions and preventing food waste. Seventeen countries and territories are represented. Top categories include biotechnology & healthcare, e-commerce & retail, food & hospitality and education & recruitment. The lively startup communities in India and Singapore produced 22 and 19 companies, respectively. Hong Kong has 10 and Indonesia eight. Mainland China has just four, as many candidates were above the required maximums for revenues or funding."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Global Leadership and Public Policy for the 21st Century",
+            "license_number": "0000137361",
+            "display_source": "www.hks.harvard.edu",
+            "authority": "Harvard Kennedy School Executive Education",
+            "url": "https://www.hks.harvard.edu"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Austrian Leadership Programs (ALPs)",
+            "license_number": null,
+            "display_source": "www.hks.harvard.edu",
+            "authority": "Bundesministerium f\u00fcr europ\u00e4ische und internationale Angelegenheiten (MFA Austria)",
+            "url": "https://www.hks.harvard.edu"
+        }
+    ],
+    "connections": 8068,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/vincentvlau",
+            "name": "Vincent L.",
+            "summary": "Co-Founder & CEO at Maria Health",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cathlyn-sarmenta",
+            "name": "Cathlyn Sarmenta",
+            "summary": "People Operations Lead at Remedy | Psychology Graduate Student",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jangarrovillo",
+            "name": "Jan L. Garrovillo",
+            "summary": "HR Tech, SaaS Marketplace, Remote, EOR | VP at Kalibrr (YCombinator W13)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sanuk-tandon-4388a623",
+            "name": "Sanuk Tandon",
+            "summary": "Co-Founder of Kalibrr (YCW13)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sue-anne-tay",
+            "name": "Sue Anne Tay",
+            "summary": "Managing Director, Chief of Staff for Greater China, HSBC | WEF Young Global Leader I ex. Schmidt Futures ISF Fellow",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Natasha Villaroman\n\n\n\nPaul is a visionary and a hustler at the same time. I worked under him closely as Business Development, and learned to adapt quickly to the pressures of working in a startup. He built Kalibrr by recruiting and enabling the best and the brightest talents in the PH, and hopes to give the same impact to other companies who need talent. He's a leader and mentor to the team, who shows exceptional charisma and drive to bring the organization forward. ",
+        "Sharon P.\n\n\n\nI would leverage Paul's talents in building bright, innovative, and data-driven teams to build the largest job training platform in the world.\r\n\r\nPaul Rivera is an extremely deep thinkerr. He consumes information in vast, vast quantities daily and educations himself on the state of global economic conditions."
+    ],
+    "activities": [
+        {
+            "title": "More than 380 Mio. people are living in the #Philippines and #Indonesia, and a (for European standards) skyrocketing percentage is below the age of\u2026",
+            "link": "https://www.linkedin.com/posts/christina-stieber-28222b_philippines-indonesia-activity-7104707089775661056-26oN",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "A lot of very smart people in the room during the ENERGY SMART FORUM 2023 today in Manila which was organized by the European Chamber of Commerce of\u2026",
+            "link": "https://www.linkedin.com/posts/christina-stieber-28222b_goasean-activity-7102930141760126976-qhrb",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "Looking forward to #africaclimatesummit23 and #africaclimateweek next week! We'll be there and eager to connect with youth and organizations\u2026",
+            "link": "https://www.linkedin.com/posts/paul-breloff_africaclimatesummit23-africaclimateweek-activity-7102560192986279936-PPvv",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "\ud83d\udd0d There's a glaring gap in the market, not just in preparing students but also in upskilling the current workforce. Traditional educational systems\u2026",
+            "link": "https://www.linkedin.com/posts/biancavcruz_theres-a-glaring-gap-in-the-market-not-activity-7102217530819178496-sHqw",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "It fills me with immense pride to share that Globe Group has once again been named one of the Best Companies to Work for in Asia by HR Asia! And what\u2026",
+            "link": "https://www.linkedin.com/posts/renato-manuel-jiao-a8083b95_proudkaglobe-proudkaoneglobe-atinangmundo-activity-7102117939083956224-0EPE",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "I\u2019m extremely happy and excited to welcome my brother Carlo Rufino to NEO Office PH as our Co-Managing Director! With an age gap of only one year\u2026",
+            "link": "https://www.linkedin.com/posts/raymond-rufino-1127641_theneoway-activity-7101728798752075776-XdOV",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "\ud83d\ude80EDGE on the GoWe had an amazing experience at the Bett UK conference last March 2023. It was wonderful reconnecting with Yuekun Li from ClassIn\u2026",
+            "link": "https://www.linkedin.com/posts/edge-tutor-international_bettuk2023-edgetutor-activity-7102117341932515328-PhoJ",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "We asked @heathertheinjector_nyc if @SkinPen has helped to increase her patient retention \u2013 we think you\u2019ll like her answer! Choose the best for your\u2026",
+            "link": "https://www.linkedin.com/posts/peter-angles-jd-5174278_skinpen-microneedling-skinpenmicroneedling-activity-7095831253983137794-lzN_",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "I did a short talk and a fireside chat session on the overall ecosystem and what Philippines can do to build on its fledging ecosystem. Made\u2026",
+            "link": "https://www.linkedin.com/posts/mohanbelani_expert-philippine-startup-ecosystem-can-activity-7100348915098546176-SxPX",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "Thrilled to announce that we've secured a city-wide multi-year contract with the city of Fontana in CA, USA! uHoo has been deployed across all\u2026",
+            "link": "https://www.linkedin.com/posts/dustinjefferson_uhoo-wins-contract-with-the-city-of-fontana-activity-7100284974167191552-Cytq",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "Philippine indoor environmental monitoring and management solution startup uHoo recently secured a city-wide multi-year contract with the City of\u2026",
+            "link": "https://www.linkedin.com/posts/paulaqueano_philippine-startup-uhoo-announces-city-wide-activity-7100266592424378369-DWSk",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "Exciting announcement ! Introducing SkinPen\u00ae Precision by Crown Aesthetics in Japan! Thrilled to partner with BigBlue as our Japanese Distributor! \ud83d\udc99\u2026",
+            "link": "https://www.linkedin.com/posts/xdelpeuch_skinpen-skinpenprecision-crownaesthetics-activity-7100032855535140864-m74_",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "The @SkinPen treatment kit and device design is unmatched.\ud83d\udd35 Reciprocating mechanism = even penetration every time \ud83d\udd35 Precise depth settings =\u2026",
+            "link": "https://www.linkedin.com/posts/michael-mckenna-1626109_skinpenmicroneedling-acnescars-neckwrinkles-activity-7098031844289380352-cEpd",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        },
+        {
+            "title": "Growth opportunities in the Philippines. A market I've always been keen on, and still an unexplored opportunity for many brands.",
+            "link": "https://www.linkedin.com/posts/wingsoe_the-promise-of-the-philippines-a-retail-activity-7099863949055049728-4-GN",
+            "activity_status": "Gusto ni Paul V. Rivera"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQGo0UO9QVIoKA/group-logo_image-shrink_48x48/0/1631371389146?e=1704402000&v=beta&t=aZaPygofpRguFipUZhY2yU5iwIDcnl4_07s68pfU8fU",
+            "name": "The Recruitment Network ",
+            "url": "https://www.linkedin.com/groups/45814"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFi4sRXH9dAmQ/group-logo_image-shrink_48x48/0/1630997587878?e=1704402000&v=beta&t=iDSGEsaHILgxk9AZ7zMcoE2jqKT-H40RIH6tuXOekbM",
+            "name": "HR Jobs and Ideas - Human Resources, talent management, hiring tech, networking group",
+            "url": "https://www.linkedin.com/groups/2625263"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

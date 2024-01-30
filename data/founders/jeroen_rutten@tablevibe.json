@@ -1,0 +1,422 @@
+{
+    "public_identifier": "jeroen-rutten-60499921",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jeroen-rutten-60499921/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221550Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b54b1aacc422964ae7036675785e299baa92b06e2acb49cbb87896a600223a0a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jeroen-rutten-60499921/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221550Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=75cad3e2a051d998b95ae9058f83f177ffd53becd11b14e88615af62df032d3f",
+    "first_name": "Jeroen",
+    "last_name": "Rutten",
+    "full_name": "Jeroen Rutten",
+    "follower_count": 2388,
+    "occupation": "Co-Founder & CEO Tablevibe at Tablevibe",
+    "headline": "CEO @ Tablevibe (YC S21) | Ex-Google | Helping restaurants sell directly to customers",
+    "summary": "Tablevibe helps restaurants and cloud kitchens take direct food orders on their own websites and social media channels. Orders are delivered by top tier delivery partners such as Doordash and Foodpanda at a low flat fee. This saves restaurants a ton of money and gives them direct access to customer data. \n\nOur promise for the year:\n- We charge $0 setup fees\n- We charge 0% commission \n- We charge $0 subscription fees\n- We have a partnership with Stripe waiving $60,000 transaction fees",
+    "country": "NL",
+    "country_full_name": "Netherlands",
+    "city": "Amsterdam",
+    "state": "North Holland",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Tablevibe",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tablevibe/",
+            "title": "Co-Founder & CEO Tablevibe",
+            "description": "Tablevibe creates webshop technology for restaurants to take direct pickup and delivery orders from their customers. We partner with top tier delivery partners to deliver the orders. Restaurants save 50-70% of costs compared to orders coming in through delivery apps and they finally get insight into who their delivery customers are so they can build their customer database and reengage their customers.",
+            "location": "Amsterdam, North Holland, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHpQD_03q0GHA/company-logo_400_400-alternative/0/1630578241010/tablevibe_logo?e=1712793600&v=beta&t=mIM8Du2OBXy1zhaoWxnlXe5q5at0vNezf9a0pxJvbG8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Strategic Product Partnership Manager ",
+            "description": null,
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2020
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "APAC Regional Product Lead - Google Search",
+            "description": "Responsible for the Google Search product strategy in APAC. This includes identifying areas of opportunity to capture value with Google Search, as well as be the APAC spokesperson for future product development. It also includes leading a community of ~30 Search Specialists across the region.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "APAC Regional Product Lead  - Measurement & Attribution",
+            "description": "Responsible for the Measurement & Attribution product strategy in APAC. This included Google Analytics and Google Ads M&A capabilities. Responsible for identifying growth opportunities capitalizing upon our M&A Solutions as well as be the APAC spokesperson for future product development. It also included leading a community of ~10 M&A Specialists across the region.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Performance Marketing Specialist Northern Europe",
+            "description": "Responsible for consulting Northern Europe clients in how to better measure and attribute the value of their online marketing activities. Helping clients understand client's online behavior and set KPI's accordingly to maximize ROI.",
+            "location": "Dublin",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Performance Account Manager - Travel",
+            "description": "Responsible for consulting Dutch Travel Clients on digital marketing strategies through the use of Google products. From upper-funnel brand awareness to last click conversion.",
+            "location": "Dublin, Ireland",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "Woods&Leather",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/woodsandleather/",
+            "title": "Founder Woods&Leather",
+            "description": "Woods & Leather hand picked most inspiring quality goods for affordable prices. Ideal to accentuate your lifestyle or as a present.",
+            "location": "Remote",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHw6w7ylYsnBw/company-logo_400_400/0/1630590072551?e=1712793600&v=beta&t=gFX0ULAw6-iLScVZnV2ydYicFZn0ypZbpBcZ3LVt-4w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "L'Or\u00e9al",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lor%C3%A9al/",
+            "title": "Ecommerce & Business Development Manager",
+            "description": "Responsible for the growth of L\u2019Or\u00e9al E-commerce practices. Set it up from scratch, turned it into a multi-million revenue stream within 2 years.",
+            "location": "Hoofddorp Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_400_400/0/1688397792617/loral_logo?e=1712793600&v=beta&t=nGasz6-ge5vpVc3rKxfWHJTI1AymdqiuIsr8WrNL5BU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "Hay Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kornferry/",
+            "title": "Business Analyst",
+            "description": "Worked on the merger of 2 major supermarket chains in The Netherlands.",
+            "location": "Zeist & Amsterdam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHyoaC1FCZ0HQ/company-logo_400_400/0/1630625536843/kornferry_logo?e=1712793600&v=beta&t=vjEWST87nCQtqL1UauhXLJvsqshV1hMShzpbthXMXZQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Computer Programming",
+            "degree_name": null,
+            "school": "Le Wagon",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_400_400/0/1654683279384/le_wagon_logo?e=1712793600&v=beta&t=ADcS7WqmwXpCeFkViEyphjuL8Rfz4dMgo5ajfrik7_A",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Strategy",
+            "degree_name": "MSc Business Studies",
+            "school": "University of Amsterdam",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104903/university_of_amsterdam_logo?e=1712793600&v=beta&t=QK407MNg3jDoPckNQfe45jNlBaBHi6Ekf-wCX_upqnY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Management & Professional Speech",
+            "degree_name": "Summercourse",
+            "school": "University of Mississippi",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH3EeUtUe_KLQ/company-logo_400_400/0/1630642913281/university_of_mississippi_logo?e=1712793600&v=beta&t=5Fzzk6u0AdRRPKtr5-KQobm5QQXmMsO1X_ISTaCThp8",
+            "grade": "A",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Business Administrations",
+            "degree_name": "Bachelor",
+            "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661888521?e=1712793600&v=beta&t=wIR7DITi1Yr8MaYxGuVpwLsBo_-kBDJXbOjcg92lYko",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Dutch",
+        "English (TOEFL 111/120)"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Nominated as one of the top 5 master thesis's of 2012 by Berenschot Dutch Thesis Awards",
+            "issuer": "Berenschot",
+            "issued_on": null,
+            "description": "I wrote my thesis about Ambidextrous Leadership (Grade 8.5) \nExploiting current business and simultaneous exploring future opportunities, is essential for companies to be successful in the long run. Although there is general consensus on the importance of this concept referred to as ambidexterity, there is little understanding on how this balance between aligning- and adapting activities is achieved. In this study I have identified the leadership styles that are most important in creating this ambidexterity balance. See the attachment for Management Summary. Full report available upon request."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "Myers Briggs Type Indicator (MBTI)",
+            "score": "ENTJ",
+            "date_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": null,
+            "title": "Run For Human Rights Watch (NY Marathon Charity Event)",
+            "cause": "HUMAN_RIGHTS",
+            "company": "Human Rights Watch",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/human-rights-watch/",
+            "description": "A group of 30 young adults will put in all efforts to collect money for Human Rights Watch by organizing numerous events and running the New York Marathon in November 2010. ",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9_Y53J0Og3g/company-logo_400_400/0/1630543836095/human_rights_watch_logo?e=1712793600&v=beta&t=21QozelmR3S0nvYPbHrJ1i5ryRMx0wbcaLn4iUlGReQ"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/mathieusneep",
+            "name": "Mathieu Sneep",
+            "summary": "Co-founder @ Tablevibe (YC S21) | Helping restaurants sell directly to customers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michelenoten",
+            "name": "Mich\u00e8le Noten",
+            "summary": "Fashion for Good | ex-Google",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joost-van-houten",
+            "name": "Joost van Houten",
+            "summary": "Building AI Products Battling Financial Crime | ex-McKinsey | Fintech entrepreneur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/miguel-menchaca-08517618b",
+            "name": "Miguel Menchaca",
+            "summary": "Tablevibe | Restaurant Growth Lead, Philippines | Helping restaurants sell directly to customers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/primaulia",
+            "name": "Prima Aulia Gusta",
+            "summary": "Full Stack Dev @ Tablevibe (YC S21) | Taught at Le Wagon",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/miguel-leo-jimenez",
+            "name": "Miguel Jim\u00e9nez",
+            "summary": "Head of Product @ Tablevibe ( YC S21 )",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/janewjlee",
+            "name": "Jane WonJin  Lee (\uc774\uc6d0\uc9c4)",
+            "summary": "VP / Head of APAC GTM @ Remote \ud83d\ude80 | Sales & GTM Leader | Global Executive Team",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/f15s",
+            "name": "Farouk Kadous",
+            "summary": "Founder + CEO | Chickin Worx + Inframodern | Investor; 35+ startups (5 continents)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joaopfsilva",
+            "name": "Jo\u00e3o Silva",
+            "summary": "Facilitating Food Delivery Solutions for APAC's F&B Industry through Integration with Leading Delivery Platforms.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stefan-wintermahr-30914a167",
+            "name": "Stefan Wintermahr",
+            "summary": "Sales Executive for Tablevibe Philippines",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jeroen Rutten",
+            "link": "https://be.linkedin.com/in/jeroen-rutten-711891a",
+            "summary": "Chief Operating Officer at DPD BeLux",
+            "location": "Mechelen"
+        },
+        {
+            "name": "Jeroen Rutten",
+            "link": "https://nl.linkedin.com/in/jeroenrutten",
+            "summary": "Recruitment Co\u00f6rdinator / Corporate Recruiter IT at Centraal Bureau voor de Statistiek",
+            "location": "Heerlen"
+        },
+        {
+            "name": "Jeroen Rutten",
+            "link": "https://nl.linkedin.com/in/ruttenjeroen",
+            "summary": "Strategisch Ontwikkelaar bij Nijhuis Apeldoorn",
+            "location": "Apeldoorn"
+        },
+        {
+            "name": "Jeroen Rutten",
+            "link": "https://nl.linkedin.com/in/jeroen-rutten-48279077",
+            "summary": "Digital Marketeer & Scrum Master at Co\u00f6peratie VGZ",
+            "location": "Nijmegen"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,345 @@
+{
+    "public_identifier": "reinaldo-tendean",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/reinaldo-tendean/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221306Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=07709bcfcff5215ecbc3b97d4a896be61d33532f2c4068ab14802f0c5c2132bc",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/reinaldo-tendean/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221306Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3317ef88f055cee744e1940d3cb45259dd6cd89a86b636f21ef0b5fa2e268c9d",
+    "first_name": "Reinaldo",
+    "last_name": "Tendean",
+    "full_name": "Reinaldo Tendean",
+    "follower_count": 3603,
+    "occupation": "Co-Founder & Co-CEO at Finku",
+    "headline": "Co-Founder at Finku (YC W22)",
+    "summary": "I live in the intersection of business strategy & technology, solving complex problems that provide a positive difference to individuals and households.\n\nCurrently, I'm a co-founder at a fintech start-up, Finku, where our vision is to democratize finance in Indonesia.\n\nPreviously, I was a consultant at BCG where I have had exposure in detailing out strategic roadmaps & in incubating start-up concepts for large corporates, collaborating closely together with BCG Digital Ventures, a corporate investment and incubation firm. \n\nGrowing up in Indonesia and having the privilege to study at Berkeley, I've grown to be passionate about financial inclusion, waste management, and sports. I'm always looking for ways to spend my time in areas I'm passionate about to empower & provide hope to every individual.\n\nFeel free to contact me at reinaldo@finku.id to connect!",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Finku",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finku/",
+            "title": "Co-Founder & Co-CEO",
+            "description": "Democratizing finance for Indonesians, allowing all to take charge of their financial lives and make the best financial decision",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF6l8HCKkFfaA/company-logo_400_400/0/1696927526051?e=1712793600&v=beta&t=2S2pctWbC0mqxIH9cMBkt3PnIQx7q8JLdH5D-BDzRBc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Senior Associate",
+            "description": "Unlocking the potential of those who advance the world: strategy & digital consumer experience",
+            "location": "South East Asia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Associate",
+            "description": null,
+            "location": "South East Asia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Kiva",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kiva-org/",
+            "title": "Strategy & Operations Intern",
+            "description": "Envisioning a financially inclusive world where all people hold the power to improve their lives",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGBx_hbdh64uw/company-logo_400_400/0/1630541370889/kiva_org_logo?e=1712793600&v=beta&t=NVE2G3A2lbTgL7BL9k8kmEwsj5lDi2A2iE6iQBi1ULs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Sumitomo Electric",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sumitomo-electric/",
+            "title": "Materials Analyst Intern",
+            "description": "Providing cutting-edge technology through engineering the building blocks (materials) of the world",
+            "location": "Osaka, Japan",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGaBL4tebItnA/company-logo_400_400/0/1630640549793/sumitomo_electric_logo?e=1712793600&v=beta&t=_ZK8x4Tm0RGz2uJmMc_Y-fvrnoEAXwfRboO_PMla3IE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Materials Science & Engineering",
+            "degree_name": "Bachelor of Science (B.S.)",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM",
+            "grade": "Honors",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Bay Area Environmentally Aware Consulting Network",
+            "title": "Senior Advisor, Project Manager, Associate Consultant",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Berkeley Indonesian Student Asssociation",
+            "title": "Vice President",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Materials Science and Engineering Association",
+            "title": "Corporate Relations Committee",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Tau Beta Pi Engineering Honor Society",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "UC Berkeley Men's Club Soccer Team",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Dean's Honors List",
+            "issuer": "College of Engineering, UC Berkeley",
+            "issued_on": null,
+            "description": "The Dean's Honors List recognizes outstanding academic achievement each fall and spring semester. Requirements include completing 12 or more letter-graded units in that semester; a semester and overall GPA in the top 10% of all College of Engineering undergraduates."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Active Volunteer, UC Berkeley Chapter",
+            "cause": "POVERTY_ALLEVIATION",
+            "company": "Habitat for Humanity International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/habitat-for-humanity-international/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHLbIDCpKBUfA/company-logo_400_400/0/1631333285363?e=1712793600&v=beta&t=FdxjRc6OPcQ5s8lTy3G-CqkWvP49iQLMo4IQofPVV38"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Active Volunteer",
+            "cause": "SOCIAL_SERVICES",
+            "company": "The Berkeley Project",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-berkeley-project/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEQmDJNZzwQ2A/company-logo_400_400/0/1631386800371?e=1712793600&v=beta&t=7JPBlhZBmsuVx9uk-NZuVaPmjcEiL_wOHSjpSuyiXt8"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/ksubianto",
+            "name": "Kimberly Subianto",
+            "summary": "Consultant at BCG | London Business School",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/shylla",
+            "name": "Shylla Estee Pramadhani",
+            "summary": "Co-Founder at Finku | Previously designed for Bukalapak, eBay, Traveloka",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/selvieyang",
+            "name": "Selvie Yang",
+            "summary": "Growth Architect Intern at Finku",
+            "location": "Kota Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib \ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/andrea-celia-pradana-35a679137",
+            "name": "Andrea Celia Pradana",
+            "summary": "Student",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/clrssaudria",
+            "name": "Clarissa Audria",
+            "summary": "Graphic Design Intern at Finku | Visual Brand Design Undergraduate at Multimedia Nusantara University",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/msudihardjo",
+            "name": "Michelle Sudihardjo",
+            "summary": "Associate at Boston Consulting Group (BCG)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bryanaptanawidjaja",
+            "name": "Bryan Aptana Widjaja",
+            "summary": "Consultant at McKinsey & Company | VC Investor | Building Internnet",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/vinnisya-wijaya-750978189",
+            "name": "Vinnisya Wijaya",
+            "summary": "Research and Investment Associate at Smart Women Securities",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nicholassunjaya",
+            "name": "Nicholas Sunjaya",
+            "summary": "Senior Associate Consultant at Bain & Company",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/enricoabner",
+            "name": "Enrico Abner",
+            "summary": "Product Management Intern at Finku | XL Future Leaders Batch 10",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nasya-matram-cfa-a9a825a9",
+            "name": "Nasya Matram, CFA",
+            "summary": "Boston Consulting Group (BCG) | Citi",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/jennifer-keswani-0032471b9",
+            "name": "Jennifer Keswani",
+            "summary": "Financial content writer  at Finku",
+            "location": "London"
+        },
+        {
+            "link": "https://www.linkedin.com/in/bryan-komala-0065a8106",
+            "name": "Bryan Komala",
+            "summary": "Shopee | Plug&Play Ventures | BCG, Strategy&",
+            "location": "Area San Francisco Bay"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nicholaslaij",
+            "name": "Nicholas Laij",
+            "summary": "Head of Business Intelligence at Shopee | Ex-BCG",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://www.linkedin.com/in/adikawitoelar",
+            "name": "Adika Witoelar",
+            "summary": "Economics and Political Science student at UCSD",
+            "location": "San Diego, CA"
+        },
+        {
+            "link": "https://id.linkedin.com/in/giselle-anggijono-6a08401b3",
+            "name": "Giselle Anggijono",
+            "summary": "Business Development at Kerja.io",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bryansilfanus",
+            "name": "Bryan Silfanus",
+            "summary": "VP of Saling Jaga at Kitabisa | Ex-Bain",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/joshuasubintoro",
+            "name": "Primadi Joshua Subintoro",
+            "summary": "Business Development at Shopee | Ex-BCG",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/clarinepranata",
+            "name": "Clarine Pranata",
+            "summary": "Consultant at Boston Consulting Group (BCG)",
+            "location": "Jakarta"
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,381 @@
+{
+    "public_identifier": "deepak-garg-03675911",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/deepak-garg-03675911/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221546Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a983061ec01f10fdc2c568c38f4434db0bbb2fc04e240c6782222528f3a5dbd",
+    "background_cover_image_url": null,
+    "first_name": "Deepak",
+    "last_name": "Garg",
+    "full_name": "Deepak Garg",
+    "follower_count": 2695,
+    "occupation": "Building Poonji at Poonji",
+    "headline": "Warpfy (YC) - Hiring | Reimagining eCommerce | ex-Wayfair | ex-Digital McKinsey | Angel Investor",
+    "summary": "I am a technologist business leader with over 15 years of experience in scaling growth, driving innovation, and transforming industries. As the founder and hustler-in-chief at Warpfy, I am building the next generation consumer brand platform that brings the best of Asia to the global market, with a mission to create positive impact on the planet and the lives of our customers.\n\nI have a proven track record of success in eCommerce, logistics, supply chain, enterprise technology, venture and growth investing, and gaming. I have led digital strategy, operations, and product development for Fortune 200 CxOs, established Wayfair's direct business presence in Asia, and grew its digital freight business to a global top 20. I have also been an angel investor and a founder of multiple startups, and a YC alum. I am passionate about solving complex problems, unlocking new opportunities, and empowering smarter and better hustlers.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Delhi",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Poonji",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trypoonji/",
+            "title": "Building Poonji",
+            "description": "First Financial and Capital Enabler Ecosystem for Ecommerce Only, that offers hands on operating assistance beyond just capital solutions.",
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFf_e7VTbCDXg/company-logo_400_400/0/1694774206111?e=1704931200&v=beta&t=oRYuMw40WQCRzcILCsq0tzA8hriMWyEuiNFQsNp5wQY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Warpfy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/warpfy/",
+            "title": "Founder, Hustler-in-Chief",
+            "description": "Next gen platform to build, operate and scale global Home & Kitchen Brand, that brings the best of Asia to the global consumers, with the B/S and Intermediaries. On a mission to bring good products that have a positive impact on our planet and on the lives of our global consumers. Always looking for smarter and better hustlers!",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUDELmo41awQ/company-logo_400_400/0/1622032546654?e=1704931200&v=beta&t=Bh8XEyjFK8GKMnGG7O25FCaY3y08bevOjwh6lAG9iI4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Wayfair",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wayfair/",
+            "title": "MD, Asia; GM Asia Logistics and Supply Chain - eCommerce",
+            "description": "Driving innovation at source to enable the scaling of eCommerce\nEstablished Wayfair and its direct business presence in Asia. Grew Digital Freight Business from scratch to  Global Top 20, and established Wayfair Asia supplier program\n+ Expanded active operations to 6+ locations across 3 countries with more to go\n+ Incubated / launched / scaling a range of business services to enable our sellers to be more successful- Asia Logistics and services, and International sellers \n+ Head Asia Logistics - P&L leader responsible for the 1st B2B offering in Asia, building the most intelligent and advanced integrated Supply chain and Logistics business for eCommerce\n      + All aspects of business - value proposition, pricing, operations, technology driving incremental revenue from new services, and overall 30%+ returns\n      + Stood up team of operations, product and engineering from 0-40 across US/EU/ Asia\n      + Setup and scaling operations, product and engineers across China (4+ warehouses), Vietnam, Malaysia, to enable digital freight forwarding experience for eCommerce sellers\n+ Conceptualized, and launched first of a kind freemium global quality program for marketplace sellers and their factories; chasing the best and consistent end customer experience by minimize issues at source and savings $bn for Wayfair and sellers",
+            "location": "Hong Kong SAR",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHHS2RPVTXtRw/company-logo_400_400/0/1545086943673/wayfair_logo?e=1704931200&v=beta&t=7E6CB-iUxu482_dk_7JIlRkQDTmR6SaPRoLbn8aS6_s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Associate Partner -  Digital McKinsey",
+            "description": "Impact oriented, hands on strategy and technology leader, with over a decade of experience in identifying and driving growth opportunities across - digital strategy, digital business operations, incubating and launching digital products, advanced analytics (in operations, payments), customer experience(UX) and insights. Served cross industry agendas: EPNG, public sector, financial / business services , healthcare , high tech and PE portfolio companies\n\u25a0  Leader in North America Value Assurance and Enterprise platforms practice\n\u25a0  Leader in North America Advanced Industries \u2013 Digital and IoT practice\n\u25a0  Leader in North America Energy \u2013 Digital practice",
+            "location": "Greater Chicago Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214173898/mckinsey_logo?e=1704931200&v=beta&t=ruGdkyxp9OJaZJRJNTSCVsLmngOTjD4Al69YxgJ_gug"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "Nomura International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nomura/",
+            "title": "Investment Banking Associate - TMT",
+            "description": "Day to day work included originating and managing M&A and capital markets transactions for client in Technology and Media space",
+            "location": "London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGang6b_XjWVg/company-logo_400_400/0/1688348553923/nomura_logo?e=1704931200&v=beta&t=Prn1cc4HNuGaRpRmpcQuC6o6xFsmd9ufk-fQNAGVBNY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2010
+            },
+            "company": "Hyde Park Angels",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hpa-vc/",
+            "title": "Associate - Energy, Gaming and Hi-Tech",
+            "description": "Led origination and diligence of investments in early stage startups in the gaming technology and business services domains, coached and managed portfolio companies on scale up",
+            "location": "Chicago",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHLY0465DrIuw/company-logo_400_400/0/1649365219948/hyde_park_angels_logo?e=1704931200&v=beta&t=pv5j8_jaRfg64k0QnSeTRXuMlCDXm4SlkK597YLXTt8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2009
+            },
+            "company": "Modern Stampings (India) Pvt. Ltd.",
+            "company_linkedin_profile_url": null,
+            "title": "COO",
+            "description": "Responsible for all aspects of running the business, including client development, investment priorities, product development and manufacturing operations, and spearheaded the turn-around of the company, increasing the profitability by 3X in 2 years",
+            "location": "New Delhi Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2009
+            },
+            "company": "One-up, partyat",
+            "company_linkedin_profile_url": null,
+            "title": "Founder, CEO",
+            "description": "Hyper-local infotainment platform for users to match and discover recreational activities and events based on their interests. The platform promoted active recommendation, and features such as events that friends are attending, connect to and invite friends across networks (Orkut) to events jointly, to enable the best leisure experience for users. Our mission was to to simplify the experience of getting together and enjoying leisure time, while making informed decisions and minimizing the frustrations of going to venues and events that are disappointing.",
+            "location": "New Delhi Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2006
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Senior Field Engineer wireline",
+            "description": "Day to day work included managing P&L of 3+ crews, critical client service delivery, team development, and mentoring new recruits",
+            "location": "United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604495973/slbdigital_logo?e=1704931200&v=beta&t=WOWDLElHUyIoyGhgwKNC0u0audGoA9xX9q4MQ98T2Ik"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Summer 21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951/y_combinator_logo?e=1704931200&v=beta&t=nPETPZzhQSLyPQz3m7_VzM5h_sUUXQwYGPJnPSxVIDg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Finance, Entrepreneurship, Strategy",
+            "degree_name": "MBA",
+            "school": "The University of Chicago Booth School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFZO05jhYKSkw/company-logo_400_400/0/1692627816590/universityofchicagoboothschoolofbusiness_logo?e=1704931200&v=beta&t=YTu6e-s6V5PB1gP3i5RrqEfKMq_G4Wu22dSsA3oAJ2M",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2004
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Bachelor of Technology",
+            "school": "Indian Institute of Technology, Kanpur",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEhNteRFbyBdQ/company-logo_400_400/0/1581071973102/indian_institute_of_technology_kanpur_logo?e=1704931200&v=beta&t=YKrqjifPpwVhokgzDa0VkZZMfEEmYHAkNW89jG-8wo8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1988
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2000
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Mount St. Mary's",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Scrummaster",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/harshin-bhambhani-b64514115",
+            "name": "Harshin Bhambhani",
+            "summary": "Building Poonji | Investment Professional",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nikhil-goel",
+            "name": "Nikhil Goel",
+            "summary": "Co-Founder at SalaryBox (YC S21) | Hiring Leaders",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mike-griffin1",
+            "name": "Mike Griffin",
+            "summary": "Building Warpfy (YC) | Head of Amazon Growth & Marketing",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vibhasarinprabhakar",
+            "name": "Vibha Sarin Prabhakar",
+            "summary": "Key Partner, Mentor & Advisor for CX, Business Transformation,Strategy & Growth| CoE Set-up| Start-up Operations & Business Development | Travel & Fitness Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/manikkinra",
+            "name": "Manik Kinra",
+            "summary": "Founder at Pin Click",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shaurayab",
+            "name": "Shauraya Bhutani",
+            "summary": "Partner @ Cap Connect, Breathe Cap | Forbes Asia 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ramparameswaran",
+            "name": "Ram Parameswaran",
+            "summary": "Founder | Octahedron",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samir-srivastav-08ab091a",
+            "name": "Samir Srivastav",
+            "summary": "Love Your Looks",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tarini-pancholi",
+            "name": "Tarini Pancholi",
+            "summary": "Building Warpfy (YC) I Category ops., P&L and Growth specialist for Creative Industries and MSMEs I Keen Researcher (check out \"publications\" below)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kartikjain19331",
+            "name": "Kartik Jain",
+            "summary": "Web3 | Venture Capital | Chicago Booth & NTU MBA | Ex - EY",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Deepak Garg",
+            "link": "https://in.linkedin.com/in/deepak-garg-5aaa7b95",
+            "summary": "Senior Software Engineer at Orange",
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Deepak Garg",
+            "link": "https://in.linkedin.com/in/seamaxfire",
+            "summary": "Fire Protection Engineer at Sea Max Fire Engineering Works",
+            "location": "Delhi, India"
+        },
+        {
+            "name": "Deepak Garg",
+            "link": "https://in.linkedin.com/in/deepak-garg-363b2575",
+            "summary": "Immigration Consultant at VISA VOYAGE",
+            "location": "Moga"
+        },
+        {
+            "name": "deepak garg",
+            "link": "https://in.linkedin.com/in/deepak-garg-b434661b",
+            "summary": "Manager maintenance in devyani foods limited",
+            "location": "Greater Agra Area"
+        },
+        {
+            "name": "Deepak Garg",
+            "link": "https://in.linkedin.com/in/deepak-garg-098aa99a",
+            "summary": "Chartered Accountant",
+            "location": "India"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,417 @@
+{
+    "public_identifier": "philipmoniaga",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Philip",
+    "last_name": "M.",
+    "full_name": "Philip M.",
+    "follower_count": 2020,
+    "occupation": "Co-Founder - CTO (YC W22) at Finnix",
+    "headline": "Co-Founder - CTO Finnix (YC W22) |  ex Bloomberg Booking.com Carousell Ondeck Fellow",
+    "summary": "I'm a generalist software engineer. I interesting in solving real-world problems with technology. I have working with various project like payment, chat, spam and marketplace.",
+    "country": "UK",
+    "country_full_name": "United Kingdom",
+    "city": "City of London",
+    "state": "England",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Finnix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finnix-id/",
+            "title": "Co-Founder - CTO (YC W22)",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEGQcMPEzZvZw/company-logo_400_400/0/1673005671169?e=1706140800&v=beta&t=Y609BZ_zG7KpzVEA0aK2FxuzsPlPxUPuiEDFLbL8B1M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2023
+            },
+            "company": "Amazon Web Services (AWS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-web-services/",
+            "title": "CTO Fellowship",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886/amazon_web_services_logo?e=1706140800&v=beta&t=oWHX8kfp3MRCOZsDGEeY4rv80g58NFkCxRD48tgrmcI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Bloomberg LP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bloomberg/",
+            "title": "Senior Software Engineer",
+            "description": "Building Data Processing Tool",
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0uyE7RGKDGg/company-logo_400_400/0/1531146047122/bloomberg_lp_logo?e=1706140800&v=beta&t=lhIagME-zy_6X0TUEyEp8Kdc4DDX6TpsQiVaupTUcMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "On Deck",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/beondeck/",
+            "title": "ODF Fellow ODF9",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFIB4x9n1R9FQ/company-logo_400_400/0/1675897482617/beondeck_logo?e=1706140800&v=beta&t=R-E1QIr-_I4_I3IKHHMZodOikkMQAmB0GZyfHbKaeN4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "Toptal",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/toptal/",
+            "title": "Fractional CTO",
+            "description": "Consult Series A startup based in US for ES, Python, Postgresql, GCP, Celery",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEJlZg66jWL4w/company-logo_400_400/0/1580139518352/toptal_logo?e=1706140800&v=beta&t=CJTmoIqoDKzRcAxrTpQmOgiBnXEcCNeoEPLyny_P8x4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Booking.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/booking.com/",
+            "title": "Software Engineer ",
+            "description": "Booking Flight Core Team\n\nDeveloped flight api for reconcilation process\nDeveloped flight api for cancelation and price confirmation for us supply team \nadd jvm metrics alerting bosun for flight\nDeveloped billing pipeline event processing for flight \nIncreasing workflow pipeline and working on Kubernetes Deployment Shipper for python django project.\nImprove User Account, Refer Friend, MultiRoom from scratch in Next Billion Traveller Track",
+            "location": "Amsterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400-alternative/0/1628510256914/bookingcom_logo?e=1706140800&v=beta&t=K-WISqPtISesS5rNwswUqB2p2J2OHY1KlOgngAqmB64"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "Carousell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/carousellgroup/",
+            "title": "Senior Software Engineer 2 ( Ads Platform )",
+            "description": "Responsible for:.\n- Designed and Implemented Mediation Ads Service for controlling every position ads and ad network. Create Bucket system for all countries in Carousell app\n- Designed and Implemented audit logging microservice for all internal services. using Kafka, Cassandra and Elastic Search\n- Led React Native Architecture for IOS and Android\n- Implemented CI and CD for internal tools using Jenkins and Docker\n- Designed and Implemented Fallback Mechanism for old and new real time chat \n\nTechnology: Kafka, ElasticSearch, Cassandra, Postgresql, Go, Python, React, Redux",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETxuGkcTm-Dw/company-logo_400_400/0/1565921602837/carousell_logo?e=1706140800&v=beta&t=TvG34Mi9nNw-yrTS8d4VBTeQTwM9zLFIpo5swIyPmaI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Carousell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/carousellgroup/",
+            "title": "Software Development Engineer ( Trust & Safety )",
+            "description": "- Designed and Implemented duplicate detection service for prevent spam in creating listing in SG, Taiwan, ID, HK. \n- Designed and Implemented scheduling automation for sales in all countries like Indonesia, Hongkong, Taiwan, and Singapore. Remove all manual workflow in all countries\n- Build internal tools dashboard using React, Redux",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETxuGkcTm-Dw/company-logo_400_400/0/1565921602837/carousell_logo?e=1706140800&v=beta&t=TvG34Mi9nNw-yrTS8d4VBTeQTwM9zLFIpo5swIyPmaI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Korzen",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/korzen/",
+            "title": "Fractional CTO",
+            "description": "Building customizable business software for retail distribution and manufacturing in Indonesia",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEC6Ckz-6dqpg/company-logo_400_400/0/1519027910423?e=1706140800&v=beta&t=Or5DThZubQAeoDrHcR1X_TUxrqRPll7PZj1vDYfkjb8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "PT. Global Digital Prima (GDP) Venture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-global-digital-prima-gdp-venture/",
+            "title": "Senior Software Development Engineer-GDP LAB",
+            "description": "Create Various Project within Kaskus and Internal Products:\n\nBuild payment system that connected to biggest Bank in Indonesia\nBuild Self Organizing Map for data visualization heat map\nBuild Chatting App (front-end) for biggest community website in Indonesia\nhttps://id.techinasia.com/strategi-kaskus-chat-untuk-bersaing-dengan-aplikasi-chatting-lain\nImplement automated testing for various projects using Selenium and Jenkins\n\n\nTechstack: ReactJS, AngularJS, PHP, Jenkins, Javascript, D3, XMPP",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF2VrU4pe1R6A/company-logo_400_400/0/1519883242384?e=1706140800&v=beta&t=8YoHs6W8P9JocdfWC8X1e5ioUobF_svBrFins8A8C30"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Bachelor's degree",
+            "school": "Universitas Katolik Parahyangan",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951/y_combinator_logo?e=1706140800&v=beta&t=Zhn2tIxdQvjsRaKubwfRzX7NL2nvLoUOuPu32sapDuM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "3rd Winner Bukalapak Development Competition 2017",
+            "issuer": "Bukalapak",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "description": "Combine React Native with floating action button in android to give users direct buying item cart on the screen of their phone\n\nhttps://www.youtube.com/watch?v=8xfT4n8hAyw"
+        },
+        {
+            "title": "Top 10 Passion Hacked Booking.com",
+            "issuer": "Booking.com",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "description": "Got selected among thousands people through elimination in hackerrank online.\n\nPassions Hacked will see 80 of the world\u2019s brightest in back-end, front-end and mobile to put heads together and hack on our Booking.com API.\n\nFrom October 14 to 16, you\u2019ll have 48 hours to unleash your inner daredevil and completely change the face of global travel. You will conceive, collaborate and create the very vanguard of the future of global travel search, and let your passion take you further.\n\nhttps://workingatbooking.com/passions-hacked/\n\nCreating clustering hotel for point of interest"
+        },
+        {
+            "title": "Top 3 (Category: Economics) on Bandung Open Data Challenge",
+            "issuer": "Code For Bandung",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "description": "We're (team of 4) developing westjavainc (westjavainc.org) mobile app including data visualisation (data obtained from http://data.go.id/) for economic opportunity in west java. this app is one of top 3 app for category Economics at Bandung open data challenge (http://teknojurnal.com/bandung-open-data-challenge/) \n\nwinning announcement:\nhttps://twitter.com/CodeforBandung/status/571566078452613120"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "title": "City Insights",
+            "description": "City Insights is a website and mobile application for people reporting problem to the city government. Users can send photos, videos, location, and any other information about their problem. The uniqueness of City Insights is the rewarding system which is created to attract people and social insights feature which is crawling and detecting complaints about the city problems from social media.\nThis project bring our team to be finalist at IBM Developer War Day 2015. Url : http://devwarday.com/blog/pengumuman-finalist-2015\n",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "title": "WestJavaInc Mobile Application",
+            "description": "We created the prototype of West Java Incorporated (westjavainc.org) Android mobile app. The contents are scraped from westjavainc.org website using PhantomJS. We also added some new features including graphical data visualization using D3JS and UMKM (Usaha Mikro Kecil dan Menengah) profile viewer.\n\nThis app was one of top 3 app for Economics category at Bandung Open Data Challenge (http://teknojurnal.com/bandung-open-data-challenge/) \n\nWinning Announcement: https://twitter.com/CodeforBandung/status/571566078452613120",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Neural Network And Genetic Algorithm for Unreal Tournament",
+            "description": "This research implements an artificial intelligence for bot on The Unreal Tournament 2004.\nThe Artificial Intelligence is developed using The Pogamut framework and The Java\nprogramming language.\nThe Artificial Neural Network is used as an artificial intelligence\nfor the bot to decides which actions should be taken by the bot.\nThe bot can choose to shoot opponents, to take opponent's flag, to take own's flag, back to it's own base, move to opponent's base, to flee from the opponent, to change weapons, or to take items.\nDecisions are made based on the health point, the distance to the flag, the distance from opponents, and the other conditions from environment in the game.\nThe Genetic Algorithms is used to train the Artificial Neural Network.\nResults from the experiments show that the bot sometimes takes decision exactly like\nthe behaviour of human player.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/alifjafar",
+            "name": "Alif Jafar Fatkhurrohman",
+            "summary": "Co-Founder & CTO at UpBanx (YC W22) | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leonidlouis",
+            "name": "Louis Leonid",
+            "summary": "Lead Software Engineer at Finnix (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mfajark",
+            "name": "Fajar Kuntoro",
+            "summary": "Co Founder - CTO @ PINA Indonesia | Building Future Finance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Finnix (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kristian-frits-harris-sinaulan-04610744",
+            "name": "Kristian Frits Harris Sinaulan",
+            "summary": "Founder & CTO, Jutsoo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/albertsahala",
+            "name": "Albert Sahala Theodore",
+            "summary": "Co-Founder at Payable (YC S22) | Helping businesses create a seamless checkout experience",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ffahleraz",
+            "name": "Faza Fahleraz",
+            "summary": "Co-Founder at Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/syaphy",
+            "name": "Sebastian Yaphy",
+            "summary": "Building Finnix | ex-Alodokter | ex-OVO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/parth29",
+            "name": "Parth Garg",
+            "summary": "CEO @ Vance (YC W22) | Stanford University",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/johnanisere",
+            "name": "John Anisere",
+            "summary": "Co-Founder & CTO at Payourse (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Philip M",
+            "link": "https://ke.linkedin.com/in/philip-m-192a1030",
+            "summary": "Consultant & Business Developer",
+            "location": "Nairobi County, Kenya"
+        },
+        {
+            "name": "Philip M.",
+            "link": "https://ca.linkedin.com/in/philipmn",
+            "summary": "Head of Business Development @ BlockWallet, GM \ud83c\udf1e",
+            "location": "Canada"
+        },
+        {
+            "name": "Philip M.",
+            "link": "https://www.linkedin.com/in/pmartini51",
+            "summary": "National Sales Manager at Health Note",
+            "location": "Raleigh-Durham-Chapel Hill Area"
+        },
+        {
+            "name": "Philip M",
+            "link": "https://in.linkedin.com/in/philip-m-25723b9a",
+            "summary": "Manager Sales - Loans at Confidential",
+            "location": "Greater Chennai Area"
+        },
+        {
+            "name": "Philip M.",
+            "link": "https://de.linkedin.com/in/philipmontsho",
+            "summary": "Startups | SaaS | AI | Product",
+            "location": "Germany"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

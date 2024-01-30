@@ -1,0 +1,371 @@
+{
+    "public_identifier": "bruno-prezado-silva-b26a028",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bruno-prezado-silva-b26a028/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221217Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=853951bd988a9b945aa32795ae1181f1a93ddec2b0ccc8f7968ae8c440d51d4c",
+    "background_cover_image_url": null,
+    "first_name": "Bruno",
+    "last_name": "Prezado Silva",
+    "full_name": "Bruno Prezado Silva",
+    "follower_count": 765,
+    "occupation": "Creative Director at Unbabel",
+    "headline": "Designer, Co-Founder at Unbabel",
+    "summary": "I'm a Visual Designer with a passion for new ideas. I have worked in the creative industry for 20 years, delivering consistent, rich narratives connecting brands, art direction and illustration. I love tech, art and internet rabbit holes.\n\nI've worked as a graphic and digital designer in advertising. I'm a lead designer and a co-founder of Unbabel, where I work to connect design disciplines further and push for those small details that can make a difference. Rich, consistent online experiences make my day.\n\nAt ditongo.com lives my continually expanding interest in creativity and illustration.\n\nI like drawing. It makes everyone's life easier.\n\n\n\n\n\nWith 20+ years of knowledge in the creative industry, I've worked in the various creative fields of corporate identity, graphic and digital design. I've collaborated with clients and teams from multiple sectors such as advertising, architecture, marketing, tech startups, food & beverage, travel & tourism, lifestyle, culture, and others, in Europe and Africa.\n\nWith a deep knowledge of the branding process (strategy and design), my work is about consistency and results, regardless of the medium.\n\n\n\u2022 Creative leadership\n\u2022 Brand Strategy & Brand Design\n\u2022 Print & Digital Design\n\u2022 Art Direction & Storytelling\n\u2022 Design Focus on Marketing & Tourism\n\u2022 Marketing Management & Digital Marketing\n\u2022 Project Management",
+    "country": "PT",
+    "country_full_name": "Portugal",
+    "city": "Lisboa",
+    "state": "Lisbon",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Unbabel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unbabel/",
+            "title": "Creative Director",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGINZLDBTR9NQ/company-logo_400_400/0/1625145251730?e=1691625600&v=beta&t=Zq4wev5wV1R5ovvzUca8At-Oh-giskgtvrYgCSxbvOk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Unbabel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unbabel/",
+            "title": "Head of Marketing Design",
+            "description": "Using Design to tell the story of how Unbabel is changing the world by breaking language barriers.\nOr \"Using drawings to translate ideas in other languages\", as a 6 year understood it.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGINZLDBTR9NQ/company-logo_400_400/0/1625145251730?e=1691625600&v=beta&t=Zq4wev5wV1R5ovvzUca8At-Oh-giskgtvrYgCSxbvOk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Unbabel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unbabel/",
+            "title": "Editor",
+            "description": "Helping Machine translation look good.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGINZLDBTR9NQ/company-logo_400_400/0/1625145251730?e=1691625600&v=beta&t=Zq4wev5wV1R5ovvzUca8At-Oh-giskgtvrYgCSxbvOk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Unbabel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unbabel/",
+            "title": "Lead Designer, Founder",
+            "description": "Unbabel is accelerating the shift towards a world without language barriers by enabling trustworthy, seamless and scalable translations between companies and their customers.International businesses trust Unbabel\u2019s enterprise platform to open up and grow new markets by harnessing the power of Artificial Intelligence and a global community of mobile linguists.Backed by Notion Capital, Google Ventures, Caixa Capital and Y Combinator, Unbabel is helping customers like Pinterest, Skyscanner, Under Armour, Trello and Oculus VR to understand and be understood.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGINZLDBTR9NQ/company-logo_400_400/0/1625145251730?e=1691625600&v=beta&t=Zq4wev5wV1R5ovvzUca8At-Oh-giskgtvrYgCSxbvOk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Freelance",
+            "company_linkedin_profile_url": null,
+            "title": "Independent designer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Dezine.com",
+            "company_linkedin_profile_url": null,
+            "title": "UX and interface Designer",
+            "description": "Creating and developing UX patterns for social shopping website. Art direction for online marketing.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "company": "You mix",
+            "company_linkedin_profile_url": null,
+            "title": "Designer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "company": "JWT Lisboa",
+            "company_linkedin_profile_url": null,
+            "title": "designer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "company": "Ludicartes",
+            "company_linkedin_profile_url": null,
+            "title": "3d art director",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "company": "Jwt",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jwt/",
+            "title": "designer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEUjwF4cAAEjw/company-logo_400_400/0/1532378174117?e=1691625600&v=beta&t=g8rzovZj1iqhDVvz0-VIDMDfP6COf0YkJ5RrbLJjp0k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "company": "Jornal O Dia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/odiaonline/",
+            "title": "Photographer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFKP4XcKICUSg/company-logo_400_400/0/1619462141295?e=1691625600&v=beta&t=kEPe3VTLc4MdPTFvL4qAaJ8bh0b-IMvGJvvhOypBaPU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": "Communication design",
+            "degree_name": null,
+            "school": "IADE",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "CIEAM",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Illustration Workshop"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "T\u00e9cnico de Artes Gr\u00e1ficas",
+            "degree_name": null,
+            "school": "E. A. Ant\u00f3nio Arroio",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Ditongo.com",
+            "description": "Ditongo is my personal website. a space for illustration, side projects and ramblings. It's also a blog.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Mentor",
+            "license_number": null,
+            "display_source": "sparkagency.pt",
+            "authority": "Talent Bootcamp",
+            "url": "http://www.sparkagency.pt/pitch.php"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/vascopedro",
+            "name": "Vasco Pedro",
+            "summary": "Co-Founder and CEO at Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mariana-inacio",
+            "name": "Mariana In\u00e1cio",
+            "summary": "Product Designer | Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/calgary3d",
+            "name": "Paul Smith",
+            "summary": "Creative Director Steelhaus Technologies Inc.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sophiamalina",
+            "name": "Sophia Malina",
+            "summary": "Director of Customer Success at Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lana-loncar",
+            "name": "Lana Loncar",
+            "summary": "Product Design Manager @ Unbabel | Design Mentor \u2728DesignOps enthusiast\u2728",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hugovs",
+            "name": "Hugo Silva",
+            "summary": "Co-Founder and Senior Engineering Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/xendaamici",
+            "name": "Xenda Amici",
+            "summary": "Community Manager @ Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nuno-andr\u00e9-889137b6",
+            "name": "Nuno Andr\u00e9",
+            "summary": "Grant Coordinator | Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vera-martins-496971172",
+            "name": "Vera Martins",
+            "summary": "Head of Office Experience",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maria-ana-henriques",
+            "name": "Maria Ana Henriques",
+            "summary": "R&D Project Manager | Unbabel",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

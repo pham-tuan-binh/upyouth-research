@@ -1,0 +1,362 @@
+{
+    "public_identifier": "ricky-winata-75735458",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ricky-winata-75735458/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221207Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a411a4118b10d4d5c4b3d93184e04f70b08fa7922e61c55835c664e2de571d7c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ricky-winata-75735458/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221207Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f4520481f5a5833e4c497a3bc7e19707f40a32459d72e12c2749d584bbf2738",
+    "first_name": "Ricky",
+    "last_name": "Winata",
+    "full_name": "Ricky Winata",
+    "follower_count": null,
+    "occupation": "Co-Founder at PT Payfazz Teknologi Nusantara",
+    "headline": "Building PAYFAZZ | Co-Founder of PAYFAZZ | Forbes 30 Under 30",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "PT Payfazz Teknologi Nusantara",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/payfazz",
+            "title": "Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQF2WoZSKbFZ3A/company-logo_100_100/0/1533546522414?e=1654732800&v=beta&t=SUbNegS7xdxawv1sGaaJ_i7ZPpWFkORxdmUGqStpntE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Traveloka.com",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/traveloka",
+            "title": "Senior Software Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEJd-tOXWBrcw/company-logo_100_100/0/1643085366647?e=1654732800&v=beta&t=Izmqpa-TBNk16lVC9mEsH2plHYYUiAlk3zk98AyeBFU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "PT. Global Tiket Network",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/pt-global-tiket-network",
+            "title": "System Developer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFN5mZsxgIpwQ/company-logo_100_100/0/1519867146123?e=1654732800&v=beta&t=_kol_3JNwFILZ2yG7AbSnxoirN0TM5nl8puWjmE9YVk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "Universitas Bina Nusantara (Binus)",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/universitas-bina-nusantara/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=1654732800&v=beta&t=T0kREmnUd7EYJRRHx4MO1bHUzuzWQWPzYF4c9plRLr4",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/hendra-kwik-4a291242",
+            "name": "Hendra Kwik",
+            "summary": "Building Fazz Financial | Co-Founder of Fazz Financial (YCS17) | Forbes 30 Under 30",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wresniwahyu",
+            "name": "Wresni Wahyu Widodo",
+            "summary": "Android Developer at Payfazz Teknologi Nusantara",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/archieanugrah",
+            "name": "Archie A.",
+            "summary": "Building Payfazz | Fintech practitioner | Startup Educator",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/okasurya",
+            "name": "Brilliant Oka Suryanegara",
+            "summary": "Building POST. App - We are hiring!",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kurniadwin",
+            "name": "Kurniagusta Dwinto",
+            "summary": "Software engineer with DevOps mindset, love to research on software architecture, microservices, low-level, and hardware",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/windynatriavi",
+            "name": "Windy Natriavi",
+            "summary": "Co-Founder at AwanTunai \u2022 Forbes 30Under30 2019 * ex-VP of Growth Go-Jek",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gitta-amelia-4b683888",
+            "name": "Gitta Amelia",
+            "summary": "Venture Capitalist & Entrepreneur | Forbes 30 Under 30",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib \ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kevinwibowo91",
+            "name": "Kevin Wibowo",
+            "summary": "Lead Quality Assurance Engineer at PT Payfazz Teknologi Nusantara",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/yuditsaputra",
+            "name": "Yudit Saputra",
+            "summary": "Marketing & Brand Enthusiast",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/calvincsalim",
+            "name": "Calvin Christopher Salim",
+            "summary": "Lead Product Manager at PAYFAZZ",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kenneth-vincent",
+            "name": "Kenneth Vincent",
+            "summary": "Senior iOS Engineer at PT Payfazz Teknologi Nusantara",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/aldith-natakusuma-06301382",
+            "name": "Aldith Natakusuma",
+            "summary": "Head of Product @ Payfazz",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/mohammad-iqbal-romadhon-4908b1142",
+            "name": "Mohammad Iqbal Romadhon",
+            "summary": "Payfazz",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/sherin-callista-denura-7393a1108",
+            "name": "Sherin Callista Denura",
+            "summary": "Product Manager at Payfazz (YC S17)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nanang-wahyuanto-b7933719a",
+            "name": "Nanang Wahyuanto",
+            "summary": "Regional Business Development Manager at PT. Payfazz Teknologi Nusantara",
+            "location": "Jawa Timur, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bhandoko",
+            "name": "Budi Handoko",
+            "summary": "Building Shipper (YC W19). Hiring Leaders and Engineers.",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hardisaputra",
+            "name": "Hardi Saputra",
+            "summary": "CEO | Tech Entrepreneur & Executive | Datapreneur | Investor | Leading People, Data, & Technology",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/felicia-winny-a07077116",
+            "name": "Felicia Winny",
+            "summary": "Corporate Planning and Strategy Lead at PT Payfazz Teknologi Nusantara",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hendoko",
+            "name": "Hendoko Kwik",
+            "summary": "CEO of Modal Rakyat | Commisioner at Verihubs",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/christianhanggra",
+            "name": "Christian Hanggra",
+            "summary": "CTO at Modal Rakyat | Startup Builder | Tech Enthusiast",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/tris-setiawan-47941ab5",
+            "name": "Tris Setiawan",
+            "summary": "VP of Engineering at PT Payfazz Teknologi Nusantara",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/xeroz38",
+            "name": "Zunaidi Chandra",
+            "summary": "Software Engineer VP at PT Payfazz Teknologi Nusantara",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/valentino-ekaputra-00ab8359",
+            "name": "Valentino Ekaputra",
+            "summary": "Senior Software Engineer at PT Payfazz Teknologi Nusantara",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/haryantotanjo",
+            "name": "Haryanto Tanjo",
+            "summary": "CEO & Co-Founder at Moka. Forbes 30 Under 30",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wafataftazani",
+            "name": "Wafa Taftazani",
+            "summary": "Founder & CEO, UpBanx (YC W22) | Co-Founder & Chairman, VCGamers & ModalRakyat | Angel Investor | Ex-Google, YouTube, Shopee",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/sebastianuskh",
+            "name": "Sebastianus Kurniawan",
+            "summary": "Vice President of Software Engineering at Payfazz Teknologi Nusantara",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://id.linkedin.com/in/harya-putra-51422b5b",
+            "name": "Harya Putra",
+            "summary": "Hiring",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rickfirnando",
+            "name": "Rick Firnando",
+            "summary": "Co-Founder & CEO at VERIHUBS | YCS21",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bachtiarhafid-danu-18568a65",
+            "name": "Bachtiarhafid danu",
+            "summary": "Head Of Region di PT Payfazz Teknologi Nusantara",
+            "location": "Banten, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ni-luh-pebriani-502b2a158",
+            "name": "Ni Luh Pebriani",
+            "summary": "Recruitment & Branding at PAYFAZZ",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nofan-kurnianto-b466085b",
+            "name": "Nofan Kurnianto",
+            "summary": "Head Of Area di PAYFAZZ",
+            "location": "Jawa Timur, Indonesia"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Congrats to our founders Hendra Kwik, Jefriyanto Jefriyanto, and Ricky Winata for making it to Forbes Asia 30 Under 30!Three of PT Payfazz\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ricky Winata"
+        },
+        {
+            "title": "IDN Media Secures a Series-C InvestmentIn a Mission to Become the Voice of Millennials and Gen Z",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ricky Winata"
+        },
+        {
+            "title": "View my verified achievement from EY.",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Ricky Winata"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Ricky Winata",
+            "link": "https://id.linkedin.com/in/ricky-winata-38948653",
+            "summary": "Student at penabur",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Ricky Winata",
+            "link": "https://id.linkedin.com/in/ricky-winata-aa57231aa",
+            "summary": "administrasi di TOKO",
+            "location": "Medan Deli"
+        },
+        {
+            "name": "Ricky Winata",
+            "link": "https://id.linkedin.com/in/ricky-winata-95241958",
+            "summary": "Sales And Marketing Manager at Hyosung Corporation |ex-Marubeni |ex-Nestle",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Ricky Winata",
+            "link": "https://id.linkedin.com/in/ricky-winata-4b2010136",
+            "summary": "MSc Student in Innovation Management and Entrepreneurship",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Ricky Angga Winata",
+            "link": "https://id.linkedin.com/in/ricky-angga-winata-62b191194",
+            "summary": "Budget Controller at PT. Hokinda Citralestari",
+            "location": "Medan dan Sekitarnya"
+        },
+        {
+            "name": "Ricky Chandra Winata",
+            "link": "https://id.linkedin.com/in/rickychandraw",
+            "summary": "Telemarketing at BNI Life",
+            "location": "Jakarta Raya, Indonesia"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

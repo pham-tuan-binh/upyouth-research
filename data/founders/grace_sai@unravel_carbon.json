@@ -1,0 +1,473 @@
+{
+    "public_identifier": "gracesai",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gracesai/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221309Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=800e1579af0b7a3ca000469ddfcfcae1b60281c97f745e7fb434f57f7f4f193a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gracesai/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221309Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e1be155a0b50682dc46b8de977b0341e4c04e9276814c7bd465475ec0a684e7c",
+    "first_name": "Grace",
+    "last_name": "Sai",
+    "full_name": "Grace Sai",
+    "follower_count": 11951,
+    "occupation": "Co-Founder & CEO at Unravel Carbon ",
+    "headline": "Unravel Carbon (YC W22)",
+    "summary": "After 2 exits, a 15 year career in building startup and impact ecosystems, leading a VC fund and influencing multi-sectoral collaborations, the next 15 years will bring all that together to help fight climate change. \n\nKauffman Fellow\nMBA from University of Oxford (Skoll Scholar, Distinction) \nExecutive Masters in Organizational Change from INSEAD (Distinction)",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Kauffman Fellows",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kauffmanfellows/",
+            "title": "Kauffman Fellow (Managing Partner, Found Ventures)",
+            "description": "Found. Ventures is the first venture fund to layer on top of a co-working ecosystem, in Asia.  We invest in early-stage tech ventures with strong founding teams from all across Southeast Asia. Our thesis focuses on post-investment support (mentoring, connections, tech dev and team dev). While the fund is fully deployed, we maintain active involvement in our 9 portfolio companies' journeys.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEkZXoAvhnzDw/company-logo_400_400/0/1686060738182/kauffmanfellows_logo?e=1712793600&v=beta&t=37pG9zbVbqufvZh7iJjoX27hNdBxy1HU3UFVX_8mRWE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Unravel Carbon ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unravelcarbon/",
+            "title": "Co-Founder & CEO",
+            "description": "Only less than 10K of 400M companies globally are measuring their carbon emissions. Unravel Carbon is  an enterprise software that helps companies track and reduce their carbon emissions, specialising in Scope 3, based in Singapore. It is the first AI-powered decarbonization platform in Asia that converts any company\u2019s accounting data into full supply chain carbon data in seconds, generates climate solutions automatically and auto-populates regulatory disclosure reports.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF5sKiaGGejFw/company-logo_400_400/0/1689062972679/unravelcarbon_logo?e=1712793600&v=beta&t=Fk-Fm3_MuiSVszqPeEvyP24bBrRQe9P5o5iWtYUFFcw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "INSEAD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/insead/",
+            "title": "Entrepreneur-in-Residence",
+            "description": "Helping INSEAD MBAs interested in entrepreneurship, venture capital and impact investing.",
+            "location": "Singapore campus",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Ravel Innovation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ravelinnovation/",
+            "title": "Founder and CEO (Acquired by Dalberg)",
+            "description": "Ravel Innovation designs and builds corporate innovation programs for Asia\u2019s most progressive organisations and governments. We also house a live ecosystem of entrepreneurs in our innovation campuses in Singapore and have helped more than 100 corporates in their transformation journeys. We are a proud partner of Google for Startups.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFCRZkasqFUbA/company-logo_400_400/0/1630662871245/ravelinnovation_logo?e=1712793600&v=beta&t=_-cb-VlCj8G2HYyGUYDpifTuV9s79jvJD6ao_r5VGS0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Found8",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Found8",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder & CEO (Exited)",
+            "description": "A vibrant ecosystem created for entrepreneurs, techies and creatives to solve some of today's most challenging problems. It is a network of innovation campuses where ambitious founders and corporates get access to coaching, expertise and networks. Found8 is working on building startup environments within corporates and governments through innovative models, introducing entrepreneurial culture, talent and innovations into large systems.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Ben & Jerry's",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ben-&-jerry's/",
+            "title": "Fairness Advisory Board",
+            "description": "Introducing fairness in Singapore through $100k worth of ice-cream.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGEAvgXFj8f9w/company-logo_400_400/0/1631307164665?e=1712793600&v=beta&t=cLQ-hnnm40rYZ19qgKJ0WNTxqPeOZJUMpIlwIsCP5Wk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "company": "(MaGIC) Malaysian Global Innovation & Creativity Centre",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mranti/",
+            "title": "Advisor & Director ",
+            "description": "Advising the Malaysian government on its national strategy for Social Entrepreneurship. Under a wider entrepreneurship fund, the national initiative includes venture support, education, community building, policy and ecosystem design to elevate social entrepreneurship as a strategy for economic and societal sustainability.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE8nKVFXIK1mQ/company-logo_400_400/0/1643306375124/mymagic_logo?e=1712793600&v=beta&t=Xb76E0FUs40l7AF-JG3x-NWgIBZKiAVoMHzZTfPZu4U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "company": "Toniic LLC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/toniic/",
+            "title": "Head, Singapore",
+            "description": "Bringing  the world's most active impact investor network to Asia and Singapore, growing investor network and pipeline deals.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF1iEXEjkFc4Q/company-logo_400_400/0/1631317195014?e=1712793600&v=beta&t=9y5xb96y4_e1hfIf3VYz_-2SIga6YMNXiSqzEhsbqQk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "Books for Hope",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/books-for-hope/",
+            "title": "Founder",
+            "description": "Books for Hope brings libraries and world education to rural and marginalized communities. 26 libraries were built across Indonesia, bringing the access to literacy to over 25,000 children.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGgEouFCnrk3w/company-logo_400_400/0/1631316528161?e=1712793600&v=beta&t=vxaHCa-bChQzAcj4Z9krJq-smR2vk-CWBqWL41lfKo4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2011
+            },
+            "company": "Nanyang Technological University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ntusg/",
+            "title": "Nanyang Technopreneurship Center",
+            "description": "Built entrepreneurship programs that connected Silicon Valley and Singapore.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682216282/ntusg_logo?e=1712793600&v=beta&t=Vv26QAd02puP-pRuiOyy4sLRl6IFgbNWrCRc164Uy4I"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "MBA",
+            "degree_name": "MBA",
+            "school": "Sa\u00efd Business School, University of Oxford",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGczlhjBD9I4g/company-logo_400_400/0/1700067002203/oxfordsbs_logo?e=1712793600&v=beta&t=EEZCibbk5u-jJ3DMdqB6JOJxJnN97Cev5mw9giAtuRY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Organizational Leadership",
+            "degree_name": "Executive Masters in Coaching and Consulting for Change (Org. Psychology)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw",
+            "grade": "Distinction ",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Venture Capital ",
+            "degree_name": "Fellowship",
+            "school": "Kauffman Fellows",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "Chinese",
+        "English",
+        "French",
+        "German",
+        "Indonesian",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "400 Coffee Chats to Understand Pain",
+            "publisher": "YourStory (Bangalore, India)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null,
+            "url": "http://social.yourstory.com/2014/01/400-coffee-chats-understand-pain/"
+        },
+        {
+            "name": "Creating space for social enterprise in Singapore",
+            "publisher": "The Guardian (UK)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null,
+            "url": "http://socialenterprise.guardian.co.uk/social-enterprise-network/2012/oct/23/creating-space-social-enterprise-singapore"
+        },
+        {
+            "name": "InsideOut Project: Our Everyday SHEroes",
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://www.youtube.com/watch?v=x6ARLNFPiTI"
+        },
+        {
+            "name": "TEDxSingapore Talk on World Change 2.0",
+            "publisher": "TEDxSingapore",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://tedxtalks.ted.com/video/TEDxSingapore-Grace-Sai-Who-is"
+        },
+        {
+            "name": "EU-China Youth Leaders Summit, Beijing",
+            "publisher": "April Media & Power of Youth",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://vimeo.com/31788274"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "MBA",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ramananraghavendran",
+            "name": "Ramanan Raghavendran",
+            "summary": "Managing Partner, Amasia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jina-bae-75179158",
+            "name": "JinA Bae",
+            "summary": "Managing Partner at Abound Capital",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alap-bharadwaj-b241704",
+            "name": "Alap Bharadwaj",
+            "summary": "Director at Google, Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/antara-sara-mathai-01a0195",
+            "name": "Antara Sara Mathai",
+            "summary": "Co-founder, Durianpay || Hiring for Core team ||",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marc-allen-90697227",
+            "name": "Marc Allen",
+            "summary": "Unravel Carbon (YC W22) - Climate-tech co-founder. Sustainability, greenhouse gas and energy management professional - climate change risk advisor. Certified advisory board chair. Company director",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/payalee",
+            "name": "Payal Banerjee",
+            "summary": "Brand Marketing and Communications. Ex-Sequoia (now Peak XV), Flipkart, Ogilvy and Surge.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jessicahtan",
+            "name": "Jessica H. Tan",
+            "summary": "Investments @ Peak XV (formerly Sequoia)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pieterkemps",
+            "name": "Pieter Kemps",
+            "summary": "Sequoia Capital I Amazon I Chicago Booth",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wang-chen-89383157",
+            "name": "Wang Chen",
+            "summary": "Director of Technology at Unravel Carbon",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/eunicewes",
+            "name": "Eunice Wong",
+            "summary": "2x founder l Co-founder TalkStack I Enterprise AI",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Grace Sai",
+            "link": "https://gh.linkedin.com/in/grace-sai-585406221",
+            "summary": "--",
+            "location": "Accra"
+        },
+        {
+            "name": "grace sai",
+            "link": "https://gh.linkedin.com/in/grace-sai-733806221",
+            "summary": "Waitress at Restaurant and Hotel JOB",
+            "location": "Accra"
+        },
+        {
+            "name": "Grace Sai",
+            "link": "https://www.linkedin.com/in/grace-sai-42749131",
+            "summary": "--",
+            "location": "United States"
+        },
+        {
+            "name": "grace sai",
+            "link": "https://gh.linkedin.com/in/grace-sai-0b8a79162",
+            "summary": "Graphic Designer at Loblaw Companies Limited",
+            "location": "Ghana"
+        },
+        {
+            "name": "Kiana Grace Sai",
+            "link": "https://www.linkedin.com/in/kiana-grace-sai-861698167",
+            "summary": "Food Server at Cinnamon's Las Vegas",
+            "location": "Las Vegas Metropolitan Area"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

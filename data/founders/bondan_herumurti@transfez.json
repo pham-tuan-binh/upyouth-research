@@ -1,0 +1,309 @@
+{
+    "public_identifier": "bondanherumurti",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bondanherumurti/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221333Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3e62fb4b7d900c0f1137ddf4b6d05c262f815ab513bef27c8d6f804ff3232b16",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bondanherumurti/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221333Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b71c1e73d72e1d19b5c3d959edd67b16affd58aede02d67838a07e4fc7c4d3ee",
+    "first_name": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb",
+    "last_name": "Bondan Herumurti",
+    "full_name": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb Bondan Herumurti",
+    "follower_count": 646,
+    "occupation": "CTO at Jack",
+    "headline": "CTO at Jack & Transfez YC(W22)",
+    "summary": "More than decade entrepreneurial journey on tech area, things change, some irrelevant too soon, number ups on down, people come and go. The journey still far from end",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Rubyh.co",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rubyh-co",
+            "title": "Investor",
+            "description": "RubyH is a Software House based on jakarta, specialized on Web, Mobile Application, as well as Enterprise System. I'm in charge on managing team of developers to provide our client technology superiority. We have work with Enterprise such as: DBS Bank, PWC, Ace Hardware and also Startups: Akseleran, Moodah ID, Transfez, and BELSBEE",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGgyCeQM60DFg/company-logo_400_400/0/1630614065289?e=1710979200&v=beta&t=XsLArcXMxeRYIwPFeFOb2Cu47i26Tevo1a0jjOEfwVc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2014
+            },
+            "company": "Rubyh.co",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rubyh-co",
+            "title": "The Scientist and Coach at RubyH",
+            "description": "I am responsible for projects with unknown teritory type of project, discover new stack to provide solution and breaking things",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGgyCeQM60DFg/company-logo_400_400/0/1630614065289?e=1710979200&v=beta&t=XsLArcXMxeRYIwPFeFOb2Cu47i26Tevo1a0jjOEfwVc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Transfez",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/transfez",
+            "title": "CTO",
+            "description": "Transfez is a financial platform enabling business to perform banking activities, i am responsible on the API Development, App Development as well as API Gateway Development. Maintaining lean architecture with a surge amount of security reaquirement is a challenge on my area, while keep develop new feature for user and business to keep the business on top of its game. Visit http://transfez.com or download transfez on AppStore and Play Store",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF3dKG-HMSMsQ/company-logo_400_400/0/1659431350758/transfez_logo?e=1710979200&v=beta&t=4fPhiFXuhuL4EK_QNuagw_49mi3sJSVO9lU5Oq6SVSY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Jack",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/itsjack",
+            "title": "CTO",
+            "description": "Jack (formerly Transfez for Business) is an all-in-one financial platform for startups, SMEs, and established enterprises in Indonesia. Jack provides integrated payable management solutions such as Corporate Card, International Payment, Local Transfer, Reimbursement, Payroll, and Bill Payment to streamline financial operations. Visit itsjack.com, and download Jack Finance on AppStore and Play Store.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEMxAcnBcLLZQ/company-logo_400_400/0/1688611049615/itsjack_logo?e=1710979200&v=beta&t=2s6yUGd3JZazwayJXy-KxJ6UFfT5ioRP0XUuKswZ5HI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "BELSBEE.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/belsbee-com",
+            "title": "Founder",
+            "description": "BELSBEE.com is a platform for fashion designer to market their product with a concept of sharing economy, i am responsible on the feature development, tech architecture and optimisation to serve growth of its user and maintain the architecture lean enough to serve more than 2000 users daily while maintain its security and its load time , i also responsible for BELSBEE's presence on the net, managing its SEO, SEM.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGrkbVfZwy4Ug/company-logo_400_400/0/1631310130865?e=1710979200&v=beta&t=wV-B_Jn-DUh3LSZMr7WXlRif2qbDFECF4ejyXzNranQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Valadoo.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/valadoo-indonesia",
+            "title": "VP Engineering",
+            "description": "Managing All Technology Sector on Valadoo.com",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHqZvFbgpSiAQ/company-logo_400_400/0/1631302252309?e=1710979200&v=beta&t=MM2g6ypUIONvvhGhyMEvJuk967JlH7zsW_Q5Yr3X2q0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "AITINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Engineer",
+            "description": "Designing and Developing Digital Solution Product",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "AITINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Engineer",
+            "description": "Application Developer.",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Information System",
+            "degree_name": "Master of Commerce",
+            "school": "UNSW",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6096/",
+            "description": "Master of Commerce ext IS",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1710979200&v=beta&t=J5O6yMVlHMPXAcV1q6LNf2RWxCNgSol2Zx8iStjl_Zo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "field_of_study": "Network Specialist",
+            "degree_name": "Computer Science",
+            "school": "BINUS University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15094226/",
+            "description": "Computer Science",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_400_400/0/1630634861276/universitas_bina_nusantara_logo?e=1710979200&v=beta&t=-LLhivcMPegrJamBjl8gwo5EhgNWsIs86EStj1rFEtY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710979200&v=beta&t=M5k3ZHiWvTqvhnpin66S078u1hOzcvDqOUhGA0fzyWI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "BELSBEE Indonesia",
+            "title": "The Lead Of Operation and Technology",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "BELSBEE Indonesia",
+            "publisher": "PT. BELSBEE QUADAYA FESYENESIA",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": "An Online Fashion Rental that enables every woman to experience luxury dress at very affordable budget ",
+            "url": "http://www.belsbee.com"
+        },
+        {
+            "name": "Valadoo Indonesia",
+            "publisher": "Jakarta",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": "Valadoo is an online travel agency, with this digital media, traveller will be served to find the packages they wants",
+            "url": "www.valadoo.com"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 610,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/edowindratno",
+            "name": "Edo Windratno",
+            "summary": "CEO at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diandra-bernadin-31b85291",
+            "name": "Diandra Bernadin",
+            "summary": "Head of Brand & Business Development at Transfez & Jack",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sekardaraninggar",
+            "name": "Sekar Dara Ninggar",
+            "summary": "Human Resources Generalist at Jack & Transfez | We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vidyasyakadiara",
+            "name": "Vidya Syaka Diara",
+            "summary": "HR & GA Manager at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/meigy-ulina-5a05a9110",
+            "name": "Meigy Ulina",
+            "summary": "Lead Product Manager at Transfez and Jack (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQFhEHjMPFG7rg/group-logo_image-shrink_400x400/0/1637713139133?e=1703602800&v=beta&t=t7VCMcR1GvC4foBzzXnzju-VftTmCJGKW4D8vLtaWqQ",
+            "name": "UNSW Business School Alumni",
+            "url": "https://www.linkedin.com/groups/1848338"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQGQu2dLGXUx-g/group-logo_image-shrink_48x48/0/1631374336233?e=1703602800&v=beta&t=gT7mCQLgaSOQ69yKjm9tR7ivqJmntsVem_H0v4xJLJ8",
+            "name": "Bina Nusantara University - Alumni",
+            "url": "https://www.linkedin.com/groups/50340"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

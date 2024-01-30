@@ -1,0 +1,339 @@
+{
+    "public_identifier": "isaqahmed",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/isaqahmed/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221209Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f0c92492115b0a43464840f932b79c05080984e751bde7975691bed8ffa5b041",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/isaqahmed/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221209Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=861dc715a5081efc198b8d93cf90083d26ada9cec3126aeb706d95ae41985097",
+    "first_name": "Isaq",
+    "last_name": "Ahmed",
+    "full_name": "Isaq Ahmed",
+    "follower_count": 1755,
+    "occupation": "CTO and Founder at Spenmo",
+    "headline": "CTO and Founder @ Spenmo (YC S20) | Manage your company spending efficiently",
+    "summary": "Vast experience in leading Engineering Teams in designing, building and delivering high-quality production software on time.\n\nPassionate and Hands-on Software Architect, expertise in Web Scale Applications including Platform as a Service(PAAS), Software as a Service(SAAS)\n",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Spenmo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/spenmo",
+            "title": "CTO and Founder",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGTMwpMN63fDQ/company-logo_400_400/0/1663224389639/spenmo_logo?e=1710979200&v=beta&t=HxNJ0-L7KGWjPHkawCzOy2AjVsrU0ros8-dy4Io02rA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "The New Luncher",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-new-luncher",
+            "title": "CTO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGtwD4QiLxKzg/company-logo_400_400/0/1630597630283/the_new_luncher_logo?e=1710979200&v=beta&t=e7jBB__TOc-05HJndaMFsiuwDnQqpTbqNwXClraIEfk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Trilibis Mobile",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trilibis-mobile",
+            "title": "Director of Engineering",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEz_7Qlr1Q-qg/company-logo_400_400/0/1631328980485?e=1710979200&v=beta&t=Sz9iPWFE1F3l9ihPdu1c80dfFrvGX9zMCoDWyYn4vwY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Trilibis Mobile",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trilibis-mobile",
+            "title": "Principal Architect",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEz_7Qlr1Q-qg/company-logo_400_400/0/1631328980485?e=1710979200&v=beta&t=Sz9iPWFE1F3l9ihPdu1c80dfFrvGX9zMCoDWyYn4vwY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "Trilibis Mobile",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trilibis-mobile",
+            "title": "Engineering Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEz_7Qlr1Q-qg/company-logo_400_400/0/1631328980485?e=1710979200&v=beta&t=Sz9iPWFE1F3l9ihPdu1c80dfFrvGX9zMCoDWyYn4vwY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "Ness Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ness-ses",
+            "title": "Engineering Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHneCFNW5-qJw/company-logo_400_400/0/1653387910016/ness_ses_logo?e=1710979200&v=beta&t=Bm19N8-7AEiDc6LpjCQk5YvhqNWOUK_sxI14QG26Pj8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "HCL",
+            "company_linkedin_profile_url": null,
+            "title": "Software consltant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "company": "Aalayance",
+            "company_linkedin_profile_url": null,
+            "title": "Software consultant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2003
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Batchelors of Engineering",
+            "school": "Visvesvaraya Technological University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/8680105/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEXLsH7UX9uMw/company-logo_400_400/0/1631303715236?e=1710979200&v=beta&t=sqpwWDZh2KW37X5CYgb_zJZmoPoFeAAmEroYDgDt8zg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "SHBHS",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1673,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/achyutbalaji",
+            "name": "Achyut Balaji",
+            "summary": "Product @ Spenmo | NUS MBA Candidate | CSM/CSPO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jasonhanwj",
+            "name": "Jason Han",
+            "summary": "Product | Strategy | FinTech | ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/avantika-mohanraj-97887719",
+            "name": "Avantika Mohanraj",
+            "summary": "Talent Acquisition - APAC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ruddy-wang",
+            "name": "Ruddy Wang",
+            "summary": "VP Ops at Circles",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kfitzeh",
+            "name": "Kevin Fitzgerald",
+            "summary": "MD Asia - Employment Hero | Payroll and HR Tech | Business Digitalisation | Tech & Finance Expert | ACCA Accredited | Online Accounting",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Gaurav Khandelwal\n\n\n\nWorking with Isaq brings in lot of enthusiasm and keen-to-learn kind of behavior in my work. He is a talented chap with vast knowledge of various mobile related technologies. His ultimate Java skills speaks for him always. He is quick learner and capable to own various responsibilities in one time.",
+        "Ashish Sinha\n\n\n\nIts been a great pleasure working with Isaq at Trilibis Mobile. His sheer aptitude and out of box thinking has always amazed the team. He has tenacious grip on the project and has good analysis capability to steer the project towards excellence. He has good command on Java,J2EE and expertise on mobile domain. I wish him good luck and would like to be associated again with him in future.."
+    ],
+    "activities": [
+        {
+            "title": "Fundraising is slow right now. My hunch is fundraising both will pick up in the 2nd half of this year. Here's why..\ud83d\udcb0 Investors Need to DeployLast\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_fundraising-is-slow-right-now-my-hunch-is-activity-7036893875176644608-pa-r",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "I\u2019m happy to share that I\u2019m starting a new position as Distributed Systems Engineer at Tesla",
+            "link": "https://www.linkedin.com/posts/moh-shoaib_im-happy-to-share-that-im-starting-a-new-activity-7028964574192156672-PX6B",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "No more writing errors in your product. Proofreading your designs is soooo easy with Prowriting \ud83d\ude80",
+            "link": "https://www.linkedin.com/posts/anthonykev_no-more-writing-errors-in-your-product-proofreading-activity-7027180145291530240-jplS",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "I\u2019m thrilled to officially become Founding CTO at Relay Technologies, where we are building the e-commerce delivery platform of the future \u2013 think of\u2026",
+            "link": "https://www.linkedin.com/posts/jeremydhoon_im-thrilled-to-officially-become-founding-activity-7020737012387254272-bkER",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "Only 5 more days left until application deadline (20 Jan). Applications that come through before then guarantees a review from us before the start of\u2026",
+            "link": "https://www.linkedin.com/posts/zealoustiger_only-5-more-days-left-untilapplication-deadline-activity-7020261248940314624-9C9I",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "I've worked with Brian Ma for 15 years. Ask me anything.",
+            "link": "https://www.linkedin.com/posts/hsukenooi_ive-worked-with-brian-ma-for-15-years-ask-activity-7019181391858860032-GBIH",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "Endowus tech team has been working 4-days a week since the start of this month, in order to give our tech team some much needed rest after a rigorous\u2026",
+            "link": "https://www.linkedin.com/posts/joo-lee-62b4071b_endowus-tech-4dayworkweek-activity-7018921211871064064-lyni",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "Is the world still evaluating startups based on vanity metrics? Recode Studios was the 1st ever brand to onboard on BIK Dheeraj Bansal sir\u2026",
+            "link": "https://www.linkedin.com/posts/sonakshi-nathani-473abb41_sharktankindiaseason2-sharktankindia-business-activity-7016270032091430913-thdD",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "The Singpass Story2 days ago I posted a gathering of Singpass 1.0 team. Then some asked me how did this Singpass idea come about. Here\u2019s the\u2026",
+            "link": "https://www.linkedin.com/posts/hock-keong-ng-869ab3b5_lifeincpfb-publicservice-digitalisation-activity-7006947374036135937-f5Fa",
+            "activity_status": "Liked by Isaq Ahmed"
+        },
+        {
+            "title": "Using #chatgpt to devise a coherent broken-English phishing email, complete with working code + design in Bootstrap.  This is indeed inspiring, yet\u2026",
+            "link": "https://www.linkedin.com/posts/jhtong_using-openai-chat-to-generate-phishing-campaigns-activity-7007026523312447488-1XWb",
+            "activity_status": "Liked by Isaq Ahmed"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "isaq ahmed",
+            "link": "https://so.linkedin.com/in/isaq-ahmed-60a481247",
+            "summary": "Sales Associate at IMC Neighborhood Pharmacy",
+            "location": "Banaadir, Somalia"
+        },
+        {
+            "name": "Isaq Ahmed",
+            "link": "https://in.linkedin.com/in/isaq-ahmed-ab457062",
+            "summary": "Student at JNTU",
+            "location": "Hyderabad"
+        },
+        {
+            "name": "Isaq Ahmed",
+            "link": "https://www.linkedin.com/in/isaq-ahmed-a0043711b",
+            "summary": "dfs at sdd",
+            "location": "Queens County, NY"
+        },
+        {
+            "name": "Isaq Ahmed",
+            "link": "https://www.linkedin.com/in/isaq-ahmed-735a4a22b",
+            "summary": "Civil And Environmental Engineer at MTC",
+            "location": "Cleveland, OH"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQFqjy3HgKkPog/group-logo_image-shrink_400x400/0/1631005342987?e=1703523600&v=beta&t=2bBF1XS6rYcDqDl9ja63MQCFzLp_a8Iy7PXA7FPVgKI",
+            "name": "API Craft Singapore",
+            "url": "https://www.linkedin.com/groups/10332013"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQGW4LgsxQGbrg/group-logo_image-shrink_48x48/0/1631370997868?e=1703523600&v=beta&t=OS6hR_St04xGJHbfbWMjlpU3c5PsZOY981C8T6R9_AI",
+            "name": "CSS3 / HTML5 The future of front end",
+            "url": "https://www.linkedin.com/groups/2071438"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

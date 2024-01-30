@@ -1,0 +1,490 @@
+{
+    "public_identifier": "jwonged",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jwonged/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=06ae4fdad1c800c722961317d5ce0030993b0d25443c34c983ee4426c972cfb2",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jwonged/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=77ad0d124fee7845cd59bde4cd44c62515075caf0f653bf3e3ce30ef2fa38f3d",
+    "first_name": "Joshua",
+    "last_name": "Wong",
+    "full_name": "Joshua Wong",
+    "follower_count": 8897,
+    "occupation": "Co-founder & CEO at Hypotenuse AI",
+    "headline": "Hypotenuse AI (YC S20) \u2014 we\u2019re hiring!",
+    "summary": "f(Q,K,V) = softmax(QK^T/\u221ad_k)V is all you need.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Hypotenuse AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hypotenuse-ai/",
+            "title": "Co-founder & CEO",
+            "description": "Hypotenuse AI creates unique copywriting and visual content for you within seconds using AI. Get blog articles, product descriptions, advertising captions and pictures or artwork just by providing a few keywords.\n\nBacked by top investors including Y Combinator and other VCs/strategic angels.",
+            "location": "Singapore / United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE8cVZOrJSKTQ/company-logo_400_400/0/1655430344397/hypotenuse_ai_logo?e=1710979200&v=beta&t=bCsPg-TbKWGr0p7kDask7kKjjJTWnk6-XdVflSh_pug"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "YC S20",
+            "description": "Build something people want.",
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710979200&v=beta&t=M5k3ZHiWvTqvhnpin66S078u1hOzcvDqOUhGA0fzyWI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon/",
+            "title": "Applied Research Scientist (Machine Learning)",
+            "description": "Applied Scientist working on machine learning research for Amazon AI (Alexa). \n\nFirst author publications for papers in language generation, information extraction and building knowledge graphs. \n\nResearch was focused on multimodal neural networks for computer vision and NLP, including the application of transformer-based models (BERT, GPT) to information extraction, natural language understanding, knowledge graphs and natural language generation.",
+            "location": "Palo Alto, California, United States | United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1710979200&v=beta&t=Xd1otbXXHtwznIkWCvapBXr2VuUScWFD0R8nw235TZo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "University of Cambridge",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cambridge/",
+            "title": "Supervisor",
+            "description": "Invited back as an alumni to supervise the computer vision, artificial intelligence and e-commerce courses. Also supervisor for Part II dissertations (ML & Deep learning areas).",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833279033/university_of_cambridge_logo?e=1710979200&v=beta&t=A1p_rpfpRNy1IvnFS1Xw3u04xa-cB9wddU1qYBd-5EI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "ShopBack",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shopback-com/",
+            "title": "Operations & BD",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEvGSKJrLXe9Q/company-logo_400_400/0/1657598514511/shopback_com_logo?e=1710979200&v=beta&t=XI_kc5oe3uof93qYkD8U8MUoTLwFAGcm0DgrPXsfk4I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "ShopBack",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shopback-com/",
+            "title": "Business Development & Analytics",
+            "description": "Shop Online, Earn Cashback!\n\nShopBack is a leading platform for ecommerce discovery and loyalty. We offer consumers real cash rebates on online purchases, focusing on consumers in the USA and Asia-Pacific regions. With over 500 online partner stores including Apple, Groupon, Expedia and many more, ShopBack is spearheading changes in the way people shop online, and helping millions save on their purchases.\n\nResponsible for hiring, data analytics and business development.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEvGSKJrLXe9Q/company-logo_400_400/0/1657598514511/shopback_com_logo?e=1710979200&v=beta&t=XI_kc5oe3uof93qYkD8U8MUoTLwFAGcm0DgrPXsfk4I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Amazon Development Center",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-development-center-poland/",
+            "title": "Software Engineer",
+            "description": "Natural Language Processing and Generation for the Alexa Team",
+            "location": "United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGK0N-PYFPnOw/company-logo_400_400/0/1682710718458?e=1710979200&v=beta&t=hnQM758no214aGHE1WWw3zPxhDsgTRRjVbiimc0xDZ4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "LasEd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lased/",
+            "title": "Co-Founder",
+            "description": "A mobile and web platform which makes use of data analytics and machine learning to bring personalised education to all students. Through our simple and intuitive software, we are able to give students personalised practice questions, ensuring efficient studying on exactly what they need.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGzNtgkVaYNzA/company-logo_400_400/0/1631350435966?e=1710979200&v=beta&t=6rzPTeLiO6iwF7sWhiQMzvnxd8ypKaYP62HVnboIovI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "True Global Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/true-global-ventures/",
+            "title": "Business Development",
+            "description": "Investment Vehicule set up by serial entrepreneurs investing exclusively in serial entrepreneurs based in New York, Silicon Valley, Beijing, Singapore, Hong Kong, Berlin and Stockholm within Payments/Fintech and Digital Media.\n\nhttp://www.trueglobalventures.com/\n\nResponsible for:\n- Sourcing, reaching out to and negotiating with partners from Silicon Valley, SG and HK\n- Event organisation and Assisting portfolio companies\n- Full responsibility for sourcing, initial valuation and PR for projects\nIncluding \"Female Entrepreneur\" and \"Tesla Innovation\" projects",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFay4axXygicA/company-logo_400_400/0/1630607846153/true_global_ventures_logo?e=1710979200&v=beta&t=FaiL0sMi74-ZjzZDdoSHq3MEnDRymaHd4qAfRjV5fK0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "University of Cambridge",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833279033/university_of_cambridge_logo?e=1710979200&v=beta&t=A1p_rpfpRNy1IvnFS1Xw3u04xa-cB9wddU1qYBd-5EI",
+            "grade": null,
+            "activities_and_societies": "Badminton Captain; Cambridge Entrepreneurs"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Anglo-Chinese Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHKddeRLy3Oeg/company-logo_400_400/0/1631317704391?e=1710979200&v=beta&t=R9nZ_oBdzIr0biA1LxJyIzFKjIh4yKHMdHhPdnu7qTI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "E.M. Burnett Prize",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "For Final Year Tripos Results"
+        },
+        {
+            "title": "Ensoft Prize",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "For 2nd and 3rd year results"
+        },
+        {
+            "title": "Palantir Prize ",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "For final year dissertation on Deep Neural Architectures for Visual Question Answering"
+        },
+        {
+            "title": "Bloomberg Better Future Prize",
+            "issuer": "Bloomberg",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": "Awarded for project on tackling depression with deep learning"
+        },
+        {
+            "title": "Best Speaker",
+            "issuer": "Churchill Computer Science Talk Series",
+            "issued_on": null,
+            "description": "Best Talk in the Practice of Computer Science for talk on \"Speech Recognition using Hidden Markov Models\""
+        },
+        {
+            "title": "National Infocomm Scholar",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "OBA Silver Medal",
+            "issuer": null,
+            "issued_on": null,
+            "description": "Second Highest Overall Achievement in the school"
+        },
+        {
+            "title": "Principal's Honour Roll",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Scholastic Merit Award",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Top Student Voted Prize on Product Design",
+            "issuer": null,
+            "issued_on": null,
+            "description": "Project on tackling recycling and trash with data analytics"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "title": "Neural Architectures for Visual Question Answering",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Adaptive Learning Chatbot",
+            "description": "A learning buddy which provides practice questions for students preparing for exams. Makes use of a probabilistic scoring system and adapts to each student's responses to allow for personalised content - all in the form of a friendly chatbot with a sense of humour.\n\nBuilt on Android and with Microsoft Azure's Bot Framework.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "title": "The Right Way",
+            "description": "A GPS Glove for cyclists: uses vibration motors on the tips of each finger to signal which direction to go next (eg right most finger = turn right, middle finger = cont. straight), paired via Bluetooth with an Android App using the Google Maps API. Built with BBC microbit and Android.\n\n2nd Runner-Up in the Cambridge ARM Hackathon",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "title": "Intelligent Social Assistant",
+            "description": "Trained Neural Networks to be able to identify and anticipate forum users who are in situations of social need, such as risks of depression and suicidal thoughts. Forum posts were dynamically scraped to produce large enough datasets for training, and bootstrapping was used for expanding our labelled dataset. Implemented with TensorFlow and BeautifulSoup.\n\nWinner of Bloomberg's Better Future Prize",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Algorithmic Trading",
+            "description": "Designed and developed software in C++ which connected to the Cambridge University Engineering Department servers and traded shares. Past data trends were provided to us and the program needed to predict and trade shares to maximize profits. Used linear regression models as part of the algorithm and created a GUI to display statistics and real-time data.\n\nAchieved second highest profits ",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Braille Reader",
+            "description": "Built a 3D scanner using sensor/motorized hardware and Matlab which read Braille and converted it to English\n\nTop 3 groups in initial presentation",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Go Cashless, Go Trashless",
+            "description": "Designed a smart bin solution to the problem of waste and recycling, which made use of purchasing data and analytics to allow for automated trash sorting. \n\nTop student voted prize for product design",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Maze Generator",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Vote Counter",
+            "description": "Created a desktop application in C++ for the Students' Council elections for automated computing of votes per candidate.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/zameschua",
+            "name": "Zames Chua",
+            "summary": "Co-founder @ Waffle",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kwek-min-yih",
+            "name": "Min Yih Kwek",
+            "summary": "Aspiring Fullstack/Frontend Engineer | Final Year CS Student | Seeking Full-Time Role",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kenneth-lou",
+            "name": "Kenneth Lou",
+            "summary": "Co-Founder & CEO at Mito Health | Co-Founder at Seedly",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lowlinhui",
+            "name": "Low Lin-Hui (Lin)",
+            "summary": "Co-founder at Hypotenuse AI | Ex-Stripe",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/louis-lie-7620901b9",
+            "name": "Louis Lie",
+            "summary": "Penultimate Computer Science Student @ NUS",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/krishna-penukonda",
+            "name": "Krishna Penukonda",
+            "summary": "Hypotenuse AI (YC S20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yishingkoh",
+            "name": "Yi Shing (YS) K.",
+            "summary": "Growth & Operations at Hypotenuse AI (YC S20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kai-yi-lee",
+            "name": "Kai Yi Lee",
+            "summary": "Co-Founder, CPO at StaffAny | We're hiring: staffany.com/careers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jovinliew",
+            "name": "Jovin Liew",
+            "summary": "Co-founder & Head of Growth @ Mobbin",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/deontanjy",
+            "name": "Deon Tan",
+            "summary": "Content Strategist @ Hypotenuse AI (YC S20)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Joshua Wong",
+            "link": "https://my.linkedin.com/in/joshua-wong-2a4b1676",
+            "summary": "Marcom Manager at Thistle Hotels",
+            "location": "Gelang Patah"
+        },
+        {
+            "name": "Joshua Wong",
+            "link": "https://hk.linkedin.com/in/joshua-wong-b71631ab",
+            "summary": "CPA",
+            "location": "Hong Kong SAR"
+        },
+        {
+            "name": "Joshua Wong",
+            "link": "https://ca.linkedin.com/in/joshua-wong-oo",
+            "summary": "Energy Innovator",
+            "location": "Toronto, ON"
+        },
+        {
+            "name": "Joshua W.",
+            "link": "https://uk.linkedin.com/in/joshua-w-149b712",
+            "summary": null,
+            "location": "United Kingdom"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

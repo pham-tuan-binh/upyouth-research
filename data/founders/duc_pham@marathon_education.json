@@ -1,0 +1,254 @@
+{
+    "public_identifier": "duc-pham-b22b21101",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/duc-pham-b22b21101/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221307Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=303a047305fc11b8bea1f4557826e70929248938b86e387c2a779c16cdaf8e36",
+    "background_cover_image_url": null,
+    "first_name": "Duc",
+    "last_name": "Pham",
+    "full_name": "Duc Pham",
+    "follower_count": 5103,
+    "occupation": "Chief Jogger & Co-Founder at Marathon Education",
+    "headline": "Chief Jogger & Co-Founder at Marathon Education",
+    "summary": "marathon.edu.vn\nmarathon.pizza\nmarathon.university",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Super Secret University (under Marathon Education)",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Jogger & Co-Founder",
+            "description": "We are trying to build [Super Secret University], which aims to build for Asia-Pacific what Stanford is to Silicon Valley; so the next OpenAI can be founded in Singapore or Vietnam. A university project under the Marathon Education universe",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Marathon Education",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/marathon-education/",
+            "title": "Chief Jogger & Co-Founder",
+            "description": "We've raised $7M+ from very supportive partners on our journey to build a perpetual compounder",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHCuiaMDLllyw/company-logo_400_400/0/1696504822704/marathon_education_logo?e=1712793600&v=beta&t=9TMfwN1lAIAGpb_yeIqcUKn0AO9bihSuYgTjEGuGOXc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "TPG Global",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tpg-capital/",
+            "title": "Investment Professional",
+            "description": "Asia buyout",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHpHXcd2JuzOA/company-logo_400_400/0/1688206921596/tpg_capital_logo?e=1712793600&v=beta&t=Ql521yqfDky9KQCEPtOcl04tkHHliATCiIIyZD8RfW4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "company": "Alto Partners Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alto-partners-pte-ltd/",
+            "title": "Alto Partners Vietnam Fund",
+            "description": "Figured out deep value was pretty hard",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHwXUMqWd6THg/company-logo_400_400/0/1630667772131/alto_partners_pte_ltd_logo?e=1712793600&v=beta&t=v3N0zP-oXgf4eXZdA0g2SlR6XO7FB2d7KK1mNOOnuNs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Point72",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/point72-asset-management-l-p-/",
+            "title": "Long-Short Equity",
+            "description": "Summer analyst",
+            "location": "New York, New York",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQH3lvEFcMCVrQ/company-logo_400_400/0/1688392818996/point72_asset_management_l_p__logo?e=1712793600&v=beta&t=f7QmnaV_j5UC3GRB0fvH5LbchdbE_GtvCZ8cdvJYdJo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "BNP Paribas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bnp-paribas/",
+            "title": "Investment Banking Summer Analyst",
+            "description": "Real Estate Desk - M&A, ECM, DCM advisory",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGaPfduOoKCJA/company-logo_400_400/0/1669711365932/bnp_paribas_logo?e=1712793600&v=beta&t=W7Ujf7bvkhYOokVeNgxkFxBntij_byF73cyzcQa9u64"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Finance & Quantitative Finance",
+            "degree_name": "BBM",
+            "school": "Singapore Management University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1630585940673/singapore_management_university_logo?e=1712793600&v=beta&t=31tz742F6jQZkuQRA_mBaJiRW5ZkJV9OLcmRGLkERTk",
+            "grade": "Summa Cum Laude",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Victoria Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEMgtZJAHI5tw/company-logo_400_400/0/1630632042330/victoria_junior_college_vjc_logo?e=1712793600&v=beta&t=luqXyrTznOoRsYsXXYBzfgrT49SqmNYai8fADpHh6Nc",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": null,
+            "org_name": "ChaoVietnam SMU",
+            "title": "Vice President of External Affairs",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Point72 Asia Summit - Best Case Group",
+            "issuer": "Point72 Asset Management",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "description": "Among 15 out of 200 applicants chosen for Point72's Singapore Summit. Worked in a team of 4 to develop a view on Sun Art, and was named the most outstanding group."
+        },
+        {
+            "title": "ASEAN Undergraduates' Scholarship",
+            "issuer": "Singapore Management University",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "description": "Steve was awarded a four-year-tenure scholarship, which fully funds tuition fees and annual living allowance."
+        },
+        {
+            "title": "Deans' List",
+            "issuer": "SMU",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GCE A Levels 2014",
+            "score": "AAAA/AA (4H2+GP+PW)",
+            "date_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Duc Pham",
+            "link": "https://vn.linkedin.com/in/duc-pham-a802b9a7",
+            "summary": "Vice Director at DK ENGINEERING",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Duc Pham",
+            "link": "https://vn.linkedin.com/in/duc-pham-6a902bb8",
+            "summary": "VNPT",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Duc Pham",
+            "link": "https://vn.linkedin.com/in/duc-pham-830bb166",
+            "summary": "--",
+            "location": "Dong Nai, Vietnam"
+        },
+        {
+            "name": "Duc Pham",
+            "link": "https://vn.linkedin.com/in/duc-pham-a16b95a5",
+            "summary": "IT Operations Engineer at Esoft",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Duc Pham",
+            "link": "https://www.linkedin.com/in/duc-pham-9b19043",
+            "summary": "President at Blossom Restaurant and Owner, Blossom Restaurant",
+            "location": "Los Angeles, CA"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

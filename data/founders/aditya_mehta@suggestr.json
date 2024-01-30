@@ -1,0 +1,420 @@
+{
+    "public_identifier": "mehta-aditya",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mehta-aditya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221711Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3880407b06fbf90ead8997ef8e2d80a3d02afcd35cccdc038bdb72241a97cb6a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mehta-aditya/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221711Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=45e69e9ca6fc92632432b8e51f747b57bf04abfc30f6dfbab7d2b8b84691e84c",
+    "first_name": "Aditya",
+    "last_name": "Mehta",
+    "full_name": "Aditya Mehta",
+    "follower_count": 8819,
+    "occupation": "Co-Founder at Cogito Group",
+    "headline": "Your ARR is not my son, but I will raise it \u2022\u00a0Founder at Cogito Group \u2022\u00a0YC W22",
+    "summary": "Growing B2B and B2C SaaS businesses around the world.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Cogito Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cogito-group/",
+            "title": "Co-Founder",
+            "description": "A full-stack growth consulting firm that helps the most impactful startups scale quickly.",
+            "location": "California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHfQPY5xalIeQ/company-logo_400_400/0/1678867561252?e=1712793600&v=beta&t=CDb_hxdnUz09dT7n4DCSx3D15ml_Ign6QOU98vqFMvA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "GrowthMentor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/growthmentor/",
+            "title": "Mentor",
+            "description": "Providing 1:1 mentoring for entrepreneurs starting and growing their own businesses through GrowthMentor, a curated platform of invite-only startup and growth marketing mentors that have proven experience in their fields.\n\nI'm focused on helping startups with growth strategy, email marketing, PPC, and sales at https://app.growthmentor.com/mentors/aditya-mehta",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG5o6iy7_8QWw/company-logo_400_400/0/1631364849189/growthmentor_logo?e=1712793600&v=beta&t=n-8FTKN9gqQKglz7yIyPH29JGu3pqCTpPdo-KXkofFg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Slise",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slise-xyz/",
+            "title": "Co-founder and CRO",
+            "description": "Web3-native programmatic ad platform. Unlocking the power of onchain data for better, and privacy-preserving ads. Improve performance by targeting crypto-natives on dApps.",
+            "location": "California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF0BARfMHDVIw/company-logo_400_400/0/1661760359510?e=1712793600&v=beta&t=k82Z10j09Ku8Y6dUFd7X9fwua0ONQpbks1iSzlee4T8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Z Squared Growth",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/z-squared-growth/",
+            "title": "Partner",
+            "description": "Z Squared Growth is a startup growth studio focused on supporting Gen-Z founders.",
+            "location": "California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHi6KDG5UMtqQ/company-logo_400_400/0/1699933737082/z_squared_growth_logo?e=1712793600&v=beta&t=PTn_ScarBMPurDNb-hK2ns8uDmyEcut1AY0mFIe29J0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "company": "Suggestr (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/suggestr/",
+            "title": "Co-Founder & CEO",
+            "description": "Suggestr \ud83d\uded2 brings the power of Amazon-quality product recommendations to small and medium e-commerce businesses in one click.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEWRTdhnJmI1w/company-logo_400_400/0/1630637173160/suggestr_logo?e=1712793600&v=beta&t=63pwQM5TzqtB1Xv80Dg6Geq8enLxM0sjlTZcC90K7_Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence (EFSG9)",
+            "description": "Entrepreneur First is the world\u2019s leading talent investor. We invest time and money in the world\u2019s most talented and ambitious individuals, helping them to find a co-founder, develop an idea, and start a company. So far, we\u2019ve helped 2,000+ people create 300+ companies, worth a combined $2B.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "HSBC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hsbc/",
+            "title": "Analyst",
+            "description": null,
+            "location": "Hong Kong SAR",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG2HVLlNUxOcw/company-logo_400_400/0/1688354573894/hsbc_logo?e=1712793600&v=beta&t=9QHvNSSC869_MA7yoXPXFXLlAe8cSkw4UgJLpM6wujA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "HSBC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hsbc/",
+            "title": "Summer Analyst",
+            "description": "Drove revenue analytics for the international book (AUM ~US$8B). I was one of the top performers of the analyst cohort. I also built an interactive platform in React for client portfolio scenario analysis that was adopted by RMs as part of the client facing toolkit.",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG2HVLlNUxOcw/company-logo_400_400/0/1688354573894/hsbc_logo?e=1712793600&v=beta&t=9QHvNSSC869_MA7yoXPXFXLlAe8cSkw4UgJLpM6wujA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "HSBC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hsbc/",
+            "title": "AI Analyst | Applied Innovation ",
+            "description": "Built a Recommender System for Institutional Wealth Sales for creating client profiles and identified cross-selling and up-selling opportunities. Led the delivery of Digital Auditing pilot project, which aimed to reduce auditor headcount by 30%. Created deep-learning model for forecasting cash-flows of key clients.",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG2HVLlNUxOcw/company-logo_400_400/0/1688354573894/hsbc_logo?e=1712793600&v=beta&t=9QHvNSSC869_MA7yoXPXFXLlAe8cSkw4UgJLpM6wujA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "Bamboo Network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bamboo-n/",
+            "title": "Co-Founder",
+            "description": "Bamboo Network is a marketplace for high value talent that uses equity as a\ncurrency. Responsible for recruiting my co-founder, hiring a team of 3, closing a board of advisors, and leading the development of the online platform and app.\n\nIn a span of 6 months, we got pre-launch traction of 100+ signups including 8 VC funds and raised US$100k in angel funding. Bamboo was featured in HKEJ StartUpBeat and was the #1 trending story on the news website for a whole week.",
+            "location": "Hong Kong SAR",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGBaW__ayWpQg/company-logo_400_400/0/1630644136944/bamboo_n_logo?e=1712793600&v=beta&t=v7uT070Awni5DhL3o8_wNFyrH40ZKfrhjSlL75VrMCU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science and Finance",
+            "degree_name": "Bachelor of Engineering",
+            "school": "The University of Hong Kong",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEubCTgcfA2sQ/company-logo_400_400/0/1631325687808?e=1712793600&v=beta&t=vg34SuBmu1LLEho2e2ZUXr07qO5uAY0ySnSNc_7MtOQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Science with Computers",
+            "degree_name": "AISSCE",
+            "school": "Delhi Public School - R. K. Puram",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHO4knhudua1w/company-logo_400_400/0/1633154842818/dpsrkp_logo?e=1712793600&v=beta&t=frKbypWN_LnnmeJ4yzXHbXjpsXbYGVomqzI24Ka-ayk",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "Recommendation Engine \u2014 HSBC Global Banking & Markets",
+            "description": "Stakeholders: Institutional Wealth and Sales, Fixed Income IT, GBM Innovation\n\n- Lead the delivery of a recommender engine to recommend cross-sell and up-sell opportunities for increasing wallet-share of key institutional-tier clients\n- Defined the sprint-based delivery plan for three different types of engines: content-based, collaborative filtering, and hybrid recommender systems\n- Developed and deployed the solution as a scalable, RESTul microservice \n- Technology stack: Python using Bokeh, Flask, and Dash along with TensorFlow, Keras, and PyRo, integrated with IRIS and KdB",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "title": "Volunteer",
+            "cause": "SOCIAL_SERVICES",
+            "company": "Food Angel by Bo Charity Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/food-angel-by-bo-charity-foundation/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFBAAdNSpFOrQ/company-logo_400_400/0/1631301035906?e=1712793600&v=beta&t=_0AKIUEy4VJEGY1cNjY-hAPgO8x_8aYKoLRxdU1tXeg"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Google Ads Search Certification",
+            "license_number": "145419313",
+            "display_source": "credential.net",
+            "authority": "Google",
+            "url": "https://skillshop.credential.net/2ec43d28-c8a3-4ca1-94fe-5a1b9447ac35#gs.spr1zh"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Paper 1",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Securities and Futures Commission (SFC)",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Derivatives Market Dealers Module",
+            "license_number": null,
+            "display_source": null,
+            "authority": "NSE India",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2010
+            },
+            "ends_at": null,
+            "name": "Oracle Certified Professional, Java SE 6 Programmer",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "authority": "Oracle",
+            "url": "https://www.youracclaim.com/badges/ab5d2e24-5fff-4515-a7e8-b0093caf7217"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sidorovoleksii",
+            "name": "Oleksii Sidorov",
+            "summary": "Co-founder at Slise (AdSense for Web3) \u2022 Y Combinator alum \u2022 ex-Facebook AI Research \u2022 ex-Oxford",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ivoverhaegh",
+            "name": "Ivo Verhaegh",
+            "summary": "Co-Founder & CEO at Powerhouse AI | \ud83d\udce6 Boosting warehouse productivity",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/danielmchoi",
+            "name": "Daniel M. Choi",
+            "summary": "Growth Marketing at Ramp | ex-Google, Darktrace, Oracle | Reforge Alum | Advisor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chanyina",
+            "name": "Yina Chan",
+            "summary": "Founder | VC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yusurfaza",
+            "name": "Yusuf Raza",
+            "summary": "Oxford MBA 24 | Co-Founder at Panalyt | Oxford Seed Fund | Oxford AI Society | Oxford MBA Venture Capital Club | Entrepreneur First SG12",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/griffinkao",
+            "name": "Griffin Kao",
+            "summary": "Product @ Charlie Health | ex-Google APM",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adityashth",
+            "name": "\ud83e\udd84 Aditya Sheth",
+            "summary": "Advisor @Superhuman | Partner @Z2 \ud83d\ude80",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/charlottejoytrudgill",
+            "name": "Charlotte Joy Trudgill",
+            "summary": "Co-Founder at Jackett",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/austinritter",
+            "name": "Austin Ritter",
+            "summary": "General Manager, AI for VC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shyam-n",
+            "name": "Shyam Nallasenapathy",
+            "summary": "Building Zevi and ChatScout \ud83d\udd0d",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Aditya Mehta",
+            "link": "https://in.linkedin.com/in/aditya-mehta-6995529a",
+            "summary": "Asian Para-cyclist/Founder- Aditya Mehta Foundation",
+            "location": "Hyderabad"
+        },
+        {
+            "name": "Aditya Mehta",
+            "link": "https://in.linkedin.com/in/aditya-mehta-0bb6b016",
+            "summary": "Diamond grader from GIA .  Loose and Certified diamonds.",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Aditya Mehta",
+            "link": "https://de.linkedin.com/in/adityamehta08",
+            "summary": "Masterarbeit - OvGU l Operations and Process Intern at Dott l M.Sc. Systems Engineering for Manufacturing at OvGU l Ex - Systems Engineer at Tata Consultancy Services Ltd.",
+            "location": "Magdeburg"
+        },
+        {
+            "name": "Aditya Mehta",
+            "link": "https://uk.linkedin.com/in/aditya-mehta-4b9269",
+            "summary": null,
+            "location": "London"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

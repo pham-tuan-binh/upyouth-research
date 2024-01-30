@@ -1,0 +1,243 @@
+{
+    "public_identifier": "albertsahala",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/albertsahala/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221235Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ebc1dda893a775e005edaad714b692f82ef7a301999de76cae0c7ef1fca337f7",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/albertsahala/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221235Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d5279117cfa529b47fab58b8a086daec5ff66c8731acd65d7f04f5e8eec75da3",
+    "first_name": "Albert Sahala",
+    "last_name": "Theodore",
+    "full_name": "Albert Sahala Theodore",
+    "follower_count": 1965,
+    "occupation": "Co-Founder at Payable (YC S22)",
+    "headline": "Co-Founder at Payable (YC S22) | Helping businesses create a seamless checkout experience",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "L'Or\u00e9al",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lor\u00e9al",
+            "title": "Social Commerce Lead",
+            "description": "- Led social commerce for Indonesia\n- Set up Tiktok commerce business and grew by 10x",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_400_400/0/1688397792617/loral_logo?e=1712188800&v=beta&t=DWuwGh0erkaVGfRXGdZYdG-A1Vr6BhPR9VDHTcFzaTI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "L'Or\u00e9al",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lor\u00e9al",
+            "title": "Management Trainee - eCommerce",
+            "description": "- Accelerating online business growth\n- Handling social commerce and e-commerce accounts",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_400_400/0/1688397792617/loral_logo?e=1712188800&v=beta&t=DWuwGh0erkaVGfRXGdZYdG-A1Vr6BhPR9VDHTcFzaTI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "L'Or\u00e9al",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lor\u00e9al",
+            "title": "Product Manager Intern",
+            "description": "- Intrapreneruship Program at Station F",
+            "location": "Paris Area, France",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_400_400/0/1688397792617/loral_logo?e=1712188800&v=beta&t=DWuwGh0erkaVGfRXGdZYdG-A1Vr6BhPR9VDHTcFzaTI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "CIMB Niaga",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt--bank-cimb-niaga-tbk",
+            "title": "Product Manager Intern",
+            "description": "Digital and Partnership, CIMB X",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE0UE-6hjzwPA/company-logo_400_400/0/1631355002048?e=1712188800&v=beta&t=vS-IjQVYIiASOHbONgymhoX4D-H9XzPxFPayL9SPIhA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Payable (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/payableid",
+            "title": "Co-Founder",
+            "description": "Helping businesses create a seamless checkout experience. Reach out to albert@payable.id.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFiuXfmUHd9nA/company-logo_400_400/0/1655254270009?e=1712188800&v=beta&t=YfayUz1sGyXiXqbDO7N53zyL4BWBgEvZZZiCHq7VAcw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "AwanTunai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/awantunai",
+            "title": "Product Management",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEqKBp_AVpjHA/company-logo_400_400/0/1631304720019?e=1712188800&v=beta&t=FPByQIY5Uc2NylL2M6DUjV6yMYTVrGJ7VIyHXuOIwJY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/14702/",
+            "description": "- 2 Ganesha Karsa Awardee \n- 1 Ganesha Karya Awardee \n- KEB Hana Scholarship Award",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712188800&v=beta&t=QoADl48FWGxM2JguTC0NyEITFnLc3GPw9gaCDvgKtzI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Natural Sciences",
+            "school": "SMA Negeri 8 Jakarta",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/13659341/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGvWV-nJ232Rg/company-logo_400_400/0/1631314170577?e=1712188800&v=beta&t=qzD3w0gxrbD2SgyduEDfJc-Rj8OEv5s70GH37MaotL4",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "org_name": "Tennis Club ITB",
+            "title": "Internal Division",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Ganesha Karya",
+            "issuer": "Institut Teknologi Bandung",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Ganesha Karsa",
+            "issuer": "Institut Teknologi Bandung",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1938,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gerynugraha",
+            "name": "Gery N.",
+            "summary": "Co-Founder @ Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/supriadhi-wicaksono-345bb8121",
+            "name": "Supriadhi Wicaksono",
+            "summary": "CTO & Co-Founder at Looyal Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/steven-walentino",
+            "name": "Steven Walentino",
+            "summary": "Co-Founder at Materee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ammaralkhouli",
+            "name": "Ammar Alkhouli",
+            "summary": "Co-founder & CEO at Levers (YC S22) | Yale",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQEMyj6Odq6kOQ/group-logo_image-shrink_400x400/0/1631006644828?e=1704657600&v=beta&t=H-4aGqQZpPk7dlhzSvZf9ShbUwZO__QvJGgD6Wj4VU4",
+            "name": "L\u2019Or\u00e9al Brandstorm 2019",
+            "url": "https://www.linkedin.com/groups/8762235"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

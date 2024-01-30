@@ -1,0 +1,137 @@
+{
+    "public_identifier": "dionisloire",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Dionis",
+    "last_name": "Loire",
+    "full_name": "Dionis Loire",
+    "follower_count": 1517,
+    "occupation": "Co-Founder at Taskade",
+    "headline": "Co-Founder at Taskade (YC S19)",
+    "summary": "Innovating productivity.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Taskade",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/taskade",
+            "title": "Co-Founder",
+            "description": "Innovating productivity.",
+            "location": "SF / NYC",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH2F1neTXqogA/company-logo_400_400/0/1630587390272/taskade_logo?e=1714608000&v=beta&t=J8KSoc4q94X6PgQzG6QYZv5aiM2niTcNDNw5AVzl6_k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "Razer Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/razer",
+            "title": "Product Developer",
+            "description": "Product design and development of new apps.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHw-kNLEuoX9g/company-logo_400_400/0/1630629172318/razer_logo?e=1714608000&v=beta&t=6H5HDIMJxh1owJKW3-jBAJgPauE0pabADRc0ihMjWeM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "company": "Minus Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/minus-inc.",
+            "title": "Product Designer",
+            "description": "Lead product designer.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFj_crLQEQtlw/company-logo_400_400/0/1631301636719?e=1714608000&v=beta&t=h_eNl9Bqm6dxL59WgKG2QwiAR5mIKStSKqr1LU5_G14"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "Sweden Unlimited",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sweden-unlimited",
+            "title": "Front-End Developer",
+            "description": "I turned designs into functional Magento themes and coded/scheduled e-mail blasts to thousands of customers. Clients included: Grandlife Hotels, Jason Wu, The Row, Le Chateau, Jonathan Adler, Calypso and Proenza Schouler.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGqXvsYeG2h4A/company-logo_400_400/0/1654537933186/sweden_unlimited_logo?e=1714608000&v=beta&t=nEGnA1LS8CqVeu76aqkLTUNObbQtIy8qYrin1yq7oZc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "company": "Noam Design Group",
+            "company_linkedin_profile_url": null,
+            "title": "Sr. Web Designer",
+            "description": "Designed themes for our custom CMS, maintained client's websites, made video tutorials and created Magento templates for sale.",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1480,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQG6qRptrcO3IQ/group-logo_image-shrink_48x48/0/1631402110108?e=1707260400&v=beta&t=No3HvShWcgwY2xIy4BTj95dnZU650hE_wWqu_QeyLLY",
+            "name": "CIRTEX CORP",
+            "url": "https://www.linkedin.com/groups/3164024"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

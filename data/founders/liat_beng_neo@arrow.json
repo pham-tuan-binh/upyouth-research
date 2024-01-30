@@ -1,0 +1,355 @@
+{
+    "public_identifier": "liatbeng",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/liatbeng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221540Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=49d85a80a6b869e8a3b3b483da453c00480658167a79380b9ade442b8d3ef992",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/liatbeng/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221540Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c2323dee454948f9e928187219f7625d5643cf0baac8a9030dd66cde4b0ab68b",
+    "first_name": "Liat Beng",
+    "last_name": "N.",
+    "full_name": "Liat Beng N.",
+    "follower_count": 2843,
+    "occupation": "Co-Founder at Arrow",
+    "headline": "Making it easier for people to buy online in South-east Asia",
+    "summary": "On a mission to make it easier for brands to sell and shoppers to buy online. \n\nI've been in the Fintech and payments space for the last few years; Previously based in Hong Kong / Shenzhen to build out Tencent's Global Fintech initiatives, launched Grabpay in SEA markets, covered Vietnam during my time at Alipay and was part of the amazing team at helloPay before the acquisition by Ant Financial.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Arrow",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/arrowcheckout/",
+            "title": "Co-Founder",
+            "description": "Arrow is the best checkout experience for online shoppers in South-East Asia that drastically increases conversion rates for online-focused brands.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeAipheS4HCQ/company-logo_400_400/0/1636453171724/arrowcheckout_logo?e=1712793600&v=beta&t=6cX1O9W_lkddxT7Yd5C4Xjg4iFBubM-xLE_q3sKO1Gg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Tencent",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tencentglobal/",
+            "title": "Associate Director, Fintech",
+            "description": "\u2022 Partnership strategy, sourcing, negotiating and closing deals with fintech partners and FIs to onboard a new Global Digital Money Transfer Network\n\u2022 Work with Tencent Portfolio companies to launch new product verticals, co-create go-to market strategies, and leverage Tencent's deep expertise in technology and experience in building payments and digital financial services",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGLiulTOZIebQ/company-logo_400_400/0/1630648290063/tencentglobal_logo?e=1712793600&v=beta&t=wh8dCd3FV6n2MaYy3Yho12f4IJ4cIyWmhofGdJk9fxM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2019
+            },
+            "company": "Saigon Innovation Hub",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/saigon-innovation-hub/",
+            "title": "Board of Advisors",
+            "description": null,
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFb0PXobyDbYg/company-logo_400_400/0/1631407822070?e=1712793600&v=beta&t=itgbeG_ateuXbKk2Ub2hgdPmY3w6uWYBMcIvsXYaPjc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Regional Market Launcher, GrabPay",
+            "description": "\u2022 Launch Grab's payments business in the Malaysia, Thailand  & Vietnam markets\n\u2022 Lead license applications, hire and lead BD & partnerships teams, and work cross functionally to launch Grabpay MVP\n\u2022 Lead sales operations to build up GrabPay\u2019s merchant network in the 2 markets, setting up team to handle key accounts and structuring a partner sales programme",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "Ant Financial",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antgroup/",
+            "title": "Country Manager, Vietnam",
+            "description": "Joined via acquisition of helloPay\n\u2022 Lead Alipay's business development efforts in Vietnam",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMPJh5f4BL0A/company-logo_400_400/0/1630653412719/antgroup_logo?e=1712793600&v=beta&t=qWhopqKj5jIycWT466vvfp4rMIr4Smj-vrI5TGeqGlY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "company": "Ant Financial",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antgroup/",
+            "title": "Country Manager, helloPay Malaysia",
+            "description": "\u2022 License applications, establish partnerships and alliances with regulators, key banking partners and payment companies,",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMPJh5f4BL0A/company-logo_400_400/0/1630653412719/antgroup_logo?e=1712793600&v=beta&t=qWhopqKj5jIycWT466vvfp4rMIr4Smj-vrI5TGeqGlY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "company": "Ant Financial",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antgroup/",
+            "title": "Regional Operations Lead, helloPay SEA",
+            "description": "\u2022 Build and manage new customer service and payment operations teams across SEA",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMPJh5f4BL0A/company-logo_400_400/0/1630653412719/antgroup_logo?e=1712793600&v=beta&t=qWhopqKj5jIycWT466vvfp4rMIr4Smj-vrI5TGeqGlY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "Synpulse Management Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/synpulsemc/",
+            "title": "Consultant",
+            "description": "\u2022 Project experience on Market Entry, Cost Optimization Strategies,  large scale implementation and change management projects",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHfP4CO6BrsPw/company-logo_400_400/0/1656985183537/synpulsemc_logo?e=1712793600&v=beta&t=_ghXcaqiR0vb81csYS04ngT7iI3GjfTP_mGVZnsc_ss"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Synpulse Management Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/synpulsemc/",
+            "title": "Associate Consultant",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHfP4CO6BrsPw/company-logo_400_400/0/1656985183537/synpulsemc_logo?e=1712793600&v=beta&t=_ghXcaqiR0vb81csYS04ngT7iI3GjfTP_mGVZnsc_ss"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Banking & Finance",
+            "degree_name": "Bachelor of Business (Honours)",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682216282/ntusg_logo?e=1712793600&v=beta&t=Vv26QAd02puP-pRuiOyy4sLRl6IFgbNWrCRc164Uy4I",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Business Adminstration",
+            "degree_name": "Exchange Progamme",
+            "school": "Schulich School of Business - York University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQER-zL1OM0XlA/company-logo_400_400/0/1647029412885/schulichschool_logo?e=1712793600&v=beta&t=o6BoEgtURabBTdMu7WYgIcfJLwSGa4eo6Y4hkv_2JOM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "CIMA Global Case Competition 2012",
+            "issuer": "CIMA",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "description": "- 2nd Runner-up in National Finals\n- Awarded \"Best Young Future Business Leader\" "
+        },
+        {
+            "title": "Wunderman Marketer of the Year \"2021\"",
+            "issuer": "Wunderman",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "description": "- Beat 99 other teams worldwide to emerge winner\n- Presented business idea to panel from Wunderman\u2019s senior management\n- Attended the Cannes Lions Creativity Festival 2011"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "title": "Project Advisor",
+            "cause": "SOCIAL_SERVICES",
+            "company": "Conjunct Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/conjunct-consulting/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFpoSzfmUhYlA/company-logo_400_400/0/1631356549343?e=1712793600&v=beta&t=uN3Eklf-WQ2nPD1FEsEF-jXOwhyn-bZOiJFkwk6MrSw"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Avaloq Certified Professional",
+            "license_number": null,
+            "display_source": "avaloq.com.sg",
+            "authority": "Avaloq",
+            "url": "http://www.avaloq.com.sg/solutions/academy/"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/vicnan",
+            "name": "Vicnan P",
+            "summary": "Void Deck Collective | Systems Thinking | Analytics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alvinn89",
+            "name": "Alvin Lim",
+            "summary": "Senior Director, Head of Embedded Finance, Asia Pacific",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sudhan-raj",
+            "name": "Sudhan Raj",
+            "summary": "CTO of Arrow - Making it easier for shoppers and merchants to buy and sell online",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeffcheok",
+            "name": "Jeff Cheok",
+            "summary": "Strategic Partnership | Passionate Business Developer | Ex-Fave",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/royamw",
+            "name": "Roy Ang",
+            "summary": "CEO @ bback.co | Stryv.co. Hiring kickass marketers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/puisanwong",
+            "name": "Pui-San Wong",
+            "summary": "Experienced Marketing & Communications Professional",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sebastianroervig",
+            "name": "Sebastian Roervig",
+            "summary": "Co-Founder @ Arrow",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leia-ng",
+            "name": "Leia Ng",
+            "summary": "Sales Executive at CardUp",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bencasnocha",
+            "name": "Ben Casnocha",
+            "summary": "Entrepreneur. Investor. Author.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jasmine-wee",
+            "name": "Jasmine W.",
+            "summary": "IHRP-CP | Result-oriented HR Partner | Creating Thriving Workplaces Where People Thrive",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

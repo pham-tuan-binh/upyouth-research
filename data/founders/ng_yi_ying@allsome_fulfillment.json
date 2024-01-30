@@ -1,0 +1,389 @@
+{
+    "public_identifier": "yi2ng2",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yi2ng2/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221702Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=17da91237edd1b12bb710dc98bbd4a644ef23bc2a1e7895288290dc97f97731d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yi2ng2/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221702Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7661b1b38a099af3de562b2068ef3fd54cc72a056a0a3c951e197ea2dca411e9",
+    "first_name": "Ng",
+    "last_name": "Yi Ying",
+    "full_name": "Ng Yi Ying",
+    "follower_count": 658,
+    "occupation": "Founder & CTO at AllSome Fulfillment (YC W19)",
+    "headline": "Founder at AllSome - Building cross border e-commerce fulfillment tech",
+    "summary": "Founder and CEO at AllSome, a fulfillment as a service platform for e-commerce sellers to build self-run operations internationally.\n\nOver the last decade, spent times running startup in China, SE Asia and United States. Strong interests in fulfillment technology, logistics and global e-commerce.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "AllSome Fulfillment (YC W19)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/allsome/",
+            "title": "Founder & CTO",
+            "description": "AllSome is a fulfillment platform for e-commerce sellers to build self-run e-commerce operations: https://www.allsome.com",
+            "location": "Selangor, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHg3R0kChhNfg/company-logo_400_400/0/1655104142323?e=1705536000&v=beta&t=_3zzvoQR6f9bgg6APYzcBoaI7-mHuuBjgNnD5ZyLDoM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "company": "Yimport.com",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Professional purchase assistant for Southeast Asia shoppers to buy from China.",
+            "location": "Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "Bluefin Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bluefin-solutions/",
+            "title": "SAP Technical Consultant",
+            "description": null,
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQExKozWX2LAbA/company-logo_400_400/0/1519856192335?e=1705536000&v=beta&t=U5aL-8lOCyXLl7Vq06oMI7g90nbKKFz2fb0tOjXEt7k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Nettium Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nettium-sdn-bhd/",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFgYyBkfMHO2g/company-logo_400_400/0/1519879568451?e=1705536000&v=beta&t=9bIYxHq6AHbA1Rx9-lDvcYV8O6rzvMDvGIiQYuusqM4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "Tsinghua University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_400_400/0/1519855961159?e=1705536000&v=beta&t=dg7ew7tU2o0Y-oPWsnHFEEV6dViKHBWptLgZdo8GlB0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Advanced Computing",
+            "degree_name": "Master's degree",
+            "school": "Tsinghua University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_400_400/0/1519855961159?e=1705536000&v=beta&t=dg7ew7tU2o0Y-oPWsnHFEEV6dViKHBWptLgZdo8GlB0",
+            "grade": "4.0/4.0",
+            "activities_and_societies": "Student Festival 2012 Program Coordinator"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Computing major Web Development",
+            "degree_name": "Bachelor (Hons)",
+            "school": "Staffordshire University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE6xkn2c6Lfrw/company-logo_400_400/0/1663655908501?e=1705536000&v=beta&t=54C1kGDD73wSLG5foP3rLOZ5wl1Omd8sjLCJuC-eAGw",
+            "grade": "First Class Honor",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Information and Communication Technology",
+            "degree_name": "Diploma",
+            "school": "Asia Pacific University of Technology and Innovation (APU / APIIT)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHeoaK8dWq6fw/company-logo_400_400/0/1519887453335?e=1705536000&v=beta&t=Oim6gpjyYFaRJZ4iolTTSE-Ic9FDOI-hxXsgzRLKW7E",
+            "grade": "Distinction",
+            "activities_and_societies": "Student Representative Council, Management, Accountancy and Technology Society (MATS)"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "DIGERATI50 2020/2021",
+            "issuer": "Digital New Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "OTEC Kuala Lumpur TOP 1",
+            "issuer": "OTEC",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "One of the Most Innovative Startup",
+            "issuer": "MaGIC Malaysia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "description": "Cohort 3 MAP ASEAN"
+        },
+        {
+            "title": "TOP 10 Seedstar Kuala Lumpur",
+            "issuer": "Seedstar Kuala Lumpur",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "TOP 12 Slush Singapore",
+            "issuer": "Slush Singapore",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "TOP100 Startup",
+            "issuer": "Echelon Asia Summit 2016",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "China Scholarship",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Beijing Foreigner Scholarship",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Beijing Foreigner Scholarship",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "An Outstanding Award",
+            "issuer": "Staffordshire University",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "description": "Achieve as an outstanding student in year 2010/2011."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": null,
+            "name": "SAP Certified Development Associate \u2013 ABAP with SAP NetWeaver 7.02",
+            "license_number": null,
+            "display_source": null,
+            "authority": "SAP",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/khairul-anwar-mohamad-zaki",
+            "name": "Khairul Anwar Mohamad Zaki",
+            "summary": "Founder & CEO of Pandai (YC S21) | Entrepreneurship \ud83d\udd39 Education \ud83d\udd39 Startup \ud83d\udd39 Data Science \ud83d\udd39 Edtech Evangelist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/waihongfong",
+            "name": "Wai Hong Fong",
+            "summary": "Chieftain / Co-Founder at StoreHub",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hann-liew",
+            "name": "Hann Liew, CFP, CFA",
+            "summary": "Founder & CEO, Halogen Capital | Founder & Director, Jirnexu",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yienyee88",
+            "name": "Yienyee Soh",
+            "summary": "Championing commerce across APAC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akmalakhpah",
+            "name": "Akmal Akhpah",
+            "summary": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/markkoh1",
+            "name": "Mark Koh",
+            "summary": "CEO, SUPA.SO | Computer Vision",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lenniseng",
+            "name": "Lennise Ng (\u9ec4\u82b7\u60c5)",
+            "summary": "CEO at Borong (YC W20) | Wholesale made easy through #eTrade | #eTrade for Women",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christian-edelmann-we-are-hiring-27166531",
+            "name": "Christian Edelmann (We are hiring)",
+            "summary": "Co Founder & CTO at Pop; Y Combinator S17",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ammarroslizar",
+            "name": "Ammar Roslizar",
+            "summary": "CEO Yezza \u2022 Forbes U30 \u2022 Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/petrina-goh",
+            "name": "Petrina Goh",
+            "summary": "Reach & engage with >5 million parenting community in South East Asia | CEO of Nuren Group & Motherhood",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Ng Yi Ying",
+            "link": "https://sg.linkedin.com/in/ng-yi-ying-15b57388",
+            "summary": "Service worker at Ramada and Days Hotel Singapore",
+            "location": "Singapura"
+        },
+        {
+            "name": "Ng Yi Ying Chloe",
+            "link": "https://sg.linkedin.com/in/ng-yi-ying-chloe-a4b021208",
+            "summary": "Undergraduate at Singapore University of Social Sciences (SUSS), Bachelor of Science in Marketing with Minor, Digital Communication and Media/Multimedia",
+            "location": "Singapura"
+        },
+        {
+            "name": "Ng yi ying",
+            "link": "https://hk.linkedin.com/in/ng-yi-ying-591b8818b",
+            "summary": "Clerk at Harbour Grand Kowloon",
+            "location": "Hong Kong"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

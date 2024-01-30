@@ -1,0 +1,292 @@
+{
+    "public_identifier": "rajiths",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rajiths/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f5afbe7be7189e46b29acf857118fdedb41b3a25542f5b88a88d360bd26e9f3c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rajiths/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=62b6757133b8e159ed265fd143a3942d21321b76b6cf6649ad3c284cfa5f33f9",
+    "first_name": "Rajith",
+    "last_name": "Shaji ",
+    "full_name": "Rajith Shaji",
+    "follower_count": 11471,
+    "occupation": "Founder & CEO  at Volopay",
+    "headline": "Co-founder & CEO at Volopay",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Volopay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/volopay/",
+            "title": "Founder & CEO ",
+            "description": "A modern financial platform designed to save money with corporate cards, credit, money transfers, expense reimbursements, and automated accounting\u2014all in one place.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEvX6zwDsFzeg/company-logo_400_400/0/1566894193507/volopay_logo?e=1706745600&v=beta&t=eGqIOJnYFzrS7Mro1hioPKUOzO7r1A4pWc0iu9qZavM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "MoneySmart Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/moneysmartgroup/",
+            "title": "Product",
+            "description": "Led the development, launch, and growth of Singapore's first car insurance digital brokerage product.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG3k3X7xHlCMA/company-logo_400_400/0/1664931552304/moneysmartgroup_logo?e=1706745600&v=beta&t=j15wzEGxJ8wOCX-jPPwCW5j5Qb3EbtVL_-BKdYjqFxs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Janaagraha Centre for Citizenship and Democracy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/janaagraha-centre-for-citizenship-and-democracy/",
+            "title": "Product & Marketing",
+            "description": "Launched IChangeMyCity, IPaidABribe, and Swachh Bharat Apps. Won awards from UN, Google, Omidyar, and more.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeqRPunRBTgQ/company-logo_400_400/0/1670578010826?e=1706745600&v=beta&t=vRO6BdThdDr6mSk6DMU8D2DZW7U3-wjho_TUZrAyv88"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "CompareGlobalGroup",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/compareglobalgroup/",
+            "title": "Global Product",
+            "description": "Owned loan product launches, bank integrations and growth in 13 countries across Asia, Europe, and Latam",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGAqvYtzUBegA/company-logo_400_400/0/1519897251413?e=1706745600&v=beta&t=a2SYCdj4sl_DjEj5y5rXLjPSKFB4o4kiCuAXyuoYsQY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "MatchMove Pay Pte. Ltd.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/matchmove/",
+            "title": "Product",
+            "description": "Worked on card issuance, remittance, and e-wallet products across APAC.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH0Y0Q1OZ-6Cw/company-logo_400_400/0/1680507999607/matchmove_logo?e=1706745600&v=beta&t=YrnlhnEwqT7EJfwqXT2vcc3rBegWYJg573WbrmVPmM8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "BankBazaar.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bank_bazaar/",
+            "title": "Product & Growth",
+            "description": "Product leadership of growth in BankBazaar, focusing on acquisition and retention.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETLTHMBXp-JQ/company-logo_400_400/0/1572854332001/bank_bazaar_logo?e=1706745600&v=beta&t=NC-fGj0dpM18ZcKJ4suF7NnDZOaIOz0hB2XReQx_Zy8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "InoVVorX Technologies Pvt. Ltd.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/inovvorx-technologies-pvt.-ltd./",
+            "title": "Founder",
+            "description": "Co-founder of the digital agency that helped scale startups and companies in India, MEA, and the US.",
+            "location": "Bengaluru, Karnataka",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEarU4unsZVjA/company-logo_400_400/0/1519888654094?e=1706745600&v=beta&t=rLWHTNTpvFKhNEqectU6_JJh3RlWpT2gkgTXqJ5tsbo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2010
+            },
+            "company": "TCS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tata-consultancy-services/",
+            "title": "Business Analyst",
+            "description": "Worked on core banking solutions ranging from cash management to forex.",
+            "location": "Kolkata Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_400_400/0/1656657976685/tata_consultancy_services_logo?e=1706745600&v=beta&t=NFwdtDBRT6P-AdNybhSvq1CdWIdUj_KKLByB9sMNOQs"
+        }
+    ],
+    "education": [],
+    "languages": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Malayalam"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "I Change My City",
+            "description": "IChangeMyCity is a locational online social networking platform for civic action. The site uses the power of the internet to connect people locally, and helps them discuss and act on their civic issues. By helping people come together and collaborate as an online community, it transforms citizens into change agents.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "I Paid a Bribe",
+            "description": "IPaidABribe.com is a citizen driven mechanism for tracking bribe payment activity, as also instances of when people resisted bribe payments or did not have to pay bribes because of good government systems or good people within the government systems. Citizens' reports on the nature, number, pattern, types, locations and frequency of actual corrupt acts and values of bribes will add up to a valuable knowledge bank that will contribute to a reduction in bribe payments.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Swachh Delhi App",
+            "description": "Initiative by Government of Delhi to report garbage dumps",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "title": "Product Marketing",
+            "cause": "CIVIL_RIGHTS",
+            "company": "Janaagraha",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/janaagraha-centre-for-citizenship-and-democracy/",
+            "description": "\u272f Product lead for Government of India's acclaimed tech initiative - Swachh Bharat Mobile App\n\u272f Owned and launched IChangeMyCity mobile app (iOS and Android) - winner of Google Impact Challenge and ISIF awards for being the top tech solution to solve urban civic issues\n\u272f SEO strategy and organic growth",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeqRPunRBTgQ/company-logo_400_400/0/1670578010826?e=1706745600&v=beta&t=vRO6BdThdDr6mSk6DMU8D2DZW7U3-wjho_TUZrAyv88"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/rajeshraikwar",
+            "name": "Rajesh Raikwar",
+            "summary": "Founder & CTO at Volopay",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rohit-bhageria-a7667b13",
+            "name": "Rohit Bhageria",
+            "summary": "FinTech Executive | Corporate & Investment Banker | Certified Trade Finance Professional (CTFP)\u00ae",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/srishti-kapoor-617052105",
+            "name": "Srishti Kapoor",
+            "summary": "Global Talent Acquisition Manager @ Volopay (YC S20) | L&D | Performance Management | FinTech | SaaS | University of Maryland 17' | University of Melbourne 21'",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amrita-marak-",
+            "name": "Amrita Marak",
+            "summary": "Cold Calling Specialist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kalaiarasu-g-5227b9137",
+            "name": "Kalaiarasu G ",
+            "summary": "Country Head at Volopay(YC S20) - We are hiring",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dileep-krishna-6ab49521",
+            "name": "Dileep Krishna",
+            "summary": "Creator | Building Volopay @Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anil-v-075909191",
+            "name": "ANIL V",
+            "summary": "Global People & Operations Specialist - | HR Operations | FinTech | @ Volopay (YC S20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kashishgupta90",
+            "name": "Kashish Gupta",
+            "summary": "VP of Sales and Revenue | Strategy | Sales Ops",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adhishnatekar",
+            "name": "Adhish Natekar",
+            "summary": "Product @ Volopay",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kanishka-tanwar-28161116b",
+            "name": "Kanishka Tanwar",
+            "summary": "Global Talent Acquisition Specialist @ Volopay (YC S20)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

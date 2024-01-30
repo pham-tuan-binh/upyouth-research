@@ -1,0 +1,329 @@
+{
+    "public_identifier": "0505gonzalez",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/0505gonzalez/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221148Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8c904c80daf815d5f8147bc844d0ac53b36f26f33f26f2df7c895c874924008c",
+    "background_cover_image_url": null,
+    "first_name": "Juan",
+    "last_name": "Gonzalez",
+    "full_name": "Juan Gonzalez",
+    "follower_count": 899,
+    "occupation": "Founder and Principal Software Engineer at Xendit",
+    "headline": "Founder and Principal Software Engineer at Xendit",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Greater Seattle Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Xendit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xendit",
+            "title": "Founder and Principal Software Engineer",
+            "description": "We're building payments infrastructure for Southeast Asia:\n- YC S15 company\n- Won Bay Bithack hackathon\n- Featured in Techcrunch, Forbes, e27, local Indonesian blogs\n- We're processing hundreds of millions of USD annually, growing >20% month on month\n\nI work on anything that needs building at Xendit, from integration with banks' systems to server infrastructure in GCP/AWS and mobile SDKs.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_400_400/0/1630456612741/xendit_logo?e=1714003200&v=beta&t=h_RNU5v0RxbW0b6V-mw40fnjsR6lvfa29L-MH7au4gI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Expedia, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/expedia",
+            "title": "Software Development Engineer",
+            "description": "- Recipient of the rare Gold Star award for performance, effort, and potential\n- Built and maintained APIs consumed by desktop web, mobile web, and mobile apps\n- Implemented Expedia Trips Timeline\n- Refactored and modernized the itineraries code-base",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCJ4PG0WVumA/company-logo_400_400/0/1630646301487/expedia_logo?e=1714003200&v=beta&t=nCEOFLZ1FQIbKEP7qq0B81ndUC8NY8IP_t0rxy_m5bU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Expedia, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/expedia",
+            "title": "Software Development Engineer Intern",
+            "description": "- Implemented Offline Trips feature using modern HTML5 tools such as app cache and local storage\n- Worked on full-stack trips page features",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCJ4PG0WVumA/company-logo_400_400/0/1630646301487/expedia_logo?e=1714003200&v=beta&t=nCEOFLZ1FQIbKEP7qq0B81ndUC8NY8IP_t0rxy_m5bU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Berkeley Student Cooperative",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/berkeley-student-cooperative",
+            "title": "Webmaster",
+            "description": "- Developed new features on the co-op housing reservation system\n- Maintained and updated BSC website\n- Maintained and updated other internal BSC web-based tools",
+            "location": "Berkeley, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEkXBn9ADGY9Q/company-logo_400_400/0/1631347038620?e=1714003200&v=beta&t=xDP8EeNoiOgESY30qI9s-2b9L5kBbPReyTXLqBf_vDc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Pagoki Inc",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "Developed the Pagoki account dashboard from the ground up using HTML, CSS, Javascript on the front-end and Spring MVC on the backend.",
+            "location": "Oakland, CA",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1714003200&v=beta&t=mq1DT7e66nSVkezshV-eEYQsORpnYaaGJ5ccmf5IQe8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "High School",
+            "school": "Oakland Military Institute",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": null,
+            "degree_name": "High School",
+            "school": "American Indian Public High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Calculus",
+            "number": "MATH 1A"
+        },
+        {
+            "name": "Calculus",
+            "number": "MATH 1B"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 491,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/edrichhans",
+            "name": "Edrich Hans Chua",
+            "summary": "Xendit Tech Lead",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/umarrasydan",
+            "name": "Umar Rasydan",
+            "summary": "Engineer @Xendit, Partner @Madebykade, Principal Engineer @Openpromises",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wimpi-jonathan",
+            "name": "Wimpi Jonathan",
+            "summary": "Senior Software Engineer at Xendit",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marco-gancayco-98336546",
+            "name": "Marco Gancayco",
+            "summary": "Cross Border Payments and Lending at Xendit | INSEAD",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tmitsutama",
+            "name": "Theo Mitsutama",
+            "summary": "Director of Engineering at Xendit",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yong-cheng-sebastian-toh",
+            "name": "YC Yong Cheng (Sebastian) Toh",
+            "summary": "Principal Software Engineer at Xendit (We're hiring!) | Ex-Skyscanner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tessawij",
+            "name": "Tessa W.",
+            "summary": "Co-Founder and COO Xendit",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/moseslo",
+            "name": "Moses Lo",
+            "summary": "Founder and CEO at Xendit | Forbes 30 under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/juliejiayuangu",
+            "name": "Julie Gu",
+            "summary": "Product @ Xendit",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shorihijikata",
+            "name": "Shori Hijikata",
+            "summary": "Chief of Staff at Xendit \u2022 Founder at Shirts of Startups \u2022 WEF Global Shaper",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Rohit N.\n\n\n\nI have worked with Juan for over 2 years as a scrum master and technical product manager for his projects. I have had a great opportunity to pair directly with him on a project that ran many months. He is a quick learner, has great insight and work ethics. On many occasions he went the extra mile to support the team and his efforts added a lot of value to the team's delivery. He is open to giving new ideas a shot and that makes him a valuable team player. Besides his skills and technical knowledge, he also has a great personality and  is very fun to work with. "
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Juan Gonzalez",
+            "link": "https://www.linkedin.com/in/juan-gonzalez-8373b719",
+            "summary": "Senior Project Coordinator at Texas Steam & Instrumentation",
+            "location": "La Porte, TX"
+        },
+        {
+            "name": "Juan Gonzalez",
+            "link": "https://www.linkedin.com/in/juan-gonzalez-50199bb4",
+            "summary": "Store Manager at Sally Beauty Holdings, Inc.",
+            "location": "Greater Houston"
+        },
+        {
+            "name": "Juan Gonzalez",
+            "link": "https://www.linkedin.com/in/juan-gonzalez-57652978",
+            "summary": "Owner at Vegas Swimming Pool Service, LLC",
+            "location": "North Las Vegas, NV"
+        },
+        {
+            "name": "Juan Gonzalez",
+            "link": "https://www.linkedin.com/in/juan-gonzalez-a5153392",
+            "summary": "Oral and Maxillofacial Surgeon,\nFull Arch Dental Implant Specialist",
+            "location": "United States"
+        },
+        {
+            "name": "Juan Gonzalez",
+            "link": "https://www.linkedin.com/in/juan-gonzalez-72560336",
+            "summary": "Attorney at Law Office of Juan E. Gonzalez",
+            "location": "Weslaco, TX"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQFbRdRycOoW-Q/group-logo_image-shrink_48x48/0/1631358957088?e=1706763600&v=beta&t=jKPM3es93HgmsWPv3Vws8LZApp9GFp1pNyp3iHsK06c",
+            "name": "University of California \"UC\" Founders Network",
+            "url": "https://www.linkedin.com/groups/13503800"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQEYGB3-XPuGaA/group-logo_image-shrink_48x48/0/1631380380632?e=1706763600&v=beta&t=yOoE0_TxcnBbqv5Soo9TqmnmNNL7B-1Sv3sr8JloAYY",
+            "name": "University of California (Berkeley) Alumni",
+            "url": "https://www.linkedin.com/groups/27428"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,384 @@
+{
+    "public_identifier": "tianweiliu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tianweiliu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221703Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ab5ce207d7ebe504cf8db53c29a0566cbba4915aebd5845659dd78b553868cac",
+    "background_cover_image_url": null,
+    "first_name": "Tianwei",
+    "last_name": "Liu",
+    "full_name": "Tianwei Liu",
+    "follower_count": 3038,
+    "occupation": "Group Deputy CEO at FAZZ Financial Group",
+    "headline": "Building FAZZ | Co-founder at Xfers(YCS15, Fazz Financial Group)",
+    "summary": "Help enable and accelerate digital businesses in providing equal financial opportunities to everyone in South-East Asia.\n\nWe are hiring! - https://jobs.lever.co/xfers",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "FAZZ Financial Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-financial/",
+            "title": "Group Deputy CEO",
+            "description": "FAZZ is the leading #1 Business (MSME and Enterprise) Finance and Banking for Indonesia, Singapore, and the rest of Southeast Asia.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFOTEya7eQhCQ/company-logo_400_400/0/1662023684005?e=1697068800&v=beta&t=AYH5_soadigAJSeYUutGZzMaVycvthrdWfZTMkeiTbU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "StraitsX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/straitsx/",
+            "title": "Co-Founder",
+            "description": "StraitsX is the leading payments infrastructure for the digital assets space in Southeast Asia and the issuer of XSGD and XIDR.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQENcWl8GrsUzA/company-logo_400_400/0/1633877173030?e=1697068800&v=beta&t=wlD4CoUJ6F37DPUagOb3uy_lidtwonNdbCz0obTNcqA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Xfers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xfers/",
+            "title": "CEO and Co-founder",
+            "description": "Xfers mission is to enable and accelerate digital businesses in providing equal financial opportunities to everyone in South-East Asia.",
+            "location": "Singapore / Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE45j_txHIusw/company-logo_400_400/0/1598946119422?e=1697068800&v=beta&t=_gLNzNSJWWTbhHPO_fK1FRL7ZgISGFC7rdRt62AGsg4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Amazon Lab126",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lab126/",
+            "title": "Software Development Engineer II",
+            "description": "Worked on Kindle FireOs Big data infrastructure leveraging technologies like Hadoop, HBase and Redshift.",
+            "location": "Sunnyvale California",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF42fGVfa1OTg/company-logo_400_400/0/1519952365817?e=1697068800&v=beta&t=XMW-WchZncIEVu1G-Ng5jHdp8jekCyyorsdBbKfiiW4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "company": "Amazon Lab126",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lab126/",
+            "title": "Software Development Engineer",
+            "description": "Big data infrastructure.",
+            "location": "Sunnyvale, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF42fGVfa1OTg/company-logo_400_400/0/1519952365817?e=1697068800&v=beta&t=XMW-WchZncIEVu1G-Ng5jHdp8jekCyyorsdBbKfiiW4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "WIMM Labs (Acquired by Google)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wimm-labs/",
+            "title": "Developer Relations Engineer",
+            "description": "Android sdk",
+            "location": "Los Altos, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG2fMO-C42hgg/company-logo_400_400/0/1519902828886?e=1697068800&v=beta&t=Db2jg86NYHlXKN8Ts0syKhCafy8oyKVcE2yiRz9uaT4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "WIMM Labs (Acquired by Google)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wimm-labs/",
+            "title": "Software Engineering Intern",
+            "description": "Summer Internship.\n- help with the Shipping of WIMM Labs first product, WIMM ONE Developer kit.\n- Design and implemented Automated Testing System for continuous testing of WIMM One module based on Android, Perl, Python and Ruby on Rails.\n- Assisted in Engineering support and QA with Foxconn Team based in China.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG2fMO-C42hgg/company-logo_400_400/0/1519902828886?e=1697068800&v=beta&t=Db2jg86NYHlXKN8Ts0syKhCafy8oyKVcE2yiRz9uaT4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "company": "National University of Singapore Entrepreneurs Association",
+            "company_linkedin_profile_url": null,
+            "title": "Executive Member",
+            "description": "- Help organized NUSEA flagship events - The Rainmaker in Stanford University.\n- Network and liase with Entrepreneurs in Sillicon Valley.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "company": "3S-Comaea Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Web Application developer",
+            "description": "Web developing in php/javascript/html\n\n\u2022 Design and developed a console which allow non tech\nsavvy marketers to create/customize each account on their\nown.\n\u2022 Design and implemented a mail engine which allow\nautomation of system email which were send out manually\nin the past.\n\u2022 Help with system maintenance/bug fixing of existing Survey\ntool system.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "company": "Plastic Logic",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/plastic-logic/",
+            "title": "Quality Assurance Engineer",
+            "description": "Assurance Software Engineer (Intern)\n\u2022 Design, Create and Execute Test - plan of the Store on\nDevice of PlasticLogic\u2019s first consumer product \u2013\nQue\u2122 proReader.\n\u2022 Design, develop and maintain automated testing on\nthe Que\u2122 proReader.\n\u2022 Assist marketing department on their real world user\ntesting and market research.\n\u2022 Technical support and product demo -er for the Que\u2122\nproReader at the Consumer Electronic Show(CES)\n2010 at Las Vegas.\n\u2022 Design, implement and maintain a automated\ndistributed testing system for the Que proReader.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFMUht_VhHF4A/company-logo_400_400/0/1519856616284?e=1697068800&v=beta&t=uuObO5iovj6jzD5WO7C5QFxamtLRmFj9iaG8daCWL2M"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Co-Founder of Xfers, Startup",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1697068800&v=beta&t=VsO8ibMED9YVfHEjld4yOdwiIOhljoEtyp-cKHQp1tI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "SCPD Technology Entrepreneurship",
+            "degree_name": null,
+            "school": "Stanford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1697068800&v=beta&t=eVYWI7gitMfwq4kvoU7bdj8HaNQRgoz8uvKdc9k9yTI",
+            "grade": null,
+            "activities_and_societies": "Entrepreneurship, National University of Singapore Entrepreneurship Association."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Computer and Electronic Engineering",
+            "degree_name": "Honours",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1519856127538?e=1697068800&v=beta&t=KtUHF3sPlp1ee3VtaW3_HaL7Ug99Mh6ba_7ReA89Xis",
+            "grade": null,
+            "activities_and_societies": "Backpacking, tracking, rock climbing, travelling, Business,technology,Entreprenuership"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Management Sciences & Engineering",
+            "degree_name": "NOC Silicon Valley, Batch 16",
+            "school": "NUS Overseas Colleges",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH5RY_2Zi0jsA/company-logo_400_400/0/1519889569324?e=1697068800&v=beta&t=iNB6emMaG47XXYONVjUnfgCMVKTzM7ZgEalZ0sIs7k0",
+            "grade": null,
+            "activities_and_societies": "Stanford University"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/victorliewjiahao",
+            "name": "Victor Liew Jia Hao",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kenny-hua-chan",
+            "name": "Kenny Chan",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samsonleosg",
+            "name": "Samson Leo",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yszacwong",
+            "name": "Zac Wong ",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aizatto",
+            "name": "Aizat Faiz",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/asvanevik",
+            "name": "Alex Svanevik",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ricky-winata-75735458",
+            "name": "Ricky Winata",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tlfoo",
+            "name": "Tiang Lim Foo",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gwenda-soh-bb0b5677",
+            "name": "Gwenda Soh",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/angus-kong",
+            "name": "Angus (Sheng-yi) Kong",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Tianwei Liu",
+            "link": "https://www.linkedin.com/in/tianwei-liu-962666100",
+            "summary": "Director at Golden Mradow Investments LLC.",
+            "location": "Jersey City, NJ"
+        },
+        {
+            "name": "Tianwei Liu",
+            "link": "https://www.linkedin.com/in/tianweiliu94",
+            "summary": "Associate at Davis Polk & Wardwell LLP",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Tianwei Liu",
+            "link": "https://cn.linkedin.com/in/tianwei-liu-759a15162",
+            "summary": "--",
+            "location": "Nanjing"
+        },
+        {
+            "name": "Tianwei Liu",
+            "link": "https://cn.linkedin.com/in/tianweiliu9705",
+            "summary": "Game R&D | User Research & Product Strategist @ FunPlus | Previously at EA, Tencent",
+            "location": "Shanghai, China"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

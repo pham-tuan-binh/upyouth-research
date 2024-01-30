@@ -1,0 +1,280 @@
+{
+    "public_identifier": "syaphy",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/syaphy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221249Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c76922b520f163c3e3f5bf68361dd44c726ffac7236c43a64901a4997349c530",
+    "background_cover_image_url": null,
+    "first_name": "Sebastian",
+    "last_name": "Yaphy",
+    "full_name": "Sebastian Yaphy",
+    "follower_count": 1411,
+    "occupation": "Co-Founder at Finnix",
+    "headline": "Building Finnix | ex-Alodokter | ex-OVO",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta Metropolitan Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Finnix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finnix-id/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEGQcMPEzZvZw/company-logo_400_400/0/1673005672832?e=1712793600&v=beta&t=Np_AV3x7bLUD43Xqhh_5ERMTkqpccRxRDW3Gw8xpTnM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Alodokter",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alodokter/",
+            "title": "Lead Product Manager - Chat, Insurance, Core Platform",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHFe65uQ7nB_Q/company-logo_400_400/0/1630606462632/alodokter_logo?e=1712793600&v=beta&t=pan9tXUjoTTtxhbUYDG9RrU8DzETxd1TTK2SyqyZGHE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Lead Product Manager - Investment & Insurance",
+            "description": "Led the product development and build the team for OVO Invest and OVO Proteksi.\n\nOVO Invest aim to facilitate beginner investors and bring investment platform that is easily understandable, easy to navigate, and highly flexible. We are the first investment platform to offer instant redemption straight to your OVO wallet where you can spend it at your favorite merchant right away. With no admin fee, low minimum transaction, highly secure instrument, and instant liquidity, we are here to democratize investment.\n\nOVO Proteksi as the Insurance arm of OVO, in collaboration with ZhongAn Tech and Prudential are offering first of its kind health insurance. With premium starting from 8k IDR per month, hospitalization benefit, and easy to claim insurance, we hope to disrupt the exclusivity of having insurance and provide accessible insurance for everyone.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Financial Services Product Manager - Lending",
+            "description": "Building OVO PayLater - Focusing on Repayment",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "PT. KMAB",
+            "company_linkedin_profile_url": null,
+            "title": "Head of Product and Data",
+            "description": "Kasbon (PT. Kreasi Muda Anak Bangsa) is a company engaged in the field of financial technology that provides credit (600,000 to 1,500,000 IDR) to the user through an application platform in the form of short term (up to 21 days) micro lending. Kasbon operates by leveraging up-to-date technology, data analytics, and a tremendous focus on customer experiences.\n\n-Automate loan process with new and exciting technology to yield the maximum efficiency\n-Connecting the dots of unstructured data to make a robust credit risk model\n-Play around with alternative data scoring method\n-Optimize back end to boost productivity\n-Integrate with various third party application and services\n-Supervise in app design and user flow\n-Liase with local and overseas tech partner\n\n---\n\nFlash Go is a deal aggregator app that have a single vision - to simplify your deal searching hassle. We integrate and collect hundreds of the best deals from top ecommerce and show them in one app! Not only that, we personalize the deals to users to create a seamless experience.\n\n-Integrate with various top ecommerce for deeplinking, purchase tracking, affiliate, and data feed\n-Optimize conversion by bringing more relevant products to users\n-Increasing customer retention by enhancing product features\n-Retain our Top Free and Top Trending position in play store\n\nhttps://play.google.com/store/apps/details?id=com.cari.promo.diskon",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "Prima Teknologi   |   www.prima3d.com",
+            "company_linkedin_profile_url": null,
+            "title": "Product Specialist",
+            "description": "Do market research, create marketing strategy and plan company expansion plan of 3D Printing Service. In charge of online and mobile marketing (SEO, GDN, AdMob, Analytics, etc.). Constantly improving our services and experimenting with new concepts. Follow the technological development in consumer manufacturing. Have in depth technical knowledge in 3D Printing. Land big clients (El Nusa, KBS Pump, Astra Group, Mitsubishi, Orang Tua Group, 3M Indonesia, Geoff Forester, Toshiba, etc.)\n\n- Increase organic engagement by 36% by deploying high quality content marketing\n- Boost organic traffic in Prima Teknologi by 20%.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2017
+            },
+            "company": "PT. Prismalink International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/prismalinkinternational/",
+            "title": "Product Manager",
+            "description": "Increase system stability to achieve higher conversion. Create new and improve existing products to gain more leads. Responsible for the mobile apps development of bill payment services (bayar2.com), design user flow, and manage e-wallet service. Assist in host-to-host connection of bill payment service to Bank middleware and corporate clients. Improve payment flow in Prismalink Payment Gateway to achieve faster payment channel deployment and reduce maintenance. Have knowledge on financial compliance such as PCIDSS and Fraud Detection. Gather market intelligence on payment gateway and fintech industry to develop business strategy accordingly.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEsQyUh7ccynA/company-logo_400_400/0/1665043025754/prismalinkinternational_logo?e=1712793600&v=beta&t=jqdipHuYovEwKcZpW-t1rsc27DvxmsXGuN9MzyfKK7c"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Business/Managerial Economics",
+            "degree_name": "Bachelor's degree",
+            "school": "UC Irvine",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEuZlXAuo608Q/company-logo_400_400/0/1630587727377/university_of_california_irvine_logo?e=1712793600&v=beta&t=bhSxhMburuPOCYWgnku69_RIXicJHDe18m0JjhpJAjg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Psychology",
+            "degree_name": "Minor",
+            "school": "UC Irvine",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEuZlXAuo608Q/company-logo_400_400/0/1630587727377/university_of_california_irvine_logo?e=1712793600&v=beta&t=bhSxhMburuPOCYWgnku69_RIXicJHDe18m0JjhpJAjg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Diablo Valley College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF_mrZ68wuyBg/company-logo_400_400/0/1657077449766/diablo_valley_college_logo?e=1712793600&v=beta&t=Ma8A5IQAgIReZq1Jvn1hjaP1kyImk4Mx0Ztnb-2L4Js",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Canisius College (Kolese Kanisius)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGN-2_gCkyMBg/company-logo_400_400/0/1630563752734?e=1712793600&v=beta&t=b5oWLty4ofY6u9WzBAKdsthLKXL81Hn5E8MadGa5RVU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2007
+            },
+            "title": "Urgent Action Division",
+            "cause": "HUMAN_RIGHTS",
+            "company": "Amnesty International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amnesty-international/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGeAFdajBpXbQ/company-logo_400_400/0/1656521036538/amnesty_international_logo?e=1712793600&v=beta&t=WsqxejANdfSrZYd2oJeiGtg__sJ952nxT9MHFxBhNR8"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Google Analytics Certified Partner",
+            "license_number": null,
+            "display_source": "google.com",
+            "authority": "Google",
+            "url": "https://www.google.com/partners/#i_profile;idtf=103181873652258313226;"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

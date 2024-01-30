@@ -1,0 +1,350 @@
+{
+    "public_identifier": "thanh-n-43467a3a",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Thanh",
+    "last_name": "N.",
+    "full_name": "Thanh N.",
+    "follower_count": 565,
+    "occupation": "CTO & Co-founder at Tinai",
+    "headline": "Co-founder & CTO @ Tinai | YCombinator S21 | Amazon",
+    "summary": null,
+    "country": "VN",
+    "country_full_name": "Vietnam",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Tinai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tinai",
+            "title": "CTO & Co-founder",
+            "description": null,
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFQiBipSf5KrQ/company-logo_400_400-alternative/0/1630668757096?e=1712793600&v=beta&t=Q2O-1-UwA_thjshG_25YQBFwGbS0SSmpgIWBpIRc5eg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Software Engineer",
+            "description": "I worked for Amazon Rhapsody team, which is part of the innovative initiative arm of Amazon Retail. The team main focus is to introduce a new virtual try on experience that would serve millions of Amazon customers and help them find the right fit and style of their clothes from the comfort of their home.\n\nDuring the time there, I have built and launch Amazon's Made For You feature, a mobile feature that let the customer create a 3D model avatar of themselves so they can see how different piece of clothes fit into their body. Later on I was leading the effort to scale up the Made For You program, expanding it from only a few products in the initial launch to hundred of thousands products in collaboration with Merch By Amazon program.",
+            "location": "New York, New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1712793600&v=beta&t=8py1rECbasTt0NGG3h6qRUhl-MGWL2CqEaAMQuKFxYk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Software Engineer",
+            "description": "I work for Amazon Advertising, building the backend system that controls the ads pacing in Amazon Ads exchange system. Our system handles millions of ads bid request every day, try to assign the right ads to the right campaign/advertisers.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1712793600&v=beta&t=8py1rECbasTt0NGG3h6qRUhl-MGWL2CqEaAMQuKFxYk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Software Engineer",
+            "description": "I worked for Amazon Fashion team within Amazon Retail. During my time there, I have transformed a 3D shoe visualization software from desktop version to mobile version, reduce the size of the software by at least 5x and help launched it on Amazon mobile app and mobile web. After that I was part of the globalization of the feature, expand it from US market to 5 other markets in EU. My work there included localization the feature for each market, setting up infrastructure and scale up machines, setting up and manage alarms and monitor during the launch.",
+            "location": "Greater Seattle Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1712793600&v=beta&t=8py1rECbasTt0NGG3h6qRUhl-MGWL2CqEaAMQuKFxYk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Software Engineering Intern",
+            "description": "Working on Global Payment team, design and build a ticket system that help oncall engineer to detect problems faster. The system also help categorize and assign the issues to the correct teams by analyzing the content of the issues.",
+            "location": "Greater Seattle Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1712793600&v=beta&t=8py1rECbasTt0NGG3h6qRUhl-MGWL2CqEaAMQuKFxYk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Hampshire College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hampshire-college",
+            "title": "Student",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFbLrZ0GjCa8Q/company-logo_400_400/0/1631313355679?e=1712793600&v=beta&t=OJBOiQ6fz4lOAP7ufkxytPEb60GbGkVjcB9P0ddMnMU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Hampshire College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hampshire-college",
+            "title": "Equipment room monitor",
+            "description": "Manage and monitor all the tools and equipments for outdoor activities in the school's equipment room.",
+            "location": "Springfield, Massachusetts Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFbLrZ0GjCa8Q/company-logo_400_400/0/1631313355679?e=1712793600&v=beta&t=OJBOiQ6fz4lOAP7ufkxytPEb60GbGkVjcB9P0ddMnMU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "Hampshire College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hampshire-college",
+            "title": "Tutor",
+            "description": "Answer questions, assist students in solving their programming assignments.",
+            "location": "Adele Simmons Hall Computer Lab",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFbLrZ0GjCa8Q/company-logo_400_400/0/1631313355679?e=1712793600&v=beta&t=OJBOiQ6fz4lOAP7ufkxytPEb60GbGkVjcB9P0ddMnMU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Hampshire Web Development Club",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "Teach other students about web development with Django and HTML5. Connect students who share interest in web development and group them working under interesting projects.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "EdLab, Teachers College Columbia University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/edlabtc",
+            "title": "Software Engineering Intern",
+            "description": "DataDashboard\n\u2022 Migrated the product from using MySQL to MongoDB, increasing the site\u2019s loading speed by 10 times\n\u2022 Wrote the front-end and designed the database for funnel, a new feature that analyzes the data about any sequence of actions that users perform in each website\n\u2022 Fixed 12 bugs/tickets in project\u2019s Bitbucket repository within 2 weeks \nResearchBroker\n\u2022 Wrote unit test cases for the web application, including writing a mockup function to emulate LinkedIn\u2019s API",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiHX_m-U5zcg/company-logo_400_400/0/1630569428324/edlabnetwork_logo?e=1712793600&v=beta&t=CFRBeQA5Iu5pXYCelTHgx_HBRF6A6DDSrhH3wDqq3p4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "VietAbroader Organization",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vietabroader-organization",
+            "title": "Logistics Manager Assistance",
+            "description": "Taking responsibility of the logistics tasks for a conference that served more than three hundreds guests, contacted and signed contract with hotel\u2019s managers to rent venue for the conference, prepared all the materials (booklets, flyers, brochures, etc.)",
+            "location": "Hanoi, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEFo6vFwWubMw/company-logo_400_400/0/1630659434286/vietabroader_organization_logo?e=1712793600&v=beta&t=n6JPTNWZVBuq-jPGY8_Nb-dD4w9drhfOmWP8x_hnTUg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Summer 2021",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": "Part of the S21 batch of YCombinator, the world's most prestigious accelerator under the mentorship of Gustaf Alstr\u00f6mer, Harj Taggar, and Nicolas Dessaigne.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Computer Science, Digital Media",
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "school": "Hampshire College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/hampshire-college",
+            "description": "\u2022 Coursework:\n - Research in Artificial Intelligence\n - Operating Systems\n - Practice and Applications of Data Management\n - Genetic Programming\n - Programming Language Paradigms (Amherst College)\n - Data structure and Algorithm (Amherst College)\n - Network and Cryptography (Amherst College)\n - Logical Thought (Mount Holyoke College)\n - Cognitive Psychology (Smith College)\n - Intro to computer system\n - Coding Images: An Introduction to Programming in C through Image Manipulation and Creation\n - Computer Graphic\n - Programming Web Pages for Poets, Artists, and Scientists\n - Building Web Applications\n - Fundamental to design \n - Intro to Economics: Microeconomics and Macroeconomics\n - Psychology: Effort, Motivation, Aptitude and Achievement",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFbLrZ0GjCa8Q/company-logo_400_400/0/1631313355679?e=1712793600&v=beta&t=OJBOiQ6fz4lOAP7ufkxytPEb60GbGkVjcB9P0ddMnMU",
+            "grade": "3.6",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "High School Diploma",
+            "school": "Hanoi-Amsterdam High School for the Gifted",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Group leader"
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Consolation Prize in Vietnam Informatics Contest",
+            "issuer": "",
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Second Prize in Hanoi Informatics Contest",
+            "issuer": "",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "FiveColCourse",
+            "description": "An independent project that collect more than 5000 courses from five different schools in the Five College Consortium into one website, building on top of these data an application that let students to quickly looking for courses and then adding them to their own schedule.",
+            "url": "http://fivecolcourse.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Swapshire",
+            "description": "An commerce website available to members of the five college community in order to buy, sell, and swap items and services.",
+            "url": "http://www.swapshire.com/"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 565,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQGSBZ12mtHulQ/group-logo_image-shrink_400x400/0/1631010229378?e=1705464000&v=beta&t=d1fKKLkQpnjsJbEPutI64PaIu4ovGUte4OA2XXcXXU8",
+            "name": "Career Opportunities in Vietnam (COVN)",
+            "url": "https://www.linkedin.com/groups/13970992"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQH2Pq9vpsj2jw/group-logo_image-shrink_48x48/0/1521239296705?e=1705464000&v=beta&t=dGzJ4nVbQiUShMWVux-2K1UTd762ndrPNO5zrX-LLXI",
+            "name": "New York Vietnamese Professionals Network",
+            "url": "https://www.linkedin.com/groups/4678066"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

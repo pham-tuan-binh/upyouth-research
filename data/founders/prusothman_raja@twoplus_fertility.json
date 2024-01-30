@@ -1,0 +1,353 @@
+{
+    "public_identifier": "prusothman-sina-raja-93881440",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prusothman-sina-raja-93881440/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221637Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e47c034596a175cc5b3d171bce06fd29fe25def9d018d9aff737bee797375699",
+    "background_cover_image_url": null,
+    "first_name": "Prusothman",
+    "last_name": "Sina Raja",
+    "full_name": "Prusothman Sina Raja",
+    "follower_count": 1475,
+    "occupation": "Co-founder and CEO at twoplus Fertility",
+    "headline": null,
+    "summary": "I specialize in healthcare innovation and commercialization. \n\nA serial medtech entrepreneur, I have deep hands-on knowledge of many critical aspects of medtech product development/commercialization including product conceptualization, regulatory strategy, product-market fit, clinical trials, and regulatory clearance. As a former Fellow in the highly-competitive Stanford Biodesign Fellowship program, I utilize the Biodesign process as a key tool for innovation strategy.\n\nApart from my entrepreneurship work, I have mentored numerous startups, industry teams and students in official and unofficial capacities. I served as a Fellowship Consultant for the Singapore-Stanford Biodesign program, where I worked closely with the Fellowship Head to train Singapore-Stanford Biodesign Fellows and to develop new training programs. I also served in mentorship roles at National University of Singapore, such the Lean Launchpad and the Graduate Research Innovation Program (GRIP). Many of the teams I mentored have gone on to raise further funding.\n",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "twoplus Fertility",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/twoplus-fertility",
+            "title": "Co-founder and CEO",
+            "description": "twoplus Fertility aims to become the go-to platform for any couple trying to conceive. The fertility health market is underserved with only 3% of the industry needing IVF. The rest of the market \u2013 the 97% and the TTC (i.e. trying to conceive) market \u2013 are faced with expensive and invasive solutions. \n\ntwoplus Fertility is focused on building an ecosystem of proprietary fertility solutions that are affordable and easy-to-use. We are funded by, among others, Y-Combinator, Monks Hill Ventures, Medtech Alliance 2, and Golden Gate Ventures.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFOCTDjl2ku6A/company-logo_400_400/0/1648190068606/twoplus_fertility_logo?e=1712793600&v=beta&t=9GkKvlw4tdMb293Rqz3jHam_AyZA43APsfcBilaz5bM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Privi Medical",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder and CEO (Acquired)",
+            "description": "Privi has developed a new technology for the management of bleeding and pain.  As the CEO, I led a team of top scientists, engineers, and clinicians in the product development and commercialization. Privi raised funding from seasoned medtech investors, Singapore government agencies and corporate companies.\n\n",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Singapore Stanford Biodesign, A*STAR",
+            "company_linkedin_profile_url": null,
+            "title": "Consultant: Fellowship Program",
+            "description": "In this role I trained the Singapore-Stanford Biodesign Fellows and Extension Fellows in  the Biodesign Innovation process. The teams I trained have gone on to raise further funding for their projects. The fellowship teams consisted of clinicians of various seniority, scientists, engineers and commercial folks. \n\nI also developed the initial design of the new Singapore Biodesign Fellowship program. This initial design now forms a large part of the fellowship that was launched in 2019.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Principal Investigator",
+            "description": "Photopette, a handheld spectrophotometric device",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "A*STAR - Agency for Science, Technology and Research",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/astarsg",
+            "title": "Entrepreneur in Residence",
+            "description": "I am the first person to become an Entrepreneur-in-Residence in Singapore-Stanford Biodesign. The role was created after we raised funding for the technology that was initially developed during our fellowship. We completed the first phase of product development and spun-off the company.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGjwGUhEevqqg/company-logo_400_400/0/1630591953679?e=1712793600&v=beta&t=ftGFtF0dBwm9qxlcey1xLAVmbylLWUb7-XiO4oRFdgQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "ResMed",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/resmed",
+            "title": "Strategic Marketing Extern",
+            "description": "Conducted detailed market research and analysis for a new product line developed by Resmed.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFDnYiOHN6AbA/company-logo_400_400/0/1631378425309?e=1712793600&v=beta&t=9txtDyiuXdDbDMCIaACFMhq_NJLE9o86xHJoXBKPXqI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Stanford University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stanford-university",
+            "title": "Global Biodesign Fellow",
+            "description": "The fellowship is a highly selective program to train the next generation of medical device innovators and thought leaders",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Ayoxxa",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ayoxxa",
+            "title": "Engineer -Technology Group",
+            "description": null,
+            "location": "Singapore-Germany",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Biodesign",
+            "degree_name": "Post Graduate Fellowship",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/stanford-university",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Bioengineering and Biomedical Engineering",
+            "degree_name": "Bachelor of Engineering (B.Eng.) Hons",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5524/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Science",
+            "degree_name": "A Levels & O Levels",
+            "school": "Methodist Boys Secondary School",
+            "school_linkedin_profile_url": null,
+            "description": "Head Prefect of the one of the top secondary schools in Kuala Lumpur",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 Under 30 Asia: Healthcare & Science",
+            "issuer": "Forbes Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist- J&J Quickfire Challenge Queensland",
+            "issuer": "Johnson & Johnson",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [
+        {
+            "title": "DEVICES AND METHODS FOR PREVENTION OF VENTILATOR ASSOCIATED PNEUMONIA",
+            "issuer": "US",
+            "issued_on": {
+                "day": 10,
+                "month": 3,
+                "year": 2015
+            },
+            "description": "Devices and methods for preventing ventilator associated \npneumonia following intubating a patient with an endotracheal tube (ETT). Secretions that \naccumulate in the trachea above the ETT cuff are wicked out of the patient.\n\nCurrently being developed a Bay Area startup",
+            "application_number": "US 2015/0258292",
+            "patent_number": "US 2015/0258292",
+            "url": "http://www.freepatentsonline.com/y2015/0258292.html"
+        }
+    ],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Introduction to Financial Accounting",
+            "license_number": "HWFH8DMR6S",
+            "display_source": "www.coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/HWFH8DMR6S"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Introduction to Marketing",
+            "license_number": "P87BMCK3TZ",
+            "display_source": "www.coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/HWFH8DMR6S"
+        }
+    ],
+    "connections": 1114,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/edwinjk",
+            "name": "Edwin Jeyakumar",
+            "summary": "UCLA Anderson MFE'24  |  Fink Quant Finance Fellow  |  Actively seeking 2024 Summer Internship opportunities in Asset Management, Quanitative Research and Trading",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cecilia-yao-wang-9bab5159",
+            "name": "Cecilia Yao Wang",
+            "summary": "Inhouse Consultant at Merck Group (Healthcare, Life Science, Performance Materials)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zongyuan-xu-a6379b182",
+            "name": "Zongyuan Xu",
+            "summary": "Product Development Manager at twoplus Fertility",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rena-dharmawan",
+            "name": "Rena Dharmawan",
+            "summary": "Surgeon-Innovator \u2022 Asst. Dean & Professor @ Duke-NUS Medical School \u2022 INSEAD GEMBA\u201923 \u2022 Proud Mother",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/benjamintee",
+            "name": "Benjamin C.K. Tee",
+            "summary": "Associate Vice President (NUS Enterprise) and Vice Dean (Research), College of Design and Engineering at National University of Singapore",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQFdfAOxbT598Q/group-logo_image-shrink_48x48/0/1695891761363?e=1705474800&v=beta&t=tnALOWpeBomZuKAh3KJ4A_y_6YRNO1cuPhTA_tdXSqQ",
+            "name": "AHTSAS - Association of HealthTech Startups and Solutions",
+            "url": "https://www.linkedin.com/groups/14313756"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQGXrNoWoEFkvg/group-logo_image-shrink_400x400/0/1696831477201?e=1705474800&v=beta&t=IK8Mc0lxRKWTzpC7JXJdU6-Sz9yipx1Psnqea1nryI4",
+            "name": "Beyond Activ - Health, Fitness, Wellness, Hospitality & Sports Business Network",
+            "url": "https://www.linkedin.com/groups/8686748"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

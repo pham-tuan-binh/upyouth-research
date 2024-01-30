@@ -1,0 +1,365 @@
+{
+    "public_identifier": "anshorimuslim",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/anshorimuslim/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221241Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a8229317a66578355815b6841f284a9d248b18d251903e569323972797dcd2c",
+    "background_cover_image_url": null,
+    "first_name": "Anshorimuslim",
+    "last_name": "Syuhada",
+    "full_name": "Anshorimuslim Syuhada",
+    "follower_count": 3878,
+    "occupation": "Co-Founder & CTO at Delegasi (YC S22)",
+    "headline": "Helping SMBs have Financial Clarity and Business Intelligence | I'd do tech for social",
+    "summary": "Anshorimuslim (Ans) is technology and social cause enthusiast. Ans has wide range experiences from product development to data intensive system and leadership role. He also actives to nurture tech community and giving talks. His recent deck and writings can be seen on https://speakerdeck.com/ans4175 - https://ans4175.dev/\n\nHe is currently building Delegasi (YC S22). At Delegasi he leads on strategical decision and tactical execution regarding business, technology & product also operations. He writes code mainly in Javascript and Python but loves to craft with anything possible to implement. He is helping Small Business Owners to get the financial picture of their businesses and make sound financial decisions. Every decisions matters.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Delegasi (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/delegasi",
+            "title": "Co-Founder & CTO",
+            "description": "Business Intelligence and Virtual Finance Assistant for Small-Mid Business.\nBecause every business deserves Financial Clarity and an Actionable Insight",
+            "location": "Bandung, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHDw63iBaa0fQ/company-logo_400_400/0/1656374089139/delegasi_logo?e=1712793600&v=beta&t=mnvawwTr61Im1z9qXMbZujY0R1x-fNj3dry5rjcTIzU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "company": "eFishery",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/efisheryid",
+            "title": "Head of Platform & Data",
+            "description": "As Head of Platform & Data, my primary focus is supporting companies in data science, enterprise solution and core & infra engineering to help company execute vision and business. Previously these are under Engineering team too.\n- improve data governance and discoverability. Created Data Catalog, DWH Layer for businesses sense their data easily\n- establish Business Intelligence and Product Analytics dynamics\n- managing teams of 80-ish people of Data and Software Engineer\n- implement security testing and policy for internal companies\n- establish RMP and CRM for Field Sales teams through using of Leads/Customer Segmentation\n- handling internal process integration with enterprise systems across Finance and Operations\n- create Developer Experience tools to help scale development and infra monitoring observability",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw15BiclCtmQ/company-logo_400_400/0/1630651243842/efisheryid_logo?e=1712793600&v=beta&t=6SEqkZ8GU3fWWY3I8JjVE5FJpVoEwTw1oYv-lflu_hM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "eFishery",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/efisheryid",
+            "title": "Head of Engineering",
+            "description": "As Head of Engineering, my primary focus is being the servant leader for software, hardware and data engineering to help them execute vision and research. I coordinate with CEO and CPO directly for building internal and external technologies for Indonesian Aquaculture.\n- founded culture and process of eFishery engineering teams.\n- scaling engineering teams from 8 to 90-ish people\n- creating new products for eFishery New Businesses in 2 years help scaling business from its inception\n- scale through Series A to Series C in products, operations and organizations",
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw15BiclCtmQ/company-logo_400_400/0/1630651243842/efisheryid_logo?e=1712793600&v=beta&t=6SEqkZ8GU3fWWY3I8JjVE5FJpVoEwTw1oYv-lflu_hM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "eFishery",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/efisheryid",
+            "title": "Lead Engineer",
+            "description": "As Lead software engineers, I contribute to help software and data team striving to give impact for company deliver product for IoT (Internet of Things).\nI was making culture and process of engineering teams around Custom Agile and CI/CD, bridging engineering and product teams build offline first architecture application, alongside develop data platform for eFishery.\nNot merely as managerial part but I also being individual contributor playing with broad range of technologies such as NodeJS, React, Python, C++ (embedded), Metabase, SQL+NoSQL DB, GCP+AWS Cloud",
+            "location": "Bandung",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw15BiclCtmQ/company-logo_400_400/0/1630651243842/efisheryid_logo?e=1712793600&v=beta&t=6SEqkZ8GU3fWWY3I8JjVE5FJpVoEwTw1oYv-lflu_hM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2016
+            },
+            "company": "NoLimit Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nolimitid",
+            "title": "Platform Developer",
+            "description": "Maintain NoLimit Big Data infrastructures and develop systems above those data pipelines. Playing with numerous technology such as Hadoop, HBase, Scala, Akka, Node.js, Mongo, Redis, RabbitMQ",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG8tV0vhyjnjw/company-logo_400_400/0/1660124720022/nolimitid_logo?e=1712793600&v=beta&t=uTJ3QqIPnVXP2dOghnACDpA2fWPbv4e2N7qe63TRwZE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "Labtek Indie",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/labtek-indie",
+            "title": "Part Time Developer",
+            "description": "Software Development Team under Scrum and Design Thinking Method",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHcntyYgPn7Bg/company-logo_400_400/0/1631327218561?e=1712793600&v=beta&t=rwy8n9xuAeGs81YR_OJt3kkKvBWcZ6QDGBTOrVsY9CY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Idebeda Hardware Startup",
+            "company_linkedin_profile_url": null,
+            "title": "Research and Development",
+            "description": "Technology and Software System Support, CreativeTeam, Generalist Thinker",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Informatics",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/14702/",
+            "description": "I was studying Informatics or Computer Science and took lot of elective courses around Information System, Industrial Engineering, Business and Management, Philosophy, and Literature.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": "Gamais, HATI, HMIF, Muslif"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "SMAN 1 Cirebon",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Online Marketplace for Indonesian Micro Small and Medium Enterprises Based on Social Media",
+            "publisher": "Procedia Technology 11(446) (2013)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": "Indonesian Micro Small and Medium Enterprises (MSMEs) have particular characteristics that distinguish them from general business and thus require treatments that are different from those aimed for general businesses. In general, Indonesian MSMEs consist of various categories: micro enterprise, small enterprise, and medium enterprise. Each has different characteristics. The category that has the highest number of participant is micro enterprise. However, micro enterprises still experience problem in marketing realm. Marketing itself may be supported with the E-Commerce. But most MSMEs have not been able to fully adopt the E-Commerce due to lack of technological preparedness. Technological adjustments in the E-Commerce need to be made. In addition, the development of social media in Indonesia cannot be dismissed. This paper describes the problems encountered in the adoption of E-Commerce in Indonesia, and presents the analysis of Indonesian MSMEs condition and needs for the development of Online Marketplace for MSMEs. This analysis suggest the system design that resolves the issues in technological preparedness and technological adoption of Indonesian MSMEs marketplace or MSMEs in developing countries. The use of social media in the form of Facebook Commerce is provided as the basis of interaction on the Marketplace. This is done in order to improve trust in the interaction and accelerate word of mouth marketing via the internet and social networks.",
+            "url": "http://www.sciencedirect.com/science/article/pii/S221201731300368X"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "INAICTA 2014 Winner on Digital Media Arts",
+            "issuer": "Diskominfo Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "description": "Firefly is a new application that enhance concert's experience for customer and artist"
+        },
+        {
+            "title": "ITB Entrepreneurship Challenge 2013 Finalist : Startup Category",
+            "issuer": "IEC ITB",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "description": "Entrepreneurship Competition for college students"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Coursera: Software Architecture for the Internet of Things",
+            "number": ""
+        },
+        {
+            "name": "MIT Professional: Internet of Things: Roadmap to a Connected World",
+            "number": ""
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "title": "Geographic Information System - Language Distribution in Indonesia (Web Application)",
+            "description": "Display Visualization of Language Distribution Area in Indonesia Map using Google Map API (GIS) and Google MAP Polygon.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "title": "Preprocessing Election Data System DPT KPU Jawa Barat",
+            "description": "Using Embarcadero IDE to build c++ application. It recorded large amount of civilizations data and did some selections to get a well prepared data of people who could be able to be registered in an election. Consisting about more than hundreds of people MySQL was used to record and modify the data.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2013
+            },
+            "title": "Field Comittee",
+            "cause": "Social Services",
+            "company": "Angkot Day",
+            "company_linkedin_profile_url": null,
+            "description": "I was in a team responsible for field progress at day it was held",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "title": "Publishing Team",
+            "cause": "Arts and Culture",
+            "company": "Nulis Bareng Ibu",
+            "company_linkedin_profile_url": null,
+            "description": "Crowdsourcing writing on Motherhood experience",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": 3177,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/okky-pratama-84217331",
+            "name": "Okky Pratama",
+            "summary": "Financial Clarity for SMBs in Indonesia | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lwastuargo",
+            "name": "Listiarso Wastuargo",
+            "summary": "Cheerleader | ex-Top 1% DoTA Player | Offlane",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gibran-huzaifah-6358a04a",
+            "name": "Gibran Huzaifah",
+            "summary": "CEO of eFishery | We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chrisna-aditya-aa634230",
+            "name": "Chrisna Aditya",
+            "summary": "CIOO (Chief Internal Operation Officer) at eFishery",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andriyadi",
+            "name": "Andri Yadi",
+            "summary": "CEO & CTO of DycodeX - AIoT & TinyML enabler. Vice Chairman of Indonesia IoT Association. Microsoft MVP of Azure. Ambassador of Edge Impulse. Entrepreneur, developer, maker, public speaker of IoT, TinyML, Cloud.",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Yahya Fadhlulloh Al-Fatih\n\n\n\nAns is really a good sample of leaders, he knows exactly what the team needs in general, and he can predict the future problem or future needs of the company with real data, he also has critical thinking about the process of the business and exactly knows how to improve.\n\nThe best thing about ans, he is the \"Culture Carrier\", eFishery has the best engineering culture because of him, The RFC, the WFA, the Engineering process, the philosophy of agnostic tech, and the best thing is the pragmatic engineering.\n\nhe can't be replaced.",
+        "Anwari Ilman\n\n\n\nWe worked together at NoLimit to create a social media analytics dashboard. While coming from a different approach to deliver the job, I was awed by Anshor's approach, technical skills, and dedication to fulfil the need of showing data correctly & quickly in the dashboard. His skills and knowledge has been proven with complex problems such as scraping, storing, and retrieving enormous scale of data (millions of entries per day) in our open-source implementation of Big Data analytical platform.\n\nAnshor's critical approach to solving technical problems are a exemplary. He is a highly curious person, always looking for new & better ways to improve something. It was a great delight to have him helping me in the job. Outside the work environment, Anshor is a very trustable friend and a great fun to be with. Cheers!"
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": null,
+            "name": "Android Development Outsourcing",
+            "url": "https://www.linkedin.com/groups/1515777"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFOr6Bw3dkF9A/group-logo_image-shrink_400x400/0/1631003044508?e=1705464000&v=beta&t=cWtWOUX1pjDcjoIQprIZyy7r9vkY1E_y0kY6Su5sous",
+            "name": "Credibility: The Community for Agile Practitioners Who Hit Their Targets",
+            "url": "https://www.linkedin.com/groups/9017157"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

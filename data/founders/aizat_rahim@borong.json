@@ -1,0 +1,351 @@
+{
+    "public_identifier": "aizatrahim",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aizatrahim/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221633Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e5be18a8f4d660d0036d0e82d9703fb9994a074167fccfa7f35d79c754e10a57",
+    "background_cover_image_url": null,
+    "first_name": "Aizat",
+    "last_name": "Rahim",
+    "full_name": "Aizat Rahim",
+    "follower_count": null,
+    "occupation": "Managing Director at Dropee",
+    "headline": "Co-founder at Dropee (YC W20)",
+    "summary": "Aizat Rahim is the Managing Director & Co-founder of Dropee.com - the largest B2B marketplace, e-procurement and e-commerce company in Malaysia. Dropee assists retailers, manufacturers, wholesalers to manage their supply-chain digitally. Dropee help SME businesses grow by providing access to qualified wholesalers, manufacturers and principals to source affordable quality products at a faster, cheaper, and reliable way. Dropee currently serves more than 130,000 retailers, 28000 brands with 2 million SKUs under their platform. \n\nPrior to Dropee, he was also one of the founding partners of Infinite Ventures, a venture build organisation that was acquired by Kern Technology and founded Jobs4Locum, with another trade sale acquisition by MIMS Pte Ltd and sat as the board member for two years.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Dropee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropee/",
+            "title": "Managing Director",
+            "description": "Dropee is a B2B eCommerce solution provider that enables businesses to buy and sell in bulk confidently. We do so by simplifying the ordering process and providing maximum insights on best-sellers across different retail segments. Our Dropee Direct and Dropee Marketplace platforms bring wholesale businesses online and allow retailers to source for the right products from the right suppliers.\n \nFor more info, check out www.dropee.com. Dropee is headquartered in Kuala Lumpur (Malaysia), and a Forbes 30 Under 30 company.\n\nI'm currently responsible for accounts/finance, public affairs & treasury department.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-YoFewAkThw/company-logo_400_400/0/1519885862365?e=1687392000&v=beta&t=ULbgNQq9eogc1ohbTZjuK9CarN4sgVV_nDFdR_nMHLU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Dropee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropee/",
+            "title": "Director of Finance",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-YoFewAkThw/company-logo_400_400/0/1519885862365?e=1687392000&v=beta&t=ULbgNQq9eogc1ohbTZjuK9CarN4sgVV_nDFdR_nMHLU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Dropee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dropee/",
+            "title": "Chief Operating Officer",
+            "description": null,
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-YoFewAkThw/company-logo_400_400/0/1519885862365?e=1687392000&v=beta&t=ULbgNQq9eogc1ohbTZjuK9CarN4sgVV_nDFdR_nMHLU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Kementerian Pengajian Tinggi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kementerian-pendidikan-tinggi-malaysia/",
+            "title": "Council Member",
+            "description": null,
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEndX8iARjMTw/company-logo_400_400/0/1662403503495?e=1687392000&v=beta&t=lHHs_i2Ziu7nfg8mZgYG7MvQSBWOa3aIYjNFqkj-wOg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "Infinite Ventures Malaysia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/infinite-ventures-malaysia/",
+            "title": "Founding Partner (Acquired - Kern Technology)",
+            "description": "Infinite Ventures is a venture building (startup studio) company that provides pre-seed to seed funding and hands-on operational guidance to help initiate, co-create and accelerate startups. Our primary goal is to create high-growth startups in key sectors such as on-demand services, fintech and e-commerce/online marketplaces.\n\nhttps://www.dealstreetasia.com/stories/kern-technology-acquires-malaysia-infinite-ventures-59740/\nhttps://www.theedgemarkets.com/article/kern-technology-launches-venture-arm-focusing-greentech-fintech",
+            "location": "Kuala Lumpur",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHToDus3r7YsA/company-logo_400_400/0/1519907758062?e=1687392000&v=beta&t=osKpDoQRdWxdok6JxRmroZED5F5_ceEHvd_nDS25_VY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "MIMS Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mims-pte-ltd/",
+            "title": "Board Member - Job4Locum (Acquired - MIMS.com)",
+            "description": "Job4locum (J4L) is the Malaysia largest locums job and full-service healthcare staffing agency. Our platform connects doctors with clinics as well as streamlining their locum processes. \n\nJ4L has been acquired by MIMS at 2016. MIMS is Asia-Pacific\u2019s leading provider of trusted, quality medicine information and knowledge services, serving healthcare professionals across Australia, New Zealand and 10 countries in Asia for nearly 50 years.\n\n<https://doctor-job.mims.com/malaysia/>",
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHIaLv8HLoQLA/company-logo_400_400/0/1678939151504?e=1687392000&v=beta&t=SVVKWwJzxxsiRg6vVZfyM6AqiJ1z8DSloXZzgoO4Fko"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "company": "Startup Street",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder, COO (Failed)",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "ANZ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/anz/",
+            "title": "Analyst",
+            "description": null,
+            "location": "Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFCpNJIVoGNKg/company-logo_400_400/0/1656980648681?e=1687392000&v=beta&t=q8hsYMYYAsr1Xm4OFLxW8SCbhTATKn8EsjpjfL7TgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "company": "RapidCloud Singapore Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rapidcloud-singapore-pte-ltd/",
+            "title": "Management Associate",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHDCi0cD2DUyg/company-logo_400_400/0/1519864253889?e=1687392000&v=beta&t=UAVkVcglFXsLFqcL5T6BNlsjh5mZZFlKUqNXfQ86vIM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "General Management Program",
+            "school": "The Wharton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690193613?e=1687392000&v=beta&t=3vYMZlqYA2bBchnnOqPWbhyUbIhLzKY7OqTqmHtk9Q8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "Stanford Centre for Professional Development",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1687392000&v=beta&t=WfpFgTq9RmL9fztEgEm9UqJOA1jsQWfWWOQHdvbHZ8I",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Finance",
+            "degree_name": "Bachelor of Management",
+            "school": "University of South Australia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHMHqwljNA2uw/company-logo_400_400/0/1614575914322?e=1687392000&v=beta&t=vlQor_7AH-QShW9lxuIbpwqNEmTTXhkolamYKIfAOOU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/lenniseng",
+            "name": "Lennise Ng (\u9ec4\u82b7\u60c5)",
+            "summary": "CEO at Dropee (YC W20) | Wholesale made easy through #eTrade | #eTrade for Women",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lindarasip",
+            "name": "Ts. Haslinda Rasip",
+            "summary": "CTO & Co-Founder at Dropee (Y Combinator W20) | We're HIRING UX Designer, Product Manager, Data Lead: Visit dropee.com/career or DM me.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zulamir",
+            "name": "Zulamir Sofian",
+            "summary": "zulamirsofian.github.io || Customer Experience Executive at Dropee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adeline-j-9b6ab71bb",
+            "name": "Adeline  J.",
+            "summary": "Finance & Admin Executive at Dropee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cheryllwong",
+            "name": "Cheryll Wong",
+            "summary": "Solving early adoption challenges- balancing between slow growth and growth hacking!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/danialrj",
+            "name": "Raja Muhamad Danial Raja Abdul Rahman",
+            "summary": "Keen to fill in Project Management/Business Development roles",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/afiqahmohdzamzam",
+            "name": "Nurul Afiqah Mohd Zamzam",
+            "summary": "Fulfillment Executives at Dropee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ashley-wong-219038162",
+            "name": "Ashley Wong",
+            "summary": "Senior Trade Marketing Executive at FMCG company",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kelly-koty-95a84611a",
+            "name": "Kelly Koty",
+            "summary": "Accounts & Finance Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/izhwan-zaini-230a17142",
+            "name": "Izhwan Zaini",
+            "summary": "Brand Acquisitions Executive at Dropee",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Danial Zamberi, CMILT\n\n\n\nMohd Aizat is a very dedicated person when it comes to achieving all the goals that he has set. He manage everything in professional manner and it was a great pleasure to work with someone with such high professionalism."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Muhammad Aizat Rahim",
+            "link": "https://my.linkedin.com/in/muhammad-aizat-rahim-193530164",
+            "summary": "HRBP Operation Leads at FGV Transport Services Sdn Bhd",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "name": "Aizat Abdul Rahim",
+            "link": "https://my.linkedin.com/in/aizat-abdul-rahim-171603216",
+            "summary": "Civil Engineering Intern at Setiakon Builders Sdn Bhd",
+            "location": "Gombak"
+        },
+        {
+            "name": "aizat rahim",
+            "link": "https://my.linkedin.com/in/aizat-rahim-903b29b0",
+            "summary": "job at Industrial Light & Magic",
+            "location": "Melaka, Malaysia"
+        },
+        {
+            "name": "Aizat Rahim",
+            "link": "https://sg.linkedin.com/in/aizat-rahim-840834168",
+            "summary": "Senior Customer Care Officer at Singapore Sports Hub",
+            "location": "Singapura"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

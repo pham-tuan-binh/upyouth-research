@@ -1,0 +1,426 @@
+{
+    "public_identifier": "rian-finnegan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rian-finnegan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6ab0dee9a8eb7853a83bbfd7f39307fde3c4e0a3a85c5bb5058405a749828651",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rian-finnegan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c72617e5b7e063756d216fc3a255059aa9f5f63bada5fbc8c7715ed838700454",
+    "first_name": "Rian",
+    "last_name": "Finnegan",
+    "full_name": "Rian Finnegan",
+    "follower_count": 1474,
+    "occupation": "Senior Software Engineer at AGL",
+    "headline": "Transforming the energy system",
+    "summary": "Currently: Engineering @ Blinq\n\nPreviously: Co-founder @ Cherry Recommends.\nPreviously: Software Engineering @ Microsoft AU\nPreviously: IoT Engineer @ RampRFID",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": "Melbourne",
+    "state": "Victoria",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "AGL",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/agl/",
+            "title": "Senior Software Engineer",
+            "description": null,
+            "location": "Melbourne, Victoria, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGomwPnsPkZNg/company-logo_400_400/0/1630576799205/agl_logo?e=1714003200&v=beta&t=1XBmg3acoWcdhttRSg-SMApipcxYzTtwe-M9sHvqPUM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2023
+            },
+            "company": "Blinq",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/blinq-me/",
+            "title": "Principal Software Engineer",
+            "description": null,
+            "location": "Melbourne, Victoria, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMPZ4tDQ9RIw/company-logo_400_400/0/1630668387527/blinq_technologies_logo?e=1714003200&v=beta&t=5MNenxMVOG-RnOLzQyC5dleMyHbol6vmNnFyAoVlNn0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Cherry Recommends",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Cherry Recommends is a promotion management and recommender platform that grows sticky online customers by increasing customer engagement, conversion and retention. Smart Marketers use the Cherry Recommends platform to their advantage to provide adaptive, personalised recommendations that increases the lifetime value of every customer relationship.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Software Engineer",
+            "description": "Our team, CSE (Commercial Software Engineering), works side by side with customers to help them tackle their toughest technical problems both in the cloud and on the edge. We meet customers where they are, work in the languages they use, with the open source frameworks they use, on the operating systems they use. We work with enterprises and startups across many industries from financial services to manufacturing. Our work covers a broad spectrum of domains including IoT, machine learning, and high scale compute. Our \u201csuper power\u201d is that we work closely with both our customers\u2019 engineering teams and Microsoft\u2019s product engineering teams, developing real-world expertise that we use to help our customers grow their business and help Microsoft improve our products and services.",
+            "location": "Melbourne, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1714003200&v=beta&t=hhqkzn1xTW3d7mnIavjKUDigI3thcmGegfwWo5mjkc4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2016
+            },
+            "company": "Ramp RFID Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ramp-rfid-solutions/",
+            "title": "Systems Engineer",
+            "description": "RAMP is Australia\u2019s leading long range RFID solution provider, specialising in asset tracking, vehicle tracking & people tracking.\n\nExperts in implementing robust, cost effective solutions, RAMP's methodology is to work closely with their customers to understand their needs and pain points and where a compelling ROI exists, implement solutions to improve business performance.",
+            "location": "Sydney",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHNO3FD8KXiSw/company-logo_400_400/0/1688013574622/ramp_rfid_solutions_logo?e=1714003200&v=beta&t=2y9uFYt-Cj_xQ86LfNciSVnqHzr819_rBfl7Y_Q_Vjw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "company": "UNSW Australia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/unsw/",
+            "title": "Student of the History and Philosophy of Science",
+            "description": null,
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "company": "UNSW Australia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/unsw/",
+            "title": "Student of Electrical Engineering",
+            "description": null,
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "company": "CSIRO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/csiro/",
+            "title": "Summer Scholar",
+            "description": "Using computational methods to extract periodic and other information from large data sets (big data).",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHmmmT_4lmxkw/company-logo_400_400/0/1678052502884/csiro_logo?e=1714003200&v=beta&t=6s0m09c61D6P_U_k5zIUHoNK25Wu0XXqAiuB85WnonI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2010
+            },
+            "company": "Mars Petcare",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mars/",
+            "title": "Internship",
+            "description": "My main activity was documentation & digitalisation of processes within the factory.",
+            "location": "Wodonga",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFxhsUQuX5Qyg/company-logo_400_400/0/1630500222462/mars_logo?e=1714003200&v=beta&t=sY1VgkuRnG3W3ZOhwASGY9iy0KtAwRQcpPdj2I5E2jM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "school": "UNSW",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk",
+            "grade": "Honours (First Class)",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Computer Software Engineering",
+            "degree_name": "Full Stack Web Development Certification",
+            "school": "freeCodeCamp",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_400_400/0/1630639684997/free_code_camp_logo?e=1714003200&v=beta&t=bB0ZtA5oRKdzXNy40AoHTGWictFiu7g158H60DMTHyg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "History and Philosophy of Science and Technology",
+            "degree_name": "Arts",
+            "school": "UNSW",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Engineering Australia",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Quantum Mechanics and Quantum Computation",
+            "number": "CS-191x"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": null,
+            "title": "Project Echo LEAN Construction Research",
+            "description": "Project Manager RFID/GPS Technology Solutions",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "title": "Woodside Project Echo & Domgas RFID Pilot Project",
+            "description": "RAMP RFID & Woodside have introduced the first Woodside LNG Smart Tag (or W-Tag). The W-Tag follows a two-year innovative research program with Curtin University called project \u2018Echo\u2019, where a number of innovative lean construction technologies were evaluated to enhance the efficiency of LNG megaproject construction and operations.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Design and Labour",
+            "cause": null,
+            "company": "Forest Call, Cat Tien",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "MCPS: Microsoft Certified Professional",
+            "license_number": null,
+            "display_source": "microsoft.com",
+            "authority": "Microsoft",
+            "url": "http://www.microsoft.com/learning/en-us/certification-overview.aspx"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "MS: Programming in C#",
+            "license_number": null,
+            "display_source": "microsoft.com",
+            "authority": "Microsoft",
+            "url": "http://www.microsoft.com/learning/en-us/certification-overview.aspx"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Microsoft Certified Professional",
+            "license_number": "F105-5364",
+            "display_source": "microsoft.com",
+            "authority": null,
+            "url": "https://www.microsoft.com/learning/en-au/microsoft-certified-professional.aspx"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jarrod-webb",
+            "name": "Jarrod Webb",
+            "summary": "Founder & CEO at Blinq - We're hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rory-mulherin-36a2268b",
+            "name": "Rory Mulherin",
+            "summary": "People Person @ Blinq",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ngan-nguyen1111",
+            "name": "Ngan Nguyen",
+            "summary": "Mobile Developer (Swift & Kotlin) - AI enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/miles-bennett-bab03aaa",
+            "name": "Miles Bennett",
+            "summary": "Software Engineer @ Blinq",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/astitvagautam",
+            "name": "\ud83e\udd89Astitva Gautam",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/monique-wink-james",
+            "name": "Monique Wink James",
+            "summary": "Software Engineer at Blinq - we\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mutaz-al-ashhab",
+            "name": "Mutaz Al-ashhab",
+            "summary": "Full Stack Engineer @ sitemate | Software Engineering Graduate @ Monash University",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rachel-lynch-8876b8146",
+            "name": "Rachel Lynch",
+            "summary": "Software Engineer at Blinq",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bondandrew",
+            "name": "Andrew Bond",
+            "summary": "SEO Specialist at Optimising",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/francesco-lanciana",
+            "name": "Francesco Lanciana",
+            "summary": "Product Manager at Blinq",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Rian Finnegan",
+            "link": "https://www.linkedin.com/in/rianfinnegan",
+            "summary": "Senior Global Employer Brand Manager at Peloton Interactive",
+            "location": "New York City Metropolitan Area"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

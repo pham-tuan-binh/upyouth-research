@@ -1,0 +1,340 @@
+{
+    "public_identifier": "fransisca-susan-32a634b1",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Fransisca",
+    "last_name": "Susan",
+    "full_name": "Fransisca Susan",
+    "follower_count": 3657,
+    "occupation": "PhD Candidate at Massachusetts Institute of Technology",
+    "headline": "PhD at MIT | Co-Founder at Fintelite (YC W22)",
+    "summary": "I am currently a PhD Candidate at the MIT Operations Research Center, interested in data-driven optimization methods for large-scale systems.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Massachusetts Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "title": "PhD Candidate",
+            "description": null,
+            "location": "Cambridge, Massachusetts, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "Massachusetts Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "title": "Undergraduate Teaching Assistant",
+            "description": "MIT EECS Department\nTeaching Assistant for 6.036/6.862 (Introduction to Machine Learning). Responsibilities include helping with homework, office hour weekly, grading exam, and helping with course administration.",
+            "location": "Cambridge, MA",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Massachusetts Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "title": "Grader",
+            "description": "MIT Mathematics Department, MIT EECS Department\nGrader for 18.06, 18.404, 6.006, 6.046",
+            "location": "Cambridge, MA",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Fintelite (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fintelite",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFUq5Dgm6-qGQ/company-logo_400_400/0/1688443841971/sribuu_logo?e=1712188800&v=beta&t=ddJuNqBlLRTW0yUT1nENmiGzyRA6GoFoBmOqG6a1RMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook",
+            "title": "PHD Researcher",
+            "description": null,
+            "location": "Menlo Park, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712188800&v=beta&t=APmw8EaFdfNHmhC6FaMNpkymkecnlpSkd2QqCmuxoaM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs",
+            "title": "Summer Analyst",
+            "description": "Structured Product Group Strats, Divisional Strats",
+            "location": "New York, New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712188800&v=beta&t=1YQE6Z9vagLmflbcXI-auXW3GNWeRyU0VOXefy3Y-nY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs",
+            "title": "Securities Strats Summer Analyst",
+            "description": "I completed a 10-week rotational program across the FICC SMM FX desk and Quant Vol Trading desk in the New York Securities Division.",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712188800&v=beta&t=1YQE6Z9vagLmflbcXI-auXW3GNWeRyU0VOXefy3Y-nY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit-csail",
+            "title": "Research Assistant on Machine Learning and Natural Language Processing",
+            "description": "Developed a classifier to investigate how well Neural Machine Translation model infers multiple senses from homonyms and investigated the effects of the different layers, target languages, and model architecture on word disambiguation ability.",
+            "location": "Cambridge, Massachusetts",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEGRPOLADdMtg/company-logo_400_400/0/1640006078259/mit_csail_logo?e=1712188800&v=beta&t=sfGw5OszXqKCHyuTbxspa3S9FPcoZ65WlYYRpipRDMU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "Traveloka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traveloka",
+            "title": "Machine Learning Software Engineer Intern",
+            "description": "Conducted research on recommender system for the hotel business using various statistics and machine learning approaches.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_400_400/0/1700635813325/traveloka_logo?e=1712188800&v=beta&t=h5n-EJQ-s72V46KKClGYUdjUhfdpmt5AbDBrBlqpEd4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Twitter",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/twitter",
+            "title": "Software Engineer Intern",
+            "description": "As a software engineer intern in the Home Onboarding Team, I conducted feature experiments on who to follow modules for new and resurrected users, and created a web re-onboarding feature, a flow to refine social graph of resurrected users.",
+            "location": "San Francisco, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEJZABhJ-eE0g/company-logo_400_400/0/1690242317195/twitter_logo?e=1712188800&v=beta&t=eKzJJp_GGGZrSyN1W0x4qzZnWpdpGoqsRvDRm7Y1bAQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "field_of_study": "Operations Research",
+            "degree_name": "Doctor of Philosophy - PhD",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": "Computer Science and Mathematics with a minor in Economics",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es",
+            "grade": "5.00/5.00",
+            "activities_and_societies": "Tau Beta Pi Engineering, Pi Beta Kappa, Eta Kappa Nu Society, Global Poverty Initiative, South East Asian Leadership Network, Association of Indonesian Student"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "SMAK 1 BPK Penabur",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Jakarta, Indonesia"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "3rd Winner of MIT FinTech Challenge",
+            "issuer": "MIT-Citi Ventures",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Tau Beta Pi Fellowship 2019-2020",
+            "issuer": "Tau Beta Pi HQ",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "description": "Selected as 1 out of 36 awardees to receive a 1-year competitive graduate school engineering fellowship from Tau Beta Pi. Tau Beta Pi fellows are free to do graduate work in any field which will enable them to contribute to the engineering profession."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 3442,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/kevinlimanta",
+            "name": "Kevin Limanta",
+            "summary": "EECS Graduate Student at Massachusetts Institute of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alexanderamini",
+            "name": "Alexander Amini",
+            "summary": "AI Scientist at MIT building the future of intelligent robots. Co-founder of Themis AI. Co-founder of Liquid AI. ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gcorso",
+            "name": "Gabriele Corso",
+            "summary": "PhD at MIT in Machine Learning  |  Generative Models for Structural Biology  |  BA at University of Cambridge  |  LeadTheFuture",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jiayu-kamessi-zhao-1a2b92132",
+            "name": "Jiayu Kamessi Zhao",
+            "summary": "PhD Student in Operations Research, MIT",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aaron-alvarado-kristanto-julistiono",
+            "name": "Aaron Alvarado Kristanto Julistiono",
+            "summary": "Undergrad CS + Math @ MIT",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Fransisca Susan",
+            "link": "https://id.linkedin.com/in/fransisca-susan-545aa2120",
+            "summary": "Vice President Regional Business at DOKU, PT NUSA SATU INTI ARTHA",
+            "location": "Bali, Indonesia"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

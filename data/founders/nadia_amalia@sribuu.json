@@ -1,0 +1,262 @@
+{
+    "public_identifier": "nadiaamalia",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nadiaamalia/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221321Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=36711f23908140c3e651a8b8886a8e9bcb291d08b7a3f2a595ed0348c991729d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nadiaamalia/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221321Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=69b335f34348fb62891d5b35c5bba60d3335c99df5b84ab1e16b0877dcbbb990",
+    "first_name": "Nadia",
+    "last_name": "Amalia",
+    "full_name": "Nadia Amalia",
+    "follower_count": 3877,
+    "occupation": "CEO and Co-Founder at Fintelite (YC W22)",
+    "headline": "Co-Founder at Fintelite (Formerly Sribuu) | Forbes 30 under 30 | MIT | Financial Data Automation, AI",
+    "summary": "Driven by a passion for finance data automation, I'm leveraging my 6 years of experience and insights from teaching financial wellness to over 35,000 people to revolutionize financial ecosystem. As a former equity research analyst and an MIT Master of Finance graduate, I'm now leading the transformation at Fintelite, where we're shaping the future of finance through AI.\n\nOur flagship products, Sribuu and Fintelite, have empowered 1.5 million customers to make informed financial decisions faster with better risk.\n\nHappy to be connected and explore collaboration opportunities :)",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "CerdikMapan",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cerdikmapan/",
+            "title": "Co-Founder",
+            "description": "\u2022 Established CerdikMapan, a non-profit organization that aims to increase financial literacy level in Indonesia.\n\u2022 Educated more than 35.000 people in 4 years.\n\u2022 Established partnerships with local and international financial institutions to support their CSR program (From JP Morgan to Asian Development Bank)",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG0Zd9G5wLNWQ/company-logo_400_400/0/1630611796942?e=1712188800&v=beta&t=kTWdcX18k3X9QqY5T18I-_vhAW6jF1NOsgeOIHcRSRA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Fintelite (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fintelite/",
+            "title": "CEO and Co-Founder",
+            "description": "Maximize profitability, efficiency, and informed decision-making with our intelligent process automation solutions built for for financial institutions. From automating manual financial entries to underwrite your customer in minutes. Our AI-powered tools have already empowered over 1,500,000 customers to get better access to financial products. \n\nContact our AI experts for tailored solutions here : www.fintelite.ai\n\nExplore OCR, Enrichment API, Analytics Dashboards, Savings Tools, Personalized Insights, and CRM Analytics.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFUq5Dgm6-qGQ/company-logo_400_400/0/1688443841971/sribuu_logo?e=1712188800&v=beta&t=ddJuNqBlLRTW0yUT1nENmiGzyRA6GoFoBmOqG6a1RMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Deutsche Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deutsche-bank/",
+            "title": "Equity Research",
+            "description": "\u2022 covering 11 companies in retail, property and technology sector",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFOCEBGAmZoyg/company-logo_400_400/0/1656666179948/deutsche_bank_logo?e=1712188800&v=beta&t=L-DvlKSHCETA8Eunut-q-uNIXje2eGPClKuKBc8WLco"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Coordinating Ministry of Maritime Affairs",
+            "company_linkedin_profile_url": null,
+            "title": "Expert Staff to the Minister",
+            "description": "\u2022 Built financial projection and analyzed the potential investment returns of various infrastructure projects in Indonesia. \n\u2022 Examined financial impact of agriculture policy changes on its supply chain",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Master of Finance, Financial Engineering",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712188800&v=beta&t=3f7b_zrFHXVaiQUwM3_RXiLmjWXzMs6wxWiKHUoI7Es",
+            "grade": null,
+            "activities_and_societies": "VP Career and Operation for FinTech Club"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "YC W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712188800&v=beta&t=EgLxewxI_BDrlASGfsfLrqJBxsMda6-ggIQPdbJ7pks",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Economics",
+            "degree_name": "Bachelor of Economics",
+            "school": "University of Indonesia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1631366982263?e=1712188800&v=beta&t=unORhRp9aKhQj4YOJlK4N7LGwO2l50i2B3Ji9FNkrjM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Gen T List 2023",
+            "issuer": "Tatler",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "description": null
+        },
+        {
+            "title": "Forbes 30 under 30 Asia 2022",
+            "issuer": "Forbes Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "3rd Winner of MIT FinTech Challenge",
+            "issuer": "MIT-Citi Ventures",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "Operation Impact Fund Grantee",
+            "issuer": "Harvard Initiative for Learning & Teaching",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "description": "Funded by Harvard University to launch an early childhood mental health online education platform in Indonesia"
+        },
+        {
+            "title": "Asean Fellowship ",
+            "issuer": "MIT Sloan School of Management",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Qualified Wealth Planner",
+            "license_number": null,
+            "display_source": null,
+            "authority": "QWP Academy",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Islamic Finance Qualification",
+            "license_number": null,
+            "display_source": null,
+            "authority": "The Chartered Institute for Securities & Investment (The CISI)",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Wakil Perantara Pedagang Efek",
+            "license_number": null,
+            "display_source": null,
+            "authority": "TICMI ",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Nadia Amalia",
+            "link": "https://id.linkedin.com/in/nadiaamaliaa",
+            "summary": "Finance Administrator at MILI",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Nadia Amalia",
+            "link": "https://id.linkedin.com/in/nadia-amalia-51a7343",
+            "summary": "Deputy Director, Directorate of Human Rights and Humanitarian Affairs at Ministry of Foreign Affairs of the Republic of Indonesia",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "name": "Nadia Amalia",
+            "link": "https://de.linkedin.com/in/nadia-amalia",
+            "summary": "M.A. of Social Sciences | B.Soc.Sc. of International Relations and Affairs",
+            "location": "Dusseldorf"
+        },
+        {
+            "name": "Nadia Amalia",
+            "link": "https://id.linkedin.com/in/nadia-amalia-b04953130",
+            "summary": "3rd Year Interior Design Student at Sepuluh Nopember Insitute of Technology",
+            "location": "Tangerang Selatan"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

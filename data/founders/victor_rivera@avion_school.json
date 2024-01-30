@@ -1,0 +1,204 @@
+{
+    "public_identifier": "victor-rivera-a87b70124",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Victor",
+    "last_name": "Rivera",
+    "full_name": "Victor Rivera",
+    "follower_count": null,
+    "occupation": "Co-founder and Chief Executive Officer at Avion School",
+    "headline": null,
+    "summary": null,
+    "country": "US",
+    "country_full_name": null,
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Avion School",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder and Chief Executive Officer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Weclean",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder and Head of Growth",
+            "description": "* Oversaw the overall Sales and Operations strategy of the laundry franchise.\n* Spearheaded the development of the standardized franchise business model.\n* Reorganized the internal processes behind the industrial laundry warehouse business.\n* Handled importation and domestic shipment of machines from Shanghai to the Philippines.\n* Developed trust relationships with a portfolio of both major clients and SMEs.\n* Provided overall customer support to over 30 laundromat locations.\n* Served as the link of communication between the Board of Directors and internal teams.\n* Directly reported to the WeClean Board of Directors and Investors.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Paymongo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/paymongo",
+            "title": "Growth Marketing and Customer Success",
+            "description": null,
+            "location": "Manila, Manila, Philippines",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "Lalamove",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/easyvan",
+            "title": "Logistics Consultant",
+            "description": "* Led the initiative to convert Non-Corporate users over to Corporate Accounts.\n* Focused on the lead generation, sales, and account management of Corporate Users.\n* Coordinated with the Operations Team to help fulfill the client\u2019s inbound logistics demand.\n* Forecasted the weekly logistics demand of Multinational Companies and SMEs.\n* Averaging 20 new Corporate Accounts closed per month.",
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Lalamove",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/easyvan",
+            "title": "Sales Intern",
+            "description": null,
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Honestbee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honestbee",
+            "title": "Business Development Intern",
+            "description": "* Supported the Business Development team in closing both SME grocery and food clients.\n* Conducted and assisted in lead generation efforts of the team based on the month\u2019s goals.",
+            "location": "Singapore, Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "company": "Carousell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/carousell",
+            "title": "Campus Ambassador",
+            "description": "Executed on micro influencer seeding within the top 4 universities in the Philippines.",
+            "location": "Singapore, Singapore",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Ateneo De Manila University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/ateneo-de-manila-university",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Business Management",
+            "degree_name": "Bachelors, Bachelor of Science",
+            "school": "De La Salle University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/edu/15667",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 747,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

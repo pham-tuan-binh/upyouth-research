@@ -1,0 +1,325 @@
+{
+    "public_identifier": "a7urag",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/a7urag/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221540Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=068e4adda9cdd41dab1678ac095c3ad168f15303ff7e08fd62991f8ae96414f0",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/a7urag/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221540Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a7885d52f01a1c71fad6d2963708938911bdd5e2cedcd8bb46f50b86d4fed6e9",
+    "first_name": "Anurag",
+    "last_name": "Chutani",
+    "full_name": "Anurag Chutani",
+    "follower_count": 2853,
+    "occupation": "Co-Founder, CTO at Intellect",
+    "headline": "CTO at Intellect (YC S21)",
+    "summary": null,
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Intellect",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/intellecthq/",
+            "title": "Co-Founder, CTO",
+            "description": "Intellect is a modern-day mental health company with a mission to make mental healthcare and wellbeing support accessible for everyone in Asia.\n\nToday, Intellect is the largest and fastest growing mental health tech company in Asia, and serves over 2 million members and leading organisations globally through our mental health platform. Intellect was also selected as one of Google\u2019s Best Apps of 2020.\n\nIntellect is backed by leading investors including Insignia Ventures Partners, Y Combinator, XA Network, and an extensive list of family offices, big tech executives and renowned angel investors.",
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUA7BQ-Hlh5g/company-logo_400_400/0/1630655280351/intellecthq_logo?e=1707350400&v=beta&t=f6an5uNTdvP6IB9-HrUoC88lzpKDSjCwvfVh02rG5fc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "CARS24",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cars24/",
+            "title": "Lead Software Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFJjOda9vbnFw/company-logo_400_400/0/1588568708085?e=1707350400&v=beta&t=Vgm5dkNRqS67GJUh0OpANR1556g9rMhaZAnWksmMubU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "Wadi.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wadi-com/",
+            "title": "Lead Application Developer",
+            "description": null,
+            "location": "Gurgaon",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEDSWaSHXJDJg/company-logo_400_400/0/1519879322999?e=1707350400&v=beta&t=CQLdWG23lBSb--8ozR4lFGefWqQEFCD3oOCZcooeuEE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2017
+            },
+            "company": "Overcart",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gamesinc/",
+            "title": "Senior Application Developer",
+            "description": null,
+            "location": "Gurgaon, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGWv56e3gB-xA/company-logo_400_400/0/1519898000388?e=1707350400&v=beta&t=X4VGTfSo1Sr0lIlNvcbcLSEetJT01pDFLf2_CnADWUs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Associate Software Engineer",
+            "description": "SAP ABAP Developer",
+            "location": "Hyderabad",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303421?e=1707350400&v=beta&t=XvpNtIxcXAA7V9TGbGhQeHhgTCnGu8ASrlnwJqSzSE8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1707350400&v=beta&t=sQURn3RGZPpv7u2oZELievIuFb4Ym7dMw1e3D5QCVWo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Electronics and Communication Engineering",
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "school": "Jaypee University of Information Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFJGAK9NeEsOw/company-logo_400_400/0/1519871833886?e=1707350400&v=beta&t=6MXx975ZMgiyM1I8mL8WcHoZrIvX3f0EXoRoLcTQLfg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": null,
+            "degree_name": "High School",
+            "school": "Sachdeva Public School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Cars24 - Auction application",
+            "description": "Developed a Real-time auction app in react-native replacing native applications to help C2B business to grow and decrease the development cycle.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "title": "react-native-onscreen-keyboard",
+            "description": "Open source project for onscreen keyboard in react-native",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "title": "Wadi AIO",
+            "description": "Developed Wadi - All in one react-native application, which allows customers to shop from e-commerce store as well as grocery products.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2017
+            },
+            "title": "IRCTC - Food on track - Android application",
+            "description": "Developed IRCTC(Indian Railways) Food on track android application to help travelers book their meal for their train journey from government approved restaurants. \n\nAchievements:\n1. 99.7% Crash free sessions.\n2. APK size: 2.4mb",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "title": "Overcart E-commerce app",
+            "description": "Android application where the user can shop for refurbished mobiles and electronics.\n\nFrameworks/Libraries Used: Retrofit2, Picasso, RealmDB,  Firebase(Config, Crash Reporting, Performance), Fabric, Facebook Login, Razerpay, Unbxd, Clevertap, Google Analytics, Optimizely. ",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "title": "Overcart for business ",
+            "description": "B2B Android application where the retails/bidders can shop for bulk deals and bid on auctions.\n\nFrameworks/Libraries Used: Retrofit2, Glide, Zendesk Chat,Firebase(Config, Crash Reporting, Performance, Cloud Messaging), Fabric, Clevertap, Google Analytics, Optimizely, UxCam.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "title": "Litmus Quality check",
+            "description": "Quality Check Android application used by the warehouse inwarding team to test 26 hardware/sensors of refurbished and unboxed Android devices.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "title": "Closed Wallet for Travelkhana",
+            "description": "Closed wallet where the user can get transaction cashback, expiring cash back and use it for future orders.\n\nTechnologies Used: Java, Spring, Hibernate.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Anurag Chutani",
+            "link": "https://in.linkedin.com/in/anurag-chutani-93880b118",
+            "summary": "Director at iWebbies Web Solutions",
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Anurag Chutani",
+            "link": "https://in.linkedin.com/in/anuragchutani",
+            "summary": "Head Digital Marketing",
+            "location": "Gurgaon"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

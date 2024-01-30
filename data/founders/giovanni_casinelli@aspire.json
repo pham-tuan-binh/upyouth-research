@@ -1,0 +1,300 @@
+{
+    "public_identifier": "giovannicasinelli",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/giovannicasinelli/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221212Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8d9b94ba5edc718eb436c0365088455ce67736caca11b20d3761f3f9ba0962ad",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/giovannicasinelli/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221212Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7691c50796ad81a562c809da09415bc3e117fbe5f5b8ffb17d4bc02bf99ac30f",
+    "first_name": "Giovanni",
+    "last_name": "Casinelli",
+    "full_name": "Giovanni Casinelli",
+    "follower_count": 7358,
+    "occupation": "Co-Founder & President at Aspire",
+    "headline": "Co-Founder & President @ Aspire",
+    "summary": "Building Aspire, the all-in-one finance software for businesses: https://aspireapp.com/\n> If you're a Founder or CFO reach out directly in DM or email: giovanni@aspireapp.com\n> If you want to work with us check out our open positions here: https://aspireapp.com/careers",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Aspire",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aspireapp-global",
+            "title": "Co-Founder & President",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw4Jpn0midiA/company-logo_400_400/0/1630653535366/aspire_sea_logo?e=1710979200&v=beta&t=gt5v8armwRy0oOadiZIo0vEbfkti8RkyskjfU6heRDM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Aspire",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aspireapp-global",
+            "title": "Chief Technology Officer",
+            "description": "All-in-one finance for growing businesses in Southeast Asia.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw4Jpn0midiA/company-logo_400_400/0/1630653535366/aspire_sea_logo?e=1710979200&v=beta&t=gt5v8armwRy0oOadiZIo0vEbfkti8RkyskjfU6heRDM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "OpenRatio",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/qollaborate",
+            "title": "Software Engineer",
+            "description": "Back-end development in PHP/MySQL using Zend Framework and Doctrine 2. Cloud storage on Windows Azure with NodeJS. Developed the revision control and deployment system with GIT. Occasionally worked on mobile applications for Android and iPhone.",
+            "location": "Stockholm, Sweden",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ajuxcTo6FQ/company-logo_400_400/0/1631310478131?e=1710979200&v=beta&t=Y3epR055ttHQi4Iy96-bVwKVae6MeZsxW2D1X8J8ueo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "BonAppetour",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bonappetour",
+            "title": "Co-founder, CEO & CTO",
+            "description": "BonAppetour is a community marketplace for amazing food experiences.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGCmm9ZSKy9Tw/company-logo_400_400/0/1631315375434?e=1710979200&v=beta&t=61A5QvwPXhh1LT68rH3uFPUG_MmzpDLCENBnC0Bp6i8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "BonAppetour",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bonappetour",
+            "title": "Co-founder & CTO",
+            "description": "BonAppetour is a community marketplace for amazing food experiences.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGCmm9ZSKy9Tw/company-logo_400_400/0/1631315375434?e=1710979200&v=beta&t=61A5QvwPXhh1LT68rH3uFPUG_MmzpDLCENBnC0Bp6i8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "company": "CryptoJobs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/crypto-jobs",
+            "title": "Founder",
+            "description": "CryptoJobs is the best place to find your next job in a blockchain company.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHpd9GuZhE8zw/company-logo_400_400/0/1642317897541/crypto_jobs_logo?e=1710979200&v=beta&t=OZ7SkSOTKGtQDIbjCP4SArK0oYpLh5IATxPD9GeOZkY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "company": "Meteor.link",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meteor-link",
+            "title": "Founder",
+            "description": "Meteor.link allows marketers to add a Facebook Pixel into their links, and build up their customer audience to retarget on Facebook. Zero coding required.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFyS_xOnXtz0Q/company-logo_400_400/0/1631348207670?e=1710979200&v=beta&t=dNCKcG_iSCyswwnaw9tY4UfI-TxGc1sp2-cMJrbzBvk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Asteroid",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/asteroid-pte-ltd-",
+            "title": "Co-founder & CEO",
+            "description": "Asteroid gives you discounts at the right time: when you're passing near a shop. We use iBeacons technology to allow Food & Beverage shops to send out discounts to people passing nearby, with more than 100 customers in Singapore.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEfQyOPdW6_-A/company-logo_400_400/0/1631350302801?e=1710979200&v=beta&t=R-0geV_DVBMSBiRgewaxW7VQ5pw2T91NGQXhKla_eSU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": "YC W18",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710979200&v=beta&t=M5k3ZHiWvTqvhnpin66S078u1hOzcvDqOUhGA0fzyWI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "IT",
+            "degree_name": "Computer Engineering",
+            "school": "Politecnico di Milano",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/165509/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGRQliQAbXOSQ/company-logo_400_400/0/1631315015719?e=1710979200&v=beta&t=6MlsA5Wx-HMZFznsZqURps4PyIWw_4HsowgXgDe2CSA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": null,
+            "title": "HubbleBot",
+            "description": "Bot that has added more than 2000 entries about stars on Wikipedia. Developed in C#, I collaborated with the members of the Wikipedia Astronomy Project for the retrieval and manipulation of scientific data.",
+            "url": "http://it.wikipedia.org/wiki/Utente:HubbleBot"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "title": "Wriler",
+            "description": "A social network that allows everybody to organize and join online events.",
+            "url": "http://wriler.com"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 4225,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/asadkalimi",
+            "name": "Asad K.",
+            "summary": "Head of Channel Partnerships @ Aspire | GTM & Commercial Strategy | Strategic Partnerships |Business Development |",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joelleong",
+            "name": "Joel Leong",
+            "summary": "CMO & Co-Founder at Aspire | Fintech | Payments | Strategy | Commercial",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andrea-baronchelli-0979a541",
+            "name": "Andrea Baronchelli",
+            "summary": "Co-Founder & CEO at Aspire",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/brendashee",
+            "name": "Brenda Shee",
+            "summary": "Director, Sales Development @ Aspire",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nathan-shammah-42609158",
+            "name": "Nathan Shammah",
+            "summary": "Chief Technology Officer at Unitary Fund",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Navin Khadka\n\n\n\nWorking with Giovanni was a pleasure. I personally found his dedication to his job very inspiring. It was amazing that beyond his skills as a coder, he has a good eye for design. It's admirable how he was able to do all this, while also running a company!\nI highly recommend him for any future endeavours. I would work with him again without hesitation if a chance arises. ",
+        "Michael Weinstock Johansson\n\n\n\nI\u00b4m honestly fascinated about how awesomely cool this dude is. Despite being as young as he is, and being a marathon style programmer to boot, Giovanni is still to be seen at every tech-event out there. Hyper-social and always super energetic about his pet startup project, G still finds time to hack away for hours on end at the office and can, like yesterday, still be giving valid feedback on policy that our CTO sets, even though he is half a world away on holiday. Add to that that this guy has just spent the last couple of months sleeping on a pallet in a dorm he shares with three people with only one key and you\u00b4ll get a hint of his level of dedication. If you can hire him, do so, but chances are you won\u00b4t be able to, as he might just be running his own show full time in no time."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Giovanni Maria Casinelli",
+            "link": "https://it.linkedin.com/in/giovanni-maria-casinelli-b8341b1a4",
+            "summary": "Studente presso Sapienza Universit\u00e0 di Roma",
+            "location": "Roma"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQEmS1lzn8TGOA/group-logo_image-shrink_48x48/0/1655529329739?e=1703491200&v=beta&t=QgojxH5h-70DB8FMrYLYUNpH-knn7Eo0udgptLQAbmo",
+            "name": "STARTUP AND ENTREPRENEURS NETWORK",
+            "url": "https://www.linkedin.com/groups/58537"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQHAt7FxkxrMCg/group-logo_image-shrink_400x400/0/1689142893737?e=1703491200&v=beta&t=P6gaLByicUm9xgtU7t_mgLmv__OJcyhLUD_hLWmS_3o",
+            "name": "Family Office Club: #1 Ultra-Wealthy Investor Club | In-Person Events 6X/Year | FamilyOffices.com",
+            "url": "https://www.linkedin.com/groups/46192"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

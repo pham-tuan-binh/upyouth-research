@@ -1,0 +1,315 @@
+{
+    "public_identifier": "adityaharipurkar",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/adityaharipurkar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221536Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=06e4e8b7a7de320b2629453322ada4e44d610907abeb42594499087c7d57030c",
+    "background_cover_image_url": null,
+    "first_name": "Aditya",
+    "last_name": "Haripurkar",
+    "full_name": "Aditya Haripurkar",
+    "follower_count": 3781,
+    "occupation": "Co-Founder and CEO at HitPay ",
+    "headline": "Co-Founder and CEO, HitPay (YC S21)",
+    "summary": "As Co-Founder and CEO of HitPay, I\u2019m dedicated to revolutionizing the payment and commerce landscape for SMEs in Southeast Asia. My journey began with a strong foundation in financial services, including degrees in Economics and Accounting from Middlesex University, and a Masters in Finance from INSEAD Business School. I\u2019m also a CFA Charter holder and an active member of the CFA Singapore Society.\n\nMy corporate career took off at Barclays Capital in Singapore, where I honed my analytical skills as a middle office operations analyst. A stint at the Royal Bank of Scotland further solidified my expertise in the financial sector. However, my passion for innovation and digital entrepreneurship led me to pivot from banking to tech. In 2016, I founded HitPay with a vision to simplify and enhance digital transactions for SMEs.\n\nUnder my leadership, HitPay has grown significantly, contributing to the digital empowerment of numerous businesses across the region. I\u2019m committed to driving further innovation and expansion, with a focus on delivering exceptional value to our customers and stakeholders.\n\nI\u2019m excited about the future of payments and am constantly exploring new ways to redefine the digital payment experience for our users.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "HitPay ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hit-pay",
+            "title": "Co-Founder and CEO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHaBcE-NPgv1w/company-logo_400_400/0/1631335340645?e=1712793600&v=beta&t=QvZPD1coGxtwFdGaLiV2EsjPNUmx_etnPI4-4No1rB4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "Sparkline",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sparkline-analytics",
+            "title": "Account Manager",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEzgnibM-tKXA/company-logo_400_400/0/1631326889077?e=1712793600&v=beta&t=c2Y_hshv5MR5bk7t5tucvyKmo2vWHLv5BvsxL3fke9A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "company": "Royal Bank of Scotland Business",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/royal-bank-of-scotland-business",
+            "title": "Analyst, Portfolio Optimisation",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGv34gs4A4j0w/company-logo_400_400/0/1679170290665/royal_bank_of_scotland_business_logo?e=1712793600&v=beta&t=Dq6_xPuV3cEKg3T2xNoZb4o1sWj-IQvfDP1GL28zaBU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "Barclays Investment Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/barclays-corporate-and-investment-bank",
+            "title": "Analyst, EM Asia Interest Rate Derivatives ",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHejwlUyjHyJg/company-logo_400_400/0/1663668016576/barclays_corporate_and_investment_bank_logo?e=1712793600&v=beta&t=l_2ASax5K_0GQd0q6Z9ctGE6ggs58A8c0w5rUHGa9MM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2007
+            },
+            "company": "Bloomberg LP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bloomberg",
+            "title": "Summer Intern",
+            "description": null,
+            "location": "London, Greater London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0uyE7RGKDGg/company-logo_400_400/0/1631374698859/bloomberg_lp_logo?e=1712793600&v=beta&t=cJ2GTar3COdeG0KYv1qtzSwm3ovJA9TOBzlLvTdnqjU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Masters in Finance",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5176/",
+            "description": "Capstone Project : Startup Valuation",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Bachelor of Science (BS)",
+            "school": "Middlesex University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/11125/",
+            "description": "Double Major in Economics and Accounting",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHlZSKLDMyuUA/company-logo_400_400/0/1631322397825?e=1712793600&v=beta&t=QkP7ykz-lTD5C-pNDJ_X7SwnLU9q6JG6W6aTxGxmH6o",
+            "grade": "First Class Honours ( Joint Honours Prize Winner )",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2004
+            },
+            "field_of_study": "Business/Commerce, General",
+            "degree_name": "Diploma in Business and Commerce",
+            "school": "University of Technology Sydney",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/166678/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHW5Zk21s3IBA/company-logo_400_400/0/1631330781753?e=1712793600&v=beta&t=rmD7F25QLhz6SiDPgjjxTo_0MhCMP3EWJqCpkBSzQs4",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "MAS Fintech Award Finalist 2020",
+            "issuer": "Monetary Authority of Singapore",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "description": null
+        },
+        {
+            "title": "PayPal Incubation Program Startup 2018",
+            "issuer": "",
+            "issued_on": null,
+            "description": "HitPay was selected by PayPal Singapore as one of three startups selected to participate in the PayPal Startup Incubation Program"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": null,
+            "title": "DBS Hackathon 2015",
+            "description": "UX / UI Design and Concept : SnapPay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "NEA Clean and Green Hackathon 2014",
+            "description": "- Participated on behalf of The Social Mill at the 2 day Hackathon\n- UX Design and Concept for 'Makan Hero' ",
+            "url": "http://www.upsingapore.com/clean-green-hackathon-2014/#/home"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Chartered Financial Analyst (CFA)",
+            "license_number": "475258",
+            "display_source": "basno.com",
+            "authority": "CFA Institute",
+            "url": "http://basno.com/sadhc3pj"
+        }
+    ],
+    "connections": 3815,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Cool AI demos will never replace validation from regulators, auditors and examiners.This is why getting messages like these from our customers\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_cool-ai-demos-will-never-replace-validation-activity-7122232408212430848-A3pS",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "\"I'm tired of the AI buzzwords - what does Greenlite *really* do?\"We get asked this all the time, so we made a video to answer it.In one\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_im-tired-of-the-ai-buzzwords-what-does-activity-7120060931044241410-i7oz",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "Filipino merchants can now accept payments via GCash, GGives, and GCredit on HitPay\u2019s payment gateway-with GCash (Mynt - Globe Fintech Innovations,\u2026",
+            "link": "https://www.linkedin.com/posts/fintech-news-philippines_hitpay-partners-gcash-to-offer-more-payment-activity-7117745478519197696-c_F2",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "\ud83c\udf89 Celebrating 1 Year at HitPay! \ud83c\udf89I am thrilled to announce that today marks my 1-year anniversary at HitPay. It has been an incredible journey\u2026",
+            "link": "https://www.linkedin.com/posts/thaoha-me_oneyearanniversary-professionaljourney-activity-7114847680110985216-VLuP",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "We\u2019re at the ACAMS Assembly in Vegas talking to AML professionals about generative AI.If you\u2019re at the event swing by booth 204 - we\u2019d love to help\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_were-at-the-acams-assembly-in-vegas-talking-activity-7114644424306958336-RYyf",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "BluSmart  has done it again! We are thrilled to announce that we have been ranked #2 in LinkedIn India\u2019s Top Startups for the Year 2023, making it\u2026",
+            "link": "https://www.linkedin.com/posts/punitg_zepto-tops-the-list-of-indias-top-20-startups-activity-7112997469663195136-M6gZ",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "Some more lessons from Y Combinator ahead of Demo Day this week:1) Triple your prices - startups chronically undercharge, so keep raising it until\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_some-more-lessons-from-y-combinator-ahead-activity-7104497123294937088-6qyf",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "Jotting down some lessons from Y Combinator before I forget:1) If they won't pay for it, it's not valuable - free pilots, design partnerships and\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_jotting-down-some-lessons-from-y-combinator-activity-7097577787472965632-bHc9",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "Big announcement: Greenlite (YC S23) now supports teams across 3 continents!Our partners (how we think of \u201ccustomers\u201d) are tackling big missions\u2026",
+            "link": "https://www.linkedin.com/posts/lawrencewill_financialcrime-aml-fintech-activity-7089642482044399616-2bBu",
+            "activity_status": "Liked by Aditya Haripurkar"
+        },
+        {
+            "title": "It's taken me 48 hours to post this as I was really overwhelmed with all the love and adulation we got on Monday. As most of you are aware we had our\u2026",
+            "link": "https://www.linkedin.com/posts/prajitnanu_its-taken-me-48-hours-to-post-this-as-i-activity-7082169324588728320-JMzf",
+            "activity_status": "Liked by Aditya Haripurkar"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Aditya Haripurkar",
+            "link": "https://sg.linkedin.com/in/aditya-haripurkar-6b97b248",
+            "summary": null,
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQG4hpiLZ049eg/group-logo_image-shrink_48x48/0/1631427038712?e=1705460400&v=beta&t=FeS0VgXAskWqdYVancjefWgCXoBYiXHt9nM551ig0d0",
+            "name": "Mobile Payments Strategy",
+            "url": "https://www.linkedin.com/groups/149016"
+        },
+        {
+            "profile_pic_url": null,
+            "name": "INSEAD FinTech",
+            "url": "https://www.linkedin.com/groups/8571654"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,574 @@
+{
+    "public_identifier": "triahmadirfan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/triahmadirfan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221524Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f3bb585806e9fef69a875973172f1dbf5837000ebe300e2a0d1b61f8fae7636",
+    "background_cover_image_url": null,
+    "first_name": "Tri Ahmad",
+    "last_name": "Irfan",
+    "full_name": "Tri Ahmad Irfan",
+    "follower_count": 10609,
+    "occupation": "Co-founder & CTO at Lumina (YC W22)",
+    "headline": "Co-founder & CTO at Lumina (YC W22) | Forbes 30 under 30 | Jobs, Careers, AI, Startup",
+    "summary": "Strong engineering & product leader with proven track record in building anything zero to one and scaling them beyond what everybody thought was possible.\n\nCurrently building Lumina to empower 270 million underserved Indonesians to work for a better life. Lumina has secured fundings from Y Combinator & Alpha JWC.\n\nPreviously I help build GudangAda to revolutionize FMCG logistics and supply chain (with $135m+ raised from Sequoia Capital, Falcon Edge, Asia Partners, and Alpha JWC).\n\nPrior to GudangAda, I was part of the founding team at STOQO where I helped built the core products and scaled the engineering team from 1 to 40 in three years. The company raised funding from top VCs in the region (Accel Partners, Monk's Hill Ventures, Insignia Ventures, and Alpha JWC Ventures).\n\nPreviously, I worked at Twitter in San Francisco and several fast-growing startups in Indonesia (GDP Labs, Dekoruma, Cermati). I was a competitive programmer throughout my high school & university years, and coached students who then won medal in national & international levels.\n\nI'm interested in Agriculture, Education, and Economic Empowerment. On the weekend, I'm building Akselito, a coaching platform to help students and fresh graduates build a fulfilling career.\n\nI read classics & works of philosophy as a hobby.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Lumina (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/luminatechnologies/",
+            "title": "Co-founder & CTO",
+            "description": "Build the team & product from the ground up. Achieved 1 million users within 6 months after launch.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFs4CcXjKXFtg/company-logo_400_400/0/1621866904522?e=1700092800&v=beta&t=uFeQ-ZFpd1w6-6d1yhwTDXghbn1JfOeYum7N2foBKAg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Transcend Network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/transcend-network/",
+            "title": "Fellow",
+            "description": "Accepted into a highly selective program for early-stage founders building the future of learning and work.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFBJRzTwhDzuA/company-logo_400_400/0/1674146018020?e=1700092800&v=beta&t=ZBicqntiqM5l8_IxdurkN33W-kbJoP-Vd-W0rqfd6sM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Global Shaper",
+            "description": "The Global Shapers Community is a network of young people driving dialogue, action and change initiated by the World Economic Forum.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1533712023777?e=1700092800&v=beta&t=CXQp7-lIUF1EBtfaRHqnnpW8gbBfApmcjc9YF_ATqS8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "GudangAda",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gudangada/",
+            "title": "VP of Engineering",
+            "description": "Building high-performing technology teams from scratch. GudangAda is Southeast Asia's biggest B2B marketplace with $135m+ raised from Sequoia Capital, Falcon Edge, and Asia Partners. Acting VP of Product (July 2020 - April 2021): Led product management, strategy, and design for logistics, transport, pricing, and warehousing products.",
+            "location": "Indonesia, Singapore, Pakistan",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEhQcYDa0nUvg/company-logo_400_400/0/1603696200022?e=1700092800&v=beta&t=P6nT2Ladk-w6aMPFJSOP7wy8u7yMdiGWEWwMAUsmBbo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "SIRKA (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sirkaio/",
+            "title": "Engineering Advisor",
+            "description": "Sirka is a wellness technology company funded by Y Combinator, Sequoia Capital, and Wavemakers Partners. Helping hire engineers, build products, and guide technical direction.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF3IUExmNISsw/company-logo_400_400/0/1620098181348?e=1700092800&v=beta&t=gEICHNP3YMm-M93r75Tc3YjXxYTJ8AC7qUxCNGqIAFI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "STOQO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stoqo-technologies/",
+            "title": "Founding Team & Engineering Manager",
+            "description": "Founding team & 1st engineer at B2B fresh produce startup (raised $10m+ from Accel Partners & Monk's Hill). Started as an engineer then moved into leadership.\n\nBuilt teams from 1 to 40+ engineers in 2 years, led the implementation of most core products.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF5Pfm6BQ_EgQ/company-logo_400_400/0/1535536853165?e=1700092800&v=beta&t=cs9WeNJKs81n2Qixyk0Wz4BzKfikNdhQc5w7hnKKRFA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "company": "Akselito",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/akselito/",
+            "title": "Co-founder & CTO",
+            "description": "Started out as my passion to help grow people and promote fulfilling careers. We build mentorship, job search, and CV creation platform to help anyone upgrade their working life.\n\nInvited for Y Combinator Winter 2020 batch final on-site interview with YC partners (Top 5% of applicants).",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHI8cXfl7i7HA/company-logo_400_400/0/1565704059457?e=1700092800&v=beta&t=6NIWnNJu64ZiE1DLAYPBJOfjgcptIdCjCnFgoT6Ih4o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "YC 120 Fellow",
+            "description": "Invited by Y Combinator to a premier YC 120 program comprised of 100 driven individuals and 20 individuals who are already at the top of their field. We believe that having a strong network is such a force multiplier for anyone who wants to have a significant impact on the world.",
+            "location": "Greater Denver Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1700092800&v=beta&t=MnO3TtIQEhDkhQo-ptklaLX9zj5UGymA3S76NvpygVs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Indo2SV",
+            "company_linkedin_profile_url": null,
+            "title": "Mentor",
+            "description": "Indo2SV is a 5-months mentorship program from fellow Indonesian professional for Indonesian university student to help them secure internship at top tech companies in Silicon Valley.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Quint",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder (side project)",
+            "description": "Developed web-based product and business model of an internship match-making platform for talented Indonesian students & tech companies. Won 1st place in national collegiate business competition.",
+            "location": "Jakarta Metropolitan Area",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1700092800&v=beta&t=MnO3TtIQEhDkhQo-ptklaLX9zj5UGymA3S76NvpygVs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "University of Indonesia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1519952524993?e=1700092800&v=beta&t=LuhIXcsZtHwqmmVP1hHTkM5WqtvpQt-YB-oFrfRn7UA",
+            "grade": null,
+            "activities_and_societies": "Research & Development CS UI (Engineering and Project Manager), Research & Development CS UI (Head of Web Development Club)"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "STEM",
+            "degree_name": "High School",
+            "school": "Sragen Bilingual Boarding School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Computer Science Olympiad Team, GENIUS Competition IT Commitee"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Ristek (Research and Technology) CS UI",
+            "title": "Deputy Head of Web Development Club",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Ristek (Research and Technology) CS UI",
+            "title": "Engineering and Project Manager",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "YC 120 Fellow (Boulder, CO)",
+            "issuer": "Y Combinator",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "description": "Awarded to an interdisciplinary group of 120 people who Y Combinator believe will change the world.\n\nhttps://techcrunch.com/2019/01/29/sam-altmans-science-camp/"
+        },
+        {
+            "title": "1st Runner Up, Gelar Mahasiswa TIK  2017 (Software Engineering Category)",
+            "issuer": "Ministry of Higher Education, Republic of Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "description": "Win 1st runner up place in a nationwide collegiate software engineering competition. Built a P2P book-sharing app using React Native."
+        },
+        {
+            "title": "Winner, Singapore Airlines AppChallenge Hackathon (Jakarta)",
+            "issuer": "Singapore Airlines",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "description": "Won a nationwide hackathon to solve problems in the Airline industry. Built a gamified loyalty program mobile app in React Native."
+        },
+        {
+            "title": "Young Leaders for Indonesia 9th Batch",
+            "issuer": "Young Leaders for Indonesia Foundation and McKinsey",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "description": "Selected among 60 high performing & promising students across Indonesia from a pool of more than 800 candidates."
+        },
+        {
+            "title": "Most Outstanding Student (Mahasiswa Berprestasi Utama 1)",
+            "issuer": "Faculty of Computer Science, University of Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "description": "Awarded by the Dean of the Faculty for the best resume, academic performance, English speech, and scientific paper presentation."
+        },
+        {
+            "title": "Hult Prize 2017 Regional Final in London, UK",
+            "issuer": "Hult International Business School & Clinton Global Initiatives",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "description": "Working on the 2017 Global Refugee Crisis challenge: How to build sustainable, scalable startup enterprises that could restore the rights and dignity of 10 million refugees across the globe. Selected as a team from more than 50 thousand applicants to compete in London, UK."
+        },
+        {
+            "title": "Delegates of Indonesia at the 18th Annual ASES Summit, Stanford University",
+            "issuer": "Stanford Asia-Pacific Student Entrepreneurship Society",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "description": "ASES Summit is a premier conference on global entrepreneurship at Stanford University, California, inviting 35 international student entrepreneurs chosen from top universities across the Asia-Pacific region to solve the world's toughest problems."
+        },
+        {
+            "title": "Hult Prize 2016 Regional Final in Boston, MA",
+            "issuer": "Hult International Business School & Clinton Global Initiatives",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "description": "Working on the 2016 Urban Crowded Spaces challenge: How to build sustainable, scalable, and fast-growing social enterprises that double the income of 10 million people residing in crowded urban spaces, by better connecting people, goods, services, and capital. Selected as a team from more than 25 thousand applicants."
+        },
+        {
+            "title": "Finalist in ACM International Collegiate Programming Contest Jakarta Regional",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Winner at Kairos Sharing Table Indonesia",
+            "issuer": "Kairos Society",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist in ACM International Collegiate Programming Contest Jakarta Regional",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Indonesia College Startup Labs Final Participant",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": " Finalist in ACM International Collegiate Programming Contest Jakarta Regional",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "3rd winner of Depok ICT Awards in ICT Innovation",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "4th winner in Programming Competition Session",
+            "issuer": "JOINTS Universitas Gadjah Mada",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist in ACM International Collegiate Programming Contest Jakarta Regional",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist in Compfest Collegiate Competitive Programming",
+            "issuer": "University of Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Most Outstanding Students in Sragen Bilingual Boarding School Class of 2013",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Medalist in National Informatics Olympiad",
+            "issuer": "Indonesian Ministry of Education",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "1st winner in IT Venture Competition",
+            "issuer": "Universitas Sebelas Maret Surakarta",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "title": "ASES Alumni Mentor",
+            "cause": null,
+            "company": "Stanford University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/stanford-university/",
+            "description": "I mentor Stanford undergraduate students on career preparation and startup journey.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1700092800&v=beta&t=0I4xa8TYRextFJG2v-r54-g48NbJwFslIdSKS29IAHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Mentor & Speaker on Career Development",
+            "cause": null,
+            "company": "University of Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-indonesia/",
+            "description": "I speak and mentor CS UI students on career development, particularly in software engineering.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1519952524993?e=1700092800&v=beta&t=LuhIXcsZtHwqmmVP1hHTkM5WqtvpQt-YB-oFrfRn7UA"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Startup School Graduate",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Y Combinator",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/rumanta",
+            "name": "William Rumanta",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stevensang-2b467415b",
+            "name": "Stevensang .",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andrew-theodore-t",
+            "name": "Andrew Theodore Tjondrowidjojo",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/faizghifari",
+            "name": "Faiz Ghifari",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fajarmaulanaipb",
+            "name": "Fajar Maulana",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/xavierusman",
+            "name": "Xavier U.",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arkanalexei",
+            "name": "Arkan Alexei Andrei",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anggardha-febriano",
+            "name": "Anggardha Febriano",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maudyayunda",
+            "name": "Maudy Ayunda",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/onlee",
+            "name": "On Lee",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

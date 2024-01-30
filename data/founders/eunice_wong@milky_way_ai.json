@@ -1,0 +1,397 @@
+{
+    "public_identifier": "eunicewes",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eunicewes/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221715Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cdb2d250ebd107177cbcb4cd6c486ba035b4cc5afd5a8918ecacaa2053dce4a6",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eunicewes/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221715Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=04bb06674d3036ef6ec7133c5f9385e2725c9271214ec30039b6638bb8163b4f",
+    "first_name": "Eunice",
+    "last_name": "Wong",
+    "full_name": "Eunice Wong",
+    "follower_count": 8142,
+    "occupation": "CEO & Co-Founder at TalkStack AI",
+    "headline": "2x founder l Co-founder TalkStack I Enterprise AI",
+    "summary": "Co-founder of TalkStack AI, Architecting the future of Salesforce. \n\nCo-founded YC/TechStar/Samsung-backed AI Startups. Passionate about all things AI and leveraging it to 10x productivity.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Seattle",
+    "state": "Washington",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Milky Way AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/milkywayai/",
+            "title": "CEO and Co-founder",
+            "description": "A Techstars and Y Combinator portfolio company, Milky Way AI is transforming how the largest workforce works.\n\nMillions of workers in retail do not have effective tools to do their jobs and Retailers are still relying on manual store audit to measure service delivery and merchandising performance. \n\nWe empowering them with an unprecedented real-time store analytics platform where sales, marketing and operations team can act on marketing and distribution insights rapidly, leveraging out proprietary few-shot learning AI technology.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH6d-QkVAkq_w/company-logo_400_400/0/1630661544596/milkywayai_logo?e=1712188800&v=beta&t=03CB9aWN4kPl_H9_9vSPr-WxQ1ypoXW11MB1nKkfik0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "TalkStack AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/talkstackai/",
+            "title": "CEO & Co-Founder",
+            "description": "Building Superhuman AI Voice Agents ( Gen AI ) that can perform multiple tasks such as customer support, lead generation/qualification, appointment reminders and scheduling, and much more.  We power Enterprises to scale their customer support and sales team in a single click, without writing code or an AI team.\n\nBacked by TechStars Seattle 23'.\n\nhttps://www.geekwire.com/2023/meet-the-24-new-startups-in-techstars-seattle-as-accelerator-doubles-class-size/",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFAwzfjw9eJ8A/company-logo_400_400/0/1696218943918/talkstackai_logo?e=1712188800&v=beta&t=QKm-I6Tj-ffM7tPK10qUqTvmPoK9w5C_twHJVtk7JvA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence at Entrepreneur First",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712188800&v=beta&t=QTtnUNErH9Dl7vSiH_xq2pWdMTf4YcAeE5Mgdc6erqc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "dunnhumby",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dunnhumby/",
+            "title": "Global E-commerce Director",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH8iEghhUITCg/company-logo_400_400/0/1657017233367/dunnhumby_logo?e=1712188800&v=beta&t=0UiQwqpvxKfKGydW4PyIQw4E1mAdnYgq0HCkXPXcraQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Quantum Interactive Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Director",
+            "description": "-  Developed business and digital marketing strategy.\n-  Drove digital transformation of Suntec Rewards program and internal team\n-  Research and implemented of new technologies to be ahead of competition and best-in-class\n-  P&L responsibility\n-  Established strategic partnerships with lifestyle and technology partners.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "Quantum Interactive Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Head of Partnerships,E-commerce",
+            "description": "-Led the merchant acquisition team for O2O e-commerce platform\n-Developed of new partnerships to acquire both merchant and end-consumer\n-Consultancy on UX, branding and product mix",
+            "location": "Central Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Global Checkout",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/global-checkout/",
+            "title": "Head of Business Development and Partnerships Marketing",
+            "description": "Global Checkout is an innovative proprietary e-commerce solutions that enables e-retailers to sell globally with ease and speed, from e-commerce platform plugins to enterprise sized merchants.\n\n- Developed the sales and marketing strategy\n- Acquired key new merchants\n- Led product development and road map\n- P&L responsibility\n- Led contract signing and partnership due diligence for the development of Magento Plug-in\n- Built referral partnerships with e-commerce vendors\n- Formed new strategic partnerships with payments solution providers and banks",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF9RMT3w8oPIA/company-logo_400_400/0/1631320750447?e=1712188800&v=beta&t=kXG0lz8wdqfggXFCT0pVvWaYof8PlqHCLbRuTQOuy6E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Shell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shell/",
+            "title": "Territory Manager, Retail, Downstream",
+            "description": "Managed USD 100 million+ annual revenue portfolio, with 40+ retail outlets and business partners\nBusiness Development, Contracts and Negotiation\n- Grew core businesses\u2019 sales by 12%+ when the national average sales growth was negative, by improving competencies of business partners and negotiating marketing strategies with suppliers and terminating non-performing contracts\n- Launched 3 new retail sites ahead of schedule through tight collaboration between legal, engineering and network teams to support volume delivery which contributed to  USD $1M+ in sales\nOperations Excellence \n- Achieved customer satisfaction rating of 100% for 40+ outlets and ranked #1 territory in Malaysia for  quarters that led to strong customer brand preference with an average net promoter score of above 8.5/10",
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGN30g7aSl4NA/company-logo_400_400/0/1631303787196?e=1712188800&v=beta&t=8S4OTkffORkQgTZ3u6L5-R2ZK9oPKkV81ulTpeRocUw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2011
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Enterprise Marketing Specialist",
+            "description": "Creation and Management of Marketing Campaigns\n\u2022\tGenerated sales pipeline of USD $2.1 M from C-suite marketing round-tables for Enterprise customers\n\u2022\tManaged creative and events agencies including performance reviews and contract negotiation\n\u2022\tRedesigned the Enterprise Customer Care website which saw 400% increase in web traffic",
+            "location": "Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712188800&v=beta&t=UZvwigHJ5JHRMHXibDcK1duDl6qUHKmnaLkuUQ1Lujc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "company": "FJ Benjamin",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fj-benjamin/",
+            "title": "Marketing Intern",
+            "description": null,
+            "location": "kuala lumpur",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEgCx06HZVK-Q/company-logo_400_400/0/1630610847745/fj_benjamin_logo?e=1712188800&v=beta&t=wmTNkJu1SSjayVEnTlXwF1Kbs_HQyKd8QULwhg6gj0Y"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Executive MBA",
+            "school": "Sa\u00efd Business School, University of Oxford",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGczlhjBD9I4g/company-logo_400_400/0/1700067002203/oxfordsbs_logo?e=1712188800&v=beta&t=KC4TktxUy8F8Z9R4j6qOBhUMzXLymxElUyh8m4AnSd4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Finance, Marketing",
+            "degree_name": "Commerce",
+            "school": "The University of Western Australia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGONb5202Ubeg/company-logo_400_400/0/1630613105542/university_of_western_australia_logo?e=1712188800&v=beta&t=2O4jH3_yZNxSoUz-CjmxYIR71vrKA-5saev8yvRCmLw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Sewing, Design and Construction",
+            "degree_name": "Summer School",
+            "school": "Parsons School of Design - The New School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEz84JNInvWwg/company-logo_400_400/0/1631356456095/parsons_school_of_design_logo?e=1712188800&v=beta&t=ydPmCSADKkc6ykm7WBGC1b133MWzRffgjIolvdSvsmY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English",
+        "French",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Shell Global Territory Manager of the Year",
+            "issuer": "Shell",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "description": "Won the Shell Global Territory Manager of the year in 2012 (is the youngest recipient among over 500 peers globally). "
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "title": "Teacher and Fund Raiser",
+            "cause": "EDUCATION",
+            "company": "Khmer New Generation Organisation (KNGO)",
+            "company_linkedin_profile_url": null,
+            "description": "- Championed the \"Classroom for Hope\" project- raising funds to build additional classrooms.\n- Consulted KNGO to raise funds for 2015 operating expenses via private enterprises and crowdfunding which resulted in KNGO's success in acquiring the required funds to continue educating over 400 students in Bospo Village, Battambang, Cambodia.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/cheungjessica",
+            "name": "Jessica Cheung",
+            "summary": "Venture Builder | Startup Advisor | Corporate Innovation | Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stephensowole",
+            "name": "Stephen Sowole",
+            "summary": "CEO at Icon (YC S20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/daniel-j-1b52a2111",
+            "name": "Daniel J.",
+            "summary": "Kingdom Advancer at Vive Church | Co-founder & CEO at Zen (YC S21) | Co-founder Prepared | Adobe Alum | Yale Alum",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/upinder-singh-b500a3b4",
+            "name": "Upinder Singh",
+            "summary": "Ai Co-Pilot for Maintenance & Service Engineer | Techstars Seattle' 23",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hiangoh",
+            "name": "Hian  Goh",
+            "summary": "Entrepreneur / Venture Capitalist / Unreasonable podcast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ulib",
+            "name": "Uli Barkai",
+            "summary": "Co-founder at tawkit.ai | TechStars Seattle 23'",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pasquale-sorrentino-1aa1a363",
+            "name": "Pasquale  Sorrentino",
+            "summary": "Serial Builder | Co-Founder Talkstack.ai | Techstars Seattle '23",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arjunmenonk",
+            "name": "Arjun Menon",
+            "summary": "2x Founder Now Building Chi AI | AI User Clone For Software Testing| Techstars \u201823",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maxrye",
+            "name": "Max Rye",
+            "summary": "Chief Strategist at TurtleTree",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joshuapenner",
+            "name": "Joshua Penner",
+            "summary": "Leading an #AI firm to Solve the Biggest Problems You've Never Heard of ..but Pay for Everyday ++ Mayor of Orting, WA ++ Sometimes I write, Author: Strategy in 60 Minutes - Text: 253-224-4226 ++ Powered by #Techstars",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Eunice Wong",
+            "link": "https://ch.linkedin.com/in/eunice-wong-981b0052",
+            "summary": "HR Head - GPS&C Functions & WWF HR  at Novartis Pharma AG",
+            "location": "Basel"
+        },
+        {
+            "name": "Eunice W.",
+            "link": "https://hk.linkedin.com/in/eunice-w-128907b",
+            "summary": "Trade Commissioner at Consulate General of Canada",
+            "location": "Hong Kong SAR"
+        },
+        {
+            "name": "Eunice Wong",
+            "link": "https://my.linkedin.com/in/eunice-wong-2aaa10ba",
+            "summary": "Eunice Wong Agency",
+            "location": "Perak, Malaysia"
+        },
+        {
+            "name": "Eunice Wong",
+            "link": "https://sg.linkedin.com/in/eunice-wong-872b9524",
+            "summary": "Regional HR Manager at Danone Asia Pacific Holdings Pte Ltd",
+            "location": "Singapore"
+        },
+        {
+            "name": "Eunice Wong",
+            "link": "https://hk.linkedin.com/in/eunice-wong-963a72102",
+            "summary": "VP, Client Services (Asia)  at Tradeweb",
+            "location": "Hong Kong SAR"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

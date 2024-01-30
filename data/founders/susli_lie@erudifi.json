@@ -1,0 +1,454 @@
+{
+    "public_identifier": "susli",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/susli/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f9af1b024dfead3044c860801fa09bfe6b0b3a1b0a03868d5320cf14d52215e1",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/susli/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2d9e204d7ec688e1d642bb6d75e3fef81b0c7640da3f4815f61762722dc40956",
+    "first_name": "Susli",
+    "last_name": "Lie",
+    "full_name": "Susli Lie",
+    "follower_count": 3658,
+    "occupation": "Partner at Monk's Hill Ventures",
+    "headline": "Partner at Monk's Hill Ventures | YC Founder turned VC | Proud Mom",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Monk's Hill Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/monk's-hill-ventures/",
+            "title": "Partner",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGToJPC1xtZkQ/company-logo_400_400/0/1630657723932/monks_hill_ventures_logo?e=1712793600&v=beta&t=wTXbSr6yauXzBMDMAYKGEweJic3OOFj12EC2ZKWvbCc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Monk's Hill Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/monk's-hill-ventures/",
+            "title": "ESG Lead",
+            "description": "Monk's Hill Ventures (MHV) is a venture capital firm investing in early-stage tech companies, primarily Series A, in Southeast Asia. We take a first principles approach in how we operate and make decisions. Since our founding, MHV has invested in 40+ fast-growing startups spanning multiple business models and industry verticals. We are entrepreneurs backing entrepreneurs.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGToJPC1xtZkQ/company-logo_400_400/0/1630657723932/monks_hill_ventures_logo?e=1712793600&v=beta&t=wTXbSr6yauXzBMDMAYKGEweJic3OOFj12EC2ZKWvbCc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Moonshot Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/moonshot-ventures-org/",
+            "title": "Chair and Co-Founder",
+            "description": "Moonshot Ventures manages and incubates impact funds, which address some of the world\u2019s most pressing challenges. Each fund pursues a specific development theme, and invests in disruptive commercial innovations for large-scale impact. We focus on development problems and markets within Southeast Asia, and work alongside partners from across all sectors.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFNyp9b1js6Dg/company-logo_400_400/0/1630573133122/moonshot_ventures_org_logo?e=1712793600&v=beta&t=oz1ts70T5uyZeza5jhyOLtnNrQYrBKYDrMqmPz-kIHQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "ErudiFi ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/erudifi/",
+            "title": "Co-Founder",
+            "description": "ErudiFi is the leading tech-enabled student financing company in Southeast Asia. We are on a mission to build a better tomorrow for youths, starting with affordable tuition installments. Our platforms include Bukas in the Philippines and Danacita in Indonesia. We are backed by world-class investors such as Y Combinator, Monk's Hill Ventures and Qualgro.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGI37ROPS4JQA/company-logo_400_400/0/1630639601290/erudifi_logo?e=1712793600&v=beta&t=JCuqkW2pMVpWU-_EjoaOIEoFp_WihJNOr95YFmQHZ4g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "W18 Batch",
+            "description": "First female founder from Indonesia and first female fintech founder from Southeast Asia to be selected into Y Combinator.\n\nY Combinator (YC) is a startup fund and program. Since 2005, YC has invested in nearly 3,000 companies including Airbnb, DoorDash, Stripe, Instacart, Dropbox, and Coinbase. The combined valuation of YC companies is over $300B.",
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "YCAB Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ycab-ventures/",
+            "title": "Head of Investments",
+            "description": "YCAB Ventures invests in impact-driven Indonesian businesses which aim to deliver quality products and services while serving a greater social good. Specifically, we want to play a catalytic role for high-potential early stage businesses by bridging the capital gap and providing expertise and network to reach growth and scale. We believe in investing for impact towards a more inclusive economy for all.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFD3iPLeffLSw/company-logo_400_400/0/1631313050841?e=1712793600&v=beta&t=tpFoZFfhc2DZN-AlZp7TzLUC8W-o4cbwCTQBKjJ0V-g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Consultant at multilateral financial institutions (ADB, World Bank, IFC)",
+            "company_linkedin_profile_url": null,
+            "title": "Consultant - Financial Innovation",
+            "description": "Advised multilateral clients on the feasibility of a private sector student financing scheme in developing countries, including project scoping and partner identification. Built pro-forma financial models and designed innovative structures to ensure commercially viable partnerships with multi-sector partners.",
+            "location": "Southeast Asia and Africa",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "LeapFrog Investments",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/leapfroginvestments/",
+            "title": "Investment Officer",
+            "description": "Responsible for sourcing opportunities, building a deal pipeline, and validating new investment theses focused on financial inclusion for the poor in Indonesia. Evaluated potential investment companies as part of the Investment Committee process, including company valuation, due diligence, term sheet negotiation, and investment memoranda.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG5DOKPRYHtiA/company-logo_400_400/0/1694692054841/leapfroginvestments_logo?e=1712793600&v=beta&t=BFeIRxXBEZ8DnIVNvdFkiVXnICUXwFvfhtEYXxAfJ7s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2013
+            },
+            "company": "Wharton Social Venture Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/the-wharton-school/",
+            "title": "Principal",
+            "description": "The Wharton Social Venture Fund (now known as the Wharton Impact Investing Partners) is a student-led organization that sources and conducts diligence on early and expansion-stage companies with venture-grade growth potential and intentional, measurable social impact.",
+            "location": "Philadelphia, PA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1712793600&v=beta&t=xwc_xNDcOIZJ5wr4wrF4Va9xXz3JZGpAX5n3nCSJD3o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "PT Principia Management Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-principia-management-group/",
+            "title": "Investment Associate",
+            "description": "Responsible for valuation and reporting of portfolio companies and due diligence interaction with prospective LPs.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHRus_PYajRvQ/company-logo_400_400/0/1630908080867/pt_principia_management_group_logo?e=1712793600&v=beta&t=pkR58YRWdch6Ywqn5k34ewMY1mJKnYQdXk90_gvtRcY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "company": "Oliver Wyman Financial Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/oliver-wyman/",
+            "title": "Asia-Pacific Chief of Staff",
+            "description": "Pioneered the regional Chief of Staff role which is responsible for overseeing project pipeline and revenue flows across Oliver Wyman's Asia-Pacific offices. Led business development projects and coordinated regional strategic planning activities, including budget planning and capacity planning.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHe6ToOXI7ggw/company-logo_400_400/0/1688572318376/oliver_wyman_logo?e=1712793600&v=beta&t=6j4mhKk4Lx28qQo4lm-e17vHgi4xtjGg0W3-cxHllQg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "Oliver Wyman Financial Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/oliver-wyman/",
+            "title": "Management Consultant",
+            "description": "Led and executed engagements in North America and Asia-Pacific for leading financial institutions (banks, asset managers, stock exchanges, insurance companies, and regulators) covering credit risk management, portfolio modeling, and strategy development.",
+            "location": "New York and Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHe6ToOXI7ggw/company-logo_400_400/0/1688572318376/oliver_wyman_logo?e=1712793600&v=beta&t=6j4mhKk4Lx28qQo4lm-e17vHgi4xtjGg0W3-cxHllQg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Entrepreneurial Management",
+            "degree_name": "MBA",
+            "school": "The Wharton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1712793600&v=beta&t=xwc_xNDcOIZJ5wr4wrF4Va9xXz3JZGpAX5n3nCSJD3o",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "International Relations/International Development",
+            "degree_name": "MA",
+            "school": "Johns Hopkins School of Advanced International Studies (SAIS)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFSniLNpncfMw/company-logo_400_400/0/1631337832119?e=1712793600&v=beta&t=82P-GJTuVBzVkJCUc_DdOqM70YL12xCA4LmBqyZ3Al0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Economics, Chinese",
+            "degree_name": "BA",
+            "school": "Yale University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGGJUjGgSYcWQ/company-logo_400_400/0/1631385636084?e=1712793600&v=beta&t=dTkyKN2umzA8PRo_oRod0H0flBtJn-1rjNnOe5HqaxQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "Chinese",
+        "English",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Asia 21 Young Leader (Class of 2018)",
+            "issuer": "Asia 21 Society",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "description": null
+        },
+        {
+            "title": "Social Impact Prize Winner - Dana Cita",
+            "issuer": "Wharton Business Plan Competition",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Second Prize Winner - Next.tv",
+            "issuer": "2013 INSEAD Venture Competition",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2023
+            },
+            "title": "Advisory Council Member",
+            "cause": null,
+            "company": "YCAB Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ycab-foundation/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEL5lWYvPadvg/company-logo_400_400/0/1630634464144/ycab_foundation_logo?e=1712793600&v=beta&t=yasjVQPz_EXVkY3E_AOEkZSfjHihjXV5URklatwVVN0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": null,
+            "title": "Committee Head - Entrepreneurship Development/Capacity Building (2021-2026)",
+            "cause": null,
+            "company": "Indonesian Chamber of Commerce and Industry (KADIN)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kadin-indonesia/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFFYSQ2bGphfQ/company-logo_400_400/0/1630636079489?e=1712793600&v=beta&t=L_IMzhAjmdqFoNaQoP0HZ6H9qMeicaevvAJ4iKD9V1o"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": " Certificate of Completion \u2013 SVCA Masterclass: Integrating ESG into Venture Capital ",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Singapore Venture & Private Capital Association",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jenniferho08",
+            "name": "Jennifer Ho",
+            "summary": "Partner at Integra Partners",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pahrada-mameaw",
+            "name": "Pahrada (Mameaw) Sapprasert",
+            "summary": "Partner at 500 Global Thailand | Orzon Ventures | We are actively investing!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hauly",
+            "name": "Hau Ly",
+            "summary": "Partner at AVV | We are investing!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/patriciasosrodjojo",
+            "name": "Patricia Sosrodjojo",
+            "summary": "VC @ Seedstars | Emerging markets | Impact & Gender Lens",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pengtong",
+            "name": "Peng T. Ong",
+            "summary": "Co-Founder and Managing Partner at Monk's Hill Ventures",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pai-arun",
+            "name": "Arun Pai",
+            "summary": "VC @ MHV | Ex Operator | Ex Banker",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/thienhuongtran",
+            "name": "Huong Tran",
+            "summary": "Venture Partner | Stanford MBA | Founder turned VC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amanda-cua",
+            "name": "Amanda Cua",
+            "summary": "Founder & CEO at BackScoop",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khoowinnie",
+            "name": "Winnie Khoo",
+            "summary": "Partner at Antler | Global VC backing founders from day zero to greatness | Executive Leader, Growth Hacker & Team Builder",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/limky",
+            "name": "Kuo-Yi  Lim (\u6797\u56fd\u6bc5)",
+            "summary": "Co-Founder and Managing Partner @ Monk's Hill Ventures",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

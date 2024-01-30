@@ -1,0 +1,423 @@
+{
+    "public_identifier": "dotkoh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dotkoh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221625Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2fc9d3e8b9c9976ed03498b27e357659d3c48f22363d91810216311c142ac2d5",
+    "background_cover_image_url": null,
+    "first_name": "Dorothea",
+    "last_name": "K.",
+    "full_name": "Dorothea K.",
+    "follower_count": 4246,
+    "occupation": "Founder & CEO at Bot MD",
+    "headline": "Founder & CEO @ Bot MD | A.I. Clinical Assistant",
+    "summary": "I thrive at the intersection of entrepreneurship, technology, design and medicine.  My personal goal in life is to impact 100 million patients in emerging markets by the age of 40.\n\nInterests: Digital health (A.I. & machine learning), medical device innovation, creating disruptive growth opportunities, emerging markets, building high performing teams, commercialization of new businesses, China, Indonesia, Philippines",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Bot MD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/botmd/",
+            "title": "Founder & CEO",
+            "description": "Bot MD is an A.I. clinical assistant. Our A.I. can be trained on any hospital content to instantly answer physician and patient queries.\n\nOur company's mission is to Empower Doctors around the world. Since 2018, we have been used by over 20,000 doctors and nurses around the world.\n\nWe believe that providing doctors with quick and reliable access to clinical information is essential to improve the quality of patient care. This is a significant need especially in large and underserved emerging markets.\n\nCome talk to us (hiring@botmd.io) if you are interested in changing healthcare and impacting millions. \n\nActive job listings can be found at: https://angel.co/5-health/jobs",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_400_400/0/1533186617224?e=1704326400&v=beta&t=B66L-FcEA5D03sOtoXz3oQVpwCzYdIz8iISdM4GEuTs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "Explorer",
+            "description": "Living out my dream in YC S18.",
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1704326400&v=beta&t=37B9-r86_kcSQTIxYC3Hcnoi6iKAowCeDpTBl6xVugM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Baxter International Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baxter-healthcare/",
+            "title": "General Manager, Singapore, Indonesia & Philippines",
+            "description": "- Direct P&L responsibility for Singapore, Indonesia, Philippines, Brunei & Myanmar",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGo-7_Js0cTcQ/company-logo_400_400/0/1686836640914?e=1704326400&v=beta&t=_vXj3Z2w0DfHXtvcYyA-usaumVvuSAYcnZQPG5dVQog"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            },
+            "company": "Baxter International Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baxter-healthcare/",
+            "title": "General Manager, Indonesia & Philippines",
+            "description": "- Goal to bring more healthcare access to the two largest Southeast Asian markets \n- Direct P&L responsibility of Indonesia & Philippines for Baxter's Renal (Chronic HD, PD & Acute) and Hospital Products Businesses (Nutrition, Oncology & Anesthesia)\n- Building high performing organizations  \n- Creating innovative therapy development and market access initiatives to drive therapy penetration across our portfolio in Indonesia & Philippines",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGo-7_Js0cTcQ/company-logo_400_400/0/1686836640914?e=1704326400&v=beta&t=_vXj3Z2w0DfHXtvcYyA-usaumVvuSAYcnZQPG5dVQog"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Baxter International Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baxter-healthcare/",
+            "title": "Director, Medication Delivery Solutions (MDS)",
+            "description": "- Manage a team of 20 consultants and sales reps in the commercial execution of Baxter's new Pharmacy Consulting, Mobile Compounding (BIVAS) and Ward Admixing portfolio (BNA) of solutions in China\n- Direct P&L and sales responsibility as well as the management of national distributor partnerships",
+            "location": "Shanghai City, China",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGo-7_Js0cTcQ/company-logo_400_400/0/1686836640914?e=1704326400&v=beta&t=_vXj3Z2w0DfHXtvcYyA-usaumVvuSAYcnZQPG5dVQog"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Baxter International Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baxter-healthcare/",
+            "title": "Director, Business Model Innovation, China",
+            "description": "- Manage a cross-functional 10-man innovation team in the discovery, creation and commercialization of disruptive new business models to address the needs of the Chinese Renal and IV markets\n- Direct P&L and sales team responsibility as the Commercial Head for our new businesses\n- Lead the establishment of new distributor partnerships as well the build out and management of a new sales organization to commercially execute our new business models\n\n\uff0d\u5728\u767e\u7279\u4e2d\u56fd\uff0c\u6211\u9886\u5bfc\u4e00\u4e2a\u591a\u5b66\u79d1\u56e2\u961f\u5236\u5b9a\u548c\u5b9e\u65bd\u65b0\u7684\u98a0\u8986\u6027\u7684\u4e1a\u52a1\u6a21\u5f0f\uff0c\u4ee5\u89e3\u51b31.2\u4ebf\u6162\u6027\u80be\u810f\u75c5\u60a3\u8005\u7684\u9700\u6c42\uff0c\u5e76\u5f71\u54cd\u4e86\u4e2d\u56fd13.5\u4ebf\u9759\u8109\u6ce8\u5c04\u60a3\u8005\u7684\u70b9\u6ef4\u5b89\u5168\n\nPress Release: http://www.jksb.com.cn/html/news/industry/2015/0629/47716.html\nhttp://www.baxter.com.cn/press_room/press_releases/2015/0611_BIVAS.html\nhttp://www.baxter.com.cn/press_room/press_releases/2015/0930_BNA_baihuzhu.html",
+            "location": "Shanghai City, China",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGo-7_Js0cTcQ/company-logo_400_400/0/1686836640914?e=1704326400&v=beta&t=_vXj3Z2w0DfHXtvcYyA-usaumVvuSAYcnZQPG5dVQog"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "Baxter International Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baxter-healthcare/",
+            "title": "Senior Program Leader, International",
+            "description": "- Chief-of-Staff to President International\n\n\uff0d\u5728\u767e\u7279\u56fd\u9645\uff0c\u6211\u76f4\u63a5\u6c47\u62a5\u7ed9\u767e\u7279\u56fd\u9645\u7684\u603b\u88c1\uff0c\u9886\u5bfc\u82e5\u5e72\u8de8\u591a\u4e86\u767e\u7279\u7279\u8bb8\u7ecf\u8425\u6218\u7565\u548c\u4e1a\u52a1\u53d1\u5c55\u4e3e\u63aa\u5851\u9020\u767e\u7279\u56fd\u9645\u53d1\u5c55\u6218\u7565\u7684\u65b0\u5174\u5e02\u573a\uff0c\u5305\u62ec\u5728\u4e9a\u6d32\u516c\u79c1\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\u7684\u53d1\u5c55\u67dc\u67b6",
+            "location": "Greater Chicago Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGo-7_Js0cTcQ/company-logo_400_400/0/1686836640914?e=1704326400&v=beta&t=_vXj3Z2w0DfHXtvcYyA-usaumVvuSAYcnZQPG5dVQog"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Medtronic",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/medtronic/",
+            "title": "Senior Manager, Business Development & Strategy (International)",
+            "description": "My portfolio is focused on:\n- Executing Business model innovation for emerging markets\n- Developing strategic partnerships for key accounts in Asia\n- Building emerging market innovation capabilities\n- Evaluating acquisition opportunities in emerging markets",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEzUefeWte_PQ/company-logo_400_400/0/1667587833494?e=1704326400&v=beta&t=UiypQK3UdPKfRvauSOmktu3g6ZQsZwCpnVAgN_hv_5A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "Singapore Economic Development Board",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/singapore-economic-development-board/",
+            "title": "Senior Officer",
+            "description": "Biomedical Sciences Cluster, Medical Devices",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHRhjew2ylQYQ/company-logo_400_400/0/1629087204319?e=1704326400&v=beta&t=e0NsVemDLyeHcK3llyZFUOrJcA1pjm2k9oA8DBrEnpk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2008
+            },
+            "company": "Stanford Byers Center for Biodesign",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stanford-byers-center-for-biodesign/",
+            "title": "Innovation Fellow",
+            "description": "Saving the world, one medical device at a time.",
+            "location": "Palo Alto, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHKAMA-GXkQTg/company-logo_400_400/0/1616082226538?e=1704326400&v=beta&t=dnC4EcvKvUYBahRaRwdWZKIaJd9jwIXJj9EjCQfgylE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2008
+            },
+            "company": "Advanced Technology Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/advanced-technology-ventures/",
+            "title": "Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFrT48QwSQT8w/company-logo_400_400/0/1519856513286?e=1704326400&v=beta&t=lpghMghBDkU4k_ZAJfFvXTDP47FXFoq3BZwFY86v9AU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2007
+            },
+            "company": "Johnson & Johnson (Cordis)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/johnson-&-johnson/",
+            "title": "Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFuqNYNGYIxzg/company-logo_400_400/0/1694701608476?e=1704326400&v=beta&t=950ztP44-fH2dI78s8aRPMNWYQNuePMdu2-nRUz_jr4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Bioengineering",
+            "degree_name": "MS",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1704326400&v=beta&t=Kf_ZyvkzyZ505Z9Ltlgjt5R6_boeZOO6BRK2xsB7Xz4",
+            "grade": "4.0/4.0",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Biomedical Engineering, Economics",
+            "degree_name": "BS",
+            "school": "Northwestern University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH-sXOOSUF3aA/company-logo_400_400/0/1519856314413?e=1704326400&v=beta&t=yrPj0_qaqwhBMjFAVTqKrX_ONe40GREImtRRCYAbCjg",
+            "grade": "Summa cum laude",
+            "activities_and_societies": "Tau Beta Pi"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Innovation",
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1704326400&v=beta&t=37B9-r86_kcSQTIxYC3Hcnoi6iKAowCeDpTBl6xVugM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "French",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [
+        {
+            "title": "Peritoneal Dialysis Equipment \u8179\u819c\u900f\u6790\u88c5\u7f6e",
+            "issuer": "cn",
+            "issued_on": {
+                "day": 9,
+                "month": 11,
+                "year": 2016
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": "ZL 2016 20146831.4",
+            "url": null
+        },
+        {
+            "title": "Mobile Pharmacy Intravenous Compounding System",
+            "issuer": "cn",
+            "issued_on": {
+                "day": 18,
+                "month": 7,
+                "year": 2015
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": "CN105332524A",
+            "url": null
+        },
+        {
+            "title": "Medical Consumables Dispenser",
+            "issuer": "cn",
+            "issued_on": {
+                "day": 15,
+                "month": 7,
+                "year": 2015
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": "ZL 2015 2 0127965.7",
+            "url": null
+        },
+        {
+            "title": "Method and apparatus for in-vivo physiological monitoring",
+            "issuer": "us",
+            "issued_on": {
+                "day": 23,
+                "month": 7,
+                "year": 2013
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": "8,494,623",
+            "url": null
+        },
+        {
+            "title": "Egg cracking apparatus",
+            "issuer": "us",
+            "issued_on": {
+                "day": 23,
+                "month": 11,
+                "year": 2006
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": "US 20060260134 A1",
+            "url": null
+        },
+        {
+            "title": "DISPLAY SCREEN OR PORTION THEREOF WITH A GRAPHICAL USER INTERFACE",
+            "issuer": "us",
+            "issued_on": {
+                "day": 22,
+                "month": 6,
+                "year": 2018
+            },
+            "description": null,
+            "application_number": "U.S. Design Application No. 29/654,361",
+            "patent_number": "U.S. Design Application No. 29/654,361",
+            "url": null
+        },
+        {
+            "title": "METHODS AND SYSTEMS FOR PROVIDING AND ORGANIZING MEDICAL INFORMATION",
+            "issuer": "us",
+            "issued_on": {
+                "day": 22,
+                "month": 6,
+                "year": 2018
+            },
+            "description": null,
+            "application_number": "U.S. Patent Application No. 16/016,330",
+            "patent_number": "U.S. Patent Application No. 16/016,330",
+            "url": null
+        }
+    ],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "dorothea k davis",
+            "link": "https://id.linkedin.com/in/dorothea-k-davis-a4158918a",
+            "summary": "Student at STMM",
+            "location": "Yogyakarta, Indonesia"
+        },
+        {
+            "name": "Dorothea K.",
+            "link": "https://de.linkedin.com/in/dorothea-k-5a9a76273",
+            "summary": "--",
+            "location": "Regensburg"
+        },
+        {
+            "name": "Amanda Dorothea K Evensen",
+            "link": "https://no.linkedin.com/in/amanda-dorothea-k-evensen-427479b4",
+            "summary": "Supernature ambassad\u00f8r - Amandadorothea.no",
+            "location": "Norway"
+        },
+        {
+            "name": "Dorothea K",
+            "link": "https://de.linkedin.com/in/dorothea-k-9598a4215",
+            "summary": "stellvertretende k\u00fcchenleitung  bei Jugendherberge",
+            "location": "Nuremberg"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

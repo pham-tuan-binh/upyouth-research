@@ -1,0 +1,195 @@
+{
+    "public_identifier": "yongyisung",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yongyisung/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221531Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2c109a9b747fa3cd28a8a4b2669e87bf892988387a1d11b5364cb2e2c2cbff4f",
+    "background_cover_image_url": null,
+    "first_name": "Yi Sung (Sung)",
+    "last_name": "Yong",
+    "full_name": "Yi Sung (Sung) Yong",
+    "follower_count": 5659,
+    "occupation": "Co-Creator at Grain",
+    "headline": "Bus driver at Grain and Atlas | Forbes 30U30",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Atlas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/atlaskitchen",
+            "title": "Co-Creator",
+            "description": "Atlas is building the operating system for restaurants, focusing on Southeast Asia. The easiest way to start, run and grow any restaurant online and offline. Atlas helps restaurants power online storefronts, point of sale, QR, 3rd party logistics, sync with food platforms, connect with other tools, and more. With this, Atlas becomes the powerful source of truth for customers/menus/orders/stocks -- positioning self-respecting restaurants for the future of F&B (scalability, data, AI, etc.). Existing customers include Les Amis, SaladStop, The Coconut Club, Guzman y Gomez, Providore, Poke Theory, etc. Team and investors are from Grain, Accenture, Microsoft, Udacity, McKinsey, Salesforce, Y Combinator and others.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGWhcfZEh_X_g/company-logo_400_400-alternative/0/1630669402017/atlaskitch3n_logo?e=1713398400&v=beta&t=cW1wUQLau2tPNw8DKbs14qTYcxBvVlXQmmZZVCeBnJs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grain",
+            "title": "Co-Creator",
+            "description": "Grain is a multi-brand online restaurant that uses data and a tech-enabled network to serve food to customers. Grain's mission is to improve lives through meaningful food experiences. Present in Singapore and Thailand. Awarded Singapore's Best Customer Service 2022/23 (by The Straits Times), Financial Times (FT): High-Growth Companies Asia-Pacific 2021, LinkedIn Top Startups 2020, and more. Investors include The Lo & Behold Group, Tee Yih Jia, Singha, Openspace Ventures, Cento Ventures, Koh Boon Hwee (Temasek, DBS, SIA chairman), Majuven, and K2 Global (early Spotify, Impossible, Uber investor).",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_400_400/0/1630625797116/grain_logo?e=1713398400&v=beta&t=94z0VHzouSgsiVbCXs8PHiELmkbkJolgDnjoFq1nmew"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Method",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/method-now",
+            "title": "Director",
+            "description": "Making digital products and services, mostly for forward-thinking companies.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHn_aKQn2dOtw/company-logo_400_400/0/1631303186674?e=1713398400&v=beta&t=sakfPtwc39geSOLTofzsv1npWiToYhGIt9qBk4AMrYY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "One Cent Movement",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/one-cent-movement",
+            "title": "Product",
+            "description": "Turning everyday transactions into opportunities to give to charity. Open sourced.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+            "title": "Management Consultant",
+            "description": "Making pretty slides fast.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1713398400&v=beta&t=weJBuCfzzPe04vwSaH91m-zlaJttlnMnON9rsy-uepI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1713398400&v=beta&t=9Iaf0MFJYwgxwsyVyDdKi3iLsMdrTVvBsSnuxgp8AJs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The Australian National University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/162587/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZFo6J_z1gDA/company-logo_400_400/0/1630641750633/australian_national_university_logo?e=1713398400&v=beta&t=BwxUUrp1x7ZqAsNcO3oTJkDpixO1vatZVrk300TQXjc",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "Chinese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 Under 30 Asia",
+            "issuer": "Forbes",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "JFDIN",
+            "description": "Developed a productivity timer to help you get things done.",
+            "url": "http://www.jfdin.com"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "title": "Volunteer",
+            "cause": "Children",
+            "company": "Hischild International",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": 5582,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFRY31AO6cIuw/group-logo_image-shrink_48x48/0/1631376751249?e=1706126400&v=beta&t=_A4JhSfp4XiJKgIUmSIIXxxpA-1TUKlkawIjGwI7rXE",
+            "name": "Golden Key International Honour Society",
+            "url": "https://www.linkedin.com/groups/27238"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

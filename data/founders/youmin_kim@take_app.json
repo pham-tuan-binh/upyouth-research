@@ -1,0 +1,287 @@
+{
+    "public_identifier": "youmin",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/youmin/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221312Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f4141ece1e148a4de0976bfedb0ca19e1b3c82e5c5b8e03758f3a3974490741f",
+    "background_cover_image_url": null,
+    "first_name": "Youmin",
+    "last_name": "Kim",
+    "full_name": "Youmin Kim",
+    "follower_count": 1598,
+    "occupation": "Founder at Take App",
+    "headline": "Founder at Take App",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Take App",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/take-app/",
+            "title": "Founder",
+            "description": "WhatsApp ordering made easy https://take.app",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEJNGtbMf4lZQ/company-logo_400_400/0/1692025515431/take_app_logo?e=1712793600&v=beta&t=a-CUsdGNxhs2qtDabwW8fmr2qMKvS_gRKZi28QqvPS0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook/",
+            "title": "Partner Engineering Manager",
+            "description": "Commerce",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook/",
+            "title": "Partner Engineer",
+            "description": "Games and Payment",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2013
+            },
+            "company": "LG Electronics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lg-electronics/",
+            "title": "Research Engineer",
+            "description": "Smart TV platform",
+            "location": "Seocho-gu, Seoul, Korea",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGN7rHQ0dPpPw/company-logo_400_400/0/1694507080864/lg_electronics_logo?e=1712793600&v=beta&t=8EIKriSyZWJR-C4utL1LjdfAcgseHXZiAqtOPxK2CCk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Digital Media Program",
+            "degree_name": "Master",
+            "school": "Korea Advanced Institute of Science and Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHhvNko3HBy3g/company-logo_400_400/0/1631360279456?e=1712793600&v=beta&t=-sdbE7HitS_OpZQ26ipnJaeSdmjOeCiCB7_FR73jBPo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": "Computer Science Engineering",
+            "degree_name": "Bachelor's Degree",
+            "school": "Korea Advanced Institute of Science and Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHhvNko3HBy3g/company-logo_400_400/0/1631360279456?e=1712793600&v=beta&t=-sdbE7HitS_OpZQ26ipnJaeSdmjOeCiCB7_FR73jBPo",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Korean"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Supply Chain Logistics",
+            "license_number": "DTW6CULD7RL3",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/DTW6CULD7RL3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "name": "Google Cloud Certified - Associate Cloud Engineer",
+            "license_number": "FeUUSu",
+            "display_source": "credential.net",
+            "authority": "Google",
+            "url": "https://www.credential.net/hbx0akfq?key=0dd5dcc809840d7f8cdcd4bf286ed19ab04076faaef7c48cb6fe1ef9c4613162"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Introduction to Financial Accounting",
+            "license_number": "ZZVH2QYK64LV",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/ZZVH2QYK64LV"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/josephdhlee",
+            "name": "Joseph D. Lee",
+            "summary": "Co-Founder & CEO at Syncly (YC W23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rachel-lim-25b3b262",
+            "name": "Rachel Lim",
+            "summary": "Co-Founder of Love, Bonito | RachReflects | Forbes 30under30 | Tatler Asia\u2019s Most Influential | TEDx Speaker",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hsukenooi",
+            "name": "Hsu Ken Ooi",
+            "summary": "Co-Founder and Managing Partner at Iterative",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/annajfee",
+            "name": "Anna Joo Fee",
+            "summary": "Co-Founder @goodfin (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sciffany",
+            "name": "Tiffany Sia Chong",
+            "summary": "Computer Science Graduate (Ex-Apple intern)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yoonjungyi",
+            "name": "Yoonjung Yi",
+            "summary": "Co-founder @ Baskit | We are hiring exceptional talents in Indonesia \ud83d\ude80",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jun-kaih",
+            "name": "Jun Kaih W.",
+            "summary": "Looking for opportunities to learn and grow",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/damien-heng-yh",
+            "name": "Damien Heng",
+            "summary": "Uncovering the hidden value of Telco APIs",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ncnlinh",
+            "name": "Linh Nguyen Cao Nhat",
+            "summary": "Engineering Manager at Padlet -- we're hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tristanroozendaa",
+            "name": "Tristan Roozendaal",
+            "summary": "Rebuilding confidence and transparency in digital asset markets by simplifying the onboarding process of Web3 by taking a step back to Web2.0. #Blockchain, #DeFi, #NFT, #MetaVerse #Compliance #KYC/AML #Assetmanagement",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Youmin Kim",
+            "link": "https://kr.linkedin.com/in/%EC%9C%A0%EB%AF%BC-%EA%B9%80-6914a31ba",
+            "summary": "Kakao Enterprise, Deep Learning Research Engineer",
+            "location": "Seoul, South Korea"
+        },
+        {
+            "name": "Youmin Kim",
+            "link": "https://kr.linkedin.com/in/youmin-kim-9729b8242",
+            "summary": "emro Data scientist & Data Analyst",
+            "location": "Gyeonggi, South Korea"
+        },
+        {
+            "name": "Youmin Kim",
+            "link": "https://au.linkedin.com/in/youmin-kim-932a9a15a",
+            "summary": "Learning Experience Specialist at TripActions",
+            "location": "Greater Sydney Area"
+        },
+        {
+            "name": "Youmin Kim",
+            "link": "https://kr.linkedin.com/in/youmin-kim-75b043125",
+            "summary": "Sales manager at Samsung Semiconductor USA",
+            "location": "South Korea"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

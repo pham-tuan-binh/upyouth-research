@@ -1,0 +1,311 @@
+{
+    "public_identifier": "ybernstein",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ybernstein/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221254Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e1e321a6d0456fe8d1ba53a68d129068c671e12db4d4cf88b9b96de4fa17e231",
+    "background_cover_image_url": null,
+    "first_name": "\ud83e\udd16 Yaniv",
+    "last_name": "Bernstein",
+    "full_name": "\ud83e\udd16 Yaniv Bernstein",
+    "follower_count": 9986,
+    "occupation": "Founder and COO at Circular",
+    "headline": "I help founders make fewer mistakes | Founder @ Circular | Host @ The Startup Podcast ",
+    "summary": "Follow me for low-BS opinions advice on startups, investing, and technology. I have a sense of humour and am not afraid to use it. \n\nListen to The Startup Podcast: https://tsp.show\n\n*My connection policy (tl;dr don't sell me stuff)*\n\nI like to use LinkedIn as a way of building a community of interesting and interested people in technology and the technology industry. If you are:\n\n-A software developer, product manager, designer, marketer anywhere in the world\n-An organisational leader or manager in engineering or at a tech company\n-Otherwise heavily involved in the tech industry\n\nI'd be happy to connect! Even if we haven't met.\n\nIf you are:\n\n-A tech recruiter\n-A SaaS salesperson\n\nI'm probably happy to connect, as long as you don't immediately turn around and try to sell me something. If you do, I consider that a breach of trust.",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Self-employed",
+            "company_linkedin_profile_url": null,
+            "title": "Consultant | Executive Coach | Adviser",
+            "description": null,
+            "location": "Greater Sydney Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "The Violet Initiative",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/violetinitiative",
+            "title": "Non Executive Director",
+            "description": null,
+            "location": "Sydney, New South Wales, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEJHzeoo-pUgw/company-logo_400_400/0/1630642372027/lifecircle_australia_logo?e=1713398400&v=beta&t=b2lpihWoUUFTsZNn22B15xnnpiNg6iWsF3qiVXc21JU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "AirTree",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/airtree-ventures",
+            "title": "Explorer",
+            "description": "I\u2019m part of AirTree\u2019s Explorer program which aims to empower the next generation of diverse and world-class angel investors in Australia and New Zealand through education, networks and funds to invest.\nIf you\u2019re working on a startup idea and would like to talk, let me know!",
+            "location": "Greater Sydney Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGnBl4E0cDdKQ/company-logo_400_400/0/1630612373556/airtree_ventures_logo?e=1713398400&v=beta&t=WQiLJ9Y7vE7yd3IQXg3H6xU6vndjB11IsZhZw9QoJ68"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Circular",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nowcircular",
+            "title": "Founder and COO",
+            "description": "Circular is delightful subscription e-commerce, with sustainability at its heart. By focusing on customer experience while reducing waste and underutilization, we provide subscriptions to premium devices at affordable prices and with unmatched flexibility.",
+            "location": "Sydney, New South Wales, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGXLY7F9X91Q/company-logo_400_400/0/1691481063701?e=1713398400&v=beta&t=hHZ4BVKlH7jC1ycSmTCWbcsz_wws98v5h4MTMjmsGuE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "The Startup Podcast",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-startup-pod",
+            "title": "Co-host ",
+            "description": "Chris Saad and I host a conversational podcast about startups, tech, product, and disruption.\n\nSubscribe on Spotify, Apple Podcasts, Google Podcasts, or your favourite podcast app.",
+            "location": "Greater Sydney Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF0oY0JDTvMfQ/company-logo_400_400/0/1679825355249/the_startup_pod_logo?e=1713398400&v=beta&t=xUsETjWXqwYSzTgA_-3wb-bVyPo5EerItIyqwm6217A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "Airtasker",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/airtasker",
+            "title": "Chief Operating Officer",
+            "description": "Skills: Start-up Ventures \u00b7 Strategic Planning \u00b7 Financial Literacy \u00b7 Strategy",
+            "location": "Greater Sydney Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEUBpzazp2kCA/company-logo_400_400/0/1672793631238/airtasker_logo?e=1713398400&v=beta&t=IMPnxSiyiQHLJs7lktLIP_hN2Ynjzj24rp7EV6qeMaY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Airtasker",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/airtasker",
+            "title": "VP Engineering",
+            "description": "Skills: Engineering Management",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEUBpzazp2kCA/company-logo_400_400/0/1672793631238/airtasker_logo?e=1713398400&v=beta&t=IMPnxSiyiQHLJs7lktLIP_hN2Ynjzj24rp7EV6qeMaY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            },
+            "company": "Flare HR",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/flareaus",
+            "title": "VP Engineering",
+            "description": null,
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE_xHpGos7TVA/company-logo_400_400/0/1652138638050/flareaus_logo?e=1713398400&v=beta&t=GnDCCjWwNIWRPgmZXFZwYXgYjqiHkFW8T0ERtHL-FXU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "Software Engineering Manager",
+            "description": "Google Maps APIs",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1713398400&v=beta&t=M2wYjwErk2nd3B9XrKFVN5NOrS_a_I-awymuRxF5Djw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "Software Engineering Manager",
+            "description": "YouTube Content ID",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1713398400&v=beta&t=M2wYjwErk2nd3B9XrKFVN5NOrS_a_I-awymuRxF5Djw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "IBM",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm",
+            "title": "Software Engineer",
+            "description": "Emergency Management Research",
+            "location": "Melbourne, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715866/ibm_logo?e=1713398400&v=beta&t=gIxCE9dq9EQW3WGuE7v7PKiymXRM7x_H6pCs00xiNoo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2001
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor of Computer Science",
+            "school": "University of Melbourne",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5677/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEACkXGOAWOFg/company-logo_400_400/0/1691363410465?e=1713398400&v=beta&t=M_klRL1mUXO9tZydmNh4PKxA6hu4fDhzTA0K1q6ywRw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "PhD",
+            "school": "RMIT University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5885/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEGU1obJOmROQ/company-logo_400_400/0/1688439184668/rmit_university_logo?e=1713398400&v=beta&t=SdgQho-ZVbyYB_WHkLY31IQtOnMVa5t9iSw4bmoXFWU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 8174,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/matthewbauerochse",
+            "name": "Matt Bauerochse \ud83e\udde2",
+            "summary": "Building the marketing solution for talent teams @Outhire | Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rhyshenderson",
+            "name": "Rhys Henderson",
+            "summary": "Tech Founder | Executive | Advisor | Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tomperfrement",
+            "name": "Tom Perfrement",
+            "summary": "Investment Manager @ 5AM Capital | Global Equities",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/skharazmi",
+            "name": "Sam (Sadegh) Kharazmi, PhD",
+            "summary": "Senior Technology & Product Executive |  Scaling product companies",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chrissaad",
+            "name": "Chris Saad",
+            "summary": "Product & Startup Builder. Co-host @ The Startup Podcast. Fmr Head of Product @ Uber Dev Platform.",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Steven Krizanovic\n\n\n\nYaniv is an exceptional executive coach who supported me in my transition from an individual contributor to the GM of engineering and now as a CTO. His guidance enabled me to develop and refine my leadership style. He possesses rich experience and excellent communication skills.",
+        "Marcus Homaei\n\n\n\nWe recently invited Yaniv as a keynote speaker to give a talk on Engineering Excellence @ All in Agile 2021. Yaniv gave an excellent presentation on what it means to be a truly agile organisation and shared some valuable lessons in building teams and unifying them around common goals. His ability to communicate with audiences from a range of disciplines made for an engaging presentation for our audience. I would highly recommend Yaniv for speaking engagements."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQHYKIv8cuVDPA/group-logo_image-shrink_400x400/0/1630997437297?e=1705960800&v=beta&t=JL6QUo9-THgigUjLRjmowKxxrKuPW_esRwUviHxNzJU",
+            "name": "Startup Australia",
+            "url": "https://www.linkedin.com/groups/6970560"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQGRYShQbMli1w/group-logo_image-shrink_400x400/0/1678251435612?e=1705960800&v=beta&t=w9Pa8SEiTIaGlL3jNTJ-K9VUZXSU9xxiWv4-_rxVp2E",
+            "name": "Israelis in Tech Australia \ud83c\udde6\ud83c\uddfa",
+            "url": "https://www.linkedin.com/groups/13611371"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

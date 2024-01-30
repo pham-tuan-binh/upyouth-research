@@ -1,0 +1,188 @@
+{
+    "public_identifier": "keng",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/keng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221718Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5a99b7cd43545d9f19b43ef8097656316e2686636a0f0b98c84f10f6b97656df",
+    "background_cover_image_url": null,
+    "first_name": "Keng",
+    "last_name": "L.",
+    "full_name": "Keng L.",
+    "follower_count": 7193,
+    "occupation": "Co-Founder at Fintech Angel Operators",
+    "headline": "Builder",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Stealth",
+            "company_linkedin_profile_url": null,
+            "title": "Angel Investor",
+            "description": "Reach me at me@keng.me!",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Endeavor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorglobal/",
+            "title": "Endeavor Entrepreneur at Endeavor",
+            "description": "Endeavor is leading the high-impact entrepreneurship movement around the world. Endeavor supports high-impact entrepreneurs so that they can build thriving companies that employ thousands of people, generate billions in wages, and inspire countless others as role models. Together, these entrepreneurs hold the key to sustained economic growth in every part of the world.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG9Nglb0ZU1kQ/company-logo_400_400/0/1681235668367/endeavorglobal_logo?e=1707350400&v=beta&t=9zw5bxa0UfamfUDwzv6fU6ITiht0W0uvkOiMKx68WNE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Fintech Angel Operators",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fintech-angel-operators/",
+            "title": "Co-Founder",
+            "description": "We believe the startup ecosystem is by Operators for Operators. We are the Founder's rolodex for navigating the Fintech ecosystem.\n\nWe want to provide founders with the largest value-add:cheque ratio and already have execs from all your largest Fintechs in SEA and more, including senior execs who were previously at Grab Financial, Paypal, Stripe, Wise etc. \n\nIf you\u2019re a Fintech operator looking to angel-invest and help founders, join our inaugural cohort of 100 Fintech execs/operators/founders here:\nhttps://73f7fc32kfb.typeform.com/to/BSmUHals\n\nIf you\u2019re a Fintech founder who is looking to get other Fintech operators and founders on your cap-table, drop an email at me@keng.me",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHco6JwZaM2Gg/company-logo_400_400/0/1624610149032/fintech_angel_operators_logo?e=1707350400&v=beta&t=_vS7vQQqvs6nPKGbez9rgxPluqqI6VFfmBJfDF2aMHk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Orange DAO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/orange-dao/",
+            "title": "Deals Team",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGcrqhjeeyoIw/company-logo_400_400/0/1645662343711?e=1707350400&v=beta&t=gdLgLbNf8_nOHKVcACK4ICrI5vD8aSRx3Gut1W_bZaY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "XA Network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xanetwork/",
+            "title": "Member",
+            "description": "Foremost tech leaders' investment network in Southeast Asia. Our purpose is to foster inclusive innovation by empowering the tech community across Southeast Asia. https://xanetwork.co/",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFZ3H7Uj0_Fag/company-logo_400_400/0/1637338263991/xanetwork_logo?e=1707350400&v=beta&t=Hm92yHvaDHMKgdjkf3gxiJyBNlWxI_rQZuFjHwkhUss"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2023
+            },
+            "company": "Finantier (YC W21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finantier/",
+            "title": "Co-Founder at Finantier (YC W21)",
+            "description": "Our Open Finance platform powers fintechs and digital finance products \u2014 with our technical infrastructure APIs \u2014 to develop data-driven financial processes. By enabling companies to provide consumers and businesses with equal access to financial services, we strive to help not only the banked but the underbanked and unbanked.\n\nReach out to me at keng@finantier.co!",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8-QuqiHDPxw/company-logo_400_400/0/1630662903742/finantier_logo?e=1707350400&v=beta&t=rsPhrMdsZzaz0CVMd0KdlMSyzAlCHCQV5IM_FEjdH5Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "East Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/eastventures/",
+            "title": "Entrepreneur In Residence",
+            "description": "East Ventures is a seed-early stage venture capital firm based in Singapore, Indonesia & Tokyo. We aim to bring success to early-stage ventures in Southeast Asia and Japan. East Ventures has invested in over 160 startups with more than US$4 billion in follow-on rounds. In addition to Tokopedia, its portfolio includes unicorn startup Traveloka, Japanese e-commerce Mercari, co-working startup CoHive, Indonesian education technology company Ruangguru, and cashback reward platform ShopBack.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHWUZL4_jnOhQ/company-logo_400_400/0/1655879391377/eastventures_logo?e=1707350400&v=beta&t=e2EmhxHM5OpHNYcYs7zTsctjZRTxRYxhph8nuREM43I"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951/y_combinator_logo?e=1707350400&v=beta&t=XyUH6Xiwg_O-HnbdD7_SgtuSmLI7e_3DVMhGzxv1T6Q",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": null,
+            "school": "Duke University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_400_400/0/1547069414882/duke_university_logo?e=1707350400&v=beta&t=SDEwOocOdnCG7pK74bKgxWekC2M84-4NJQ3T8yjj9CI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Hwa Chong Institution",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHkuYW3rTW5xg/company-logo_400_400/0/1519930112369?e=1707350400&v=beta&t=m8LpuRlc3knQzsliBHFMjtzAKgM9L6GxcHfQNQ0j86s",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

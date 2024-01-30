@@ -1,0 +1,496 @@
+{
+    "public_identifier": "christianmischler",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/christianmischler/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221556Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b474284a9748d78ce8f063141c9dac06ed5fc8646497c1b0a8afd2f0ad350242",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/christianmischler/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221556Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=05800c88ec1d7faa1cd1da7b2358af5dba8f653b3614facd0b1d8fa553fc9440",
+    "first_name": "Christian",
+    "last_name": "Mischler",
+    "full_name": "Christian Mischler",
+    "follower_count": 5823,
+    "occupation": "Co-Founder at Deskimo (YC S21)",
+    "headline": "Breeding Unicorns",
+    "summary": "With over 10 years of experience in entrepreneurship, I have co-founded and led multiple start-ups in various sectors and regions, such as hospitality, education, fintech, and proptech. My core competencies include start-up strategy, fundraising, business development, and product management. I am passionate about creating innovative solutions that address real-world problems and improve people's lives. Currently, I am the co-founder of Deskimo, a Y Combinator-backed start-up that provides on-demand access to work desks at professionally managed workspaces across Asia and the Middle East.\n\nAt Deskimo, I oversee the overall vision, strategy, and growth of the company, as well as the product development and user experience. I work closely with our team of engineers, designers, marketers, and operations managers to deliver a seamless and flexible service that caters to the needs of the hybrid workforce. Since our launch in March 2021, we have expanded to five markets, secured a USD 3M seed funding round, and partnered with hundreds of workspaces and thousands of users. I leverage my skills and expertise in start-up strategy, fundraising, business development, and product management to drive Deskimo's success and impact.",
+    "country": "AE",
+    "country_full_name": "United Arab Emirates",
+    "city": "Dubai",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Deskimo (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deskimoapp/",
+            "title": "Co-Founder",
+            "description": "Deskimo provides on-demand access to work desks at professionally managed workspaces across Singapore, Hong Kong, Malaysia, Indonesia and the United Arab Emirates. Deskimo supports companies in empowering their hybrid workforce to maintain productivity while working remotely.\n\nWe emerged from the Y Combinator S21 cohort and have subsequently secured a USD 3M Seed funding round with participation from Y Combinator, Global Founders Capital (GFC), Pioneer Fund, and others.\n\nDownload the Deskimo app to join the hybrid work revolution in SG, HK, MY, ID, and the UAE!",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFZCv9W_Mq1pg/company-logo_400_400/0/1630627908459/deskimoapp_logo?e=1707955200&v=beta&t=2zCyn3IieulPGnCUhmxnnq33wB4bq03XfB2n_mtvdBA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Firstchain Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/firstchain-capital/",
+            "title": "Venture Partner",
+            "description": "Bridging traditional industries with emerging technologies through a boutique advisory service. \nEquity / first investors into Kyber, Filecoin, Quantstamp, Blockstack, SingularityNet, Hashgraph, Ocean Protocol, Origin Protocol, Urbit, and many more.\n\nI'm also a Co-Founder & Director of HODL Pte Ltd in Singapore and an Advisor to a handful of crypto funds and web 3.0 startups.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGu16xzaq6L9w/company-logo_400_400/0/1631359070502?e=1707955200&v=beta&t=wOH5lEPK1-lPR01i85PsHvt57KKNMk481DhFG9LhmfY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2003
+            },
+            "ends_at": null,
+            "company": "mindprep Verlag AG",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mindprep-verlag-ag/",
+            "title": "Co-Founder & Board Member",
+            "description": "Mindprep is the largest publishing house in the educational sector in Switzerland, with a deep focus on academic exam preparation. Local brands include KKarten and Uniseminar.",
+            "location": "St Gallen, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFSVSC2X-Pb2Q/company-logo_400_400/0/1631335758372?e=1707955200&v=beta&t=AayziZAdhr4jQerCSEI_rWrQyT8MTGlpkHeP96XN-GA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "Swiss Founders Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/swiss-founders-fund-ag/",
+            "title": "Founding Partner",
+            "description": "Swiss Founders Fund (SFF) is a Swiss seed and early-stage venture capital fund. Portfolio entities include legi.ch, mindprep.ch, uniseminar.ch, caterspot.com, guestready.com, abetterflorist.com, everphone.de, poinz.ch, airconsole.com, propertyscout.co.th, cashyou.ch, ryders.team, matter.dating, stakingrewards.com, careloop.io, coachbetter.com, orderli.com, freterium.com, oware.co, usehybrid.com, casus.ch, explorest.com, fooder.io, placid.money, dojah.io, yhangry.com, earnjarvis.com, and more. \n\nExited getbring.com to Swiss Post, and gotcourts.com to Playtomic.\n\nSince February 2017, Limited Partner in Polychain Capital. \nSince 2021, Limited Partner in Polychain Ventures II, Polychain Ventures III, and Polychain Ventures IV.",
+            "location": "St Gallen, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmusUtsUP10w/company-logo_400_400/0/1631312372356?e=1707955200&v=beta&t=xSsGnakmukor0EFdP7WmE2x313Rqg4NnAlyeaX53pBc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "GotCourts (acquired by Playtomic)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gotcourts/",
+            "title": "Board Member",
+            "description": "GotCourts is the globally largest tennis player network and the leading court booking platform in Switzerland. GotCourts is powering SwissTennis, the official Swiss Tennis Federation, since 2019.\n\nI served as a board member from 2016 until the company's acquisition by Madrid-based Playtomic in 2021.",
+            "location": "Zurich, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxnA_AwwkOnQ/company-logo_400_400/0/1673873748304/gotcourts_logo?e=1707955200&v=beta&t=8e79J4pPOAJjkSMsotG-BzhS1t1oF1s4uhUJpWXlK1k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "CASA Real Estate AG",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/casa-real-estate-ag/",
+            "title": "Board Member",
+            "description": "CASA facilitated investments into residential real estate in Portugal. Acquired properties were leased on a short-term basis through Airbnb, generating a notably higher yield. This approach allowed CASA to consistently outperform traditional real estate funds. Non-European investors were able to qualify for a golden visa, entailing a residence permit in Portugal and a long-term visa within the Schengen zone. CASA had plans to explore tokenizing investment contributions in a subsequent phase.",
+            "location": "Lisbon, Portugal",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG0U7nmAvVC5g/company-logo_400_400/0/1631377356611/casa_real_estate_ag_logo?e=1707955200&v=beta&t=1R-TujSLBWheIDbFz5AlYKOLmKfKTGQ3vxId_g-9r60"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "GuestReady Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/guestready/",
+            "title": "Co-Founder & Chairman",
+            "description": "GuestReady is one of the leading urban short-term rental management companies globally. Headquartered in Switzerland, GuestReady is managing large portfolios of properties in 50+ cities in Europe, the Middle East, and Asia. \n\nThe GuestReady Group made a series of acquisitions to date: \n- 2022: GaiaBnb, Exelis Conciergerie, AYS Madeira Property Management\n- 2021: The Porto Concierge\n- 2019: BnbLord\n- 2018: Oporto City Flats, We Stay In Paris\n- 2017: Easy Rental Services\n\nGuestReady has won numerous awards over the years, most notably the Swiss Economic Award in 2021.\n\nWe have raised more than USD 16M in funding to date. The pre-Seed round was led by Swiss Founders Fund, the Seed round by Impulse VC, the Series A round was co-led between VentureSouq and Impulse VC.",
+            "location": "Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE9ZdZQfiymsw/company-logo_400_400/0/1682501492870/guestready_logo?e=1707955200&v=beta&t=noQzXEVnBvX7tokLXmHqsLXCIZB12FsF6KRqsADyTSE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "HotelQuickly",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder, Chairman, COO & CMO",
+            "description": "From the inception of the idea to the development of HotelQuickly into the premier last-minute hotel booking app across the Asia-Pacific region, I served as the initial Co-Founder, Chairman, COO, and CMO of the company.\n\nLaunched in March 2013 in six Southeast Asian countries, the startup grew to 100+ employees over 4 years. It achieved 5M+ app downloads, featured 200,000+ hotels, and expanded across 16 countries.\n\nHotelQuickly raised over $8M in funding across 3 rounds, including a Series A led by GREE, Inc. Acquiring Japanese app Tonight in 2016 facilitated entry into Japan. The brand gained global recognition in Bloomberg, Forbes, TechCrunch, BBC, and more.\n\nHotelQuickly was acquired in mid-2017, ceasing operations in Jan 2019.",
+            "location": "Hong Kong, Bangkok, Sydney",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            },
+            "company": "foodpanda",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/foodpanda/",
+            "title": "Co-Founder & Global COO / CTO",
+            "description": "Foodpanda, a former Rocket Internet venture, rapidly grew as a global online food delivery firm. I led its global operations and product development, aiding its expansion to 28 countries within a year since its Spring 2012 launch. Foodpanda operates in emerging markets across Latin America, Africa, Eastern Europe/Russia, the Middle East, and Southeast Asia under various local brands like hellofood and foodora.\n\nRocket Internet sold Foodpanda to Delivery Hero for EUR 500M in December 2016. Delivery Hero, which went public on the German market (ETR:DHER) in the summer of 2017, now holds a market cap exceeding EUR 10B.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMhyQggIg8lQ/company-logo_400_400/0/1677135057605/foodpanda_logo?e=1707955200&v=beta&t=aQHmBgDVC0tiCJcdVPHhFMI2CZYtRlflcgHSLnIEeok"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "company": "Credit Suisse",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credit-suisse/",
+            "title": "Inhouse Consultant",
+            "description": "I was an In-house Consultant at Credit Suisse's Corporate Development department, focusing on post-financial crisis reorganizations, cost optimizations, legal restructuring & delayering, the introduction of new regulatory frameworks, and more. Based in Zurich with projects in Zurich, London, and New York.",
+            "location": "Zurich, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHszQ7sfR8SEw/company-logo_400_400/0/1653986126825/credit_suisse_logo?e=1707955200&v=beta&t=F-xZj-P7asW_EkyaxyvDuKzj_BZGw4U-fS8NTiZrOBE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1707955200&v=beta&t=qOwffYmt1a1k1Yl8yNLAx5rNbKJ6aZcJI_AupP8ekLg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Banking & Finance",
+            "degree_name": "M.A. HSG",
+            "school": "University of St.Gallen",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFwnhW-GPfiYw/company-logo_400_400/0/1630655380576/university_of_st_gallen_logo?e=1707955200&v=beta&t=ft3A-q_c5qLLutlt_C6yfFihYNf8oYE4P_IRqATOwh0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "International Management",
+            "degree_name": "CEMS MIM",
+            "school": "CEMS - The Global Alliance in Management Education",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHDBNAxRjNCFA/company-logo_400_400/0/1631313784958?e=1707955200&v=beta&t=NReeQKePIyN3tY2lwZJu-DVbvm3T6EkOmlQD6SDEzR8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": "International Management",
+            "degree_name": "CEMS MIM",
+            "school": "Erasmus University Rotterdam",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1630595251002/erasmus_university_rotterdam_logo?e=1707955200&v=beta&t=NjAKfoZcf_MeVLW1h2uv9Y1C5m-l4qaKXS-cwC8_NSg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Business Administration",
+            "degree_name": "B.A. HSG",
+            "school": "University of St.Gallen",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFwnhW-GPfiYw/company-logo_400_400/0/1630655380576/university_of_st_gallen_logo?e=1707955200&v=beta&t=ft3A-q_c5qLLutlt_C6yfFihYNf8oYE4P_IRqATOwh0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Swiss Economic Award",
+            "issuer": "Swiss Economic Forum",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "description": "Winner of the most prestigious startup award issued in Switzerland"
+        },
+        {
+            "title": "Nomination for \"HSG Founder of the Year 2017\"",
+            "issuer": "University of St. Gallen (HSG)",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": "Nomination for founding HotelQuickly, the leading last-minute hotel booking app in Asia-Pacific"
+        },
+        {
+            "title": "CEMS Alumnus of the Year 2015",
+            "issuer": "CEMS",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": "Selected among 10,000+ alumni of the CEMS MIM program"
+        },
+        {
+            "title": "Nomination for \"HSG Founder of the Year 2013\"",
+            "issuer": "University of St. Gallen (HSG)",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": "Nomination for founding the educational publishing house Mindprep Verlag AG, issuer of \"KKarten\""
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "Mentor",
+            "cause": "EDUCATION",
+            "company": "Founder Institute",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/the-founder-institute/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHvHnd5W_EHwQ/company-logo_400_400/0/1630586437144/the_founder_institute_logo?e=1707955200&v=beta&t=lUWVgqu7HqjIdG-UrgvELA7wOWDtkjAqUGuMqiSDCFw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "title": "Student Mentor",
+            "cause": null,
+            "company": "University of St.Gallen",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-st-gallen/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFwnhW-GPfiYw/company-logo_400_400/0/1630655380576/university_of_st_gallen_logo?e=1707955200&v=beta&t=ft3A-q_c5qLLutlt_C6yfFihYNf8oYE4P_IRqATOwh0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Instructor",
+            "cause": "EDUCATION",
+            "company": "General Assembly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/generalassembly/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEwAxD22k-HBw/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1707955200&v=beta&t=dFKYwTbcarBEFwAO3wKwI7u1TQ9mH-g1FzlmoH0tBkg"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/arielbarack",
+            "name": "Ariel Barack",
+            "summary": "Investing in Food & Agriculture",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/asma-salem-762a30120",
+            "name": "Asma Salem",
+            "summary": "Entrepreneurship Management | Business management |Creative problem solver| Fintech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samuelscheer",
+            "name": "Samuel Scheer",
+            "summary": "Digital Health Innovation @ Novo Nordisk | 2x Board member & investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/robert-blum-67977171",
+            "name": "Robert Blum",
+            "summary": "\ud83d\udcf1 Founder & CEO poinz // Bobby & Ella's Dad",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hashem-motawea-493729195",
+            "name": "Hashem Motawea",
+            "summary": "Transforming Workspaces with Deskimo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/simonwyss",
+            "name": "Simon Wyss",
+            "summary": "Director at Jowissa",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/edens",
+            "name": "Eden Shochat",
+            "summary": "Equal Partner at Aleph, Finder of Needles in Haystacks",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marc-o-st\u00f6ckli-633754",
+            "name": "Marc O. St\u00f6ckli",
+            "summary": "Board efficacy wonk | Value catalyst to owners | Former Chairman, EO Global Board of Directors | Entrepreneur, board member, investor, mentor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ezevidra",
+            "name": "Eze Vidra",
+            "summary": "Seed Investor @ Remagine Ventures | Interactive Entertainment, gaming, next-gen onsumer Tech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nathasia",
+            "name": "Nathasia Phang",
+            "summary": "Shaping the future of work",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Christian MISCHLER",
+            "link": "https://fr.linkedin.com/in/christian-mischler-5a378a140",
+            "summary": "Enseignant chez Legti Haguenau",
+            "location": "\u0645\u0646\u0637\u0642\u0629 \u0633\u062a\u0631\u0627\u0633\u0628\u0648\u0631\u063a \u0627\u0644\u062d\u0636\u0631\u064a\u0629 \u0648\u0636\u0648\u0627\u062d\u064a\u0647\u0627"
+        },
+        {
+            "name": "christian mischler",
+            "link": "https://fr.linkedin.com/in/christian-mischler-26a64bb9",
+            "summary": "magasinier-cariste chez Hager Group",
+            "location": "\u0645\u0646\u0637\u0642\u0629 \u0633\u062a\u0631\u0627\u0633\u0628\u0648\u0631\u063a \u0627\u0644\u062d\u0636\u0631\u064a\u0629 \u0648\u0636\u0648\u0627\u062d\u064a\u0647\u0627"
+        },
+        {
+            "name": "Christian Mischler",
+            "link": "https://ch.linkedin.com/in/christian-mischler",
+            "summary": "Conseiller client\u00e8le chez Sedelec S.A. Lausanne",
+            "location": "\u064a\u0627\u0641\u0631\u062f\u0648\u0646 \u0644\u064a\u0647 \u0628\u0627\u064a\u0646"
+        },
+        {
+            "name": "Christian Mischler",
+            "link": "https://ch.linkedin.com/in/christian-mischler-22917690",
+            "summary": "Senior Solution Architect PLM bei Siemens PLM Software",
+            "location": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0632\u064a\u0648\u0631\u062e, \u0633\u0648\u064a\u0633\u0631\u0627"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

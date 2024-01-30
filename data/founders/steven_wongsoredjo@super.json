@@ -1,0 +1,300 @@
+{
+    "public_identifier": "stevenwongsoredjo",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/stevenwongsoredjo/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221213Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=922b6463eccbce6678aa7820bbad5aa223bec7381946164e6a84cf4da0dfa9be",
+    "first_name": "Steven",
+    "last_name": "Wongsoredjo",
+    "full_name": "Steven Wongsoredjo",
+    "follower_count": 4697,
+    "occupation": "CEO and Co-Founder at Aplikasi Super (YC W18)",
+    "headline": "Empowering rural e-conomy (YC Top Company, Forbes U 30, Global Shaper World Economic Forum)",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": "East Java",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Aplikasi Super (YC W18)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/superapp-id/",
+            "title": "CEO and Co-Founder",
+            "description": "Super (www.superapp.id) is the first Indonesian consumer technology company backed by Y-Combinator. Aplikasi Super is a social commerce group buying that enables community leaders to become retailers within their communities in tier 2 and tier 3 cities and rural Indonesia. We use technology to: \n\n1.) Empower community leaders to become self-made entrepreneurs by enabling them to sell various products to their communities. \n\n2.) Build the lowest-cost logistics network. \n\n3.) Facilitate communication for this social buying behavior. \n\nSuper is awarded and part of; Ernst & Young Innovative Entrepreneur of the Year 2023, Forbes 30 under 30 2019 and 2022, Y-Combinator Top Company, World Economic Forum Global Shapers, Social Impact Awards by Credit Suisse and Tatler 2022, Generation Tomorrow Tatler, YouTube Gold Button, Alibaba Cloud Social Impact 2022, and Top 10 LinkedIn Startup 2023.\n\nFurthermore, we have raised $106m USD to date, and we are backed by prominent investors such as; NEA, SoftBank, Y-Combinator Continuity Fund, DST, B Capital, Horizons, the Chairman of the Bain Capital, the World Bank Managing Director Mari Elka Pangestu, Jay-Z's Arrive, the owner of Boston Celtics, and top global investors.",
+            "location": "East Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEoXs_tbzf-8Q/company-logo_400_400/0/1684480218524?e=1709769600&v=beta&t=fP2wgqubcEqpgxITJXPgADkthXBRXqRTSYp12DxxjZc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "Batch Winter 2018",
+            "description": null,
+            "location": "Mountain View",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1709769600&v=beta&t=3PhmNs5xyjB8ojWrGW-pvFjrKYBMSmRW6vQG_vd_kX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Permias Washington DC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/permias-washington-dc/",
+            "title": "President",
+            "description": "- Organized activities to promote Indonesian cultures through Indonesian Cultural events\n- Organized East Coast Championship 2014 sport event for Indonesian students who are pursuing education at East Coast of the USA\n- Managed fundraising events to raise $ 2,500 for Philippine emergency relief for victims of Hurricane Haiyan",
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEcXMouF2f_QQ/company-logo_400_400/0/1630600711533/permias_washington_dc_logo?e=1709769600&v=beta&t=R6YV83eSF_u55quN8rGUul5cthLiMHB6nkArRLKXlUk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "company": "UNICEF",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unicef/",
+            "title": "President",
+            "description": "- Presided UNICEF club in my college, led the fundraising activity by organizing sports charity competition in basketball, and soccer. Furthermore I raised the money through trick or treat UNICEF fund raising program. In my leadership period I succeed to raise $3,000 and donated it to the UNICEF Headquarter for impoverished children in Africa.",
+            "location": "Cupertino",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE5WFsvU5iicw/company-logo_400_400/0/1631310285230?e=1709769600&v=beta&t=fbSSNmfTuXnDhXoZwyhm5RwI7ixWwzTujLPa7NVXRMU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Science (MSc)",
+            "school": "Columbia University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1709769600&v=beta&t=3kmNIXhb4wZta06dPFPmuGfKaCzOT2Y2IYTeAxegLDo",
+            "grade": "3.98/4.00",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor of Science (BS)",
+            "school": "The Johns Hopkins University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHK0LIsdRz1Jw/company-logo_400_400/0/1630577244691/johns_hopkins_university_logo?e=1709769600&v=beta&t=14oK_BMgYM66oIj3zn-j8PC6ieYJHN2cL-l6tsmrZA0",
+            "grade": "Magna Cum Laude",
+            "activities_and_societies": "Alpha Kappa Psi, Volunteering at Johns Hopkins University 5k, Volunteering at Johns Hopkins University President's Day Services, Volunteering at Johns Hopkins Children's center, Johns Hopkins Entrepreneurships Club, President of PERMIAS Washington D.C.. Magna Cum Laude and Dean's List"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": "Associate of Arts (AA)",
+            "school": "De Anza College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFOIoUaCdyM7Q/company-logo_400_400/0/1631379563643?e=1709769600&v=beta&t=bdRukbncSCKsaNhoWVVykrGRbG1U9hGcccfGQIdUX4Y",
+            "grade": null,
+            "activities_and_societies": "President of UNICEF, Junior Senator of Finance DASB, Phi Theta Kappa member, Volunteering at WVCS- FOOD PANTRY, Volunteering at Food Stamps Cupertino, Volunteering at Home Owner Silicon Valley, Disability Support Services De Anza College"
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English",
+        "German",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "World Economic Forum",
+            "title": "Global Shaper",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Social Impact Awards",
+            "issuer": "Credit Suisse and Tatler",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Y-Combinator Top Company",
+            "issuer": "Y-Combinator",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Forbes 30 under 30",
+            "issuer": "Forbes",
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Generation T Tatler",
+            "issuer": "Tatler",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Honor Society",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Phi Theta Kappa Honor Society International",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Professional Fraternity",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Alpha Kappa Psi",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/fitrifarid",
+            "name": "Fitri Farid",
+            "summary": "Enabling Financial Inclusion & Equal Economic Distribution | Startups & Scale-Ups | Consulting and Coaching",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/erica-lesmana",
+            "name": "Erica Lesmana",
+            "summary": "Tech | Strategy & Consulting",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jongkrut",
+            "name": "Willy Haryanto",
+            "summary": "Building Nusantara Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/debbybudiman",
+            "name": "Debeasinta B.",
+            "summary": "Advancement of Indonesia rural areas | Forbes Under 30 2022 | Social commerce, Start-up, FMCG, Product Development",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gisellatjoanda",
+            "name": "Gisella Tjoanda",
+            "summary": "Head of Business Development & Strategy at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/halga-tamici",
+            "name": "Halga Tamici",
+            "summary": "AVP Engineering @ Aplikasi Super | Leading Large-Scale Engineering Teams",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alfred-ali",
+            "name": "Alfred Ali",
+            "summary": "Building product for rural Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/moseslo",
+            "name": "Moses Lo",
+            "summary": "Founder and CEO at Xendit | Forbes 30 under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andi-alamsyah-22a035268",
+            "name": "Andi Alamsyah",
+            "summary": "Talent Acquisition Business Partner Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/martinusgouw",
+            "name": "Martinus Gouw",
+            "summary": "Product Manager at Aplikasi Super (YC W18)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

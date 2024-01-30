@@ -1,0 +1,345 @@
+{
+    "public_identifier": "sainiamit",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sainiamit/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221709Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a67091b7f6369031113050fc153990435a8c47a7c3ab819db13c9d20bccf26e3",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sainiamit/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221709Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4b17a7cb18571c3cc967b5b3a72cbf6cd5f3ec1e29d1f274f89b3a77700cb08f",
+    "first_name": "Amit",
+    "last_name": "K.",
+    "full_name": "Amit K.",
+    "follower_count": 1989,
+    "occupation": "Founder at Stealth Startup",
+    "headline": "Payments Builder",
+    "summary": "Built Octifi part of YCW21 with 5 engineers from the ground up and took it to millions in revenue per month and finally sold to LatitudePay (Australia).\n\nI've strong experience in building and leading high performance engineering teams. Backend engineering comes easy to me, UI and UX are close to my heart and I keep a great deal of focus on how things are presented to the user.\n\n* Director of engineering for Olacabs in India\n* 15 yrs of product development experience with a Masters degree in Computer Science (Data Mining) from NTU Singapore. \n* Led building of payments platform for Olacabs and build and led team of 40 members (Backend Dev, QA, Devops, Android, IOS, Windows Developers). Helped business grow to 8x in 10 months.\n* Created DataPlatform team from scratch (0-35) to handle massive data. Solved several big-data use cases including data-analytics, data Ingestion and highly scalable real time stream processing frameworks\n* Technologist with global leadership experience at Microsoft, IBM, Apigee and Ola\n* Built software products in areas of e-commerce, web services management and data-mining, big-data & analytics\n* Founder of startup in recruitment space Skillcafe.com\n\nMy specialities are:\n* Building and scaling product development organisation from zero to hundreds of engineers.\n* Hands-on technical competence required to build Scalable Distributed systems, Big Data, Data sciences, Analytics systems and Machine learning.\n* Distributed engineering expertise: Delivery of many end to end world class products with distributed teams in USA, Singapore and India.\n* Experience with tech giants like Microsoft and IBM as well as startups like apigee (20th employee) and Olacabs.\n\nSome core values I live with:\n* Being flexible, cooperative and tolerant are some of the core values I live with. \n* I believe in Metric driven development and there is a high sense of ownership and dependability that naturally comes in teams that I lead. \n* I share uncommon enthusiasm for experimentation and fail fast. \n* I believe in Invent and Simplify where my solutions are creatively architected for my customers.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Stealth Startup",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stealth-startup-51/",
+            "title": "Founder",
+            "description": "We make it unbelievably easy to pay your merchants & suppliers correctly and on-time.\n\nNuFlow is Supercharging your financial Operations, Settle, Pay and Reconcile with just a few clicks! We provide \"no-code\" tools that allow B2B companies to manage their money flow.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH03e0VowA5sQ/company-logo_400_400/0/1631438990121?e=1712793600&v=beta&t=0UnBvOdGtce0csL1vmRndkf7ClMwC18VWCBlXclSd-o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2023
+            },
+            "company": "LatitudePay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/latitudepayasia/",
+            "title": "Co-Founder Latitudepay Asia",
+            "description": "Build Octifi part of YCW21 with a team of smart engineers from the ground up and took it to millions in revenue per month and finally sold to LatitudePay (Australia).\n\nAn alternative to credit card designed for the underbanked south east asia market. Say goodbye to high interest rates and escalating debt. Buy what you want today and pay over time. Split the cost into easy instalments. No interest and no hidden fees.\n\nMonths of hard-work has finally paid off.\n\n* Designed and architected the entire stack for payments, signup, merchant onboarding, authentication, account management, ledgers, payment gateway integration, Card management and more.\n* Developed Consumer and Merchant App for both platforms (Android and IOS).\n* Strong focus on security, with focus on detecting Genuine buyers, Genuine sellers and Genuine devices. Using a combination of identity, device fingerprinting, collusion detection ML algorithms.\n* Hired a security team for pen-testing for secure hardened applications from Day1.\n*Last but not least. Strong focus on best development practices, on google cloud with code coverage along with CI/CD\n\nCurrently researching on machine Learning Credit Engine augmented by Alternative Smartphone meta Data.",
+            "location": "Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEZDp39h8cUJw/company-logo_400_400/0/1650552245707/latitudepaysg_logo?e=1712793600&v=beta&t=gjsLZI1taVFhvhJoTczwBibS03Byrm7iJMDzfLlfWe4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Engineering Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Head Of Engineering - Payments",
+            "description": "Building Payments team to grow cashless economy across South-east Asia in 8 different countries. Working with a tech-family of smart full-stack and backend engineers working on challenging problems of Issuance, Transactional processing, Online acceptance, offline POS integrations, credit card processing and scalable architecture to integrate with Payment gateways and other cashin and cashout channels.\n\nFor customer retention and cross-selling, Building a Loyalty program to serve our customers better with features that include membership tiers, subscription programs, promos, partner rewards and real time campaigns.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "company": "Ola (ANI Technologies Pvt Ltd)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/olacabs-com/",
+            "title": "Director Of Engineering",
+            "description": "As an early employee of Ola, I've been fortunate to be part of the hyper growth phase that Ola has seen. My learnings in Ola has been in all dimensions including \n\n* Technical - Engineering excellence, Security focus, Metric driven development, Open source! \n* Business - Strong business acumen \n* Product - Agile, Reacted to market well\n* People - Build two teams from scratch *35 member each, Hired other leaders in the org.\n* Execution - Fast pace, Result focussed\n\nSummary:\nI work in a challenging environment in a fast paced company where I help solve multiple p0 issues in limited time and bandwidth. I work closely with product managers in redefining the product, help business scale and, bring clarity, vision and order to chaos. As an early member @ Ola, I also helped in hiring my team and several other leaders in the organisation. \n\nExperience:\n* Early on, I've worked on several pieces of backend services including Inventory management, Accounting, Billing, Invoices etc. \n* Build the Big Data Platform team from scratch (0 - 35) that drive business decisions every day. Here, I work with technologies like Apache Storm, Spark, Kafka, Hadoop etc.\n* At present, I handle the entire payments domain for Ola including Ola Money. Here my challenges include building the team from scratch and scaling the systems and business. Built the team from scratch and helped business grow to 8x in 10 months!\n\nTech Stack: Majorly Java web-services on Apache Mesos, Marathon, Dropwizard, SpringBoot with Hibernate, Hadoop, Hive, Hbase, Redshift, Spark, Kafka, Apache Storm, Redis, Aerospike and Hazelcast, Couchbase along with trusted mysql for transactional data.",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFkbmQnSiA9sw/company-logo_400_400-alternative/0/1630668871809?e=1712793600&v=beta&t=kOinZwEiiVPDfKLBzuJbfDHVodBVLkOZWheFkeTTEj4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2015
+            },
+            "company": "Ola (ANI Technologies Pvt Ltd)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/olacabs-com/",
+            "title": "Sr. Engineering Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFkbmQnSiA9sw/company-logo_400_400-alternative/0/1630668871809?e=1712793600&v=beta&t=kOinZwEiiVPDfKLBzuJbfDHVodBVLkOZWheFkeTTEj4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2014
+            },
+            "company": "SkillCafe",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/skillcafe/",
+            "title": "Co Founder",
+            "description": "As part of University of Florida incubation hub, at SkillCafe, we created a predictive analytics engine that predicts what your next career move should be.  Finding the right culture and skill fit company was never this easy.\n\nAs a founder, my responsibilities surpassed any one job description. From defining product roadmap to company strategy, from creating a business plan to marketing. Some times, I created Infographics, Banners and presentation deck for investors pitch. Majority of the times I was doing Backend engineering where scalability and UX were my core focus.\n\nTech Stack: Majorly Python, Django, SciKit, NLTK, AngularJs, Node.js, Ionic framework for web-apps",
+            "location": "Gainesville, Florida Area/Bangalore India",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGt721zKFpt0g/company-logo_400_400/0/1631312776870?e=1712793600&v=beta&t=3Sh1z73YcBTu7-bTd_Qe5EoK0XOj8UMD6f4p3iyt1rU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "company": "IBM Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+            "title": "Development Manager",
+            "description": "As Development manager I managed a team of 15 people where I was solving Endpoint Management problems using IBM Bigfix. IBM BigFix (formerly IEM/TEM) is a systems-management software product developed by IBM for managing large groups of computers running Windows, Mac OS X, VMware ESX, Linux or UNIX, as well as various mobile operating systems such as Android / Windows Phone.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715866/ibm_logo?e=1712793600&v=beta&t=fLlk69clYnVZuBIT3rqCvHjCLbsYrEd92q5_dYdOdik"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "Apigee/Google Cloud",
+            "company_linkedin_profile_url": null,
+            "title": "Development Lead",
+            "description": "I was the 20th employee hired for Apigee (now acquired by Google Cloud)\n\n* As a development lead worked with apigee product to create a word class application API gateway that reformed into a framework / platform for api management that provided Rate-limiting, Caching and analytics.\n * Worked with very talented and smart people (tech leads, architects) in designing secure, scalable and high performance applications mainly in C language on fedora Linux.\n* Designed and developed frameworks for statistics and parsing xml and xpath and Interfaced the software with hardware for performance.\n\nTech Stack: Majorly C language on fedora Linux, Java, XML etc.",
+            "location": "Bengaluru Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2005
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Software Design Engineer",
+            "description": "Worked as a SDE in Windows where I designed and developed featured for a windows product - WSRM (Windows system resource manager). My primary role was to ensure on-time product delivery, resolve last minute issues and defects, communicate status to upper management and coordinate activities with peer teams across geographies.\n\nTech Stack: .Net, C#, Windows",
+            "location": "Hyderabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712793600&v=beta&t=M61ge1w5ID7jsbTpfRTiQ3i5Nu1-rpDOol8-QkkTgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2004
+            },
+            "company": "SumTotal Systems, LLC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sumtotal-systems/",
+            "title": "Software Design Engineer",
+            "description": "Responsible for the entire server infrastructure I was sent to Seattle, USA for finalizing the re-design with product architects. Led the team to create an application server, redesigned the tcp/ip protocol improved its scalability to 600 concurrent sessions on one server.\nTech Stack - C++, Windows",
+            "location": "Hyderabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF1w7hw-ZyFgA/company-logo_400_400/0/1660652546986/sumtotal_systems_logo?e=1712793600&v=beta&t=LNIMwVKDcwoSaJxvBfBvgNqIJPynuoWJ7NiudEw93jk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Master\u2019s Degree",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682216282/ntusg_logo?e=1712793600&v=beta&t=Vv26QAd02puP-pRuiOyy4sLRl6IFgbNWrCRc164Uy4I",
+            "grade": "4.5",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's Degree",
+            "school": "Delhi University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGNYUwkC1YEEQ/company-logo_400_400/0/1674548936157/_logo?e=1712793600&v=beta&t=dArI4XigER9viSccpPTG-Hn3QhmAxNJUhwIEGAkKsho",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "A framework for mining opinions from user generated content.",
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "https://repository.ntu.edu.sg/handle/10356/54823"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Amit K.",
+            "link": "https://www.linkedin.com/in/automationenthusiast",
+            "summary": "Devops | Automation Specialist | Python-charmed",
+            "location": "Austin, TX"
+        },
+        {
+            "name": "Amit K.",
+            "link": "https://in.linkedin.com/in/amit-k-485ab826",
+            "summary": "Sr. Engineer (Hydro Mechanical)  at WAPCOS Ltd.",
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Amit Dharia",
+            "link": "https://in.linkedin.com/in/amit-dharia-5aa46550",
+            "summary": "Sr Associate IT Infra & Ops | System Admin | IT Support Analyst | IT operations | Citrix Administrator | ITIL\u00ae v4",
+            "location": "Haryana, India"
+        },
+        {
+            "name": "Amit K.",
+            "link": "https://in.linkedin.com/in/amit-k-27028572",
+            "summary": "Business Development Manager at Lawrence IT Solutions PVT Ltd.",
+            "location": "Kolkata"
+        },
+        {
+            "name": "Amit K",
+            "link": "https://in.linkedin.com/in/amit-k-b9068925",
+            "summary": "Co-Founder & CEO at SpecSols Innovations Pvt Ltd",
+            "location": "Bangalore Urban"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,542 @@
+{
+    "public_identifier": "dito-holanda",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Vincentius Dito",
+    "last_name": "Krista Holanda",
+    "full_name": "Vincentius Dito Krista Holanda",
+    "follower_count": 3171,
+    "occupation": "Co-Founder COO at SIRKA (YC S21)",
+    "headline": "Building consumer wellness startup",
+    "summary": "Young professional with experience in global energy industry, capital markets, strategy consulting, and financial technology. Main focus on delivering innovative and customer-centric financial services through scalable technology and data-driven insights. Passionate in strategy, operational excellence, data analytics, and valuation.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "SIRKA (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sirkaio/",
+            "title": "Co-Founder COO",
+            "description": "Sirka is leading consumer wellness startup in Indonesia delivering lifestyle improvement solutions through Sirka wellness app and Enhans consumer brand. 1 out of 3 Indonesians suffer from obesity, while chronic diseases like diabetes and heart-related illnesses make up top 5 of our mortality rate. Sirka is on a mission to reverse these statistics.\n\nWe are looking for fellow passionate and high-performing individuals for various roles to build our venture from the ground up. Drop me a message if you're up for tackling Indonesia's biggest challenges in healthcare!",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF3IUExmNISsw/company-logo_400_400/0/1630663226307/sirkaio_logo?e=1712793600&v=beta&t=q3_kUrWlTTi3MkTT8ez2TnOH9ZoCvDjGB6UwFb5HaT0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Head of Strategy and Business Planning",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Head of Growth - Insurance",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional/",
+            "title": "Head of OVO for Business",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "INSEAD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/insead/",
+            "title": "MBA Student",
+            "description": "\u2022 INSEAD team for Kellogg - Morgan Stanley Sustainable Investing Challenge\n\n\u2022 INSEAD team for Peeptrade Portfolio Management Competition\n\n\u2022 VP Industry Outlook of INSEAD Energy Club",
+            "location": "France",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "A.T. Kearney",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kearney/",
+            "title": "Summer Associate",
+            "description": "\u2022 Devised 5-year blueprint strategy for Indonesia\u2019s largest telco company\u2019s consumer business unit; analysed IDR 8Tn value uplifts from organization resizing, network design optimization, and salesforce transformation\n\n\u2022 Implemented salesforce excellence pilot program at 2 regional branches to realize IDR 300Bn/year incremental revenues",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG9u9N6TYnriQ/company-logo_400_400/0/1688395053612/kearney_logo?e=1712793600&v=beta&t=0OHS2lSuRf7-4GPMznxf_m-uOy2pSuC4NM84SdVGZSg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs/",
+            "title": "Equity Research Summer Analyst",
+            "description": "Summer Analyst at Equity Research department of leading investment banking in Indonesia. \n\n\u2022 Formulated financial modelling and company valuations for top publicly-listed companies in Indonesia\n\n\u2022 Structured and analyse underlying business drivers in devising investment thesis for biggest institutional clients, both foreign and domestic\n\n\u2022 Performed analysis on coverage initiation reports for consumer retail and infrastructure sectors in liaison with UBS South East Asia Director\n\n\u2022 Performed due diligence with corporate's Head of Investor Relations as basis for company valuation\n\n\u2022 Pitched investment thesis to big institutional investors and assisted their strategic investment decisions",
+            "location": "Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1712793600&v=beta&t=Nw4i4ON4is098-l56XtR1V_rgQ7-p3BuuteNB0AQ-ZY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Directional Drilling Engineer",
+            "description": "Client-facing team leader for  end-to-end drilling projects on horizontal wells for the biggest clients in UAE. In charge of running Schlumberger's high-tier directional drilling and reservoir-characterization-while-drilling tools in OPEC's second largest oil producers. \n\n\u2022 Led cross-functional teams of 40-50 rig engineers in 5 departments and directly reported to client\u2019s Drilling Supervisor\n\n\u2022 Delivered strategic project and broke fastest drilling record in Bab oil field; exceeded KPI by 115% and saved US$250K/day\n\n\u2022 Performed innovative problem solving in breaking 25-year record of longest well section in offshore UAE by 30% deeper without failure",
+            "location": "Abu Dhabi, UAE",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1712793600&v=beta&t=v8q1TEQKw9RxSqafB_XWtS_9gPM62wwxbAapQZqnhlU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Senior Field Engineer",
+            "description": "Lead Engineer for top oil and gas service company's upstream division in Abu Dhabi, UAE. In charge of Schlumberger team in running high-tier reservoir-characterization-while-drilling tools.\n\n\u2022 Led the first trilateral well successfully in UAE as Schlumberger D&M UAE's biggest project in 2016\n\n\u2022 Introduced advanced resistivity imaging tool, the first Schlumberger worldwide implementation, in UAE; gained global recognition for successful commercial introduction and secured client's buy-in\n\n\u2022 Cross-trained to Directional Drilling Engineer for project lead position within 5 months of promotion (youngest seniority among peers)",
+            "location": "Abu Dhabi, UAE",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1712793600&v=beta&t=v8q1TEQKw9RxSqafB_XWtS_9gPM62wwxbAapQZqnhlU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Junior Field Engineer",
+            "description": "Upstream exploration engineer in charge of running state-of-the-art drilling technology for Norway's and Abu Dhabi's biggest oil and gas clients. Directly reported to clients' Drilling Supervisor. \n\n\u2022 Executed advanced Schlumberger drilling tools in deep-water explorations worth US$1M/day for Norway\u2019s biggest clients\n\n\u2022 Led 3 high-efficiency onshore projects for Venezuela\u2019s national oil company as 1 of 3 select engineers to participate in early cross-border exposure\n\n\u2022 Devised and replicated lean logistics schemes covering 140 tools for operation in Ghana; reported to Norway's Head of Service Quality",
+            "location": "Norway and UAE",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1712793600&v=beta&t=v8q1TEQKw9RxSqafB_XWtS_9gPM62wwxbAapQZqnhlU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Schlumberger",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slbglobal/",
+            "title": "Field Engineer Trainee, Measurement/Logging While Drilling",
+            "description": "First assignment in oil and gas industry's leading market for deep-water exploration projects. \n\n\u2022 Executed drilling operation in high-profile semi-submersible rigs with US$ 1M/day rental rate, yielding 2,000 - 3,000 barrels/day output \n\n\u2022 Completed global training in Abu Dhabi, UAE, for 3 months; fastest promotion among peers within 7 months to Junior Field Engineer",
+            "location": "Stavanger Area, Norway",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFwhnoORL25KA/company-logo_400_400/0/1666604496648/slbdigital_logo?e=1712793600&v=beta&t=v8q1TEQKw9RxSqafB_XWtS_9gPM62wwxbAapQZqnhlU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Summer Analyst",
+            "description": "Assigned on a case to improve profitability of leading Asian paper packaging manufacturer. Select project accomplishments:\n\n\u2022 Analysed domestic market landscape and competitive ecosystem of paper packing industry\n\n\u2022 Designed 5-year downstream expansion roadmap and export-market penetration strategy for 3 Business Units\n\n\u2022 Launched sales transformation of 40 salesforce in 2 Business Units; doubled new opportunities generation in 2 months\n\n\u2022 Managed taskforce in process optimization and reported directly to Production Head; resulted in US$500K efficiency savings",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw",
+            "grade": null,
+            "activities_and_societies": "INSEAD Fellowship;\n\nINSEAD team for Kellogg-Morgan Stanley Sustainable Investing Challenge 2018;\n\nINSEAD team for Peeptrade Portfolio Management Competition 2018"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Canisius College (Kolese Kanisius)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGN-2_gCkyMBg/company-logo_400_400/0/1630563752734?e=1712793600&v=beta&t=b5oWLty4ofY6u9WzBAKdsthLKXL81Hn5E8MadGa5RVU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": null,
+            "org_name": "McKinsey's Young Leaders for Indonesia",
+            "title": "Alumni",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": null,
+            "org_name": "Indonesian Youth for Small and Medium Enterprises (IYS)",
+            "title": "Consultant",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "org_name": "Student English Forum (SEF)",
+            "title": "Debating Coach",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Indonesian Delegate for G-20 Youth Forum - Russia",
+            "issuer": "G-20",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "National Ambassador for Bayer Young Environmental Envoys (BYEE) - Germany",
+            "issuer": "Bayer and UNEP",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "Indonesian Delegate for G-20 Youth Forum - Mexico",
+            "issuer": "G-20",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "2nd Runner-Up of TRUST By Danone Business Case Competition",
+            "issuer": "Danone",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "Best Speaker of National University English Debating Championship (NUEDC)",
+            "issuer": "Indonesian Ministry of Education",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "description": null
+        },
+        {
+            "title": "Champion P&G ASEAN Business Challenge - Singapore",
+            "issuer": "P&G",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "title": "Accenture Gives - Global Social Entrepreneurship Fund",
+            "description": "- Led 5 university students in national business competition with 80 participants to win US$25K seed from global social fund\n- Formulated and pitched business model for sustainable fashion products employing underprivileged rural women in W. Java\n- Generated revenues by selling traditional batik fashion; added extra income for 30 rural women",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "title": "World University Debating Championship (WUDC)",
+            "description": "Member of Indonesian delegation for global British Parliamentary debating tournaments held in Botswana (2010) and Philippines (2011)",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "title": "Harvard National Model of United Nations (HNMUN)",
+            "description": "Member of ITB delegation for prestigious UN diplomatic simulation based in Harvard, Boston (MA)",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Build Deep Learning Models with TensorFlow Skill Path",
+            "license_number": null,
+            "display_source": "codecademy.com",
+            "authority": "Codecademy",
+            "url": "https://www.codecademy.com/profiles/d_tox/certificates/5f85c4b9c431a800138a60e0"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ffahleraz",
+            "name": "Faza Fahleraz",
+            "summary": "Co-Founder at Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/iki-sari-dewi-3847734a",
+            "name": "Iki Sari Dewi",
+            "summary": "Director of Business and Operations at Grab, Greater Jakarta | Angel investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dittoadhikara",
+            "name": "Rifanditto A.",
+            "summary": "-",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/albertsahala",
+            "name": "Albert Sahala Theodore",
+            "summary": "Co-Founder at Payable (YC S22) | Helping businesses create a seamless checkout experience",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/divia-shanraissa-5a45a017b",
+            "name": "Divia Shanraissa",
+            "summary": "HRGA People Acquisition & Engagement | Hiring Top Talents!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/djiwandou",
+            "name": "Djiwandou Putro \u2705",
+            "summary": "Seasoned Engineering Manager (Let's build great teams)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jesicarosaline",
+            "name": "Jesica R.",
+            "summary": "A passionate product marketer who are user-centric and data-driven. I successfully developed brand strategies, managed various marketing channels and optimized the consumer journey to enhance sales performance.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fransiskus-raymond-59b2604a",
+            "name": "Fransiskus Raymond",
+            "summary": "Building StafBook, People-First HR Partner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nacittak",
+            "name": "Nacitta Kanyandara",
+            "summary": "Crafting the future of dairy alternatives in Southeast Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reggie-purnawan-253101b7",
+            "name": "Reggie Purnawan",
+            "summary": "Revenue and Growth @ Stripe",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

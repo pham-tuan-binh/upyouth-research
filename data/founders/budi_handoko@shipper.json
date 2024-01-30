@@ -1,0 +1,808 @@
+{
+    "public_identifier": "bhandoko",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bhandoko/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221203Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0483c1cc39aaf3f3a0e4c8c7281dac3c8e5f4c9eb898bede4bd2afed8cd44c46",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bhandoko/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221203Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=db5181eefef6ff7157912e8f9e79635b16fa6a6b34590faa21ac94329e926963",
+    "first_name": "Budi",
+    "last_name": "Handoko",
+    "full_name": "Budi Handoko",
+    "follower_count": 4,
+    "occupation": "Co-founder at Shipper Indonesia",
+    "headline": "Building Shipper (YC W19). Hiring Leaders and Engineers.",
+    "summary": "Entrepreneurial Career: \n2016 - Founded Shipper, a new up and coming exciting logistic platform.\n2016 - Sold CheapCard, 12 years old online shopping website, one of the first online shopping websites in Australia.\n2015 - Joined Qareer Group Asia, parent company of Qerja and Jobs.id, to empower the career of Indonesian people.\n2012 - Lead ocash to acquisition by MOL Malaysia (Subsidiary of MOL Global) and formed MOL Australia.\n2011 - Founded ocash - virtual currency system to fill the gaps in the Australia market.\n2009 - Shut Ocenia Cyber Cafe - lack of research has resulted in the failure of the cafe.\n2008 - Founded Ocenia Cyber Cafe - a hype and chic internet cafe in inner city of Sydney.\n2006 - Founded OnlineGamez Australia to distribute online games in Australia. OnlineGamez Australia is then acquired by ocash.\n2004 - Founded CheapCard, one of the earliest online shopping website in Australia, an online retail for cards (calling cards, mobile recharge, or game cards).\n\nProfessional Career:\n2006 - 2011: Engineering Lead for Gecko Webs Internet Services\n2004 - 2006: Web Developer for LJ Hooker\n2001 - 2002: Web Developer for INTI College Sarawak",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "company": "Warwinner Integrated Solutions",
+            "company_linkedin_profile_url": null,
+            "title": "Consultant",
+            "description": "- Consulting, planning, developing and executing clients projects\n- Past Clients: Pelikan Artline, Rotary Club of Chatswood (Voluntary), Wagner Australia and Eyecatchers Optical\n- Current Client: ACCO Australia (Subsidiary of NYSE: ACCO) - Migration of Online Web System from PHP to SAP",
+            "location": "Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "CheapCard / GameWithCoin",
+            "company_linkedin_profile_url": null,
+            "title": "Founder / Director / Partner",
+            "description": "Founded CheapCard in 2004 when there were not many online shopping websites available yet.\nLearnt PHP to setup CheapCard.com.au.\n\nCyglynx P/L was then incorporated with CheapCard as one of the businesses.\n\nCheapCard: http://www.cheapcard.com.au (2004)\nGameWithCoin: http://www.gamewithcoin.com (2014)\n\nKey Achievements: \n\u2022\tPioneer in Online Shopping\n\u2022\tSelf-taught PHP to build an operational online shop within 3 months time \n\u2022\tIncreased sales volume with 200% YOY growth\n\u2022\tSecured various suppliers for the calling cards and mobile recharge vouchers\n\u2022\tNegotiated exclusive deal with Softnyx (Korea) to distribute their Softnyx Prepaid Cards in Australia\n\u2022\tSuccessfully Implemented Fraud Vetting System\n\u2022\tIntegration with Various Payment Channels effectively\n\u2022\tIntegration with Bitcoin payment. For GameWithCoin, Bitcoin is the only payment method.",
+            "location": "Sydney",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "ocash, cash for online",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "ocash is a virtual currency system in Australia, working closely with game publishers to help the payment system for Australian gamers. Beside online games credits, we are also talking deals for console games credits, software and other online contents.\n\nKey Achievements: \n\u2022\tLed ocash to acquisition by MOL AccessPortal Sdn Bhd (Malaysia) \n\u2022\tBuilt a team to setup ocash\n\u2022\tNegotiated a listing with a major distributor, epay Australia, a market leader in digital  distribution with over 25000 touch points without listing fee",
+            "location": "Sydney, Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "company": "OnlineGamez Australia",
+            "company_linkedin_profile_url": null,
+            "title": "CEO & Founder",
+            "description": "Strategic planning on distribution of virtual gaming cash in the local market.\nExperience in online game and mobile contents industry of Australia. \nInvolved in billing software development for virtual gaming cash.",
+            "location": "Sydney, Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2011
+            },
+            "company": "Geckowebs Internet Services",
+            "company_linkedin_profile_url": null,
+            "title": "Engineering Lead",
+            "description": "Leading a team of engineers for web application specialists company in setting up coding standards, best practise of implementation and vulnerability prevention.\n\nKey Achievements: \n\u2022\tSuccessfully dispatched web applications for Police NSW, Pelikan Artline and Football NSW.\n\u2022\tSuccessfully patched web servers to be PCI Compliance\n\u2022\tProvided data encryption and data integrity practice to protect the client\u2019s data\n\u2022\tSuccessfully implemented the latest PHP and Javascript technology in the development\n\u2022\tSuccessfully implemented a coding practice standard for the company, to remove wastage of lines and save costs.",
+            "location": "Sydney",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "G-Startup Worldwide",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/g-startup-worldwide",
+            "title": "G-Startup Worldwide Jakarta 2017 Batch",
+            "description": "Finalist and part of G-Startup Worldwide Jakarta 2017 Batch.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUHQ9RAgFrbQ/company-logo_100_100/0/1519900290243?e=2147483647&v=beta&t=Fa5sPHIiiHoFS9zS9x-QLbqaj1zVON6XOxLd1jTObc8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Shipper Indonesia",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/shipper-indonesia",
+            "title": "Co-founder",
+            "description": "Building Shipper, a new up and coming exciting logistic platform.\n\nhttps://blog.ycombinator.com/meet-5-companies-from-the-yc-w19-batch-part-6/",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF_0YyIWU5qxg/company-logo_100_100/0/1662106492085?e=2147483647&v=beta&t=Y-f9gx5PybrOlu187oZ4vZoKoa0i7QhOFlmP74jcms4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "MOL Global, Inc. and MOL AccessPortal Sdn. Bhd.",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/mol-accessportal-pvt-ltd",
+            "title": "Director",
+            "description": "Director of MOL AccessPortal Pty Ltd (MOL Australia)",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFB5wqmZ1AH3Q/company-logo_100_100/0/1550739706920?e=2147483647&v=beta&t=kRnLKmQrorvU4TemyliIr0_ixSFpiW4jDMr6UuXKB1w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "MOL Global, Inc. and MOL AccessPortal Sdn. Bhd.",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/mol-accessportal-pvt-ltd",
+            "title": "Chief Executive Officer",
+            "description": "Overseeing MOL operations in Australia and forming strategic partnership with local partners to expand the coverage of MOL service. MOL Australia is part of a NASDAQ Listed Company - MOL Global (MOLG).\n\nFull responsibility for the growth of the company in all sectors (financial, marketing, operations, human resource, product development, distribution, merchant acquisition) to improve results and to implement the best business practices despite various challenges from the parent company.  Perform monthly financial review of company results.\n\nKey Achievements:\n\u2022\tResponsible for MOL operations, sales and business developments in Australia, New Zealand and Pacific Islands. MOL Australia is part of a NASDAQ Listed Company - MOL Global (MOLG)\n\u2022\tReduce fraudulent transactions (banking and credit card) to 0.0001% in 2014\n\u2022\tHead business processed improvement projects to compliment existing process from MOL Global\n\u2022\tGrow Revenue and GP of MOL Australia by 200% in 2014\n\u2022\tDevelop new eCommerce site to sell game credits directly to gamers\n\u2022\tIncreased the branding of MOL in Australia\n\u2022\tSetup New Zealand operations and working on new market, ie Fiji and the Pacific\n\u2022\tSuccessful new product setup: Microsoft Xbox, Steam Wallet and League of Legends\n\u2022\tOrganised various eSports Tournaments; Online and Offline\n\u2022\tSetup various type of channels on various platforms from physical retailers, online and mobile\n\u2022\tMaintain great relationships with distribution and content partners\n\u2022\tSetup standard for accounting practise\n\u2022\tStrategic partner alliances with various lifestyle products, eg. Roccat, Razer, Thermaltake and other local and overseas game publishers, like Riot Games, Wargaming, Valve, Nexon, AsiaSoft, Garena and many others\n\u2022\tSuccessfully setup fraud vetting process",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFB5wqmZ1AH3Q/company-logo_100_100/0/1550739706920?e=2147483647&v=beta&t=kRnLKmQrorvU4TemyliIr0_ixSFpiW4jDMr6UuXKB1w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Qerja",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/qerja",
+            "title": "Head of Strategy",
+            "description": "Qerja is a website designed to empower career of people of Indonesia.\n- Formulate strategy for Qerja development and growth. \n- Handle operations matter of Qerja.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHZVgIfMzfyzA/company-logo_100_100/0/1652369230199?e=2147483647&v=beta&t=ZqcgP2bTJBK1LT6IqcJEiMH-HMgPbDyNCQ5DRR3ZLzQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2006
+            },
+            "company": "LJ Hooker",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/lj-hooker",
+            "title": "Programmer",
+            "description": "Maintain and update ljhooker.com.",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH1fYPtToDdnQ/company-logo_100_100/0/1539831995396?e=2147483647&v=beta&t=_wIOa9vPhzM_CjunRWtn7-Zg0gNCr7wZOXcUpXJnRR8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": "W19 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/0/1673555092951?e=2147483647&v=beta&t=PD-V4liY5FyU2ywkU45XGknc9_UIxAk2uHRdeW47YWg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": "eFounders",
+            "school": "Alibaba eFounders Fellowship",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Enterpreneurship",
+            "degree_name": "Entrepreneur",
+            "school": "Founder Institute",
+            "school_linkedin_profile_url": null,
+            "description": "Undertaking Founder Institute course with a strong idea to create a meaningful and enduring technology company. Dropped out in Week 5 due to immediate focus needed as ocash was just acquired by MOL during the course period.",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "How to build an profitable and enduring business?"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2001
+            },
+            "field_of_study": "Information and Communication Technology",
+            "degree_name": "Master's Degree",
+            "school": "University of Wollongong",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/university-of-wollongong/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGAnQ0Lt5LK1g/company-logo_100_100/0/1648508742096?e=2147483647&v=beta&t=AibiLAImd85sMEga1eVU_l4j5K7TK3ciYJfVff6EOZ8",
+            "grade": "High Distinction",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2000
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's Degree",
+            "school": "University of Wollongong",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/university-of-wollongong/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGAnQ0Lt5LK1g/company-logo_100_100/0/1648508742096?e=2147483647&v=beta&t=AibiLAImd85sMEga1eVU_l4j5K7TK3ciYJfVff6EOZ8",
+            "grade": "High Distinction",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese (5 dialects), including Mandarin",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "org_name": "Rotary Club of Chatswood",
+            "title": "Web Director",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": null,
+            "org_name": "Mensa Australia (High IQ Society)",
+            "title": "Member",
+            "description": "Mensa is High IQ Society. The society welcomes people from every walk of life whose IQ is in the top 2% of the population."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2001
+            },
+            "org_name": "Rotaract Club District 3310",
+            "title": "Zonal Representative (Zone 4 - Sarawak)",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2001
+            },
+            "org_name": "Rotaract Club of Kuching",
+            "title": "Director of International Service",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2000
+            },
+            "org_name": "Rotaract Club of INTI College Sarawak",
+            "title": "President",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "President's Award",
+            "issuer": "Rotary Club of Chatswood",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "description": "Award presented in recognition of my outstanding contribution to the activities of the club during the Rotary Year of 2013 - 2014"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": null,
+            "title": "MOL Personal Store (For Platinum and Gold Customers)",
+            "description": "This is special online store created for end users who are loyal to us and we give them some rewards by allowing them to purchase our products with big discount. We are not able to do that on our main MOL portal because it was managed by head office.\n\nI collected the data, created the backend and setup the infrastructure. My team member Emmanuelle help with the graphics and the HTML setup and Aiza is helping with the order fulfillment process.",
+            "url": "http://platninum.mol.com.au"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Timor Leste Fund Raising - Dinner with Prime Minister",
+            "description": "The Rotary Club of Chatswood has invited the Prime Minister, The Hon Tony Abbott MP to be the guest of honour at a special dinner on 6th August 2014. The principle beneficiary of the evening will be the Timor-Leste Dental Program which engages Australian volunteer dentists to provide free dental health services in the rural villages of Timor-Leste, in partnership with Carmelite Sisters in Maubara. The TLDP program was established ten years ago under the auspices of Rotary Australia World Community Service (RAWCS), while some residual funds will be used to support other Rotary projects.\n\nThe event was a huge success with us raising over $80,000 for the RAWCS project Timor Leste Dental Program (TLDP) and other Rotary projects. The TLDP was initiated by Chatswood Rotary in 2003 with Dick Abbott and Peter Kindred and provides volunteer dentists and equipment on a regular basis in Maubara, on Timor Leste\u2019s north coast. \n\nOur donation enabled the TLDP to but a new Toyota LWB Troopie 4WD to transport the dentists and their supplies up into the highlands where local people receive free dental treatment.\n\nI am responsible for the media, creative and technical parts of the projects, including slideshows, flyers, brochures, tickets, websites, stage and program.",
+            "url": "http://www.chatswoodrotary.org.au/events/charity-dinner-with-prime-minister"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "MOL Zone",
+            "description": "This is meant to be a collection for our local projects, which could vary from competitions to a team that we sponsor.\n\nWordpress is cool. My creative designer played a lot of part in this project. My role is to make sure it gets to the concept that I want.",
+            "url": "http://www.mol.zone"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": null,
+            "title": "Pelikan Artline Website",
+            "description": "Corporate website for Pelikan Artline, which also serves as B2B eCommerce website. I work on the backend of the website.",
+            "url": "http://www.pelikanartline.com.au"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2004
+            },
+            "ends_at": null,
+            "title": "CheapCard Website",
+            "description": "CheapCard is an Australia-based online shop specializing in selling prepaid mobile recharge, international calling card and game card.\n\nIn July 2004, I designed and coded V1. - https://web.archive.org/web/20040413020812/http://www.cheapcard.com.au/\nIn Aug 2006, I also designed and coded V2 - https://web.archive.org/web/20050803083502/http://www.cheapcard.com.au/\nIn 2013, I have become project manager to make sure V3 was launched properly.\nThen throughout the whole live of V3, I have coded to add few changes:\n1. Sister site - http://www.gamewithcoin.com (2014)\n2. Bitcoin payment for both site (2014)\n3. Affiliate account (2013)\n4. Reward system (2013)\n5. Wholesale system (2013)",
+            "url": "http://www.cheapcard.com.au"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/phil-opamuratawongse-b87b9380",
+            "name": "Phil Opamuratawongse",
+            "summary": "Co-Founder at Shipper",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yinglantan",
+            "name": "Yinglan Tan",
+            "summary": "Founding Managing Partner at Insignia Ventures Partners (we build GREAT companies! yinglan@insignia.vc)",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rizkiutama",
+            "name": "Rizki Utama",
+            "summary": "AVP Sales at Shipper",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dwiana-setiyowati-a8820514",
+            "name": "Dwiana Setiyowati",
+            "summary": "VP of Operations at RAENA",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gratiaputri",
+            "name": "Maria Gratia Putri",
+            "summary": "Business Development Manager at Shipper",
+            "location": "Banten, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ramaseshan-krishnan-1826012a",
+            "name": "Ramaseshan Krishnan",
+            "summary": "Senior Vice President of Commercial at Shipper",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ricky-winata-75735458",
+            "name": "Ricky Winata",
+            "summary": "Building PAYFAZZ | Co-Founder of PAYFAZZ | Forbes 30 Under 30",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/marinahindarko",
+            "name": "Marina Hindarko",
+            "summary": "AVP Marketing at Shipper",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hadafi-farisa-romadlon-260124153",
+            "name": "Hadafi Farisa Romadlon",
+            "summary": "People Partner Operation Lead at Shipper",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/sylvia-valentina-7bb5841a1",
+            "name": "Sylvia Valentina",
+            "summary": "Business Development Specialist LaaS | Supply Chain | Logistic | Fintech",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wenasagusetiawan",
+            "name": "Wenas Agusetiawan",
+            "summary": "looking for talents to join tiket.com",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/jean-daniel-gauthier",
+            "name": "Jean-Daniel (Danny) Gauthier",
+            "summary": "Co-Founder and CEO at Myriad.Social",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/androsiahaan",
+            "name": "Andro Siahaan",
+            "summary": "Co Founder at Reviso Indonesia",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/tanrob",
+            "name": "Robert Tan",
+            "summary": "Co-Founder at SSDIGITAL Business Incubator & Accelerator",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rizky-maulana-kaljubi-e-commercestuff",
+            "name": "Rizky Maulana Kaljubi",
+            "summary": "Founder at BISADAGANG.ID",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/mbayusmd",
+            "name": "Maulana Bayu Samudro",
+            "summary": "Captain at Yang Ayam",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dfirdaus",
+            "name": "Danang Y. Firdaus",
+            "summary": "Operations & Strategy. Entrepreneur at Antler",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/cdjaja",
+            "name": "Christopher Djaja",
+            "summary": "Entrepreneur",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-riyad-05808318",
+            "name": "Muhammad Riyad",
+            "summary": "Managing Penta Global Technology, and Co-Founder of VerticaLabs",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dimas-surya-yaputra-65b64441",
+            "name": "Dimas Surya Yaputra",
+            "summary": "Co-Founder Tiket.com. We\u2019re hiring!",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wafataftazani",
+            "name": "Wafa Taftazani",
+            "summary": "Founder & CEO, UpBanx (YC W22) | Co-Founder & Chairman, VCGamers & ModalRakyat | Angel Investor | Ex-Google, YouTube, Shopee",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/maungppo",
+            "name": "Paul (Maung Pyay Phyo) Oo",
+            "summary": "Strategy & Special Projects at Shipper Indonesia",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/steffan-himawan",
+            "name": "Steffan Himawan",
+            "summary": "AVP of Finance at Shipper",
+            "location": "Banten, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/jocky-setiawan",
+            "name": "Jocky Setiawan",
+            "summary": "VP of Transport at Shipper",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-riyansyah-39568577",
+            "name": "Muhammad Riyansyah",
+            "summary": "Regional Head at Shipper | Fulfillment Logistics & Supply Chain | Ex-Banking | Certified Expert Coach",
+            "location": "Jakarta Selatan"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nilna",
+            "name": "Nilna 'In Shofa",
+            "summary": "Head Of Stakeholder Engagement at Shipper | ex-DHL International | Combining Technology and Business Strategies to Build the Best Service and Product",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hamish-daud-2224403a",
+            "name": "Hamish Daud ",
+            "summary": "CMO & Co-founder at Octopus.ina",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/agus-daud",
+            "name": "Agus Daud",
+            "summary": "VP of Engineering and Product at Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kathyfang",
+            "name": "Kathy Fang",
+            "summary": "Chief Of Staff at Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/oliver-harfield-b6828a86",
+            "name": "Oliver Harfield",
+            "summary": "Product @ Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ahmedaljunied",
+            "name": "Ahmed Aljunied",
+            "summary": "CTO Co-Founder at Pinhome - Hiring Engineers - Drop me a message if you'd like to work together",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aloysius-steven-margono-034ba7139",
+            "name": "Aloysius Steven Margono",
+            "summary": "Strategy & Business Development at Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marvinusarif",
+            "name": "Marvinus Kokoh Arif",
+            "summary": "Building Shipper Engineering - We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/carl-cedarholm-everett",
+            "name": "Carl Cedarholm (Everett)",
+            "summary": "VP of Finance | Shipper Indonesia | We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/craig-wheeler-29a23b8",
+            "name": "Craig Wheeler",
+            "summary": "Chief Customer Officer @ Shipper : Sales, Marketing, PMO and Product Strategy : (Previously CEO/COO/CDO/CFO in Omnichannel Retail, Marketplace & B2B businesses)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gurunnevada",
+            "name": "Gurun Nevada Dharan",
+            "summary": "Product Guy",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sonny-manurung",
+            "name": "Sonny Theo Tumbur",
+            "summary": "Engineering at Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andre-gunawan",
+            "name": "Andre Gunawan",
+            "summary": "Building Shipper.id",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Prima Siswanto\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          I've worked alongside Budi for close to one year, he is one of those rare managers who also naturally serves as an inspiring mentor. That's one of the things that's so remarkable about Budi. He demonstrates not only mastery for his core role, but also the ability to take on projects that are both difficult and critical to the company's growth.\n\nThis rare mix of great leadership and awesome voice when singing mandarin song, Budi sets a great example for the rest of the team, and that explains why everyone loves working with him. I certainly miss working with him and I have only optimistic predictions for his career and entrepreneurship trajectory.",
+        "Kebrasca King\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Budi offers world class experience within technology & gaming. I have worked alongside MOL for over 2 years and Budi has provided valuable services & insights into key partnerships. His knowledge is second to none, if you want a \"GO TO\" man within this space. Look no further. "
+    ],
+    "activities": [
+        {
+            "title": "This came pretty late but MAYANI just announced the close of their round of US$1.7M led by AgFunder which Plug and Play APAC had the privilege to\u2026",
+            "link": "https://www.linkedin.com/posts/jie-lun-ong-05727b16_philippine-agri-fisheries-startup-mayani-activity-7022079448451604480-9tI6",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "Excited to be joining the #fundraising round led by East Ventures for Imajin looking to digitize the #manufacturing industry in #IndonesiaChendy\u2026",
+            "link": "https://www.linkedin.com/posts/jie-lun-ong-05727b16_plug-and-play-apac-backs-manufacturing-start-up-activity-7026798617826922496-SDbE",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "We take the pride in serving large corporations like Bata in handling the eCommerce service. SLA and service quality is in the top of our offerings\u2026",
+            "link": "https://www.linkedin.com/posts/bhandoko_we-take-the-pride-in-serving-large-corporations-activity-7026719914019229697-1jp6",
+            "activity_status": "Dibagikan oleh Budi Handoko"
+        },
+        {
+            "title": "I\u2019m excited and humbled to join Shipper.id and the mission to make supply chain accessible for everyone. Indonesia is an archipelago country of more\u2026",
+            "link": "https://www.linkedin.com/posts/smileyk_shipperid-temantumbuhbersama-logisticindonesia-activity-7022170586541944832-x5Ol",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "Kicking off 2023 with news that Releaf has secured $3.3 million in an oversubscribed Pre-Series A funding round to support the launch of two new\u2026",
+            "link": "https://www.linkedin.com/posts/uzomabayogu_nigerian-agritech-releaf-gets-more-capital-activity-7018595225660993536-YSPf",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "I am delighted to inform that I am now joining ASRI as General Manager Business Development for Hotels and Malls. ASRI is a subsidiary of Agung\u2026",
+            "link": "https://www.linkedin.com/posts/troy-fridatama-tf888_i-am-delighted-to-inform-that-i-am-now-joining-activity-7015874395336318976-ts1a",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "My first proper company annual dinner since I started my entrepreneurship journey 15 yours ago.A small reward for the team to close an amazing year\u2026",
+            "link": "https://www.linkedin.com/posts/rezarazali_dosomethingimportant-activity-7012242110212956160-DLZ4",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "From the entire team at Austrade Indonesia, we wish you a joyful holiday season. Thank you for your partnership and collaboration in 2022 and we look\u2026",
+            "link": "https://www.linkedin.com/posts/austrade-indonesia-on-twitter-activity-7012220530401435648-LuL3",
+            "activity_status": "Disukai oleh Budi Handoko"
+        },
+        {
+            "title": "2022 was a year of big change for me: did Y Combinator, pivoted once, lived in 5 cities, and listened to more than my fair share of the Beatles. In\u2026",
+            "link": "https://www.linkedin.com/posts/ian-yanusko-6b240591_22-from-22-activity-7011743277213188096-xCm7",
+            "activity_status": "Disukai oleh Budi Handoko"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Budi Handoko",
+            "link": "https://id.linkedin.com/in/budi-handoko-144942132",
+            "summary": "Assistant Manager di PT. Tenma Indonesia",
+            "location": "Kota Bekasi"
+        },
+        {
+            "name": "Budi Handoko",
+            "link": "https://id.linkedin.com/in/budi-handoko-57155845",
+            "summary": "Attitude, Disiplin, Jujur dan berintegritas",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "name": "Budi Handoko",
+            "link": "https://id.linkedin.com/in/budi-handoko-9499589",
+            "summary": "Senior HR Business Partner at PT Vale Indonesia Tbk",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Budi Handoko",
+            "link": "https://id.linkedin.com/in/budi-handoko-04058331",
+            "summary": "Mechanical Supervisor at Cargill Starches Sweeteners & Texturizers Indonesia",
+            "location": "Banten, Indonesia"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Walking on Fire of Entrepreneurship",
+            "link": "https://www.linkedin.com/pulse/walking-fire-entrepreneurship-budi-handoko",
+            "published_date": {
+                "day": 6,
+                "month": 1,
+                "year": 2018
+            },
+            "author": "Oleh Budi Handoko",
+            "image_url": "https://media.licdn.com/dms/image/C5112AQHeAuhp8YxRvA/article-cover_image-shrink_180_320/0/1544081126337?e=2147483647&v=beta&t=vq3uI8lqOej18DpbrvnFfTliQFevkDnXN_MC7a4Lqgk"
+        },
+        {
+            "title": "Hari Kemerdekaan Indonesia",
+            "link": "https://www.linkedin.com/pulse/hari-kemerdekaan-indonesia-budi-handoko",
+            "published_date": {
+                "day": 28,
+                "month": 1,
+                "year": 2017
+            },
+            "author": "Oleh Budi Handoko",
+            "image_url": "https://media.licdn.com/dms/image/C5612AQFUdZra8iudXw/article-cover_image-shrink_180_320/0/1520084456289?e=2147483647&v=beta&t=fhrgANqeQ8-Ecgvp5dykqF3vdVpywVxxKquTQ-UT7DI"
+        },
+        {
+            "title": "Pursuing and Realising Your Dream - No Matter How Small",
+            "link": "https://www.linkedin.com/pulse/pursuing-realising-your-dream-matter-how-small-budi-handoko",
+            "published_date": {
+                "day": 14,
+                "month": 1,
+                "year": 2015
+            },
+            "author": "Oleh Budi Handoko",
+            "image_url": "https://static.licdn.com/scds/common/u/img/pic/pic_pulse_stock_article_1.jpg"
+        }
+    ],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

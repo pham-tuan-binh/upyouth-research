@@ -1,0 +1,324 @@
+{
+    "public_identifier": "jeffreykliu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jeffreykliu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221631Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7e38583cade0533cd4f87dea3363e40f7fa52270b46086f81b23d86504750883",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jeffreykliu/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221631Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=91bcbbf963557ff3b2328ffa7306309ee80c480a21f2660b32a20fc73da0d0cf",
+    "first_name": "Jeffrey",
+    "last_name": "Liu",
+    "full_name": "Jeffrey Liu",
+    "follower_count": 7233,
+    "occupation": "Founder and CEO at Jenfi",
+    "headline": "Founder & CEO at Jenfi l Jenfi is an alternative revenue-based financing company for digital-native businesses and startups for Southeast Asia.",
+    "summary": "Jeffrey is the Co-Founder and CEO of Jenfi, a financial technology company that provides revenue-based financing to rapidly growing businesses in Asia. Jenfi aims to assist digitally-enabled businesses, such as ecommerce ventures and high growth startups, to accelerate their sales velocity by funding their marketing, inventory, and growth campaigns.\n\nJeff brings a strong operational and financial background from GuavaPass where he served as the Co-Founder & CEO. Prior to that, he helmed the role of Head of Corporate Development at BeachMint, a venture-backed social ecommerce company in Santa Monica (founded by the Co-Founder of MySpace). During his time there, he ran the company\u2019s Business Intelligence and Analytics divisions where he forefronted the merger between BeachMint and Lucky Magazine, a Conde Nast subsidiary, forming The Lucky Group.\n\nPrior to this, he helped launch a hedge fund in Singapore; worked as an investment associate at a credit opportunities and special situations hedge fund in Chicago; and as an investment banker at Lehman Brothers. \n\nJeffrey graduated with an MBA from the University of Chicago Booth School of Business and received a B.S. in Industrial Engineering with an additional major in Economics at Northwestern University. ",
+    "country": null,
+    "country_full_name": null,
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Jenfi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jenfi/",
+            "title": "Founder and CEO",
+            "description": "Jenfi is a financial technology company that provides revenue-based financing to rapidly growing businesses in Asia. Jenfi aims to assist digitally-enabled businesses, such as ecommerce ventures and high growth startups, to accelerate their sales velocity by funding their marketing, inventory, and growth campaigns.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF7YW09bV2gBw/company-logo_400_400/0/1630652156537/jenfi_logo?e=1712793600&v=beta&t=08hqBNHWz0l1I9MCA-rCqTfy4bf4VULAMwsRSsKGUq0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "GuavaPass",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/guavapass/",
+            "title": "Founder and CEO",
+            "description": "GuavaPass is a technology platform providing its members with access to a network of high quality fitness studios and healthy-living experts across Asia and the Middle East.\n\nClassPass acquired GuavaPass in January 2019.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFchMcoLekxnQ/company-logo_400_400/0/1631340827862?e=1712793600&v=beta&t=ywZgQudOsnUgyOL0kWyCGbfy6Sy6y7f_YdSstLZMltY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "BeachMint",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/beachmint/",
+            "title": "Head of Corporate Development",
+            "description": "Key member of executive team. Reported directly to founders (CEO & President). \n150 person organization and over $90 million USD raised. \n\nLed merger between BeachMint and Lucky Magazine (Cond\u00e9 Nast)\n\nRan key corporate initiatives, including acquisitions, foreign joint ventures, and strategic partnerships. Led negotiations and due diligence of major transactions.\n\n*BeachMint renamed to The Lucky Group*\n\nContent-to-commerce company that combines the best-in-class technology from the team that created BeachMint with the editorial excellence of Lucky magazine. Aspirational but accessible, luxurious but relatable, The Lucky Group\u2019s mission is to change the way women shop by creating content that fuses inspiration, discovery and purchase\u2014all through Lucky\u2019s signature editorial point of view.\n\nThe Lucky Group operates Lucky\u2019s print, digital, mobile and new e-commerce platform, and continues to develop BeachMint\u2019s private label offering within the jewelry, footwear, apparel and intimate verticals.\n\nThe Lucky Group, Inc.\u2019s investors include Cond\u00e9 Nast, Goldman Sachs, NEA, Pritzker Group Venture Partners, Trinity Ventures and Scale Venture Partners. Anna Wintour, Cond\u00e9 Nast Artistic Director, serves as an advisor to The Lucky Group, alongside advisors Ashley Olsen and Mary-Kate Olsen.",
+            "location": "Santa Monica",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDNn7AG4U6Hw/company-logo_400_400/0/1631330632170?e=1712793600&v=beta&t=GH-o4p1TopMOifGdHs671u0lm2sNcHQx8ESQCEdTscg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "company": "BeachMint",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/beachmint/",
+            "title": "Head of Business Intelligence & Analytics",
+            "description": "Managed team of data scientists, business intelligence professionals, and database administrators.",
+            "location": "Santa Monica",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDNn7AG4U6Hw/company-logo_400_400/0/1631330632170?e=1712793600&v=beta&t=GH-o4p1TopMOifGdHs671u0lm2sNcHQx8ESQCEdTscg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "company": "Toccata Capital",
+            "company_linkedin_profile_url": null,
+            "title": "Investments",
+            "description": "Hedge Fund - Southeast Asian Equities\nSoutheast Asia focus: Indonesia, Thailand, and Philippines.\n\nFounded in 2011, Toccata Capital Pte. Ltd. is a Singapore-based registered fund management company.  We employ a thoughtful value-driven research process to hand-select productive companies. Our neighbourhood is Southeast Asia, a diverse region with a fascinating history and home to 600 million people.\n\nHandled equity research and made buy/sell recommendations as first member of the investment team. Worked directly with founding principal to set up fund.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2010
+            },
+            "company": "Victory Park Capital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/victory-park-capital-advisors/",
+            "title": "Investment Associate",
+            "description": "Credit Opportunities & Special Situations Hedge Fund ($1.2B)\n\nVictory Park provides direct financing solutions to small cap and middle market companies across a wide range of industries. The firm focuses on complex situations and seeks to build long term sustainable value in companies.\n\nMade direct investments in biopharmaceuticals, fintech, oil & gas services, medical software, and bridge financing, distressed, and bankruptcy situations.\n\nFirst member of the investment team (5 person team). Reported directly to founding principal.",
+            "location": "Chicago",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFyUvmk6Wqdag/company-logo_400_400/0/1631327823352?e=1712793600&v=beta&t=2W4c7DntoYpZ1XPsbO4u9q7vcjBKfwOywG2K1M6PF7c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2008
+            },
+            "company": "Lehman Brothers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lehman-brothers/",
+            "title": "Investment Banking",
+            "description": "Global Industrial Group\nM&A, restructuring advisory, and leveraged buyouts\nRanked top of analyst class",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG93IQLJJ-N5Q/company-logo_400_400/0/1631306031483?e=1712793600&v=beta&t=XiZJWWlB936rVp_U6yu9hAxVjKInzFErdh0x-LHl650"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "school": "The University of Chicago Booth School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFZO05jhYKSkw/company-logo_400_400/0/1692627816910/universityofchicagoboothschoolofbusiness_logo?e=1712793600&v=beta&t=YP8tZQR1h-tiyQLah4VBdXE3co9xJxzO1b2WHRzK0DU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": "Industrial Engineering & Economics",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Northwestern University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH-sXOOSUF3aA/company-logo_400_400/0/1631319371681?e=1712793600&v=beta&t=OjUuvjDLLSk8era1tN5ocZ9GtPTB6aPpV1x1Qh7MYPM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Hong Kong International School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Singapore American School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/nitsujri",
+            "name": "Justin Louie",
+            "summary": "CTO at Jenfi",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/laitran28",
+            "name": "Lai Tran",
+            "summary": "Business Development Manager | Driving Revenue Growth and Client Acquisition",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yeosean",
+            "name": "Sean Yeo",
+            "summary": "Providing Growth Capital as a Service",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeffcheok",
+            "name": "Jeff Cheok",
+            "summary": "Strategic Partnership | Passionate Business Developer | Ex-Fave",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mo-zhou8888",
+            "name": "Mo Z.",
+            "summary": "Founder + Investor | Forbes 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vernistsm",
+            "name": "Vernis Tan",
+            "summary": "Providing Growth Capital for Startups and SMEs in Singapore | \ud83e\udd38\ud83c\udffb\u200d\u2640\ufe0fCo-Founder of Sustainable Athleisure Brand",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michaelnguyen20",
+            "name": "Michael Nguyen",
+            "summary": "Business Development Manager | Driving Revenue Growth and Client Acquisition",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alap-bharadwaj-b241704",
+            "name": "Alap Bharadwaj",
+            "summary": "Director at Google, Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tituschan",
+            "name": "Titus Chan",
+            "summary": "Empowering Southeast Asia's digital businesses with hassle-free revenue-based financing for exponential growth and success.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dmytro-lytvynchuk",
+            "name": "Dmytro Lytvynchuk",
+            "summary": "Head Of Business and Corporate Development at Jenfi",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jeffrey Liu",
+            "link": "https://ca.linkedin.com/in/jeffrey-liu-yvr",
+            "summary": "Principal at Jeffrey Liu Studio",
+            "location": "Vancouver, BC"
+        },
+        {
+            "name": "Jeffrey Liu",
+            "link": "https://cn.linkedin.com/in/jeffrey-liu-00aa7181",
+            "summary": "Senior Sales Manager \u2014 Shanghai Zenith Mining and Construction Machinery Co., Ltd.",
+            "location": "Shanghai, China"
+        },
+        {
+            "name": "Jeffrey LIU",
+            "link": "https://cn.linkedin.com/in/jeffrey-liu-2210932a",
+            "summary": "Corner Stone & Partners",
+            "location": "Beijing, China"
+        },
+        {
+            "name": "Jeffrey Liu",
+            "link": "https://cn.linkedin.com/in/jeffrey-liu-06024674",
+            "summary": "Ace Hardware Corporation - Sourcing",
+            "location": "Shanghai, China"
+        },
+        {
+            "name": "Jeffrey Liu",
+            "link": "https://cn.linkedin.com/in/jeffrey-liu-762941b0",
+            "summary": "Sr. BD Manager at Boyuan Pharma | GMP&CEP Manufacturer of APIs and Intermediates | 4.5K+ Pharmaceutical Connections",
+            "location": "Jinan"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

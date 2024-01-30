@@ -1,0 +1,257 @@
+{
+    "public_identifier": "harrischeng",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/harrischeng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221547Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=65516103638e80163478bb4c7059af38b42d7d660f90d33bbff7753e68f5d7fd",
+    "background_cover_image_url": null,
+    "first_name": "Harris",
+    "last_name": "Cheng",
+    "full_name": "Harris Cheng",
+    "follower_count": 1432,
+    "occupation": "Co-Founder (YC S21) at Warpfy",
+    "headline": "Alternative Assets Expert",
+    "summary": null,
+    "country": "HK",
+    "country_full_name": "Hong Kong",
+    "city": "Hong Kong SAR",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Warpfy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/warpfy/",
+            "title": "Co-Founder (YC S21)",
+            "description": null,
+            "location": "Hong Kong SAR",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUDELmo41awQ/company-logo_400_400/0/1622032546654?e=1700697600&v=beta&t=CWD--_-pNn-q2Q5wmOKZYWSSkwicFVrGn8QVH56-UJ4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "China Taiping Insurance Holdings Co Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/china-taiping-insurance-holdings-co-ltd/",
+            "title": "Investment Director",
+            "description": null,
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGC2Pbw-x_urA/company-logo_400_400/0/1594569728236?e=1700697600&v=beta&t=Sot4L5mLxXwY7BEak2ZYBVsxxAqkTU2qS8qm5W1mKzs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "JD Capital",
+            "company_linkedin_profile_url": null,
+            "title": "Senior Associate",
+            "description": null,
+            "location": "Beijing City, China",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2009
+            },
+            "company": "Hedge Fund",
+            "company_linkedin_profile_url": null,
+            "title": "Research Analyst",
+            "description": "Research Investment in Emerging Markets",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Standard Chartered Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/standardchartered/",
+            "title": "Associate Director",
+            "description": null,
+            "location": "Shanghai, China",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFIXBBXX9EX-Q/company-logo_400_400/0/1656579431817?e=1700697600&v=beta&t=FlTx53Mec2iMhEofyQDh0RfQfIEMNlHzxrgJ71jm7do"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "company": "Morgan Stanley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/morgan-stanley/",
+            "title": "Associate",
+            "description": null,
+            "location": "Hong Kong SAR",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778127603?e=1700697600&v=beta&t=Q300a2azgPKmbgqimCwHdCikrp-1H79qoWU_EDYoE9o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "JP Morgan",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorgan/",
+            "title": "Associate",
+            "description": "Global Markets",
+            "location": "New York City",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/0/1630056226107?e=1700697600&v=beta&t=_A1hQal0A5bfGBYcvFI2r93O31K8UPxa8XUlrQ_6JvM"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/avicabedi",
+            "name": "Avica Bedi",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adrian-tang-68026789",
+            "name": "Adrian Tang",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michael-pisciotta-0967a1",
+            "name": "Michael Pisciotta",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dexter-lim",
+            "name": "Dexter Lim",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/phillip-h-duong",
+            "name": "Phillip Duong",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harisikram",
+            "name": "Haris Ikram",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aakashmalu",
+            "name": "Aakash Malu",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/janet-shum-3a593161",
+            "name": "Janet Shum",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wendy-reiners-3795ba126",
+            "name": "Wendy Reiners",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zhangyu",
+            "name": "Stephen Zhang",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Harris Cheng",
+            "link": "https://hk.linkedin.com/in/harris-cheng-055206163",
+            "summary": "Senior Mobile Application Developer",
+            "location": "Kowloon"
+        },
+        {
+            "name": "Harris Cheng",
+            "link": "https://tw.linkedin.com/in/chengharris",
+            "summary": "Co-Founder and CEO at Greenvines",
+            "location": "Taipei City"
+        },
+        {
+            "name": "Harris Cheng",
+            "link": "https://au.linkedin.com/in/harris-cheng",
+            "summary": "UTS Engineering Student, Jaycar Sales Assistant",
+            "location": "Doonside, NSW"
+        },
+        {
+            "name": "Harris Cheng",
+            "link": "https://ca.linkedin.com/in/harrischh",
+            "summary": "Co-founder & CEO of Jupitrr and Freehunter",
+            "location": "Canada"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

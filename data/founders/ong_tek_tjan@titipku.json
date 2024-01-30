@@ -1,0 +1,421 @@
+{
+    "public_identifier": "ong-tek-tjan-533b2616",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ong-tek-tjan-533b2616/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221527Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=46fbcc102809ef428f610fd9a626d7e4746b96e2aca7329ca17de96cac0a7328",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ong-tek-tjan-533b2616/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221527Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=41ab9cf3b58182d1fd1d8b6085f84a617fc58907ab32aa188482e76f545d29bd",
+    "first_name": "Ong Tek",
+    "last_name": "Tjan",
+    "full_name": "Ong Tek Tjan",
+    "follower_count": 1368,
+    "occupation": null,
+    "headline": null,
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "PT Terang Bagi Bangsa",
+            "company_linkedin_profile_url": null,
+            "title": "Co Founder",
+            "description": "After 26 years my career in banking industry, this is new moment. I will focus on the vision and mission that already raised from 2016. I wish with all my experiences this new journey will be attractive. We welcome to collaborate with any parties.\n\nPT Terang Bagi Bangsa is a  startup company that builds a digital market place for m-SMEs in Indonesia called Titipku.\nOur apps has been launched since Nov 2017 and several market testings were done to find user\u2019s behaviors and right ways to enter real competition in future.\nTitipku provides solutions for traditional offline  m-SMEs entering digital market place with deeply understanding the cultures and build adaptation process for Indonesian  m-SMEs . \nOur vision in social entrepreneurship make Titipku will be very different with others.",
+            "location": "Jakarta Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "PT Bank Sahabat Sampoerna",
+            "company_linkedin_profile_url": null,
+            "title": "Director",
+            "description": "Managing business and networks of bank especially SME Lending, Funding, Financial Institution and  Branch Networks",
+            "location": "Jakarta Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "company": "PT Bank Sahabat Sampoerna",
+            "company_linkedin_profile_url": null,
+            "title": "Head of SME, Funding and Network",
+            "description": "Managing business especially SME Lending, Funding and Branch Network",
+            "location": "Jakarta Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Bank Danamon Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-danamon-indonesia/",
+            "title": "EVP Strategic Planning and Business Development",
+            "description": "Responsible in strategic planning, business development and support  in Corporate, Commercial and SME  Business including   financial strategic planning, product and marketing communication,  customer fulfilment / experience, business research, process improvement, cross sell and financial supply chain business, MIS and analytical review.",
+            "location": "SME and Wholesale Banking HQ",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH0vC9_nMyTLA/company-logo_400_400/0/1568603254469?e=1697673600&v=beta&t=T7iDxDyqETWRmMBxatAVNHBzW0Z1vZQBsSdXlGRmlTs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "company": "Bank Danamon Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-danamon-indonesia/",
+            "title": "EVP SMEC Cross sell",
+            "description": "To create and develop synegic business oppurtunities  between Danamon's SME Commercial Business line with other internal Danamon' business units and subsidiary companies.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH0vC9_nMyTLA/company-logo_400_400/0/1568603254469?e=1697673600&v=beta&t=T7iDxDyqETWRmMBxatAVNHBzW0Z1vZQBsSdXlGRmlTs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Deputy Head Division",
+            "description": "Responsible in bank's business strategies to grow loan portfolio in SME and upper SME segments. Head of 5 departments such as business research, product development, process improvement, sales/ Account Officer management and small micro program",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Head of SME Upper SME Business Infrastructure",
+            "description": "Responsible to support lending business in SME and Upper SME segment by developing related infrastrusture such as loan origination system, sales management / account officer development, process improvement, credit policy, network planning.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2005
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Head of SME Business Department",
+            "description": "Responsible to monitor SME lending performance of all regions / branches and give support to help branch achieve their target. Initiate lending product initiative and financial supply chains.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2005
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Main Branch Manager",
+            "description": "Report to Regional Head and responsible in achieving business performance of main branch Sunter Mal including 9 sub branches, including funding, lending, fee base income handling more than 300 staffs.",
+            "location": "Main Branch of Sunter Mal Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2003
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Deputy Branch Manager in Operation",
+            "description": "Report to Main Branch Manager and responsible in handling daily operation of main branch and coordinate 11 sub branches operation especially in area of remmittances, trade finance, and banking transaction.",
+            "location": "Main Branch of Malang",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2000
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Deputy Branch Manager in Credit and Marketing",
+            "description": "Report to Branch Manager in doing responsible to grow lending portfolio in main branches and 11 sub branches. Manage staff in area of marketing, credit analyst, credit administration, early warning, loan remedial and recovery.",
+            "location": "Main Branch of Malang",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 1996
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 1998
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Credit Head",
+            "description": "Report to Deputy Branch Manager in daily operations of credit analyst, credit administration, early warning, loan remedial and recovery.",
+            "location": "Main Branch of Malang",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 1996
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Professional Staff",
+            "description": "Assist branches in certain regions in solving non performing portfolio, monitor the workout plan, propose loan recovery to management and restructure plan.",
+            "location": "Loan Workout Department Head Office",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 1994
+            },
+            "company": "PT Bank Central Asia Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bca/",
+            "title": "Management Development Program",
+            "description": "Management Trainee Program consist of on class training, on the job training in all banking areas such as branch daily operations, credit and marketing, trade finance, internal audit.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEG_EJSm4nI0A/company-logo_400_400/0/1676524415076?e=1697673600&v=beta&t=2Q3AizYzeXgZenFItQvz1PWX-Nn2sIGQke7e8Sbflmk"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/henri-suhardja-1881a4109",
+            "name": "Henri Suhardja",
+            "summary": null,
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/stephanus-deo-aquino-5752aa150",
+            "name": "Stephanus Deo aquino",
+            "summary": "Chief Operating Officer at Titipku (YC S21)",
+            "location": "Yogyakarta dan Sekitarnya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/titipku-pt-terang-bagi-bangsa-749b1b142",
+            "name": "Titipku (PT Terang Bagi Bangsa)",
+            "summary": "Belanja produk segar berkualitas dari pasar terdekat? Titipku aja!",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/yanuar-rusdianto-300194",
+            "name": "Yanuar Rusdianto",
+            "summary": "Chief Merchant Partnership Officer at Titipku (YC S21)",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/faradhita-delicia-383031143",
+            "name": "Faradhita Delicia",
+            "summary": "CMO at Titipku [YCS21]",
+            "location": "Jakarta Utara"
+        },
+        {
+            "link": "https://id.linkedin.com/in/fauzi-rahadian-yusuf",
+            "name": "Fauzi Rahadian Yusuf",
+            "summary": null,
+            "location": "Kota Tangerang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/haryanto-suryonoto-1038809",
+            "name": "Haryanto Suryonoto",
+            "summary": "Consumer Lending & Emerging Business Banking Head",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/yenny-lim-08094036",
+            "name": "Yenny Lim",
+            "summary": "Chief of Finance & Planning at SMBC Indonesia",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/stephen-liestyo-b86a7939",
+            "name": "Stephen Liestyo",
+            "summary": "BAYAR2.COM -  PT. Prismalink International",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/anton-tjen-2ba871224",
+            "name": "Anton Tjen",
+            "summary": null,
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/itadwikustikasari",
+            "name": "Ita Dwi Kustikasari",
+            "summary": "Strategic Partnership & Business Development",
+            "location": "Jakarta Barat"
+        },
+        {
+            "link": "https://id.linkedin.com/in/clairine-janery-2657989b",
+            "name": "Clairine Janery",
+            "summary": "broom.id",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/abrahamkurnia",
+            "name": "Abraham K.",
+            "summary": null,
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/nagatan",
+            "name": "Naga Tan",
+            "summary": null,
+            "location": "Singapura"
+        },
+        {
+            "link": "https://id.linkedin.com/in/pahala-david-pandjaitan-sh-mbm-cwm-76509224",
+            "name": "Pahala David Pandjaitan  SH MBM CWM",
+            "summary": null,
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/randyramadhana",
+            "name": "Farandy Ramadhana",
+            "summary": null,
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gerald-sirait-925b40206",
+            "name": "Gerald Sirait",
+            "summary": "Student at SMA Negeri 48",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/triesta-mangku-164aba224",
+            "name": "Triesta Mangku",
+            "summary": "--",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rosana-ocha-18a0681a0",
+            "name": "Rosana Ocha",
+            "summary": "Digital Marketing Specialist at PT. Harvindo Perkasa",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dwi-purwanto-39a4308b",
+            "name": "Dwi Purwanto",
+            "summary": "--",
+            "location": "Jakarta"
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "ong tek tjan",
+            "link": "https://id.linkedin.com/in/ong-tek-tjan-818689259",
+            "summary": "--",
+            "location": "Jakarta"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

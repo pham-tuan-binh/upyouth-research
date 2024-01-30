@@ -1,0 +1,200 @@
+{
+    "public_identifier": "phil-opamuratawongse-b87b9380",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/phil-opamuratawongse-b87b9380/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221204Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b62ec6c8982717e4cb0c3fca31fa74d31db80262722daa633014e3a4de578ad4",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/phil-opamuratawongse-b87b9380/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221204Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6a696291c81754f9465f8cf760ccde41dd00b124c256c5bc21c91c7a99b0fd",
+    "first_name": "Phil",
+    "last_name": "Opamuratawongse",
+    "full_name": "Phil Opamuratawongse",
+    "follower_count": 5835,
+    "occupation": "Co-Founder at Shipper",
+    "headline": "Co-Founder at Shipper",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Shipper",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shipper-indonesia",
+            "title": "Co-Founder",
+            "description": "Southeast Asia\u2019s e-commerce logistics and enablement platform",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF_0YyIWU5qxg/company-logo_400_400/0/1662106492535/shipper_indonesia_logo?e=1710374400&v=beta&t=Ct2Yfp4PBqXonSwHh3K9kj61ls1Gb9h651tdsoTZORc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Floodgate",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/floodgate",
+            "title": "Chief of Staff",
+            "description": "Investing in legendary startups before others believe. Floodgate's investments include Twitter, Lyft, Chegg, Twitch, Okta, Weebly, Refinery29, and others.",
+            "location": "Palo Alto, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG0tuvxcHMEoA/company-logo_400_400/0/1630555397699/floodgate_logo?e=1710374400&v=beta&t=sNoxnBR9Io0lwBvdsHatp8qkuzZwE-luFttjlYozg6M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey",
+            "title": "Consultant",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1710374400&v=beta&t=rnKaOd3rXGFdLPJrikwsjfvXXQuI2Mfp_SI9qhdVjqs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Mathematical and Computational Science",
+            "degree_name": "Bachelor of Science (BS)",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1792/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1710374400&v=beta&t=GJ2S8SBrAjhdHXbH0WbvdwPWoRpmoJC8LE9bBAcsLcA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Operations Research",
+            "degree_name": "Master of Science (MS)",
+            "school": "Columbia University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2624/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1710374400&v=beta&t=JNG0RBrdbUeaJiCqKIm0rnwKZNPlXwxFy7zHeNGgKBI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W19",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710374400&v=beta&t=Q-qQL8YAGA3kws2SGXfuGtBz1lhfWcycVOSK15t1PRE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Choate Rosemary Hall",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/25246/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFfsVSQ2o1_NQ/company-logo_400_400/0/1631308570012?e=1710374400&v=beta&t=Y_uVSvugmDMN9lEXjd_Y--7BsE97dCLD_jC4FtLJCZk",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": "Education",
+            "company": "BUILD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/513390/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGT3pm5lHpqVQ/company-logo_400_400/0/1630640162308/build_logo?e=1710374400&v=beta&t=DAjtkrS6snFDgJO5ZW29WPU5ReXVlF8abqDp2UAgrlY"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/kathyfang",
+            "name": "Kathy Fang",
+            "summary": "Chief Of Staff at Shipper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/william-tunggaldjaja",
+            "name": "William Tunggaldjaja",
+            "summary": "Co-Founder at FAVO (AsmaraKu.com) & helping companies grow beyond web bit by bit.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bhandoko",
+            "name": "Budi Handoko",
+            "summary": "Building Shipper (YC W19). Hiring Leaders and Engineers.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alvinkumarga",
+            "name": "Alvin Kumarga",
+            "summary": "Co-Founder at Cosmart | Traveloka, BCG alumni",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roolin-njotosetiadi",
+            "name": "Roolin Njotosetiadi",
+            "summary": "CEO & Co-Founder at Logisly",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQEgXMc9i1hiXA/group-logo_image-shrink_48x48/0/1631394468385?e=1702656000&v=beta&t=HlLDXU3sid-9QcNoTe6kfuNrT6_BQV_M9Suzd94TJuk",
+            "name": "Columbia Club of Northern California",
+            "url": "https://www.linkedin.com/groups/13508383"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQFUMxSpQG6QSg/group-logo_image-shrink_48x48/0/1701446533020?e=1702656000&v=beta&t=DJkJcZSxWVW3aQRyEzMMW8kgcQApOLK3laKRHLZAmqY",
+            "name": "Interaction Design Foundation",
+            "url": "https://www.linkedin.com/groups/2529386"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

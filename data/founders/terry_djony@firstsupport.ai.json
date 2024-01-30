@@ -1,0 +1,375 @@
+{
+    "public_identifier": "terry-djony",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/terry-djony/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221615Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d966befde86e60a529191559ac3a0b12036ae98c628593ea05c08789a94094f3",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/terry-djony/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221615Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=10c459d7675704ce98cb6d0920292cb390978f37e7c72b0a357c678e6f3b65c0",
+    "first_name": "Terry",
+    "last_name": "Djony",
+    "full_name": "Terry Djony",
+    "follower_count": 3789,
+    "occupation": "Co-Founder at FirstSupport",
+    "headline": "YC W21 | Co-founder FirstSupport.ai | Founder Chatbiz.id",
+    "summary": "Hi, I'm Terry Djony, from Indonesia.\n\nHere are some highlights about my life journey:\n\n- born in 1998. grew up in Lampung (small city in Indonesia)\n- self-taught engineering at age 14 by reading books and browsing the internet pages, published some open-source developer tools\n- moved to Bandung for university study (at Bandung Institute of Technology)\n- built my first company, a chatbot agency (https://chatbiz.id), during college year 3, profitable from day one\n- got into YCombinator Batch W21 at age 21\n- got into Global Shapers by WEF in 2021\n- currently working on something new",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Chatbiz.id",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/chatbiz/",
+            "title": "Founder",
+            "description": "We are helping Indonesian businesses scale their WhatsApp customer service with chatbots built on top of WhatsApp Business API.\n\nStarted from university competition project in late 2018.\nGot first investment in 2019.\nI took a leave of absence in the university to focus on this in 2020.\nGot funded by YC in 2021.",
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFoy8ENR3CWag/company-logo_400_400/0/1678874490568/orderdulu_logo?e=1709769600&v=beta&t=gFH7rpPMufIZ5XFw6cx6JBb0eE5L2CR7fkXIoBMPTEE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "FirstSupport",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/firstsupport-ai/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG_4yptN9SF3A/company-logo_400_400/0/1699857911490?e=1709769600&v=beta&t=TrtNE462SdjRpObENXLiSwXQnKlrprhnCaRbYf_CseU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2023
+            },
+            "company": "Orderdulu",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "Storefronts creator with WhatsApp CTA Buttons.\nPowered by NextJS & Strapi.\nUnsustainable unit economics lead to shutting down & selling it to another company.",
+            "location": "Bandung, West Java, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Techno Entrepreneurship Club",
+            "company_linkedin_profile_url": null,
+            "title": "IT Team",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Math Q&A",
+            "company_linkedin_profile_url": null,
+            "title": "Administrator",
+            "description": "Math Q&A is an educational LINE@ account which helps people understand more about math by providing math quizzes, solving math problems, and guide people which have some trouble in math. This account, along with other Q&A accounts, is founded by the two brothers, Jehian P. Sijabat and Jerome Polin.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Google Developers Kejar",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/google-developers-kejar/",
+            "title": "Mobile Web Specialist",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFIPmqwGObjyQ/company-logo_400_400/0/1630566414150/google_developers_kejar_logo?e=1709769600&v=beta&t=K4XLF12pbXH9QHvHdOwna-Cr9G8E0Y7loGuxIGr8DM8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "Institut Teknologi Bandung",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/itb/",
+            "title": "Web Developer Internship (PPID)",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1709769600&v=beta&t=v96aUKzZv5-0XQajmibhvIiLjZsDjVIm7jxSPdcVJ38"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Institut Teknologi Bandung",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/itb/",
+            "title": "Probability and Statistics Teaching Assistant",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1709769600&v=beta&t=v96aUKzZv5-0XQajmibhvIiLjZsDjVIm7jxSPdcVJ38"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Chatbiz - W21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1709769600&v=beta&t=3PhmNs5xyjB8ojWrGW-pvFjrKYBMSmRW6vQG_vd_kX8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "field_of_study": "Engineering Physics",
+            "degree_name": "Faculty of Industrial Technology",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1709769600&v=beta&t=v96aUKzZv5-0XQajmibhvIiLjZsDjVIm7jxSPdcVJ38",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+            "degree_name": "Enterprise Summer Program on Entrepeneurship",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1709769600&v=beta&t=92vjTYnCW40odgsd2bu64czzhial1as-6TcGCHFRQYw",
+            "grade": "4.0",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "org_name": "Google Developer Student Club",
+            "title": "Member",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Kaskus Hot Thread Of The Month (July 2016)",
+            "issuer": "Kaskus Official",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "description": "Artikel \"Kemana Perginya Cahaya Saat Lampu Dimatikan\" (https://www.kaskus.co.id/thread/576389c5dc06bdf8748b456b/kemana-perginya-cahaya-saat-lampu-dimatikan) memenangkan penghargaan Hot Thread Of The Month Juli 2016 ( https://www.kaskus.co.id/thread/57d10b1aded770e21d8b456b/htotm-hot-thread-terbaik-juni-2016-udah-ada-loh-gan/)\n\nHot Thread Of The Month adalah penghargaan dari Kaskus untuk para pembuat Thread yang dianggap berkualitas pada bulan tertentu."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2023
+            },
+            "ends_at": null,
+            "title": "AI Placeholder",
+            "description": "https://aiplaceholder.terrydjony.com\n\nOpen source AI-powered Fake REST API, alternative to JSON Placeholder. Generate any data you want for testing & prototyping.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "title": "Logo Poll Website for Class 2020 of Faculty of Industrial Technology at Bandung Institute of Technology",
+            "description": "A poll website to choose the best logo for class 2020 of Faculty of Industrial Technology in Bandung Institute of Technology",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Ion Container (WebComponent)",
+            "description": "Open source PHP minimalist inversion of control container using automatic dependency injection",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Routeria (Web Component)",
+            "description": "An open-source, simple and easy-to-use url router built on PHP",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ffahleraz",
+            "name": "Faza Fahleraz",
+            "summary": "Co-Founder at Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/agus-sulaiman-34b18243",
+            "name": "Agus Sulaiman",
+            "summary": "Founder ASM-Tech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/feliciacindy",
+            "name": "Felicia C.",
+            "summary": "Driving Innovation in Construction Tech | Expertise in Growth Strategy, Project Management & eCommerce",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/agneswlie",
+            "name": "Agnes W Lie",
+            "summary": "Co-Founder at Whiz (YC W22) | ex-OVO, ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/henri-suhardja-1881a4109",
+            "name": "Henri Suhardja",
+            "summary": "Co-founder & CEO Titipku (Instacart of Indonesia / YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gerynugraha",
+            "name": "Gery N.",
+            "summary": "Co-Founder @ Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/corwinrudly",
+            "name": "Corwin Rudly",
+            "summary": "Building something | EIR at Antler ID2",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/azmihayaza",
+            "name": "Azmi H.",
+            "summary": "Building FLIK - Accelerating D2C growth through conversion-boosting 1-Click Checkout",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shyam-kalairajah",
+            "name": "Shyam Kalairajah",
+            "summary": "Co-Founder at Finku (YC W22) | Ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jehianps",
+            "name": "Jehian Panangian Sijabat",
+            "summary": "CEO of Mantappu Corp. | Forbes 30 Under 30 Asia",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

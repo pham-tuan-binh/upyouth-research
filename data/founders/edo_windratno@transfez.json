@@ -1,0 +1,238 @@
+{
+    "public_identifier": "edowindratno",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/edowindratno/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221332Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8df50a9964e3b1cefba8b9c1c41f878f36069063001ed7addf7960a33038d8ab",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/edowindratno/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221332Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=701618a46fb00e998b4c2c44c3e9a8f8a30bec719efce99f5b3e9c7e2c04632b",
+    "first_name": "Edo",
+    "last_name": "Windratno",
+    "full_name": "Edo Windratno",
+    "follower_count": 985,
+    "occupation": "Chief Executive Officer at Jack",
+    "headline": "CEO at Jack & Transfez",
+    "summary": "Graduated from Institut Teknologi Bandung, majoring in Industrial Engineering, Edo is a serial entrepreneur with more than 10 years of experience in founding companies from various industries such as mining, export-import, and e-commerce. He also has extensive experience in advising business owners and senior management in his previous role as a partner in his consulting firm, dealing with local & global clients partners as well as government institutions. He is now building Transfez (YC W22) with a mission to make cross-border finance simpler for everyone.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Jack",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/itsjack/",
+            "title": "Chief Executive Officer",
+            "description": "- Launched a pioneering fintech startup that's transforming Indonesia's payment landscape (itsjack.com)\n- Strategically positioned the company for rapid expansion in the Indonesian market",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEMxAcnBcLLZQ/company-logo_400_400/0/1688611049615/itsjack_logo?e=1710979200&v=beta&t=2s6yUGd3JZazwayJXy-KxJ6UFfT5ioRP0XUuKswZ5HI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Transfez",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/transfez/",
+            "title": "Chief Executive Officer",
+            "description": "Cross-border payment, money transfer & network solutions for individuals and SMEs (transfez.com)",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF3dKG-HMSMsQ/company-logo_400_400/0/1659431350758/transfez_logo?e=1710979200&v=beta&t=4fPhiFXuhuL4EK_QNuagw_49mi3sJSVO9lU5Oq6SVSY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Ganesha Tekno Indonusa (GTI Consulting Group)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ganesha-tekno-indonusa-gti-consulting-group-/",
+            "title": "GTI Consulting",
+            "description": "- Founded a high-impact consulting firm, serving government entities, private corporations, and banks.\n- Led transformative projects, such as a $2M annual cost-saving system and pivotal digitalization initiatives.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF293O0g_iIYg/company-logo_400_400/0/1631318904848?e=1710979200&v=beta&t=Q1hpzTMs0hApmlTBNU7V8nGNl7JC7i0oIBHyvhlca3w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "PUTRA INDONESIA JAYA (\u201cPIJ\u201d) ",
+            "company_linkedin_profile_url": null,
+            "title": "Founder & CEO",
+            "description": "- Built and led a manganese ore mining company, managing 1000 hectares of concession, to become one of the leading producers and exporters to China.\n- Achieved a strategic exit, cementing its legacy as a remarkable entrepreneurial success.",
+            "location": "Kefamenanu, East Nusa Tenggara, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "company": "CNOOC International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cnooc-international/",
+            "title": "People Management Specialist",
+            "description": "- Led in-depth analyses to identify competency gaps within the organization, comparing current employee skill sets with ideal competencies required for optimal performance.\n- Developed and implemented tailored development plans to bridge identified gaps, enhancing both soft skills (communication, leadership, teamwork) and technical proficiencies specific to roles, especially for engineers.\n- Continuously tracked and reported on the progress of competency development initiatives, achieving measurable improvements in employee performance, engagement, and retention.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEf9y_wbzcp6Q/company-logo_400_400/0/1630608856064/cnooc_international_logo?e=1710979200&v=beta&t=SpkYx08KrSIDtqCvzSIgagpLH9zHVAFsZQi50UXX0J4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "company": "Standard Chartered Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/standardchartered/",
+            "title": "Process Improvement Specialist, Operational Excellence Team",
+            "description": "- Spearheaded the implementation of lean manufacturing and Six Sigma methodologies, identifying inefficiencies and redundancies in banking processes.\n- Redesigned end-to-end workflow processes, achieving significant reductions in processing times, effort, and associated costs.\n- Led kaizen events and continuous improvement initiatives that fostered a culture of operational excellence within the organization.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFIXBBXX9EX-Q/company-logo_400_400/0/1656579432276/standardchartered_logo?e=1710979200&v=beta&t=ZPR3KH8ufKgheRip1v1j0KW8LOeTtmVpZwX8bTbyq2Q"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Industrial Engineering",
+            "degree_name": null,
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1710979200&v=beta&t=Px9ZwSW7WHi-iWgLVZig-3H5eyPRjhJrv2tfBx_yZso",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "SMA Negeri 8 Jakarta",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGvWV-nJ232Rg/company-logo_400_400/0/1631314170577?e=1710979200&v=beta&t=Z4Df92NwG4kfk1NoHtXkFwVn4PM2_xDUEX2oS9iErY4",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/digaprajogo",
+            "name": "Diga Prajogo",
+            "summary": "Software Engineer at Transfez (YC W22) | Part of Gerak Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/frisca-sutanto-796563b1",
+            "name": "Frisca Sutanto",
+            "summary": "Compliance, AML/CTF, & Risk Manager at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nathansetyobagas",
+            "name": "Nathan Setyobagas Aritonang",
+            "summary": "Campaign Marketing Manager at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sekarputri",
+            "name": "Sekar Ajeng Ecaterina Tiara Putri",
+            "summary": "Accounting Manager at Jack Finance & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/njasminewilson",
+            "name": "Jasmine Wilson",
+            "summary": "Head of Business and Partnership at Jack & Transfez (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aurelianabila",
+            "name": "Aurelia Nabila Fahrani",
+            "summary": "Human Resources at Jack & Transfez | We are Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/riorhezaharris",
+            "name": "Rio Rheza Harris",
+            "summary": "Senior Software Engineer at Jack & Transfez",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/calvaridirk",
+            "name": "Calvari Francois Dirk Leunufna",
+            "summary": "Master of Laws - LLM at University of Melbourne",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sekardaraninggar",
+            "name": "Sekar Dara Ninggar",
+            "summary": "Human Resources Generalist at Jack & Transfez | We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/henitads",
+            "name": "Henita S",
+            "summary": "Head of Performance Marketing at Jack & Transfez",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Edo Windratno",
+            "link": "https://id.linkedin.com/in/edo-windratno-86b912242",
+            "summary": "--",
+            "location": "Jakarta"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

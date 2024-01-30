@@ -1,0 +1,621 @@
+{
+    "public_identifier": "huynhrobert",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/huynhrobert/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221318Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9923e0941b09b709d0dbf59fac0b12d9ed0c09315a6d0e4eb8037af1bc7271a6",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/huynhrobert/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221318Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c90fff34acff5f4a2d165bd5979e00d79ad420f979932244834329ee65e58b83",
+    "first_name": "Robert",
+    "last_name": "Huynh",
+    "full_name": "Robert Huynh",
+    "follower_count": 4336,
+    "occupation": "Co-Founder & CEO at Reforged Labs (YC W22)",
+    "headline": "Co-Founder & CEO, Reforged Labs (YC W22)",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Reforged Labs (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/reforged-labs/",
+            "title": "Co-Founder & CEO",
+            "description": "* Start generating new levels for your mobile game in minutes.\n* Get higher levels of engagement, retention, and monetization with our LLM.\n* Backed by Y Combinator, Reforged Labs uses generative AI to save game studios weeks of work while also personalizing their games to players.\n* Our team is made up of experienced founders, AI experts and lifelong gamers (3x venture-backed startups, 3x Google, 2x Microsoft).\n* https://reforgedlabs.com/",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFfJ7PFTik54A/company-logo_400_400/0/1694111031195/reforged_labs_logo?e=1712793600&v=beta&t=m85pajdADSwG99e4Ba_rEI_osCBP28ns08LNrjJ1bP8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2023
+            },
+            "company": "Nook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/workwithnook/",
+            "title": "Co-Founder & CEO",
+            "description": "Nook is a blue collar job marketplace based in Ho Chi Minh City. Our initial category launch matches construction workers with construction projects on demand. Founded by two Harvard MBA students and a Vietnamese local with 10+ years of construction experience, Nook is solving the most pressing challenges faced by blue collar laborers in Vietnam.",
+            "location": "Ho Chi Minh City, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFv_YazjxstDw/company-logo_400_400/0/1661141274914/nookrenovation_logo?e=1712793600&v=beta&t=8pg9aqoWA63CZQQXx7r-W7W6WhL9o9gwC14jfG7VEmI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Harvard Business School",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school/",
+            "title": "MBA Candidate 2022",
+            "description": "Leaving school early to take some risks before I get too old :)\n\nStudent Leadership\n* Co-President of Asian-American Business Association\n* CFO of Esports & Gaming Club, Harvard Innovation Lab\n* Bschool Rep to Harvard Pan-Asian Graduate Student Alliance",
+            "location": "Boston, Massachusetts, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712793600&v=beta&t=u2TdS2m7S6bscmUKiw4QIxoeIprPb1JQ67UsbqKr7Ow"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "Waymo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/waymo/",
+            "title": "Analytics & Special Projects Lead",
+            "description": "Waymo is the self-driving technology company with a mission to make it safe and easy for people and things to move around. Building on software and sensor technology developed at Google, Waymo is now launching the world\u2019s first fully self-driving transportation service that will take members of the public from A to B at the touch of a button.",
+            "location": "Mountain View, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_400_400/0/1631313981466?e=1712793600&v=beta&t=6qsrp3mWRxaNBDmhK0v2ZzWSPNYtShjhwtCg34AaCcQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "X, the moonshot factory (Project Lantern / Chronicle)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/x/",
+            "title": "Business Intelligence Lead",
+            "description": "X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people. In 2010, Google founders Larry Page and Sergey Brin decided to form a new division of the company to work on moonshots: far-out, sci-fi sounding technologies that could one day make the world a radically better place.\n\nChronicle was born in 2016 as a project within X, Alphabet\u2019s moonshot factory. We see a future where enterprise security teams can find and stop cyberattacks before they cause harm. By applying planet-scale computing and analytics to security operations, we provide the tools teams need to secure their networks and their customers\u2019 data. We turn the advantage to the forces of good.",
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF5NEs0NbbsHQ/company-logo_400_400/0/1630568239950/x_logo?e=1712793600&v=beta&t=mI4ZZfN5pVWThZFsK6Lq7JgaQMGuYFYN5VG0LcuJCMw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Corporate Strategy & Finance",
+            "description": "Served on the CFO's \"swat team\" - I worked on special projects for senior leadership team on emerging technology, business unit deep dives, and capital allocation",
+            "location": "Sunnyvale, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Finance Manager",
+            "description": "Consumer Hardware: Wearables & Surface",
+            "location": "Redmond, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712793600&v=beta&t=M61ge1w5ID7jsbTpfRTiQ3i5Nu1-rpDOol8-QkkTgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Senior Financial Analyst",
+            "description": "Consumer Hardware: Wearables",
+            "location": "Redmond, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712793600&v=beta&t=M61ge1w5ID7jsbTpfRTiQ3i5Nu1-rpDOol8-QkkTgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "title": "Finance Rotation Program Analyst",
+            "description": "Graduate of CFO-sponsored early talent development program, rotating through roles over two years.",
+            "location": "Redmond, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712793600&v=beta&t=M61ge1w5ID7jsbTpfRTiQ3i5Nu1-rpDOol8-QkkTgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "PwC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc/",
+            "title": "Management Consulting Intern",
+            "description": null,
+            "location": "San Jose, California",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQH3qXh7nyImoQ/company-logo_400_400/0/1697100791441/pwc_logo?e=1712793600&v=beta&t=X9KHMCnuABtGWuy4xPPl0I7IVwdb-kR1QaDHzsFm_jQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "company": "Deloitte",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte/",
+            "title": "Transaction Services Intern",
+            "description": null,
+            "location": "San Francisco, California",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120928214/deloitte_logo?e=1712793600&v=beta&t=DH9ccahBUsPod1iGlxw2aOo90qUn9GgVNPRAaIqMyus"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "G51 Amplify",
+            "company_linkedin_profile_url": null,
+            "title": "Venture Scholar",
+            "description": null,
+            "location": "Austin, Texas",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Harvard Business School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712793600&v=beta&t=u2TdS2m7S6bscmUKiw4QIxoeIprPb1JQ67UsbqKr7Ow",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "Master in Professional Accounting, Bachelor in Business Administration",
+            "school": "Texas McCombs School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGnL9PBLpEbHg/company-logo_400_400/0/1631352515168?e=1712793600&v=beta&t=4-Dcs88ovWjj3cQN5ymR3kzSNN0uKVu85ysiIInF-Gs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "International Management",
+            "school": "Indian Institute of Management Ahmedabad",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEM7igMMa_i9w/company-logo_400_400/0/1667468152053/iimahmedabad_logo?e=1712793600&v=beta&t=92gJNmNpJ443xwiDbzb_wSFnpdz6vIR7_kdXIUlDzFY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "International Accounting",
+            "degree_name": null,
+            "school": "The Chinese University of Hong Kong",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHerKm_HHohVw/company-logo_400_400/0/1666753317616/the_chinese_university_of_hong_kong_logo?e=1712793600&v=beta&t=eXcecVADG6_tzXuJDNPLAt20EHuONTRaTUzI71np5Os",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "International Marketing",
+            "degree_name": null,
+            "school": "ESCP Business School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFiv0Ceayozxw/company-logo_400_400/0/1647246575180/escp_business_school_logo?e=1712793600&v=beta&t=xd0cpMEh6nH3THN8djFgwr3j898i9dB2pfzBqnom9JU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English",
+        "Mandarin",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Finance Rotation Program All-Star Award",
+            "issuer": "Microsoft",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Finance Rotation Program All-Star Award",
+            "issuer": "Microsoft",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2022
+            },
+            "ends_at": null,
+            "title": "Vietnam Community Lead",
+            "cause": null,
+            "company": "Xoogler.co",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xoogler/",
+            "description": "Established community of former Google employees in Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFZDAkZbv1N6Q/company-logo_400_400/0/1631348249238?e=1712793600&v=beta&t=fpqIXsK-ieh_KTrNcJU7HlquaF7VcMFrHXbnXR7NBd0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "title": "Hyphen - Founding Team",
+            "cause": null,
+            "company": "Alphabet Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alphabet-inc/",
+            "description": "Founded employee resource group for AAPI Employees in Alphabet's Other Bets like X, Waymo, Verily, DeepMind, and Wing\n\nHyphen is the first punctuation mark of Alphabet and serves to connect \"Asian\" and \"American\" as \"Asian-American\" or \"Vietnamese-American\"",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHOWk8aT2QxNQ/company-logo_400_400/0/1631347525519?e=1712793600&v=beta&t=3JU8Olt0AfCJR7YXkaKC16Ee_AH419dstdvzq7o7qDw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "title": "SQL Instructor for Googlers-to-Googlers (g2g)",
+            "cause": null,
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "description": "Taught Googlers the basics of SQL and how to apply it into their daily workflows",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "title": "GRumble (League of Legends) - Team Captain & Player",
+            "cause": null,
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "description": "Internal tournament sponsored by Riot Games",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "title": "MSRumble (League of Legends) - Team Captain & Player",
+            "cause": null,
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+            "description": "Internal League of Legends tournament sponsored by Riot Games",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1712793600&v=beta&t=M61ge1w5ID7jsbTpfRTiQ3i5Nu1-rpDOol8-QkkTgIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "title": "Treasurer & Board Member",
+            "cause": "EDUCATION",
+            "company": "Vietnamese Friendship Association",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vfaseattle/",
+            "description": "Provide strategic oversight and financial expertise to a 501(c)(3) non-profit focused on empowering and educating refugees and immigrants through a variety of programs.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHkxc4MPTcAsQ/company-logo_400_400/0/1630584290215?e=1712793600&v=beta&t=nVc328X7lgzp9DAXcFab2UrFQYJc9RWAE9DLZuA3-pI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "title": "Development Intern",
+            "cause": "EDUCATION",
+            "company": "Peacework",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/peacework/",
+            "description": "Led career workshops for 20 vocational students in Orange Walk, Belize and drafted proposals to connect other US students with schools in Belize.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE1VS__unsr0A/company-logo_400_400/0/1630572093416/peacework_logo?e=1712793600&v=beta&t=tPnFGuwO3fQg5jZ4LEJC9UGSSLDUZkf2ZU-EV4G7A3Y"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/oscarxingluo",
+            "name": "Oscar Xing Luo",
+            "summary": "Co-Founder & CTO, Reforged Labs (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hongvuvan142",
+            "name": "Vu Van",
+            "summary": "Co-founder & CEO at ELSA, Corp (we are hiring!!)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yegornadvornyy",
+            "name": "Yegor Nadvornyy",
+            "summary": "Founder & CEO @Brainrich Inc | Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/josephdhlee",
+            "name": "Joseph D. Lee",
+            "summary": "Co-Founder & CEO at Syncly (YC W23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anhdo11",
+            "name": "Anh Do",
+            "summary": "co-founder @unlockfm",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/longvtran",
+            "name": "Long Tran",
+            "summary": "CEO & Co-founder \u00b7 YC S21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jonbma",
+            "name": "Jon Ma",
+            "summary": "CEO / Co-Founder at Artemis",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stephenturban",
+            "name": "Stephen Turban",
+            "summary": "Co-Founder @ Lumiere | McKinsey Alum | Harvard Alum",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/runguyen",
+            "name": "RUBY NGUYEN",
+            "summary": "Business Builder | Digital Disrupter | Ex-Facebook, ex-Amazon, Chicago Booth MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tranngocvan210",
+            "name": "Van Tran",
+            "summary": "Poko (YC W22) | HBS | Ex-Netflix & Bain",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Robert Huynh",
+            "link": "https://www.linkedin.com/in/robert-huynh-96642341",
+            "summary": "Senior Operations Engineer",
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "Robert Huynh",
+            "link": "https://ca.linkedin.com/in/robhuynh",
+            "summary": "Creative Director at Glacier Media Digital",
+            "location": "Vancouver, BC"
+        },
+        {
+            "name": "Robert Huynh",
+            "link": "https://vn.linkedin.com/in/robert-huynh-28623481",
+            "summary": "Freelance Consultant (Freelance)",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Robert Huynh",
+            "link": "https://www.linkedin.com/in/rahuynh",
+            "summary": "Experienced Sales & Marketing Leader (Microsoft, Samsung, Target, Accenture, Startups) | People Developer | Strategy Architect | Go-to-Market & Turnaround Artist",
+            "location": "Greater Seattle Area"
+        },
+        {
+            "name": "Robert Huynh",
+            "link": "https://www.linkedin.com/in/robert-huynh-88a37984",
+            "summary": "Police Officer",
+            "location": "Garland, TX"
+        },
+        {
+            "name": "Robert Huynh",
+            "link": "https://www.linkedin.com/in/robert-huynh-46a9667a",
+            "summary": "VP of Compliance & Controller at Sole Source Capital LLC",
+            "location": "Dallas, TX"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

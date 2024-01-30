@@ -1,0 +1,535 @@
+{
+    "public_identifier": "khairul-anwar-mohamad-zaki",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/khairul-anwar-mohamad-zaki/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221533Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=398c4036c11b89d7325f184fdcb8563b6f5f0836e18eb1235ebc32558b52a7ad",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/khairul-anwar-mohamad-zaki/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221533Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7c229207a3d3d14d483d6d5a169fec68391306c27bfd3eb0c3fe62e022f03eb9",
+    "first_name": "Khairul Anwar Mohamad",
+    "last_name": "Zaki",
+    "full_name": "Khairul Anwar Mohamad Zaki",
+    "follower_count": null,
+    "occupation": "Founder & CEO at Pandai",
+    "headline": "Founder & CEO of Pandai (YC S21) |\nEntrepreneurship \ud83d\udd39 Education \ud83d\udd39 Startup \ud83d\udd39 Data Science \ud83d\udd39 Edtech Evangelist",
+    "summary": "Hello! At Pandai, our mission is to transform the learning space through technology. We want to provide a personalized quality learning experience, to cater to 21st-century learners. If you are interested to be part of our team or collaborate with us, I would love to hear from you.\n\n\u2022 I spend most of my capacity in Technology and Business Development, and leading people in these areas.\n\n\u2022 In 2007, I founded a leading software house Aidan Technologies which focuses on GovTech and digital transformation. \n\n\u2022 I also founded successful enterprise software startups such as Borang.co and FlowyTeam.com\n\n\u2022 Since 2007, through my education company Ardent Educational Consultant (ArdentEdu), I have been involved in many educational programs for students and teachers, and engaged more than 2800 schools all over Malaysia - not only in the urban areas, but in remote areas too.\n\n\u2022 I am passionate about the education sector, having spent the past 14 years in various local and international educational initiatives. I am proud to be involved in international educational olympiads for school students such as IOL, IEO, IJSO, APLO, etc. \n\n\u2022 In 2013, I initiated international educational programs such as Kangaroo (from France), Beaver (from Lithuania), Kancil, Kijang, etc, which are now participated by more than 75,000 school students each year. \n\n\u2022 More recently in 2020, I founded Pandai, the fastest growing edtech company in Malaysia that focuses on nurturing the potential of school students through personalized quality education. \n\n\u2022 I love to travel (visited ~50 countries), learn about new cultures, and meet people as well. \n\nLet's connect!",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kawasan Sekitar Kuala Lumpur",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Aidan Corporation Sdn Bhd",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/aidan-corporation",
+            "title": "Founder & Executive Director",
+            "description": "Aidan Group is a group of companies involved in business activities encompassing technology, education, and investment.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEdvJTSW4y6_g/company-logo_100_100/0/1663576058311?e=2147483647&v=beta&t=1yOOfREbgcIjMk9ntvLu_260eeVz_HpqytPFDjjAgT8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Aidan Technologies Sdn Bhd",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/aidantechnologies",
+            "title": "Founder & Director",
+            "description": "Aidan Technologies is an award-winning technology company, which focuses on these key areas: software development, data analytics, business intelligence through its flagship business process & workflow software, Borang.co",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQENGeNqK6F8jw/company-logo_100_100/0/1519901921384?e=2147483647&v=beta&t=NaFB7uzyhpNVqRpHj0zI4-QLVkHq7gLNT6btD6DBQ9U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Ardent Educational Consultants Sdn Bhd",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/ardent-educational-consultants",
+            "title": "Founder & Director",
+            "description": "Ardent Educational Consultants Sdn Bhd (ArdentEdu) develops learning modules & products related to science, technology, engineering, mathematics, and computational thinking education for more than 100,000 school students & thousands of educational institutions.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQGhpsWBgu-Y2A/company-logo_100_100/0/1575814635388?e=2147483647&v=beta&t=qzMfr7LJX4LlqC08-do-ExUaVNB2kF9_fdiaqpFB66M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "FlowyTeam",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/flowyteam",
+            "title": "Co-Founder & Director",
+            "description": "FlowyTeam is an online platform that builds high-performance teams. Flowy is a performance management software that unlock a team\u2019s full potential by executing strategies effectively via OKR, KPI, 360\u02da Review and more.",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFBY46Ko9SKvg/company-logo_100_100/0/1589247256032?e=2147483647&v=beta&t=RFQn0hmCT1gKnh-s295EOn2rJZQmWcVEgu4hHhu9k5Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Pandai",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/pandai",
+            "title": "Founder & CEO",
+            "description": "A fast-growing EdTech startup that helps school students learn.  Pandai is an education app that helps school students learn & improve their academic performance.\n\nLaunched in 2020, Pandai is now backed by global investors from the Silicon Valley, New York, India, Europe, and Asia.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFgVSsM4xr2Dg/company-logo_100_100/0/1580745641422?e=2147483647&v=beta&t=yo8KSOT91Pz7mjv-pz1lUyd11lkOPkuat9VDu6Hr93g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "MYNIC Berhad",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/mynic-berhad",
+            "title": "Project CEO",
+            "description": "MYNIC Berhad is the sole Malaysian Domain Name Registry and Registrar for Malaysia's domain name (.my) then under the Ministry of Science, Technology & Innovation Malaysia. Led a new online integrated marketplace project.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQED8qNF0Ou1uQ/company-logo_100_100/0/1519911429178?e=2147483647&v=beta&t=eB63MFSRodYbjYbrfYaARTXSr_nJ1xZEI2C2fFFyH1k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2007
+            },
+            "company": "Motorola",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/motorola-mobility",
+            "title": "R&D Engineer",
+            "description": "Motorola, Inc. is a multinational telecommunications company based in Schaumburg, Illinois, United States. A member of its research and design (R&D) team.",
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHdcLfdW2sRxA/company-logo_100_100/0/1601050560399?e=2147483647&v=beta&t=AdpdsDjjpfGYOIUODOsxbkhXAW5H22lxZGqHZaF7iYo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "company": "IndyRobotics LLC",
+            "company_linkedin_profile_url": null,
+            "title": "Trainee",
+            "description": "IndyRobotics is a leader in the field of robotics research and development. The company's Indy Robot Racing Team's autonomous vehicle competed in the U.S. Department of Defense (DoD) Defense Advanced Research Projects Agency (DARPA) Grand Challenge.",
+            "location": "Indianapolis, Indiana, United States",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "YC S21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/y-combinator/",
+            "description": "\u2022 Graduated from Y Combinator, a prestigious global technology startup accelerator program based in Silicon Valley, USA.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_100_100/0/1519894128493?e=2147483647&v=beta&t=Upq9ys0OyE2KKmOBbMpXsILE4_ghl1-y21CpXjTHPfg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Marketing",
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "school": "Universiti Malaya",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/university-of-malaya/",
+            "description": "\u2022 Published a thesis entitled \"An Empirical Study of Factors Affecting e-Commerce Adoption in a Developing Country\" in the Journal of Information Technology for Development.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/D560BAQHhz0ZrUuViTA/company-logo_100_100/0/1664604108584?e=2147483647&v=beta&t=GJiBPdWBowHc-z2WjS-t9sRM2_HHmeANlIA9sNnSC1U",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "field_of_study": "Engineering & Economics",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "Purdue University",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/purdue-university/",
+            "description": "\u2022 Completed a wide range of Engineering courses, and earned a minor degree in Economics.\n\u2022 Awarded a full scholarship.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGUO9Kvy1lfEA/company-logo_100_100/0/1619705137869?e=2147483647&v=beta&t=DTld2Jgzc_NChUEHiettaH5Te0auTVKnnEyceG-Ddrs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1999
+            },
+            "field_of_study": "all 10A1",
+            "degree_name": "High School",
+            "school": "MARA Junior Science College (MRSM)",
+            "school_linkedin_profile_url": "https://my.linkedin.com/school/mara-junior-science-college-mrsm/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5U1Gv_nvuIA/company-logo_100_100/0/1519895123666?e=2147483647&v=beta&t=K_xYyvkIQtzKsf4FpczZ0wUp7UjKYysA7RdNBwf0wYg",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "org_name": "Malaysian Association of Bumiputra ICT Industry & Entrepreneurs (NEF)",
+            "title": "Council Member",
+            "description": "NEF is recognized by the Government of Malaysia as the leading organisation focused in representing Bumiputera Technopreneurs in Malaysia. As an organisation that represents the ICT industry, it is supported with extensive knowledge, expertise and various resources in the ICT and Telecommunications via its members. It also forms alliances with other cross industry association with a vision of moving forward as a united front."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": null,
+            "org_name": "Asia Pacific Linguistics Olympiad (APLO)",
+            "title": "International Jury",
+            "description": "Asia Pacific Linguistics Olympiad (APLO) is a regional linguistics olympiad with the aim of escalating attention to language and linguistics in the Asia Pacific region"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "org_name": "Malaysian Computational Thinking Association (CompThink)",
+            "title": "President",
+            "description": "Malaysian Computational Thinking Association (CompThink) is a national association that was founded to advocate and promote computational thinking in Malaysia. The idea to form a national association was mooted among the Malaysian delegates in the '10th International Bebras Workshop on Informatics and Conference on ICT Projects at Schools' which as held in Vilnius and Druskininkai, Lithuania."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "org_name": "WIEF Young Leaders Network",
+            "title": "Alumni",
+            "description": "In 2013, the WIEF Young Leaders Network (WYN)  brought together 28 Young Leaders from 18 different countries to collaborate in Durban, South Africa. The main purpose of this programme was to create leaders who not only know how to make and manage money, but also work for the community, respect the environment and give back to society. The programme was established at the 2nd WIEF in Islamabad, Pakistan in 2006. It is a global platform that brings together young leaders, change makers, professionals and entrepreneurs across the globe to connect creative ideas and explore prospects for collaboration in business and social programmes."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": null,
+            "org_name": "Malaysian Informatics and Programming Society (MIPS)",
+            "title": "Member",
+            "description": "The Malaysian Informatics and Programming Society (MIPS) organizes the Malaysian Computing Olympiad, an annual algorithmic programming competition for secondary and pre-university students."
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Winner, SUPERB 2019 Program",
+            "issuer": "TERAJU",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "description": "Winner of the SUPERB (Skim Permulaan Usahawan Bumiputera) program by the Bumiputera Agenda Steering Unit (TERAJU) out of 1,179 participants, receiving a grant worth RM500,000."
+        },
+        {
+            "title": "Champion, World Marketing Plan Competition",
+            "issuer": "The Asean Colloquium 2016",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "description": "The World Marketing Plan Competition is an international competition that was held in conjunction with The Asean Colloquium 2016 in Bangkok, Thailand, involving 200 delegates from around the world."
+        },
+        {
+            "title": "Winner, National Mathematics Olympiad",
+            "issuer": "Malaysian Mathematical Sciences Society (PERSAMA)",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2000
+            },
+            "description": "Won second place, out of more than 10,000 participants, in the National Mathematics Olympiad, which is the most prestigious maths competition."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Beaver Computational Thinking Competition",
+            "description": "Appointed as the Director of Beaver Malaysia. The Beaver Computation Thinking Competition is a part of the international Bebras effort originated in Lithuania, which aims to promote interest in Information Technology, Informatics, and Computational Thinking. As of 2014, Bebras competitions have been held in 57 countries with 1,313,000 student participants. Co-organized by Multimedia Development Corporation (MDeC), an agency under the Ministry of Communication and Multimedia Malaysia.",
+            "url": "http://www.beaver.my"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "title": "O3 Hand Held Control Head, Motorola",
+            "description": "Designed and developed the Motorola O3, an in-vehicle mobile device for the Federal Bureau of Investigation (FBI) in USA, which is the first color display hand-held mobile device in the world. Operated under the O3 Research and Development (R&D) team, in charge of 36 mechanical and electrical parts, including parts design, prototyping, selection, analysis, and testing.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2005
+            },
+            "ends_at": null,
+            "title": "Autonomous Ground Vehicle for IndyRobotics, USA",
+            "description": "A member of a team of 28 international engineers to design an autonomous ground vehicle in collaboration with IndyRobotics. The project is under the Defense Advanced Research Projects Agency (DARPA), the central research and development organization for the US Department of Defense (DoD). The unmanned vehicle navigates through variable terrain and obstacles by using intelligent sensors, active center of gravity (CG) control and lift capability",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Digital Counsellor Platform (DCP) Mentor",
+            "cause": "Sains dan Teknologi",
+            "company": "Malaysia Digital Economy Corporation (MDEC)",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/mymdec",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHtuL-9l3k6PA/company-logo_100_100/0/1642133656444?e=2147483647&v=beta&t=0oRbiVWZfsG_KOZJ99L-wucgHAlzpqaE7IXUXM-7z2A"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Council Member",
+            "cause": "Sains dan Teknologi",
+            "company": "New Entrepreneurs Foundation (myNEF)",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/new-entrepreneurs-foundation-mynef-",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGpcvYyQg46IQ/company-logo_100_100/0/1519918529007?e=2147483647&v=beta&t=pY8p6tKnJ5eANMfk2gvg_XWTx5pUUVIj7M41WOHZnL0"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Instructional Facilitator",
+            "cause": "Pendidikan",
+            "company": "Ministry of Education Malaysia",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/ministry-of-education-malaysia",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFqKZGG0XU5FA/company-logo_100_100/0/1525357602205?e=2147483647&v=beta&t=0FwvLV-6tWR9fU1pCcg7aF7rlWdBw-xsb3wofQ1Ljsg"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "International Jury",
+            "cause": "Pendidikan",
+            "company": "Asia Pacific Linguistics Olympiad (APLO)",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "NBO Representative",
+            "cause": "Pendidikan",
+            "company": "International Bebras Community",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/bebras-challenge",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQGxqsG-mz-VUw/company-logo_100_100/0/1528250604223?e=2147483647&v=beta&t=JfHpqMZVYaJNCq0q6jxKLpUoCDSivh1hvh7w72u4fX4"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Industry Advisor Panel",
+            "cause": "Pendidikan",
+            "company": "Universiti Teknologi MARA",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/universiti-teknologi-mara",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/D560BAQGyv7S1gScvcw/company-logo_100_100/0/1666169089464?e=2147483647&v=beta&t=dVLn9bjuQBHNe1vSw9urhPlbJ82IC9d9EgO75R7Jh4U"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "PUNB Business Plan Advisor",
+            "cause": "Memperkasakan Ekonomi",
+            "company": "Perbadanan Usahawan Nasional Berhad (PUNB)",
+            "company_linkedin_profile_url": "https://my.linkedin.com/company/punbofficial",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGr3MSMImNTDg/company-logo_100_100/0/1599033877521?e=2147483647&v=beta&t=GDTDu94dQCuN_-uTimv33wJovcOiZG35lshKwfFAgX8"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Applied Data Science (ADS)",
+            "license_number": "Analyst",
+            "display_source": null,
+            "authority": "Fusionex International",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Big Data Analytics Programme",
+            "license_number": "Scientist",
+            "display_source": null,
+            "authority": "Yayasan Peneraju",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Marketing",
+            "license_number": "8SCW4DA6RR",
+            "display_source": "www.coursera.org",
+            "authority": "University of Pennsylvania",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/8SCW4DA6RR"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/akmalakhpah",
+            "name": "Akmal Akhpah",
+            "summary": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/suhaimi-ramly",
+            "name": "M. Suhaimi Ramly",
+            "summary": "Co-Founder at Pandai (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ammarroslizar",
+            "name": "Ammar Roslizar",
+            "summary": "CEO Yezza \u2022 Forbes U30 \u2022 Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abdul-hadi-mehamud-zelun-53b50672",
+            "name": "Abdul Hadi Mehamud Zelun",
+            "summary": "Co-Founder of The Legally",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rajanazatulakhma",
+            "name": "Raja Nazatul Akhma ",
+            "summary": "Education + Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/faiz-ismail-5221b992",
+            "name": "Faiz Ismail",
+            "summary": "Head of Content Development at Pandai (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khairulanwardtlead",
+            "name": "Khairul Anwar ACC CPC",
+            "summary": "Innovation Educator | Instill Confidence In Innovation Leaders Through Coaching & Training | Thinking Partner Non-Tech Executives | Don't Cry Over Spilt Milk, Find Another Cow | #innovationliteracy | #celikinovasi |",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zacharyliew",
+            "name": "Zac Liew",
+            "summary": "Co-Founder & CEO at Curlec | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/farahanihusni",
+            "name": "Farahani Husni",
+            "summary": "Product Manager at Pandai (YC21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/syedhuzaifah",
+            "name": "Syed Huzaifah",
+            "summary": "Founder at StudentQR.com | 100 Successful People in Malaysia 2021 by Britishpedia | Superb Teraju Winner 2019 | StudentQR.com - Record student's activities are now much fun & easier!",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

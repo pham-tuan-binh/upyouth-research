@@ -1,0 +1,187 @@
+{
+    "public_identifier": "suhaimi-ramly",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/suhaimi-ramly/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221535Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8d348ca2edb8be8d92f3d0f8ae5db7870789b77f9e24853df2fc19baa7ca9fc3",
+    "background_cover_image_url": null,
+    "first_name": "M. Suhaimi",
+    "last_name": "Ramly",
+    "full_name": "M. Suhaimi Ramly",
+    "follower_count": 1571,
+    "occupation": "Co-Founder at Pandai",
+    "headline": "Co-Founder at Pandai (YC S21)",
+    "summary": null,
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Aidan Technologies Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aidantechnologies",
+            "title": "Founder",
+            "description": null,
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQENGeNqK6F8jw/company-logo_400_400/0/1631357357394?e=1710979200&v=beta&t=Nef0sA-yMVSjNGRWHoxNEYVm0nO_mLFcho2dULl597s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Ardent Educational Consultants Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ardent-educational-consultants",
+            "title": "Founder and Managing Director",
+            "description": "Currently on sabbatical to work on Pandai full-time",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGhpsWBgu-Y2A/company-logo_400_400/0/1630591621519?e=1710979200&v=beta&t=HPn2qGAmNb1HcZk-0AGFRVKO7ysNG6-JLizLVzwrUrY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Aidan Corporation Sdn Bhd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aidan-corporation",
+            "title": "Founder and Director",
+            "description": "Parent company for ArdentEdu and AidanTech",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEdvJTSW4y6_g/company-logo_400_400/0/1663576060797/aidan_corporation_logo?e=1710979200&v=beta&t=Jg5OHlFZAWXYdVLVEq2t9ksN_J_BkRNVfYZc9k3Uy-s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Pandai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pandai",
+            "title": "Co-Founder",
+            "description": "Y Combinator (Summer 2021 batch)",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFgVSsM4xr2Dg/company-logo_400_400/0/1630567943126/pandai_logo?e=1710979200&v=beta&t=jNoe3PTK_hKHHb_uZEjDyowEczHUY-Y0Frjr4ZOz-uE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "Khazanah Nasional Berhad",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/khazanah-nasional",
+            "title": "Associate",
+            "description": "Member of the Strategic Management Unit under the MD's Office",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGK0iaSCIjczQ/company-logo_400_400/0/1631310878826?e=1710979200&v=beta&t=U9fxdRqo_BvQjAvfQwwkTeFokl6aFWEWIVgffvfIPuU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "field_of_study": "Mathematics",
+            "degree_name": "SB",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1503/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1710979200&v=beta&t=OhT6op52GABT813-n48geHsfcIP0rfWA9P4qR6lshgw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1545,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/akmalakhpah",
+            "name": "Akmal Akhpah",
+            "summary": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aidielmatisa",
+            "name": "Aidiel Mat Isa",
+            "summary": "Operator (YC S21) | Education | Sourcing early-stage in Asia for global funds",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/siti-dieyana-ayunie-ghazali-b9372a182",
+            "name": "Siti Dieyana Ayunie Ghazali",
+            "summary": "HR cum Admin Executive at Pandai Education Sdn Bhd",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khairul-anwar-mohamad-zaki",
+            "name": "Khairul Anwar Mohamad Zaki",
+            "summary": "Founder & CEO of Pandai (YC S21) |\nEntrepreneurship \ud83d\udd39 Education \ud83d\udd39 Startup \ud83d\udd39 Data Science \ud83d\udd39 Edtech Evangelist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aziziskandar",
+            "name": "Aziz Iskandar",
+            "summary": "Co-Founder at SYNAPSE",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Net zero needs \u2026I am currently stuck in the hospital recovering from food poisoning. Done with #netflix so i am thinking of writing this piece, you\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh M. Suhaimi Ramly"
+        },
+        {
+            "title": "Dear connections :)Durioo+ will be streaming in Feb 2022. Alhamdulillah.It will have our Durioo Originals + more licensed high quality Islamic\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh M. Suhaimi Ramly"
+        },
+        {
+            "title": "FEDS Drone-powered Solutions  an AERODYNE GROUP  company based in Dubai is the largest drone service provider in the Middle East. Proud to see the\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh M. Suhaimi Ramly"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

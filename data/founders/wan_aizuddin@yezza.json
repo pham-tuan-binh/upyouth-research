@@ -1,0 +1,183 @@
+{
+    "public_identifier": "wan-mohd-aizuddin-wan-mohamad-667158122",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Wan Mohd Aizuddin",
+    "last_name": "Wan Mohamad",
+    "full_name": "Wan Mohd Aizuddin Wan Mohamad",
+    "follower_count": 398,
+    "occupation": "Chief Technology Officer at Yezza",
+    "headline": "Founder at Yezza",
+    "summary": "At Yezza, we are currently digitalizing more than 16,000 ++ businesses with our easy to setup WhatsApp Commerce SaaS platform. \n\nLooking to benefit more businesses and forward-looking entreprenuer.\n\nFeel free to contact me at wan[at]yezza.io",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "ARBA Travel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/arba-travel",
+            "title": "Director Of Technology",
+            "description": null,
+            "location": "Putrajaya, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH8VEc1vF1WaQ/company-logo_400_400/0/1630612703625/arba_travel_logo?e=1712793600&v=beta&t=BOqPWdsPTJirUHsYbn4ZXkya1KOwLtcZUGlVBkT6XNo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Yezza",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yezza",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Putrajaya, Putrajaya Federal Territory, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHJaoWlozyLIg/company-logo_400_400/0/1630672121967?e=1712793600&v=beta&t=uson4rZ-smT_ObtFshZEzKTtjzb6ysSEcFgCNwcL2pg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Universiti Kuala Lumpur",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/universiti-kuala-lumpur",
+            "title": "Senior Lecturer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHoTHdw_nruSA/company-logo_400_400/0/1700406257849?e=1712793600&v=beta&t=SBh4dVoaV6tgn56DsuqndfHor2s661odwsrQUnGS2HA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": "Electrical, Electronics and Communications Engineering",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "Keio University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15095969/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEp-N20jZkxAw/company-logo_400_400/0/1631381036164?e=1712793600&v=beta&t=7bd08Vd8o9GQogBW6IP_PraU3bw6iOcOG4cXXGeOtsY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Master of Engineering (M.Eng.)",
+            "school": "Keio University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15095969/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEp-N20jZkxAw/company-logo_400_400/0/1631381036164?e=1712793600&v=beta&t=7bd08Vd8o9GQogBW6IP_PraU3bw6iOcOG4cXXGeOtsY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Bachelor of Engineering (B.Eng.)",
+            "school": "Keio University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15095969/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEp-N20jZkxAw/company-logo_400_400/0/1631381036164?e=1712793600&v=beta&t=7bd08Vd8o9GQogBW6IP_PraU3bw6iOcOG4cXXGeOtsY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 366,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/muhaimin-mohd-fadzil-98279313b",
+            "name": "Muhaimin Mohd Fadzil",
+            "summary": "Full Stack Developer at Yezza (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akmalakhpah",
+            "name": "Akmal Akhpah",
+            "summary": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/syahmi-kaberi-a4b77a12a",
+            "name": "Syahmi Kaberi",
+            "summary": "Head Of Product & Local Partners at ARBA Travel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ammarroslizar",
+            "name": "Ammar Roslizar",
+            "summary": "CEO Yezza \u2022 Forbes U30 \u2022 Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hussainik",
+            "name": "Hussaini Khairudin",
+            "summary": "Working behind the scenes in the travel industry.",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,237 @@
+{
+    "public_identifier": "dayvough",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dayvough/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221236Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=646272ca3f273f2025700b6162cb95b0ba41c6549f13b634e68181de5cf3528f",
+    "background_cover_image_url": null,
+    "first_name": "David",
+    "last_name": "Marquez",
+    "full_name": "David Marquez",
+    "follower_count": null,
+    "occupation": "Co-founder, CTO at Shipmates",
+    "headline": "CTO @ Shipmates (YC S22)",
+    "summary": "Co-founder of Shipmates. ",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": "Metro Manila",
+    "state": "National Capital Region",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Shipmates",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shipmatesapp/",
+            "title": "Co-founder, CTO",
+            "description": "https://shipmates.app",
+            "location": "Philippines",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHckWRzu-CbJA/company-logo_400_400/0/1645064745194?e=1665014400&v=beta&t=7mL1IfXD6q_JPKJwtddBzwfUyzwfiw6o1bTawd467e4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "xpanse",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xpanse-ph/",
+            "title": "Co-founder, CTO",
+            "description": "https://xpanse.ph",
+            "location": "Metro Manila, Philippines",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQHIZiJh-pn1_A/company-logo_400_400/0/1578293365114?e=1665014400&v=beta&t=FK_NezPtZmUgolUnBCckpPzHaI1cundaLAFKt2UiUfI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "shirt.ly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shirt-ly/",
+            "title": "Co-founder, CTO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGupW0kn7kpNg/company-logo_400_400/0/1635299802319?e=1665014400&v=beta&t=l-_GhHzhnod145fFEbQ1stZ2LAQxX1Jvq3nznLE4JpI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Science (B.S.)",
+            "school": "De La Salle University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFMv8d11yrAAA/company-logo_400_400/0/1519856224074?e=1665014400&v=beta&t=HiXYOxym7iUOnPzxgJ0g_ZZYMTje3wKZGEP-HfPf1yA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "title": "CBMS",
+            "description": "Designed the front-end of the CMBS (Community Based Management System).",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "KFC Amazing Shots",
+            "description": "A web service paired up with an Android application that helps KFC's customers submit their photos into a raffle entry system.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/joshsupan",
+            "name": "Josh Supan",
+            "summary": "CEO of Shipmates (YC S22, Iterative S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fredrick-ho-a1391a91",
+            "name": "Fredrick Ho",
+            "summary": "CEO/Sales Executive",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/paulpajo",
+            "name": "\ud83e\udde2 Paul Pajo",
+            "summary": "Concurrent OIC-Director, Incubation Management Head & Acting TBI (Technology Business Incubator) Manager for Benilde HIFI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michaeldollosa",
+            "name": "Christian Michael Dollosa",
+            "summary": "Developer @ Shipmates (YC S22) | Software Engineering, Service Management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arvinparungao",
+            "name": "Arvin P.",
+            "summary": "Product Management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/debbie-bell-51552615",
+            "name": "Debbie Bell",
+            "summary": "baby sitter at Shipmates",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/artem-pasyechnyk-8715b115",
+            "name": "Artem Pasyechnyk",
+            "summary": "Co-founder/CTO @ Canix",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mdespiritu",
+            "name": "Mikhail-David Espiritu, CPHR",
+            "summary": "Shipmates (YC S22) | We are hiring!\ud83d\udce6\ud83d\ude80 \ud83d\udd25 | Connect your online store with multiple couriers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zoiepapera",
+            "name": "Zoie Papera",
+            "summary": "Partnerships @ Shipmates (YC S22) \ud83d\ude80 | Digital Marketing | Graphic Designer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christine-joy-banting-65230a154",
+            "name": "Christine Joy Banting",
+            "summary": "UX/UI Designer",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "David M\u00e1rquez",
+            "link": "https://cl.linkedin.com/in/david-m%C3%A1rquez-07a96aa0",
+            "summary": "Gerente general en MD Group Ltda.",
+            "location": "Chile"
+        },
+        {
+            "name": "David Marquez",
+            "link": "https://www.linkedin.com/in/david-marquez-108a8693",
+            "summary": "Senior Cyber Security Manager at US Army Medical Research and Development Command",
+            "location": "Hanover, PA"
+        },
+        {
+            "name": "David Marquez",
+            "link": "https://www.linkedin.com/in/david-marquez-a9525829",
+            "summary": "Owner, Marquez Plumbing",
+            "location": "Hollister, CA"
+        },
+        {
+            "name": "David Marquez",
+            "link": "https://uk.linkedin.com/in/david-marquez-461840ba",
+            "summary": "Still life Photographer",
+            "location": "London"
+        },
+        {
+            "name": "david marquez",
+            "link": "https://www.linkedin.com/in/david-marquez-95407435",
+            "summary": "Sales Manager at Fosselmans ice cream",
+            "location": "Alhambra, CA"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

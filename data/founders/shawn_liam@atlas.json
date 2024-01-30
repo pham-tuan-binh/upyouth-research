@@ -1,0 +1,511 @@
+{
+    "public_identifier": "shawnliam",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/shawnliam/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221532Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=acd57baf05e98d75f34fb1655ff604efd3da30e2a7d4f7f0fa24823b9302fac4",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/shawnliam/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221532Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9c2ac05691a4bbf1f421a0b67d6235d85a9a299601f6e6ec9de1b56c75535611",
+    "first_name": "Shawn",
+    "last_name": "Liam",
+    "full_name": "Shawn Liam",
+    "follower_count": null,
+    "occupation": "Co-Founder at Atlas",
+    "headline": "Co-creator of Atlas. Product at Grain. Product x Design x Technology",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Atlas",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/atlaskitchen",
+            "title": "Co-Founder",
+            "description": "YC S21. Building the infrastructure for F&B online.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGWhcfZEh_X_g/company-logo_100_100/0/1629390602015?e=2147483647&v=beta&t=22jWqapyeBswa2h70tQ-bLkkG3iC8L0C5pvQkBe3I-8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/grain",
+            "title": "Director, Products",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_100_100/0/1575256628971?e=2147483647&v=beta&t=ek72foo6RG2lkZkIZo5Czzl1dmGB_6A-VHQ8eGebTSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/grain",
+            "title": "General Manager & Country Launcher, Bangkok",
+            "description": null,
+            "location": "Bangkok Metropolitan Area, Thailand",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_100_100/0/1575256628971?e=2147483647&v=beta&t=ek72foo6RG2lkZkIZo5Czzl1dmGB_6A-VHQ8eGebTSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/grain",
+            "title": "General Manager, Ready-to-eat business",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_100_100/0/1575256628971?e=2147483647&v=beta&t=ek72foo6RG2lkZkIZo5Czzl1dmGB_6A-VHQ8eGebTSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/grain",
+            "title": "Chief Product Officer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_100_100/0/1575256628971?e=2147483647&v=beta&t=ek72foo6RG2lkZkIZo5Czzl1dmGB_6A-VHQ8eGebTSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Grain",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/grain",
+            "title": "Vice President, Product",
+            "description": "Reporting to the CEO, oversee Grain's digital assets including their web site, mobile app and internal systems.\n\nCoordinate and work cross-functionally across design, tech, & business teams to plan, prioritize and launch product features and improvements.\n\nStrategize, own and drive the direction and roadmap of Grain's digital initiatives.\n\nExecute, launch, iterate and measure product initiatives to drive growth.\n\nBuild awesome stuff that people love.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFHHZQw-C8kiA/company-logo_100_100/0/1575256628971?e=2147483647&v=beta&t=ek72foo6RG2lkZkIZo5Czzl1dmGB_6A-VHQ8eGebTSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "company": "Astro Malaysia Holdings Bhd",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/astro",
+            "title": "Assistant Vice President, User Experience & Design Lead",
+            "description": "Leading a team of 15 to support UX, Design and Front End Development for Astro's digital assets.\n\nCoordinate design processes from initial planning, research and conceptualisation - to design build and front-end execution - to testing, validation and also iterative improvements.\n\nConceptualising branding, creatives, and user interfaces for marketing campaigns, apps, and websites.\n\nPlanning user flows and journeys as well as designing for intuitive and seamless user experiences.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQED_PmhHlYivg/company-logo_100_100/0/1519856507231?e=2147483647&v=beta&t=fe4KyAoNpBk88rZHU0-Y-iCF33UIWUeWCz9JjkXnkk0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "Astro Malaysia Holdings Bhd",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/astro",
+            "title": "Senior Designer & Front End Developer",
+            "description": "Leading a team of 10 to support UX, Design and Front End Development for Astro's digital assets.\n\nWeb & app design as well as front end development and coding.\n\nUser experience planning and design, wire-framing, user journeys and flow mapping, etc.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQED_PmhHlYivg/company-logo_100_100/0/1519856507231?e=2147483647&v=beta&t=fe4KyAoNpBk88rZHU0-Y-iCF33UIWUeWCz9JjkXnkk0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2014
+            },
+            "company": "Digital Five Sdn Bhd",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/digital-five-sdn-bhd",
+            "title": "Associate, Web Designer",
+            "description": "Web Design / Development, User Interface Design, Front-End Development",
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQH5QdWPnt1Mhw/company-logo_100_100/0/1519895304117?e=2147483647&v=beta&t=Owy1UuGfcU8_JnujmCw1lrNcY4__3qzj_17mRid88d0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Making something people want.",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_100_100/0/1519894128493?e=2147483647&v=beta&t=Upq9ys0OyE2KKmOBbMpXsILE4_ghl1-y21CpXjTHPfg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "Growth Series",
+            "school": "Reforge",
+            "school_linkedin_profile_url": null,
+            "description": "8 week education program for growth professionals (PM, marketing, UX, engineering).",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Software Architecture / Communication Design",
+            "degree_name": "Bachelor of Information Technology / Bachelor of Creative Industries",
+            "school": "Queensland University of Technology",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/queensland-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/D560BAQEQqBm35rFICA/company-logo_100_100/0/1664839139599?e=2147483647&v=beta&t=95PxtZMwJQRmvuzo41v2a_82xN78GoWA8dmfzV06K64",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "South Australian Matriculation",
+            "school": "Taylor's University",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/taylor's-university/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGxX5yF91VZpA/company-logo_100_100/0/1591936043280?e=2147483647&v=beta&t=WZ68uuuOylayMxgZXHGcrHhrkf5UknBN17X8mCfqAPM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Best Career Website",
+            "issuer": "Asia Recruitment Awards 2015",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "description": "This award is for Astro Malaysia's Careers web portal in which I was leading UX, Design, as well as the Front-end Development for."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "title": "Gesture Based Drawing Application",
+            "description": "The project aims to explore the problems as well as advantages involved in alternate and new HCI (Human Computer Interaction) techniques, more specifically the use of precise hand gesture tracking in three dimensional space. This is done with the use of multiple infrared cameras that track reflective nodes on gloves worn by the user.\n\nhttps://www.youtube.com/watch?v=0zf4BBhnZhE",
+            "url": "https://www.youtube.com/watch?v=0zf4BBhnZhE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2011
+            },
+            "title": "BlockBand",
+            "description": "BlockBand is a collaborative multi-user tangible installation. It uses a series of cubes - imprinted with fiduciary markers - to create sounds and affect light and colour when placed on an interactive surface\n\nhttps://www.youtube.com/watch?v=Lo1dG49W96A",
+            "url": "https://www.youtube.com/watch?v=Lo1dG49W96A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2011
+            },
+            "title": "I8DAT Mobile",
+            "description": "I8DAT Mobile is an extension of the I8DAT project currently being developed at the QUT Urban Informatics Research Lab. It is a multi platform mobile application that enables users to share their food and its preparation process through text and pictures, utilizing social networking to harness collective knowledge as well as connecting people through their love for food.",
+            "url": "http://shawnliam.com/i8dat-mobile/"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://sg.linkedin.com/in/ernestsim",
+            "name": "Ernest Sim",
+            "summary": "Co-Founder of Atlas and Grain | Forbes 30U30",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yongyisung",
+            "name": "Yi Sung (Sung) Yong",
+            "summary": "Creator of Grain and Atlas | Forbes 30U30",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://ee.linkedin.com/in/vahur-hansen-5372a498",
+            "name": "Vahur Hansen",
+            "summary": "Founder, CEO at Membo",
+            "location": "Estonia"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/j-j-114033145",
+            "name": "J J",
+            "summary": "Human Being",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/fred-moujalli-069689143",
+            "name": "Fred Moujalli",
+            "summary": "Co-Founder at Little Farms Group",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/sherlyn-tan-99b456191",
+            "name": "Sherlyn Tan",
+            "summary": "Sales Account Executive at Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/fndmhd",
+            "name": "Effendi M.",
+            "summary": "Merchant Operations Executive at Qashier",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/samantha-tan-342399212",
+            "name": "Samantha Tan",
+            "summary": "Senior Executive, Sales & Admin at Charge+",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/gwen-tang-9ab79332",
+            "name": "Gwen Tang",
+            "summary": "Sales Development Representative at Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ngshihui",
+            "name": "Shi Hui Ng",
+            "summary": "Growth Marketer passionate about food, education and tech",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/kohxiaoyin",
+            "name": "Xiao Yin Koh",
+            "summary": "Operations Coordinator at Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/marcusting",
+            "name": "Marcus Ting",
+            "summary": "Lead, People Operations / Strategy | Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ey-ho-cheng",
+            "name": "Ey Ho Cheng",
+            "summary": "Chef De Partie at Google Caf\u00e9",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ena-lee",
+            "name": "Ena Lee",
+            "summary": "Chief Operating Officer at Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/niowjiaying",
+            "name": "Niow Jia Ying",
+            "summary": "Customer Care Intern at Grain",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/jonathanlcy",
+            "name": "Jonathan Lim Chang Yee",
+            "summary": "Special Projects Associate @ Grain \u2022 Final Year Economics, University at Buffalo",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/weisenfung",
+            "name": "Wei Sen Fung",
+            "summary": "Business Management Student",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/raymond-looi-a331b0",
+            "name": "Raymond Looi",
+            "summary": "CEO, Cyrus Innovations | Entrepreneur |Video analytics patent joint-inventor",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/jj-tan-b859b275",
+            "name": "JJ Tan",
+            "summary": "Co-Founder / Interactive Director at 360 & 5",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/alice-wong-9484764",
+            "name": "Alice Wong",
+            "summary": "Director, Digital Product at Western Union Digital",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/isaac-tan-906935b2",
+            "name": "Isaac Tan",
+            "summary": "Jack of all trade",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rifeng-gao-66910629",
+            "name": "Rifeng Gao",
+            "summary": "COO & CFO | The Lo & Behold Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alex-pang-1891b8120",
+            "name": "Alex Pang",
+            "summary": "Co-founder at Freeboh Innovations",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marksuckling",
+            "name": "Mark Suckling",
+            "summary": "Partner at Cento Ventures",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jumzijie",
+            "name": "Jum Tan Zijie",
+            "summary": "Lead Software Engineer at Atlas",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/atul-mahajan-42a250151",
+            "name": "atul mahajan",
+            "summary": "Business Owner at Grain",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sachin-gupta-b17b1b207",
+            "name": "Sachin Gupta",
+            "summary": "Business Owner at Grain",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Shawn Liam",
+            "link": "https://www.linkedin.com/in/shawn-liam-40862a1ba",
+            "summary": ".",
+            "location": "Cleveland, OH"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

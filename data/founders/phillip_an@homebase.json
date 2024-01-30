@@ -1,0 +1,305 @@
+{
+    "public_identifier": "phillipan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/phillipan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221612Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=adc77b278054dc3e75436f75e2ce830fb4b310c2852f02996727186bff4891af",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/phillipan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221612Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9cc5cb3ab626a6b08db156b13b695a8ee5e101868d11f0cb9477a483856b302d",
+    "first_name": "Phillip",
+    "last_name": "A.",
+    "full_name": "Phillip A.",
+    "follower_count": 11508,
+    "occupation": "Co-Founder at Homebase",
+    "headline": "Co-founder at Homebase (YC W'21) | Forbes 30 Under 30",
+    "summary": null,
+    "country": "VN",
+    "country_full_name": "Vietnam",
+    "city": "Ho Chi Minh City Metropolitan Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Homebase",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gethomebase/",
+            "title": "Co-Founder",
+            "description": "Founded in 2019 in Singapore, Homebase is one of Southeast Asia\u2019s leading Proptech companies. Homebase provides revolutionary products made accessible that empower homeowners to buy, sell, and own homes in ways that work best for themselves. Our vision is to actualize each and every individual's dream of homeownership in Southeast Asia.\n\nHomebase is backed by leading investors and partners around the world, with our most recent $30M round of equity and debt funding announced in 2021. Our investors and partners include, but are not limited to, large global financial institutions (Shinhan Bank, Emles, ACE and Company), leading venture capital and private equity funds (Y Combinator, Goodwater Capital, VinaCapital, Partech, etc), and successful entrepreneurs and angel investors (founders and executives of disruptive companies like Divvy Homes, PropertyGuru, Zerodown, and Opendoor). Homebase has been recognized as the 2022 Proptech Company of the year by wealth&finance, Top 10 Emerging Giants in Asia Pacific by KPMG/HSBC, and 200 Companies with Global Business Potential 2023 by Forbes India.\n\nOur management team comes from elite multi-national companies and institutions (McKinsey & Company, Goldman Sachs, Grab, Linkedin, University of Pennsylvania, Harvard, Caltech), and consists of diverse professionals across financial advisory, real estate, management consulting, capital markets, and technology. Homebase\u2019s advisory board consists of founders and executives in some of the most successful and high-growth technology and proptech companies in Southeast Asia, including Alibaba, Lazada, 99.co, PropertyGuru, and Zalora.\n\nHomebase's head office is located in Ho Chi Minh City. We operate across most major cities in Vietnam in addition to smaller provincial areas in Vietnam.\n\nTo learn more about Homebase, please visit our website at: https://homebase.com.vn or explore careers at Homebase at: https://jobs.ashbyhq.com/homebase",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGUKCkP-waHkw/company-logo_400_400/0/1630621647132/gethomebase_logo?e=1712793600&v=beta&t=lpUl-pffb1Nj5AVkyFQTBzu8LMNxokk4CQw7Fz2KeFk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Polymath Capital Partners",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/polymath-capital-partners/",
+            "title": "Founder/GP",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF2p4twiGoVug/company-logo_400_400/0/1630622685549?e=1712793600&v=beta&t=3KU6WSu2qNnygjwXy8yZTgaQSb9aT89ae28ozRyKA7w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "LinkedIn",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/linkedin/",
+            "title": "International Consumer Product",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831590218/linkedin_logo?e=1712793600&v=beta&t=bpbhODspzMc2NFPr2LzXvtDU9f51d2R0vbdvNHPHBPk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Management Consulting",
+            "description": null,
+            "location": "New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1712793600&v=beta&t=zRUz30stUVKGW6H4W-PjhK5_-AvxEejd4j9tfCZc_4c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+            "title": "Investment Banking",
+            "description": null,
+            "location": "Los Angeles Metropolitan Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712793600&v=beta&t=h_T3rqSgsjtDu3TbQ2EsSad0EkuqQfeiY_5c6w24Yos"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "Lumia Capital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lumiacapital/",
+            "title": "Venture Capital",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF2lhR-GOGqpg/company-logo_400_400/0/1631320906452?e=1712793600&v=beta&t=ClAw2jN7Xs4FuG820iTGU6LmLL-FXXuui7FGpNR_Eu8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Harvard Business School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712793600&v=beta&t=u2TdS2m7S6bscmUKiw4QIxoeIprPb1JQ67UsbqKr7Ow",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Engineering Science",
+            "degree_name": "Master of Science - MS",
+            "school": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF26un2IGhsYg/company-logo_400_400/0/1630609147706/harvard_school_of_engineering_and_applied_sciences_logo?e=1712793600&v=beta&t=aCOtF-3D_Jn9d1IzXbpsRYOEAJMdrUEbl5bHUIstz_0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W21 - Homebase",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Caltech",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFCGqEmSwrc4w/company-logo_400_400/0/1631338994369?e=1712793600&v=beta&t=vCzEtRBv8o9VruSLBT_Z7B8Lij8kMlTGTUuXjIRd-_U",
+            "grade": null,
+            "activities_and_societies": "NCAA Swimming"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "MicroRNAs in the Axon Locally Mediate the Effects  of Chondroitin Sulfate Proteoglycans and cGMP  on Axonal Growth",
+            "publisher": "Developmental Neurobiology",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/dneu.22292/abstract"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Tatler GenT List 2022",
+            "issuer": "Tatler Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "description": "The annual Gen.T List recognises 300 Leaders of Tomorrow shaping Asia\u2019s future. They are the trailblazing entrepreneurs, creatives and young leaders who are creating a positive impact in the region\n\nhttps://www.tatlerasia.com/people/phillip-an"
+        },
+        {
+            "title": "Forbes 30 Under 30: Consumer Technology",
+            "issuer": "Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "description": "https://www.forbes.com/30-under-30/2022/asia/consumer-technology"
+        },
+        {
+            "title": "Eagle Scout",
+            "issuer": "Boy Scouts of America",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "description": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America "
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Fellow, Forum for American and Chinese Exchange at Stanford (FACES)",
+            "cause": "POLITICS",
+            "company": "Stanford University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/stanford-university/",
+            "description": "Selected as one of 32 \u201cfuture leaders in U.S.-China affairs\".\n\nFounded in 2001, the Forum for American/Chinese Exchange at Stanford (FACES) is dedicated to promoting dialogue and foster long-lasting relationships among future leaders in U.S.-China affairs. Every year, our two-part summit in the United States and China brings together young leaders and accomplished speakers to discuss the future of the two countries.\n\n",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Fellow, Yenching Social Innovation Forum",
+            "cause": "POLITICS",
+            "company": "Yenching Academy of Peking University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/yenching-academy-of-peking-university/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHnZbDkTS959Q/company-logo_400_400/0/1630611707554/yenching_academy_of_peking_university_logo?e=1712793600&v=beta&t=bg-JVZbZAESVSkIUyfhn-kWqs7_3vIl63JC98GUQPkQ"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Phil A.",
+            "link": "https://uk.linkedin.com/in/phil-a-35a623a5",
+            "summary": "Director at TRON Generation - Acting as your dedicated sales development team",
+            "location": "Manchester"
+        },
+        {
+            "name": "Phillip A",
+            "link": "https://uk.linkedin.com/in/phillip-a-a79364a",
+            "summary": "Owner, Rowlands Solicitors LLP",
+            "location": "Manchester"
+        },
+        {
+            "name": "PHILLIP A.",
+            "link": "https://www.linkedin.com/in/phillip-a-76272553",
+            "summary": "Shipping Manager at Cubeco, inc",
+            "location": "Houston, TX"
+        },
+        {
+            "name": "Phillip A. Watson",
+            "link": "https://www.linkedin.com/in/pawdraws",
+            "summary": "2D Animator & Illustrator open for work!",
+            "location": "Savannah, GA"
+        },
+        {
+            "name": "Phillip A",
+            "link": "https://www.linkedin.com/in/phillip-a-9aa94136",
+            "summary": "CFO, gen. couns. at sfLaw--The A.M. Group",
+            "location": "San Francisco Bay Area"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

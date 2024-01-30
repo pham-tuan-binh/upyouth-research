@@ -1,0 +1,370 @@
+{
+    "public_identifier": "hansel-hansel-05247554",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hansel-hansel-05247554/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221229Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c28e0b2355887fda598b79cd9a78605d142a4e8112863193c70d49a054e11ab9",
+    "background_cover_image_url": null,
+    "first_name": "Hansel",
+    "last_name": "Hansel",
+    "full_name": "Hansel Hansel",
+    "follower_count": 1417,
+    "occupation": "Co-Founder at Materee (YC S22)",
+    "headline": "Materee | ex-BCG | MIT MBA",
+    "summary": "Managing, expanding, and building successful businesses are difficult.  \n\nWith a foundation in working at Procter & Gamble and starting up Glico Wings, I aim to bring expertise to companies or individuals who are looking to start a new business, enter new market or region, introduce new products, or improve their current business performance.\n\nI believe that a company will become successful if they have a sound strategy with proper business infrastructure. Having grass-root understanding of the market situation and customer needs as well as being data-driven in making business decisions will enable a company to create a sound strategy. Furthermore, having appropriate business infrastructure consisting of suitable organization planning & development and robust system to support operations will allow a company to excellently execute their strategy.\n\nMy peers, managers, and directors have consistently identified my top strengths as: (1) being able to always think and act from the company\u2019s best interests; (2) being able to quickly gain trust and efficiently manage stakeholders both inside and outside the organization; (3) being very logical and data-driven.\n\nSpecialties include: Go-to-market strategy, managing and leading across function within multi-cultural organizations, technology product development, operations management and improvement, organizational planning and development, navigating business uncertainties in emerging country",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Greater Boston",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Materee (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/materee-ycs22/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE8hg7JyYUo0w/company-logo_400_400/0/1656561477038?e=1712793600&v=beta&t=Jetb49qXqMFYVo9y0tQer6lLrwIZ6dox2W3pSn4s-Zs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "GudangAda",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gudangada/",
+            "title": "SVP CEO Office",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEhQcYDa0nUvg/company-logo_400_400/0/1630659937785/gudangada_logo?e=1712793600&v=beta&t=CkzMbzOgEtj0QNbiJlNjh_EM8pKu_K0zSrJxLzzeoDg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Consultant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Glico Wings",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/glico-wings/",
+            "title": "Trade Marketing Manager",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE9p7jQPHuQ7Q/company-logo_400_400/0/1679023419692/glico_wings_logo?e=1712793600&v=beta&t=4b6eDPflMIYZaFKGo0vgpWOP1UNdzLpHL6a_jg3KIIc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Procter & Gamble",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/procter-and-gamble/",
+            "title": "Customer Business Development Manager",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGGCd-fMXfRWw/company-logo_400_400/0/1661448432247/procter_and_gamble_logo?e=1712793600&v=beta&t=0mz37np7LC_P-LvPXQudk6f7fBuraE9tFLAsZ8Jtsnc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "MBA with Business Analytics Certification",
+            "school": "MIT Sloan School of Management",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF-NKQHUG7hUg/company-logo_400_400/0/1631325873804?e=1712793600&v=beta&t=Kac2BsPHNNewk3DvjDJGC8pgu1_DgQJ3YBCSFi-LL1g",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "BE",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Institut Teknologi Bandung Academic Excellence Scholarship",
+            "issuer": "Institut Teknologi Bandung (ITB)",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "description": "Merit-based scholarship awarded to top students"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Professional Scrum Product Owner",
+            "license_number": null,
+            "display_source": "scrum.org",
+            "authority": "Scrum.org",
+            "url": "https://www.scrum.org/certificates/543567"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Business Analytics Certificate",
+            "license_number": null,
+            "display_source": null,
+            "authority": "MIT Sloan School of Management",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/steven-walentino",
+            "name": "Steven Walentino",
+            "summary": "Co-Founder at Materee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rea-o",
+            "name": "Rea Candra Oktaviara",
+            "summary": "Business Unit Director at SEVEN Retail Group | MIT Sloan MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adrian-maulana",
+            "name": "Adrian Maulana",
+            "summary": "Oxford MBA | Business Development | SaaS, Food & Agri",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/okky-pratama-84217331",
+            "name": "Okky Pratama",
+            "summary": "Financial Clarity for SMBs in Indonesia | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hery-chen-873965288",
+            "name": "Hery Chen",
+            "summary": "--",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anastasya-gabriela-b561011b4",
+            "name": "Anastasya Gabriela Nahampun",
+            "summary": "HR Generalist | Recruiter | HRIS",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tommyaditya",
+            "name": "Tommy A.",
+            "summary": "Senior Consultant",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/devimaharanikosa",
+            "name": "Devi Maharani Kosa",
+            "summary": "MBA Candidate at MIT Sloan School of Management | Puteri Indonesia Riau 2020",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michaelchristian95",
+            "name": "Michael Christian",
+            "summary": "MIT Sloan MBA Candidate | Summer Associate at Bain",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mirsa-aja-a391aa222",
+            "name": "Mirsa aja",
+            "summary": "\u00b7.\u00b8\u00b8.\u00b7\u2669\u266a\u266b \ud83c\udd31\ud83c\udd34\ud83c\udd41\ud83c\udd31\ud83c\udd44\ud83c\udd30\ud83c\udd43 \ud83c\udd31\ud83c\udd30\ud83c\udd38\ud83c\udd3a\ud83c\udd3b\ud83c\udd30\ud83c\udd37 \ud83c\udd43\ud83c\udd30\ud83c\udd3d\ud83c\udd3f\ud83c\udd30 \ud83c\udd3f\ud83c\udd34\ud83c\udd41\ud83c\udd3b\ud83c\udd44 \ud83c\udd30\ud83c\udd3b\ud83c\udd30\ud83c\udd42\ud83c\udd30\ud83c\udd3d. \u266b\u266a\u2669\u00b7.\u00b8\u00b8.\u00b7",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Great session with Alan Hellawell last week, we talked about Payable (YC S22) our personal motivation (Albert Sahala Theodore & Faza Fahleraz) and\u2026",
+            "link": "https://www.linkedin.com/posts/gerynugraha_great-session-with-alan-hellawell-last-week-activity-7061520434827071489-Pc8F",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "The time has come for every soul to purify the heart, for every person to begin a new life, and for us let all mistakes be forgiven and forgotten\u2026",
+            "link": "https://www.linkedin.com/posts/materee-ycs22_iedmubarok-idulfitri-materee-activity-7055340621779136513-DHxN",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Join with Materee in 2023 to kick off a year of exciting growth and innovation!\ud83d\ude80\u2728If you are someone who thrives on challenges and enjoys a dynamic\u2026",
+            "link": "https://www.linkedin.com/posts/materee-ycs22_lokerjakarta-lokerpurwokerto-lowongankerja-activity-7023190423707783168-nFUl",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Meet Galih Okta, our incredible VP GudangAda Solusi! At GudangAda, Galih Okta is in charge of data analysis as well as collaborating with the\u2026",
+            "link": "https://www.linkedin.com/posts/gudangada_galih-okta-vp-gudangada-solusi-activity-7009104096162979840-_ekY",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "I\u2019m thrilled to welcome Yusuf Albar Masagus to our team as our Chief Operating Officer. Masagus Yusuf, or Eron as we call him, comes with 12+ years\u2026",
+            "link": "https://www.linkedin.com/posts/alvinkumarga_im-thrilled-to-welcome-yusuf-albar-masagus-activity-7003183962776907776-QtRO",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Fairatmos, platform teknologi karbon yang berbasis di Indonesia, telah mengumpulkan US$4,5 juta dalam putaran awal, dipimpin oleh Go-Ventures dan\u2026",
+            "link": "https://www.linkedin.com/posts/dailysocial-id_flashnews-dsstartup-startupislife-activity-7005378755363819520-Faki",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Indonesian fishery startup FishLog has raised $3.5 million in a pre-series A funding round from various investors, including BRI Ventures, Accel\u2026",
+            "link": "https://www.linkedin.com/posts/dealstreetasia_indonesian-fishery-startup-fishlog-raises-activity-6993747490785157121-DNKR",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Raven's billboard running on US 101, SF this week!Thanks to Brex team!#GrowWithBrex",
+            "link": "https://www.linkedin.com/posts/sriyansh7_growwithbrex-activity-6991064568542232576-dnN7",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Diri Care, an #Indonesia-based consumer health technology startup, announced Thursday it has closed its oversubscribed seed round at $ 4.3 million\u2026",
+            "link": "https://www.linkedin.com/posts/technodeglobal_indonesias-diri-care-closes-43m-seed-funding-activity-6963398564974657536-Rnsv",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "We are honored to be part of the Y Combinator S22 batch. Y Combinator is arguably the world\u2019s best startup accelerator, with notable alums such as\u2026",
+            "link": "https://www.linkedin.com/posts/delegasi_ycombinator-startup-smallbusiness-activity-6962929929202151424-3faH",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Peng and our team in Indonesia - Cynthia, Aaron and Natasha - hosted a successful Founders\u2019 Dinner in Jakarta, Indonesia, last week. We were thrilled\u2026",
+            "link": "https://www.linkedin.com/posts/monk%27s-hill-ventures_founders-entrepreneurs-activity-6962327598496440320-9anp",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "We are excited to announce our latest Series A funding led by Alpha JWC Ventures with participation from several investors.We are thankful for the\u2026",
+            "link": "https://www.linkedin.com/posts/agriaku_agriaku-fromcorntodecacorn-activity-6952240628625739776-nLt3",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "Super excited to announce that Materee (YC S22) is now officially part of Y Combinator Summer 22 batch! \ud83d\ude80Y Combinator is the most renowned startup\u2026",
+            "link": "https://www.linkedin.com/posts/materee-ycs22_ycombinator-yc-materee-activity-6952087148481118208-vq3z",
+            "activity_status": "Liked by Hansel Hansel"
+        },
+        {
+            "title": "TREKSEAD in Jakarta (9 Jun - 10 Jun)At a time where chicken supply disruptions are making the headlines in Singapore, it was quite befitting that we\u2026",
+            "link": "https://www.linkedin.com/posts/kynanlee_insead-inseadtreks-inseadcareers-activity-6942395465938182144-QeTd",
+            "activity_status": "Liked by Hansel Hansel"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "\u90ac\u9e92\u4e91 Hansel",
+            "link": "https://cn.linkedin.com/in/hanselwu",
+            "summary": "School of Management at Fudan University - Senior Teaching Affairs Officer",
+            "location": "Changning District"
+        },
+        {
+            "name": "Hansel Hansel",
+            "link": "https://id.linkedin.com/in/hansel-hansel-211a56212",
+            "summary": "Junior Software Engineer at Bina Nusantara IT Division",
+            "location": "Jakarta Metropolitan Area"
+        },
+        {
+            "name": "Antonius Hansel Kartagunawan",
+            "link": "https://id.linkedin.com/in/antoniushanselk",
+            "summary": "Mathematics Student at Institut Teknologi Bandung",
+            "location": "Bandung"
+        },
+        {
+            "name": "Hansel Hansel",
+            "link": "https://id.linkedin.com/in/hanselhansel",
+            "summary": "Management Trainee at Cosco Shipping Lines Indonesia",
+            "location": "Surabaya"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

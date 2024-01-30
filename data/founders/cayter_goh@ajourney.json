@@ -1,0 +1,314 @@
+{
+    "public_identifier": "cayter-goh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/cayter-goh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221238Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c74975e800359a841414100473be46f833cfd7e155a373f50eae8e4ca9da1481",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/cayter-goh/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221238Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=add1dd05de291e716b39a1ad6f25d0d02891a95735c530e4e2d4f3076ef40bff",
+    "first_name": "Cayter",
+    "last_name": "Goh",
+    "full_name": "Cayter Goh",
+    "follower_count": 3511,
+    "occupation": "Co-Founder & CTO at Ajourney (YC S22)",
+    "headline": "CTO @ Ajourney (YC S22) - Building a unified regional payroll platform | ex-Rapyd | ex-Grab",
+    "summary": "A day a problem solved, a year you are a pro.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Ajourney (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ajourney/",
+            "title": "Co-Founder & CTO",
+            "description": "Building a unified regional payroll platform.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG-28PPON5-uA/company-logo_400_400/0/1654509081495?e=1712793600&v=beta&t=G6iVi-QFb_L3UH-nv4OWRm7oGg9M82nOlkMNPTLlN1U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "company": "Spenmo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/spenmo/",
+            "title": "VP of Engineering",
+            "description": "\ud835\udc0c\ud835\udc32 \ud835\udc00\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c (\ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21\ud835\udc27\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc25)\n\u2022 built the monorepo tooling that speeds up engineering team's productivity by at least 5x\n\u2022 built the automated CI/CD pipeline that moves the team away from manual deployment (with the help from 2 other infra tools engineers)\n\u2022 built the standard PR review workflow for both services deployment and Terraform infra provisioning\n\u2022 enhanced the existing shared libraries in Go and implemented OpenTelemetry + background worker library\n\u2022 migrated the team from the complicated GitFlow to the trunk-based development workflow\n\u2022 migrated the team from Selenium to Playwright for writing more robust/faster e2e tests\n\u2022 pushed for clearer team structure + service ownership\n\n\ud835\udc0c\ud835\udc32 \ud835\udc00\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c (\ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d/\ud835\udc01\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c)\n\u2022 deployment is happening more frequently by at least 6x\n\u2022 feature delivery total time is shortened by at least 3x\n\u2022 bug fix turnaround time is shortened by at least 3x",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGTMwpMN63fDQ/company-logo_400_400/0/1663224389639/spenmo_logo?e=1712793600&v=beta&t=LwBbvh4CujMbxS7KfPF8Du86XR4pJ3_ToDfk5qu02Pk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "company": "Rapyd ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rapydpayments/",
+            "title": "Engineering Lead, APAC",
+            "description": "Managed a team to work on the feature development and bank/payment gateway integration along with constant liaising with the product/business teams in APAC region. What we achieved:\n\n\u2022 Integrated with 7 banks and 15 payment gateways\n\u2022 Implemented more than 60 payment methods and 80 payout methods\n\nMost importantly, we helped bringing in more than 1 billion USD monthly TPV to the company from just the APAC region itself. And of course, we have a great sales team to thank who helped manifest all the technical stuffs we have built up.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEcSudZ7nWwKQ/company-logo_400_400/0/1630569343411?e=1712793600&v=beta&t=nmUwpdt2Mw8_WgfCAgBb9IaoDbJfZjzf74oxg7mMsuU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Sephora SEA",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sephora/",
+            "title": "Principal Engineer",
+            "description": "Managed a total of 12 team members(3 team leads) which the teams are mainly responsible for:\n\n\u2022 Improve checkout flow for the customers by integrating with various payment gateway including credit cards and alternative payment methods\n\u2022 Improve loyalty membership system",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHpyqp2h6TAig/company-logo_400_400/0/1630608077601/sephora_logo?e=1712793600&v=beta&t=FTbFKiB5aKUOsB-F_ko506WVLonC9SXzCmHsySro0us"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "90 Seconds",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/90-seconds/",
+            "title": "Director Of Engineering",
+            "description": "Managed the engineering team(16 ppl as of April 2018) in which I spent 70% of my weekly time on improving architecture/engineering process/tooling, 30% on managing the team workflow/happiness/career growth. And my achievements were as below:\n\n\u2022 The tooling to setup local cluster(2 Rails API + 4 React SPA) via 2 commands for smooth and faster development cycle by utilising Makefile + Docker + Docker Compose.\n\n\u2022 Automated CI/CD (deployment to staging/production) with Kubernetes cluster on GCP.\n\n\u2022 Setup Datadog monitoring(with logs) for the web/sidekiq/postgresql/redis servers.\n\n\u2022 Identity system that allows users to sign up account on the platform with 1 email address and can login to multiple different apps(brands, creators, producers) on Android/iOS/web.\n\n\u2022 Matching system that automatically matches creators/producers to the brands.\n\n\u2022 Adopt scrum methodology to push for clearer and more focused workflow between design + product + engineering.\n\n\u2022 Setup engineering level + performance evaluation framework + hiring plan.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGMNcM_V8gm7A/company-logo_400_400/0/1691477120273/90_seconds_logo?e=1712793600&v=beta&t=c-eON4PT_U-jAs0KouNIRCxAIPOH255Q7BSKHALcLrY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2017
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Engineering Lead",
+            "description": "As the company was growing rapidly, so did the demand for our internal/external apps. In order to deliver the apps more efficiently, I managed to drive the company to go for SPA-API approach and grew the team of 4 to 22 in 31 months time. Aside from the technical part, my daily work also includes making sure that the team members can proceed with their tasks without any problems and guide them when needed. In my last 8 months with Grab, I was in charge of full-stack engineers hiring in which I've successfully streamlined the interview process, hired 8 engineers(out of 130+ interview candidates) and grew the team to 22.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2015
+            },
+            "company": "Ruckus Wireless",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ruckus-networks/",
+            "title": "Senior Software Engineer",
+            "description": "Built the TheRetailHQ Analytics System using RubyOnRails, jQuery, EmberJS, D3.js, nvD3.js, HTML5, CSS3 and MongoDB which helps businesses analyse movement in any indoor or complex urban environment where GPS does not work. All analysed data are virtualised and presented in charts using D3.js and nvD3.js. In addition, also built Create Your Own Map Editor in web browser that allows business partners to easily create maps inside the web browser which can be used directly on our analytics system to get an overview of how well a certain part of a venue is doing.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHyl4oWfQcl5Q/company-logo_400_400/0/1648043834339/ruckus_networks_logo?e=1712793600&v=beta&t=CY4fRWJZycvVZdTduVPlOEu4YKDrqDHs_1kmLBjOCMo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Trend Micro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trend-micro/",
+            "title": "Software Engineer",
+            "description": "Assist the users in memorising the login credentials for their common use websites. Mainly worked on the backend API and Android app.",
+            "location": "Taiwan",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETIHCjbYMW7w/company-logo_400_400/0/1631332130105?e=1712793600&v=beta&t=S4fCLZRpggmsDP0ScCsMC3SX9mAVMaD9tiEkhqRidis"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Computer Science and Information Engineering",
+            "degree_name": "Master",
+            "school": "National Taiwan University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGAh08jkWo23Q/company-logo_400_400/0/1679904708552/national_taiwan_university_logo?e=1712793600&v=beta&t=XVn51y2S6g6c99kPmfeTfheH9_7MsDnlO8J612OxYQI",
+            "grade": "Non-gradable",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Computer Science and Information Engineering",
+            "degree_name": "Undergraduate",
+            "school": "National Taiwan University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGAh08jkWo23Q/company-logo_400_400/0/1679904708552/national_taiwan_university_logo?e=1712793600&v=beta&t=XVn51y2S6g6c99kPmfeTfheH9_7MsDnlO8J612OxYQI",
+            "grade": "Non-gradable",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "Chinese",
+        "English",
+        "Hokkien",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Scrum Product Owner Certified",
+            "license_number": null,
+            "display_source": "rackcdn.com",
+            "authority": "SCRUMstudy - Accreditation Body for Scrum and Agile",
+            "url": "http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumProductOwnerCertified-CayterGoh-680317.pdf"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/pradhith",
+            "name": "Pradhith Konduri",
+            "summary": "Co-founder of Abridge (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jonathanlowhy",
+            "name": "Jonathan Low",
+            "summary": "CEO & Co-Founder @ Ajourney | Consolidate & automate your payroll",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sarupbanskota",
+            "name": "Sarup Banskota",
+            "summary": "CEO @ CodeCrafters (YC S22). Build your own BitTorrent, Git, SQLite, etc \u2014 in any language.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jessinca",
+            "name": "Jessinca Jong",
+            "summary": "Experienced software engineer with product & front end focus",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zhenghao-he",
+            "name": "Zhenghao He",
+            "summary": "Senior Software Engineer @DocuSign",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/thomas-jiang",
+            "name": "Thomas Jiang",
+            "summary": "CPO @ Ajourney (YC S22) - Building a unified regional payroll platform",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lihautan",
+            "name": "Li Hau Tan",
+            "summary": "Frontend Developer at Shopee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joelsng",
+            "name": "Joel Sng",
+            "summary": "next",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yangshun",
+            "name": "Yangshun Tay",
+            "summary": "Building GreatFrontEnd | Ex-Meta | Created Blind 75 | Writes about Software Engineering, Front End and Design Systems content",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/raimie-tang",
+            "name": "Raimie Tang",
+            "summary": "Co-founder, Metafi (YC S22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Cayter Goh",
+            "link": "https://sg.linkedin.com/in/cayter-goh-323067162",
+            "summary": "Director Of Engineering at 90 Seconds",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

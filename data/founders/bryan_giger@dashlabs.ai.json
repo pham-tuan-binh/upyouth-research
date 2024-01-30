@@ -1,0 +1,681 @@
+{
+    "public_identifier": "gigerbytes",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gigerbytes/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221617Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ccf95d786b2c991835b58e61db943e1c6bbd52fd5e0853ea9fdf73f619794791",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gigerbytes/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221617Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=54565b17bb9ccac6dc5efb537fd707bd2dd470b371bb3a8c6360394264425d31",
+    "first_name": "Bryan",
+    "last_name": "Giger",
+    "full_name": "Bryan Giger",
+    "follower_count": 1179,
+    "occupation": "CEO & Co-Founder at Dashlabs.ai (YC W21)",
+    "headline": "CEO & Co-founder @ Dashlabs.ai (YC W21)",
+    "summary": null,
+    "country": "CH",
+    "country_full_name": "Switzerland",
+    "city": "Sankt Gallen",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Dashboard Philippines",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/dashboardph",
+            "title": "Director & Senior Software Engineer",
+            "description": "Handling Infra, DevOps & Data Aggregation\nProgram Head - Philippine Red Cross COVID-19 Platform (Nationwide Software System facilitating mass covid19 testing)",
+            "location": "Metro Manila",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFF1ssTIlUe9A/company-logo_100_100/0/1586338559343?e=2147483647&v=beta&t=g6dx2KgMK2VeDG1d83_QfmpzO2er4BbT75jdXTQT_eI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Dashlabs.ai (YC W21)",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/dashlabsai",
+            "title": "CEO & Co-Founder",
+            "description": null,
+            "location": "Metro Manila, National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH7XDvSxBJBnA/company-logo_100_100/0/1667780721200?e=2147483647&v=beta&t=gpOz7QaXyU7WF1S5TeboaqyS1uB5vT8dbQwzSocWZRU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Philippine Red Cross",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/philippine-red-cross",
+            "title": "Program Head - Covid19 Platform & Tech Response Team",
+            "description": "Program Head of the Covid19 Platform & Tech Response Team of the Philippine Red Cross\nIn charge of the design, development and deployment of the nationwide Red Cross Covid19 Platform and internal Lab Information System (https://c19.redcross.org.ph)\nAutomation and optimization of internal Red Cross processes to improve and ensure the fast delivery of results",
+            "location": "Manila, National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEctLkeI47wKw/company-logo_100_100/0/1558497598566?e=2147483647&v=beta&t=igLWqeRSqeme7UEctMaRV2DyI8GosXsAlOnzfVyFAbQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Kairos",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/kairoshq",
+            "title": "Kairos Fellow",
+            "description": "Focusing the next generation on problems worth solving.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH87WI9-EHZgw/company-logo_100_100/0/1594155943339?e=2147483647&v=beta&t=cnMvYwHu5mJdfUqJqMCtqnhGcre884tbr2LtD-ZjT3Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "DataLab St Gallen",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/datalabsg",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "St. Gallen, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH-1Cuy4defiA/company-logo_100_100/0/1536415156002?e=2147483647&v=beta&t=DWMIoAx9UM4_X65h54h_1khgOHchtS3MDNl1ORu6LmQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Penguin Academy",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/penguinstribe",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "St. Gallen, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF3dBw2H85lNw/company-logo_100_100/0/1551455455504?e=2147483647&v=beta&t=LlskQXG8H2PI7zMVx_zL10FoFZtW1_30HOBQNSrL93A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Studentenschaft der Universit\u00e4t St. Gallen",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/shsg",
+            "title": "Stabsstelle IT",
+            "description": null,
+            "location": "St. Gallen",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF3gdo2PnjNYQ/company-logo_100_100/0/1662026710323?e=2147483647&v=beta&t=D1hxd_zsQe00iGp0G5g7jyzJNivefZd_T8rLxXMhbDk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "Studentenschaft der Universit\u00e4t St. Gallen",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/shsg",
+            "title": "Chairman of IT & Campus",
+            "description": "Manage & Improve the Digital & Physical infrastructure of the SHSG.",
+            "location": "St. Gallen",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF3gdo2PnjNYQ/company-logo_100_100/0/1662026710323?e=2147483647&v=beta&t=D1hxd_zsQe00iGp0G5g7jyzJNivefZd_T8rLxXMhbDk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2015
+            },
+            "company": "PAYRETO Services Limited",
+            "company_linkedin_profile_url": "https://ch.linkedin.com/company/payretoph",
+            "title": "Intern",
+            "description": "Development & deployment of products & internal tools (Web Applications).\nMaintenance of IT infrastructure (servers, etc).",
+            "location": "Makati City",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGHtIdXEMyfoA/company-logo_100_100/0/1634612964786?e=2147483647&v=beta&t=XSnSqFHpKFq3O8wZi1tNd0-0KEEoQbWMjgbTuwdWXJc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Master of Arts - MA",
+            "school": "University of St.Gallen",
+            "school_linkedin_profile_url": "https://ch.linkedin.com/school/university-of-st-gallen/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFwnhW-GPfiYw/company-logo_100_100/0/1627635065823?e=2147483647&v=beta&t=fX3wujOIjJSlCh2FdAlgtLRN9CyBLeepJANVpxuaqbM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Bachelor",
+            "school": "Universit\u00e4t St.Gallen - Hochschule f\u00fcr Wirtschafts-, Rechts- und Sozialwissenschaften",
+            "school_linkedin_profile_url": "https://ch.linkedin.com/school/university-of-st-gallen/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFwnhW-GPfiYw/company-logo_100_100/0/1627635065823?e=2147483647&v=beta&t=fX3wujOIjJSlCh2FdAlgtLRN9CyBLeepJANVpxuaqbM",
+            "grade": null,
+            "activities_and_societies": "Chairman for IT & Campus, Student Union, 2017-2018 |\nWinner, Start Hack, 2017"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "IB Diploma",
+            "school": "Xavier School",
+            "school_linkedin_profile_url": "https://ch.linkedin.com/school/xavier-school/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF2-lOGyGGfBg/company-logo_100_100/0/1519867592173?e=2147483647&v=beta&t=VcEnKvKSsuPStD3X0wfsRJ8fekh7GXA8EF0eIwrtWok",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Mandarin",
+        "Filipino"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Winner Start Hack 2017",
+            "issuer": "Start Hack [mlh season 2017]",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "description": "More than 400 programmers, designers and product developers from all over the world took part in the hackathon and completed a project within 35 hours. We won.\n\nhttps://www.unisg.ch/en/wissen/newsroom/aktuell/rssnews/hintergrund/2017/maerz/start-hack-2017-interview-30maerz2017"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "The Data Scientist\u2019s Toolbox",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/datascitoolbox"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Introduction to Communication Science",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/commscience"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Mathematical Biostatistics Boot Camp 1",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/biostats"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Chemistry: Concept Development and Application",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/genchem1"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": null,
+            "name": "Gamification",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/gamification"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://ph.linkedin.com/in/martingomez568",
+            "name": "Martin Gomez FRSA",
+            "summary": "COO and Co-Founder at Dashlabs.ai (YC W21)",
+            "location": "Metropolregion Manila"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/jbtiu",
+            "name": "Jan Benedict Tiu",
+            "summary": "Exploring Possibilities",
+            "location": "Metro Manila"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/jbddelatorre",
+            "name": "Jason Dela Torre",
+            "summary": "Senior Software Engineer at Dashlabs.ai (YC W21)",
+            "location": "Metro Manila"
+        },
+        {
+            "link": "https://au.linkedin.com/in/bondleung",
+            "name": "Bond Leung Sudarta",
+            "summary": "Co-Founder @ Harvestly.co | Board Member | Investor at Airangels | Early @ Airbnb | Microsoft & Deloitte Alumni",
+            "location": "Sydney, NS"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/phillberttan",
+            "name": "Philly Tan",
+            "summary": "Co-Founder @ Dashlabs.ai (YC W21). Teaching Assistant @ UBC CS. 4th Year UBC BA CS Student.",
+            "location": "Richmond, BC"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/justinvyang",
+            "name": "Justin Yang",
+            "summary": "Software Engineer at Dashlabs.ai (YC W21)",
+            "location": "Metropolregion Vancouver"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/migsgemotra",
+            "name": "Miguel Gemotra",
+            "summary": "CCO, Co-Founder - Dashlabs.ai (YC W21)",
+            "location": "Manila"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/lance-mackenzie-go-1320621b7",
+            "name": "Lance Mackenzie Go",
+            "summary": "IT Intern at Dashlabs.ai (YC W21)",
+            "location": "San Juan"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/patricia-lumanog",
+            "name": "Patricia Lumanog",
+            "summary": "President at UP Psychology Society",
+            "location": "Pasay"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/einer-lim-3b5869b5",
+            "name": "Einer Lim",
+            "summary": "Software Engineer at Dashlabs.ai (YC W21)",
+            "location": "Richmond, BC"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/jerieltiu",
+            "name": "Jeriel Tiu",
+            "summary": "Software Engineer at Dashlabs.ai (YC W21)",
+            "location": "Metropolregion Manila"
+        },
+        {
+            "link": "https://www.linkedin.com/in/luca-formenti-4627b2193",
+            "name": "Luca Formenti",
+            "summary": "ArKap | HSG | Harvard | Swiss Study Foundation",
+            "location": "Cambridge, MA"
+        },
+        {
+            "link": "https://de.linkedin.com/in/niklas-beese",
+            "name": "Niklas Beese",
+            "summary": "Co-Founder at SPECTER | Enabling data-based construction management",
+            "location": "Hamburg"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/kenneth-gimpes-02984320b",
+            "name": "Kenneth Gimpes",
+            "summary": "Technical Support Intern at Dashlabs.ai (YC W21)",
+            "location": "Antipolo"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/razeltan",
+            "name": "Razel Marie Tan",
+            "summary": "\ud83c\udf31 Growing UX Designer",
+            "location": "Metropolregion Manila"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/elijah-soriano-b600b4218",
+            "name": "Elijah Soriano",
+            "summary": "Product Management Intern at Dashlabs.ai (YC W21)",
+            "location": "Pasig City"
+        },
+        {
+            "link": "https://www.linkedin.com/in/h-davidethan",
+            "name": "David Ethan Hwang",
+            "summary": "Software Engineer Intern at Dashlabs.ai (YC W21)",
+            "location": "Region Pittsburgh und Umgebung"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/shaun-salazar",
+            "name": "Shaun Salazar",
+            "summary": "Assistant Vice President of Internal Affairs at UP Career Assistance Program",
+            "location": "Quezon City"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/caitlin-chiang-a591791b1",
+            "name": "Caitlin Chiang",
+            "summary": "Dashlabs.ai (Y-Combinator W21) Software Engineer",
+            "location": "Quezon City"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/jo%C3%A3o-leal-42946475",
+            "name": "Jo\u00e3o Leal",
+            "summary": "Senior Software Engineer at Google",
+            "location": "Z\u00fcrich"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/joaquin-de-castro",
+            "name": "Joaquin de Castro",
+            "summary": "Student Writer and Researcher | Full-Stack Development, Data Science",
+            "location": "Nationale Hauptstadtregion, Philippinen"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/bzarskebueno",
+            "name": "Bastian J. Zarske Bueno",
+            "summary": "Venture Capital Investor | Entrepreneur & Innovation Manager | Event MC & Keynote Speaker (Gen Y)",
+            "location": "Z\u00fcrich und Umgebung"
+        },
+        {
+            "link": "https://www.linkedin.com/in/kevin-keith-tan-91b861143",
+            "name": "Kevin Keith Tan",
+            "summary": "Senior Management Consultant at GEP || Business Analytics & Finance at Wharton",
+            "location": "Metropolregion New York"
+        },
+        {
+            "link": "https://www.linkedin.com/in/matthiasheller",
+            "name": "Matthias Heller",
+            "summary": "Solving AI by solving data | Co-Founder Lightly AI | YC S21",
+            "location": "Metropolregion San Francisco Bay Area"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/emmanuel-cusi-b6674a6",
+            "name": "Emmanuel Cusi",
+            "summary": "Director Of Operations at Dashlabs.ai (YC W21)",
+            "location": "Region IV-A (Calabarzon), Philippinen"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/gabriellefonacier",
+            "name": "Gabrielle Fonacier",
+            "summary": "Relationship Manager at Dashlabs.ai (YC W21)",
+            "location": "Metro Manila"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/dbaechli",
+            "name": "Damien B\u00e4chli",
+            "summary": "Motorcycle Passionate & Enthusiast | Founder Scenario7 & Scenario8 | B.A. HSG",
+            "location": "Sankt Gallen"
+        },
+        {
+            "link": "https://co.linkedin.com/in/mateo-bol%C3%ADvar",
+            "name": "Mateo Bol\u00edvar Sierra",
+            "summary": "Co-founder & CEO Contler | Founder E-Line | Leader of Tomorrow",
+            "location": "Bogot\u00e1"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/vincent-vida",
+            "name": "Vincent Vida",
+            "summary": "Founder at UpGrain",
+            "location": "Z\u00fcrich, Schweiz"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/marcwittwer",
+            "name": "Marc Wittwer",
+            "summary": "MSc Student in Robotics @ ETH Zurich | Co-Founder of perseedU | Founder of sanboard.ch",
+            "location": "Z\u00fcrich"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/agoeldi",
+            "name": "Andreas Goeldi",
+            "summary": "Partner at btov Partners",
+            "location": "Sankt Gallen, Schweiz"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/joshua-clarence-sanchez-052532215",
+            "name": "Joshua Clarence Sanchez",
+            "summary": "Enablement Specialist at Dashlabs.ai",
+            "location": "Quezon City"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/benj-ledesma-581a65107",
+            "name": "Benj Ledesma",
+            "summary": "Senior Software Engineering Director at Dashlabs.ai (YC W21)",
+            "location": "Metropolregion Manila"
+        },
+        {
+            "link": "https://www.linkedin.com/in/dillon-carns-980018117",
+            "name": "Dillon Carns",
+            "summary": "CTO & Co-Founder Gravitl (YC W22)",
+            "location": "Asheville, NC"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/ridiculoys",
+            "name": "Louise Gabrielle Talip",
+            "summary": "Software Engineer at Dashlabs.ai (YC W21)",
+            "location": "Los Banos"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/audrey-vy",
+            "name": "Audrey Vy",
+            "summary": "Product Manager at Dashlabs.ai",
+            "location": "Metro Manila"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/keiko-lu",
+            "name": "Nakeisha Keiko Lu",
+            "summary": "Marketing Intern at Dashlabs.ai (YC W21)",
+            "location": "Nationale Hauptstadtregion, Philippinen"
+        },
+        {
+            "link": "https://ch.linkedin.com/in/anselma-woerner",
+            "name": "Anselma W\u00f6rner",
+            "summary": "Co-Founder @Exnaton | PhD, ETH Zurich | Forbes 30 under 30",
+            "location": "Z\u00fcrich, Schweiz"
+        },
+        {
+            "link": "https://www.linkedin.com/in/weston-l-b75327b9",
+            "name": "Weston L",
+            "summary": "Chief Technology Officer and Co-Founder at Dashlabs.ai",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ledesmablt",
+            "name": "Benj Ledesma",
+            "summary": "Senior Software Engineering Director at Dashlabs.ai (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joaquin-bengco",
+            "name": "Jake B.",
+            "summary": "Data Scientist at Dashlabs.ai (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bien-christian-custodio-a8002a19a",
+            "name": "Bien Christian Custodio",
+            "summary": "Software Engineer at Dashlabs.ai (YC W21)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Imagine a community of people who did an IPO or raised $10-100 million and no one talks about money or valuation and tells you how much they raised\u2026",
+            "link": "https://www.linkedin.com/posts/leonardrinser_imagine-a-community-of-people-who-did-an-activity-7056152283700441088--I5N",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "I often read 1 book/week, but I\u2019m wary when it comes to book recommendations from others. Here is why:When someone recommends a book they are\u2026",
+            "link": "https://www.linkedin.com/posts/michael-kowatschew_recencybias-activity-7051850741484851201-Nlzy",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "As I celebrate my 15th work anniversary at Novartis, I'm grateful for the opportunities to be part of our company's healthcare access advocacy\u2026",
+            "link": "https://www.linkedin.com/posts/christine-fajardo_sdgs-inspired-curious-activity-7051171227180167168-MeO5",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Sechs HSG-Alumni und eine HSG-Alumna haben es dieses Jahr auf eine der zehn 30under30 Europa-Listen von Forbes geschafft!\ud83e\udd73Herzliche Gratulation an\u2026",
+            "link": "https://www.linkedin.com/posts/hsgalumniprofile_wearehsgalumni-30under30-activity-7049406289000419328-Y3_s",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Being a founder during University is hard.In Jan 2020, I tried to start a network for students who wanted to build digital products and companies\u2026",
+            "link": "https://www.linkedin.com/posts/michael-kowatschew_being-a-founder-during-university-is-hard-activity-7046454682998755329-FCPe",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "With its \"START Fellowship\" HSG supports 33 young entrepreneurs from seven emerging countries develop their start-ups. To this end, the young men and\u2026",
+            "link": "https://www.linkedin.com/posts/university-of-st-gallen_university-of-stgallen-hsg-supports-start-ups-activity-7041798782505644032-VNSG",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Healthcare in the Philippines: a Q&A with Christine Fajardo, FICD of Novartis https://lnkd.in/gVrnXy8d",
+            "link": "https://www.linkedin.com/posts/josiah-go-95b569_qa-with-novartis-communications-head-christine-activity-7042298648092688384-xHIR",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Exciting news! I'm honored to announce that I've been recognized on the Forbes 30 Under 30 list in the Science & Healthcare category.Our success at\u2026",
+            "link": "https://www.linkedin.com/posts/davidgorgan_forbes-30-under-30-2023-science-healthcare-activity-7039575203173003264-bvcQ",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "\"Wenn beide [Kunde und Verk\u00e4ufer] in einem Verkaufsgespr\u00e4ch fluchen, ist die Win-Rate am h\u00f6chsten\" \ud83d\ude08Gem\u00e4ss einer Studie von Gong liegt die\u2026",
+            "link": "https://www.linkedin.com/posts/dariobuehler_verkaufspsychologie-verkauf-salestipps-activity-7035946364920287232-Vhpv",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "\ud835\udde6\ud835\udde7\ud835\uddd4\ud835\udde5\ud835\udde7 \ud835\udde6\ud835\udde8\ud835\udde0\ud835\udde0\ud835\udddc\ud835\udde7 \ud835\uddeb \ud835\udddb\ud835\uddd4\ud835\uddd6\ud835\uddde \ud835\uddda\ud835\udde2\ud835\uddd8\ud835\udde6 \ud835\udde7\ud835\udddc\ud835\udde0\ud835\uddd8\ud835\udde6 \ud835\udde6\ud835\udde4\ud835\udde8\ud835\uddd4\ud835\udde5\ud835\uddd8 \ud83d\ude80Thanks, Nasdaq, for your continued support throughout the years. We look\u2026",
+            "link": "https://www.linkedin.com/posts/startglobal_nasdaq-startglobal-start23-activity-7035971960878551040-3GM7",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Novartis  is among the Philippines' top customs taxpayers for 2022 recognized by the Bureau of Customs. Novartis views #tax as a core part of our\u2026",
+            "link": "https://www.linkedin.com/posts/christine-fajardo_tobacco-food-pharma-firms-top-customs-taxpayers-activity-7035782557614948352-mQ_s",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "It was super fun to host the first version of the Founding Ideas Founders Hangout yesterday evening. The concept: connect experienced founders and\u2026",
+            "link": "https://www.linkedin.com/posts/ariyanseyednassir_founders-startups-insights-activity-7034836660802453504-mRz_",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "Deliriously excited to announce the newest Hyphen Grant recipient! 15TH PARISH is a wildly enchanting behind the scenes chronicle of the Jamaican\u2026",
+            "link": "https://www.linkedin.com/posts/producer-documentaryfilm-activity-7029536450517823488-bHWd",
+            "activity_status": "Beliebt bei Bryan Giger"
+        },
+        {
+            "title": "WILL YOU BE MY \ud83d\udc9c 4P VALENTINE Michael Kowatschew?We are thrilled to announce that Michael Kowatschew, President of the Sigma Squared Society, has\u2026",
+            "link": "https://www.linkedin.com/posts/xaviersarras_ambassador-venturepartner-4pcapital-activity-7031324885343723520-MTIl",
+            "activity_status": "Beliebt bei Bryan Giger"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Bryan Giger",
+            "link": "https://www.linkedin.com/in/bryan-giger-2b05b4196",
+            "summary": "--self employed",
+            "location": "Homosassa, FL"
+        },
+        {
+            "name": "Bryan Giger",
+            "link": "https://www.linkedin.com/in/bryan-giger-504078120",
+            "summary": "Student at Colorado State University",
+            "location": "Fort Collins, CO"
+        },
+        {
+            "name": "Bryan Giger",
+            "link": "https://www.linkedin.com/in/bryan-giger-992321221",
+            "summary": "Director of Sports Performance at ProActive Physical Therapy and Sports Medicine",
+            "location": "Fort Collins, CO"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

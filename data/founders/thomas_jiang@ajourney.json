@@ -1,0 +1,404 @@
+{
+    "public_identifier": "thomas-jiang",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thomas-jiang/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221239Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=00f56dbc04d75fb70816135d3ff8be100da15d66774ba53ae549d82bb3f3276b",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thomas-jiang/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221239Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=22887ca879b24eb2ff86f37437ee2872092771d198484ffa6639ed0e2a25212a",
+    "first_name": "Thomas",
+    "last_name": "Jiang",
+    "full_name": "Thomas Jiang",
+    "follower_count": 2896,
+    "occupation": "Co-Founder & CPO at Ajourney",
+    "headline": "CPO @ Ajourney (YC S22) - Building a unified regional payroll platform",
+    "summary": "Building a unified regional payroll platform",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Ajourney",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ajourney/",
+            "title": "Co-Founder & CPO",
+            "description": "We're building a unified regional payroll platform that enables businesses to consolidate regional payroll into one place, thereby saving costs and reducing HR ops.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG-28PPON5-uA/company-logo_400_400/0/1654509081495?e=1708560000&v=beta&t=fLAwiWYZt_Y4KlNwSsNZv6AHhQj6d3rd3jWSxTVz1MY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2022
+            },
+            "company": "Routo Co.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/routo-co/",
+            "title": "Co-Founder",
+            "description": "Route planning software for SMEs",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH6OueE-t-jog/company-logo_400_400/0/1630661807105?e=1708560000&v=beta&t=TVIdzSdBcbBt3gpTNR0OvINXhkzRiYdVCIo5HfxMdhQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Dathena",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dathena-science/",
+            "title": "Engineering Manager",
+            "description": "Built Dathena's web and distributed application layer over its core AI engine",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHgPCpWqtCiOQ/company-logo_400_400/0/1630456004967/dathena_science_logo?e=1708560000&v=beta&t=_scxudAfvveOG1qz09a95KbJMIyrceFgSYXWLABbOvA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Dathena",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dathena-science/",
+            "title": "Full Stack Developer",
+            "description": "Python, JavaScript, Django, Flask, Celery, React, Docker, Kubernetes, PostgreSQL, RabbitMQ",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHgPCpWqtCiOQ/company-logo_400_400/0/1630456004967/dathena_science_logo?e=1708560000&v=beta&t=_scxudAfvveOG1qz09a95KbJMIyrceFgSYXWLABbOvA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "-",
+            "company_linkedin_profile_url": null,
+            "title": "Freelance Web Developer (Full-Stack)",
+            "description": "Self-taught full-stack web developer with a keen interest in web technologies and UI/UX best practices. Bringing together business acumen and technological expertise, I have been able to value-add to clients beyond just usual web development, but also offering insights and suggestions that build on existing requirements.\n\n- Walk clients through Software Development Life Cycles, from project initiation, wire-framing and database design (ER diagrams, schema designs) to final implementation and post-deployment maintenance\n- Communicate effectively to synchronize project expectations with clients by using effective wire-framing and live user testing at different milestones\n- Streamline workflows with Gulp and Webpack\n- Develop responsive websites using Python backend and Javascript/TypeScript front-end frameworks with Test-Driven Development methodologies\n- Deploy websites onto bare bone cloud providers such as Digital Ocean and AWS, leveraging Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate testing and deployment workflows\n- Experience using Docker (including compose/swarm) for testing, staging and production environments, as well as integrating Docker integrated as part of CI/CD suites\n\n\nCore technologies: Python, JavaScript/TypeScript, Django, Angular, SQL, Docker",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Embassy of Israel in Singapore",
+            "company_linkedin_profile_url": null,
+            "title": "Senior Trade Officer",
+            "description": "- Handling and assisting business, trade and investment enquiries from Singapore and abroad\n- Identifying market trends and partnership channels for business development opportunities, as well as marketing and strategy consulting for Israeli companies in Singapore and the region\n- Organizing events and B2B meetings for government and trade delegations",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs/",
+            "title": "Corporate Communications (Intern)",
+            "description": "- Effectively gathered and analyzed media coverage for key IB client pitch\n- Wrote and compiled newsletters, intranet articles and press releases of which some have been published in the papers\n- Assisted in the planning and organization of various events, including a 3-day community event with a UBS community partner",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1708560000&v=beta&t=MMNJ1XA_4M4Dd2NAIn85pVCcdP-Cg3OBwzBUUzwWHeY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "S22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1708560000&v=beta&t=VtLwykLKpEbpcnmmwDFlUAqn3VcD-rCc21W-0gNFFcU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Data Analytics",
+            "degree_name": "Masters of IT in Business (Analytics)",
+            "school": "Singapore Management University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1630585940673/singapore_management_university_logo?e=1708560000&v=beta&t=4RzvNao-JRXtxpva1DGEnmhjqxzq9tIl9f_nQyYYPmY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Bachelor of Science (BSc)",
+            "school": "Singapore Management University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1630585940673/singapore_management_university_logo?e=1708560000&v=beta&t=4RzvNao-JRXtxpva1DGEnmhjqxzq9tIl9f_nQyYYPmY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": "Biology, Chemistry, Mathematics, Economics",
+            "degree_name": "GCE 'A'-levels",
+            "school": "Hwa Chong Institution",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "title": "Co-Chairperson",
+            "cause": "CHILDREN",
+            "company": "Project Sunshine",
+            "company_linkedin_profile_url": null,
+            "description": "Co-led the 4th Phase of Project Sunshine, a project executed over the span of more than 5 years to enhance the education system of Ban Pong Song village, Laos.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "title": "Volunteer",
+            "cause": "EDUCATION",
+            "company": "Project Sunshine",
+            "company_linkedin_profile_url": null,
+            "description": "Project spanning over more than 5 years to enhance the education system of Ban Pong Song village, Laos.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2005
+            },
+            "title": "Volunteer",
+            "cause": "HUMANITARIAN_RELIEF",
+            "company": "Tsunami Relief",
+            "company_linkedin_profile_url": null,
+            "description": "Volunteered as part of a small team for disaster relief, post-2004 tsunami in Phuket.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/cayter-goh",
+            "name": "Cayter Goh",
+            "summary": "CTO @ Ajourney (YC S22) - Building a unified regional payroll platform | ex-Rapyd | ex-Grab",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/binhngoc17",
+            "name": "Tran Binh Ngoc",
+            "summary": "Tech Entrepreneur (Code Generation | Data | ML)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jonathanlowhy",
+            "name": "Jonathan Low",
+            "summary": "CEO & Co-Founder @ Ajourney | Consolidate & automate your payroll",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nitinmuthyala",
+            "name": "Nitin Muthyala",
+            "summary": "Co-Founder and CTO @ HitPay (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pateladi",
+            "name": "Adi Patel",
+            "summary": "CEO @ Lancey (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/austin-pager",
+            "name": "Austin Pager",
+            "summary": "Co-founder @ Coast | API Demo Platform",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/antoniolongoria",
+            "name": "Antonio Longoria",
+            "summary": "Co-Founder at trebu (YCS22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/guillaumeluccisano",
+            "name": "Guillaume Luccisano",
+            "summary": "Founder at Yuma: Automating Ecommerce Support through AI - Previously co-founder @ Triplebyte & Socialcam",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/eugenecwng",
+            "name": "Eugene Ng",
+            "summary": "Co-Founder, CRO at StaffAny l Forbes 30 Under 30 l Hiring for rockstar sales! staffany.com/careers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vidhi-vakharia-812a2b114",
+            "name": "Vidhi Vakharia",
+            "summary": "Co-founder of Abridge (YC S22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Thomas Jiang",
+            "link": "https://hk.linkedin.com/in/thomas-jiang-b53820173",
+            "summary": "ESG Standards | Green Finance | Sustainability Reporting & Assurance at PwC Mainland China and Hong Kong",
+            "location": "Hong Kong"
+        },
+        {
+            "name": "Thomas Jiang",
+            "link": "https://au.linkedin.com/in/thomas-jiang-31956b179",
+            "summary": "Student at UNSW",
+            "location": "Australia"
+        },
+        {
+            "name": "Thomas JIANG",
+            "link": "https://fr.linkedin.com/in/thomas-jiang-a86024115",
+            "summary": "Restaurant Manager",
+            "location": "Greater Paris Metropolitan Region"
+        },
+        {
+            "name": "Thomas Jiang",
+            "link": "https://fr.linkedin.com/in/thomas-jiang-aa207a128",
+            "summary": "CEO chez JIANG COACHING",
+            "location": "France"
+        },
+        {
+            "name": "Thomas Jiang",
+            "link": "https://cn.linkedin.com/in/thomas-jiang-2b2a03b0",
+            "summary": "Head of Marketing and CRM @ Brooks Brothers China",
+            "location": "Jing'an District"
+        },
+        {
+            "name": "Thomas Jiang",
+            "link": "https://www.linkedin.com/in/thomas-wentao-jiang",
+            "summary": "Stanford CS 2021",
+            "location": "Stanford, CA"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

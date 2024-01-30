@@ -1,0 +1,212 @@
+{
+    "public_identifier": "nagatan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nagatan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221627Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=23fbac1e5aa2516b81012954b5ec3285e1fe2affeff2747a7ad0bd114dc34fec",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nagatan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221627Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=15e411b66dc1f2dcb043d5688a8c144999409d8cb171e84a51ab1accafc6e0bf",
+    "first_name": "Naga",
+    "last_name": "Tan",
+    "full_name": "Naga Tan",
+    "follower_count": 5605,
+    "occupation": "CEO & Co-Founder at ErudiFi",
+    "headline": "CEO & Co-Founder at ErudiFi",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Golden Shoe Holdings",
+            "company_linkedin_profile_url": null,
+            "title": "Business Development",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Sit Giap Company Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Director",
+            "description": "2016 URA Architectural Heritage Awards",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "ErudiFi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/erudifi/",
+            "title": "CEO & Co-Founder",
+            "description": "ErudiFi is a mission-driven financial technology company focused on expanding access to education. Operating as Danacita in Indonesia and Bukas in the Philippines, ErudiFi partners with universities & vocational schools to provide students affordable tuition fee installment plans. By providing financial inclusion to underserved students across the region, we believe we can drive generational transformation and build a better tomorrow.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGI37ROPS4JQA/company-logo_400_400/0/1630639601290/erudifi_logo?e=1712793600&v=beta&t=JCuqkW2pMVpWU-_EjoaOIEoFp_WihJNOr95YFmQHZ4g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "W18 Batch",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "company": "Morgan Stanley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/morgan-stanley/",
+            "title": "Fixed Income Trader",
+            "description": "Government/Credit Repo and T-Bills Trading",
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1712793600&v=beta&t=313Qjjl1LUyxbgDgzrB0KElP-JW5Kz1EJpjCVAj-2dA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "company": "Goldman Sachs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+            "title": "Hedge Fund Strategies",
+            "description": null,
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1630621204189/goldman_sachs_logo?e=1712793600&v=beta&t=h_T3rqSgsjtDu3TbQ2EsSad0EkuqQfeiY_5c6w24Yos"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "The Wharton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1712793600&v=beta&t=xwc_xNDcOIZJ5wr4wrF4Va9xXz3JZGpAX5n3nCSJD3o",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "International Studies",
+            "degree_name": "MA",
+            "school": "The Lauder Institute - University of Pennsylvania",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEQt7YpkkR3cg/company-logo_400_400/0/1646160021746/university_of_pennsylvania___the_lauder_institute_logo?e=1712793600&v=beta&t=SP5ayi5bAMiJ0CMoMv_2vF5wgyole1KKIG2yW8wZ_hc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Economics",
+            "degree_name": "BSc",
+            "school": "The London School of Economics and Political Science (LSE)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1712793600&v=beta&t=gctmdf0LjL_BTXiy-gxLLSTch8OoO4cEkeiPgmTJLrw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Naga Tan",
+            "link": "https://my.linkedin.com/in/naga-tan-86a392188",
+            "summary": "Attended game univercity",
+            "location": "Ranau District"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

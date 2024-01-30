@@ -1,0 +1,404 @@
+{
+    "public_identifier": "eugenehuangsg",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eugenehuangsg/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221700Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dbe437e93ae8f122d6e1ece709bf3f86bdf4f63bd5245cd0d739eebb209ff036",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eugenehuangsg/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221700Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=00f26ad77f37619b9b75265c57d0097c990c7ee67d3e5377036e33b3e03ec1f5",
+    "first_name": "Eugene",
+    "last_name": "Huang",
+    "full_name": "Eugene Huang",
+    "follower_count": 504,
+    "occupation": "Co-Founder at Traverse Technologies",
+    "headline": "Co-Founder at Traverse Technologies",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Traverse Technologies",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/traverse-ai",
+            "title": "Co-Founder",
+            "description": "Traverse is a geospatial simulations software that helps project developers predict the IRR of greenfield renewable energy projects on a continental scale.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8dGggGyizeA/company-logo_100_100/0/1593677843325?e=2147483647&v=beta&t=-AGuymVk7fFi3KDGNbxF5QGmsfBCeyAvSjhcmCLpMVM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Sea",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/seagrp",
+            "title": "Software Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEAIrDkWI_p6g/company-logo_100_100/0/1519863923748?e=2147483647&v=beta&t=TU5IGE8HT0s9RUBn0KWxFmseX_Yf6Wj5Als402FmPHE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/national-university-of-singapore",
+            "title": "Teaching Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_100_100/0/1519856127538?e=2147483647&v=beta&t=mloXf-YXc3BFczOTdh1QSWZYLn4dvqK81vY_0_Xae4I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "company": "Centre for Strategic Infocomm Technologies",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/csitsg",
+            "title": "Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQESAjmLJa3L-g/company-logo_100_100/0/1630556931365/centre_for_strategic_infocomm_technologies_logo?e=2147483647&v=beta&t=GU5h2gjFnLoQqSa_mxbg34Qv9wHAftPOLP4CgJm_fiw"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": "YCW19 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/0/1673555092951?e=2147483647&v=beta&t=PD-V4liY5FyU2ywkU45XGknc9_UIxAk2uHRdeW47YWg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Computing (BComp)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/national-university-of-singapore/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_100_100/0/1519856127538?e=2147483647&v=beta&t=mloXf-YXc3BFczOTdh1QSWZYLn4dvqK81vY_0_Xae4I",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "field_of_study": "Interactive & Digital Media",
+            "degree_name": "Diploma in Multimedia & Infocomm Technology",
+            "school": "Nanyang Polytechnic",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/nanyang-polytechnic/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHwImgI6QnJLw/company-logo_100_100/0/1536892103042?e=2147483647&v=beta&t=eWcy_k4-HqZp4NNkSogc6vkUvqf3rl40JdkevZQ2gLQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Computer Security",
+            "number": "CS3235"
+        },
+        {
+            "name": "Introduction to Information and System Security",
+            "number": "CS2107"
+        },
+        {
+            "name": "Programming Methodology",
+            "number": "CS1101S"
+        },
+        {
+            "name": "Software Development on Evolving Platforms",
+            "number": "CS3216"
+        },
+        {
+            "name": "Software Engineering",
+            "number": "CS2103"
+        },
+        {
+            "name": "Software Engineering on Modern Application Platforms",
+            "number": "CS3217"
+        },
+        {
+            "name": "Software System Design",
+            "number": "CS3213"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 487,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/thetlinthu",
+            "name": "Thet Lin Thu",
+            "summary": null,
+            "location": "United States"
+        },
+        {
+            "link": "https://ug.linkedin.com/in/daniel-epune-1a453765",
+            "name": "Daniel Epune",
+            "summary": "Co-Founder at Traverse Technologies",
+            "location": "Uganda"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/raynoldtan",
+            "name": "Raynold Tan",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/andrew-eng-wy",
+            "name": "Andrew Eng",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/tianweiliu",
+            "name": "Tianwei Liu",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://bd.linkedin.com/in/md-aminul-islam-9658a4216",
+            "name": "Md. Aminul Islam",
+            "summary": "Digital Marketing Specialist at DM Pro Agency",
+            "location": "Gazipur District"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/pan-jiacong-114922108",
+            "name": "Pan Jiacong",
+            "summary": "Student at Nanyang Technological University",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yan-horn-jonathan-poon-43693983",
+            "name": "Yan Horn Jonathan Poon",
+            "summary": "Attended National University of Singapore",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/irene-teo-193ab08",
+            "name": "Irene Teo",
+            "summary": "Inspiring catalyst embracing change",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/jiaweidu0323",
+            "name": "Jiawei Du",
+            "summary": "Algorithm Engineer at ByteDance",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "link": "https://th.linkedin.com/in/pongchai-tangbowonweerakun-310704b2",
+            "name": "Pongchai Tangbowonweerakun",
+            "summary": "Co-Founder & CTO \u0e17\u0e35\u0e48 Piggipo",
+            "location": "Thailand"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ellen-ng-70b6443a",
+            "name": "Ellen Ng",
+            "summary": "Assistant Director at National Climate Change Secretariat",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/bac-ho-si-03192230",
+            "name": "Bac Ho Si",
+            "summary": "CEO,GM,CFO",
+            "location": "Hanoi Capital Region"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ethan-tan-595a77268",
+            "name": "Ethan Tan",
+            "summary": "SG NTU | biz & cs",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://ug.linkedin.com/in/charles-kyeyune-b74397166",
+            "name": "Charles Kyeyune",
+            "summary": "Civil Engineering student researching solutions for sustainable infrastructure",
+            "location": "Kampala"
+        },
+        {
+            "link": "https://ru.linkedin.com/in/alexander-chaika-857a44165",
+            "name": "Alexander Chaika",
+            "summary": "Senior Software Engineering - ViSenze",
+            "location": "Moscow"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/peter-wee-2b6806141",
+            "name": "Peter Wee",
+            "summary": "Key Account Manager",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/yoshito-okubo",
+            "name": "Yoshito Okubo",
+            "summary": "Director of Operations Unico Power",
+            "location": "Vancouver, BC"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/andrericardoherianto",
+            "name": "Andre Ricardo Herianto",
+            "summary": "COO",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/enadun",
+            "name": "Nadun De Silva",
+            "summary": null,
+            "location": "Singapore"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Someone asking about Singapore's rapid change just needs to look at these three guys who were manual visualisers and paper pushers some 18 years ago,\u2026",
+            "link": "https://www.linkedin.com/posts/kaijie-ng-kj_innovation-startup-activity-7041932333318365184-7G1q",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "WindDesk Discover, a free to use prospecting tool for wind farm development, is now available globally! Try it out at https://lnkd.in/eeGz7Yi - do\u2026",
+            "link": "https://www.linkedin.com/posts/thetlinthu_winddesk-discover-is-now-available-globally-activity-6838728888080830464-IVJs",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "More of our technical series on maximizing IRR and minimizing LCOE for greenfield wind farms. Written by our algorithms expert Jon, we go into deep\u2026",
+            "link": "https://www.linkedin.com/posts/thetlinthu_show-me-the-10115-ways-to-electrically-activity-6836521548082491392--sEg",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "\u26f0\ufe0f\ud83d\udcc8 Read about how we go all out on micro-siting wind farms directly to IRR and LCOE by making sure CAPEX is seriously optimized. In the current\u2026",
+            "link": "https://www.linkedin.com/posts/thetlinthu_show-me-the-5436563-ways-to-climb-this-activity-6831435818738049026-oWeJ",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "Having a ton of fun climbing with Shopee colleagues. Happy to see more and more people are interested in this exciting sport#lifeatshopee\u2026",
+            "link": "https://www.linkedin.com/posts/meimei-wen-0785a759_lifeatshopee-shopeeclimbersandfriends-activity-6585902138533216256-3a8F",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "Here's what I've been up to.",
+            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6547140011538636800",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "Glad to have had the opportunity to come up with a card game with two of my awesome colleagues Luqman Hakim A Hadi and Sheldon Cheng to raise the\u2026",
+            "link": "https://www.linkedin.com/posts/yaolongchong_saving-the-earth-one-gamer-at-a-time-with-activity-6543383075722752000-T5e8",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "The opportunity to shadow Kaipo Leung, a creative director at New York advertising agency Admerasia, has turned into a lifetime of mentorship and\u2026",
+            "link": "https://www.linkedin.com/posts/ntusg_ntuadmissions-applyntu-activity-6503456115676803072-M7ZH",
+            "activity_status": "Liked by Eugene Huang"
+        },
+        {
+            "title": "What founders need to understand about fundraising from angels",
+            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6501770806169866240",
+            "activity_status": "Liked by Eugene Huang"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Eugene Huang",
+            "link": "https://au.linkedin.com/in/eugene-huang-b2560a53",
+            "summary": "Manager at Deloitte Australia",
+            "location": "Greater Melbourne Area"
+        },
+        {
+            "name": "Eugene Huang",
+            "link": "https://hk.linkedin.com/in/eugene-huang-395728151",
+            "summary": null,
+            "location": "Hong Kong SAR"
+        },
+        {
+            "name": "Eugene Huang",
+            "link": "https://www.linkedin.com/in/huangeugene",
+            "summary": "Building Open Infrastructures",
+            "location": "San Jose, CA"
+        },
+        {
+            "name": "Eugene Huang",
+            "link": "https://cn.linkedin.com/in/eugene-huang-79368596",
+            "summary": "Growth Investor",
+            "location": "China"
+        },
+        {
+            "name": "Eugene Huang",
+            "link": "https://sg.linkedin.com/in/eugene-huang-3383ab4a",
+            "summary": null,
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

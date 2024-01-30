@@ -1,0 +1,478 @@
+{
+    "public_identifier": "guidocaldara",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/guidocaldara/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221551Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e660efe64a4018882b30dac6280751d4a177bb8d5d8836e31cffd8f9bb1d5801",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/guidocaldara/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221551Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=67ace9ded59a26d88c95fe426e5146493422fb1d51218cf53f19aa51c017efe3",
+    "first_name": "Guido",
+    "last_name": "Caldara",
+    "full_name": "Guido Caldara",
+    "follower_count": 769,
+    "occupation": "Chief Technology Officer at Tablevibe",
+    "headline": "CTO @ Tablevibe | YCombinator (S21)",
+    "summary": "I have a diverse background in both retail management and technology. I began my career as a manager at Decathlon, but was captivated by the power of technology and decided to transition to a career in software development. \n\nI have been working as a freelance developer for several years, providing technical expertise and support to various projects in the tech industry. During this time, I have also managed the Le Wagon coding bootcamp in Bali and covered the lead teacher\u2019s role in the APAC region, where I have had the privilege of coaching and mentoring over 400 alumni from all over the world. \n\nI'm now CTO at Tablevibe, leading an amazing tech team in developing a platform for direct restaurant sales to customers.\n\nIn addition to my professional pursuits, I am a passionate outdoor enthusiast and ultra runner. I have competed in several > 100 miles races with top 3 results. \nI chronicled my 8-month trek through Nepal and India in the book \"Volevo Vedere l'Himalaya\", sharing my journey with readers.\nMy love for nature and outdoor activities has been a source of inspiration and motivation throughout my career.",
+    "country": "IT",
+    "country_full_name": "Italy",
+    "city": "Italia",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Tablevibe",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/tablevibe",
+            "title": "Chief Technology Officer",
+            "description": "Tablevibe creates webshop technology for restaurants to take direct pickup and delivery orders from their customers. We partner with top tier delivery partners to deliver the orders. Restaurants save 50-70% of costs compared to orders coming in through delivery apps and they finally get insight into who their delivery customers are so they can build their customer database and reengage their customers.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHpQD_03q0GHA/company-logo_100_100/0/1628251608004?e=2147483647&v=beta&t=yYMCDAeyktXL1BY9ypJucOpeLvzbxrKkT2VwGnRIu_k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "Freelance",
+            "company_linkedin_profile_url": null,
+            "title": "Freelance Software Developer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "Le Wagon",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/le-wagon",
+            "title": "Teacher and Bootcamp Manager",
+            "description": "Teaching students how to build awesome products in Bali at Le Wagon intensive full stack developer coding bootcamp.\nIntroducing them to developer's tools & workflow, basic and advanced programming concepts in Ruby, Software Architecture (OOP), Relational Database, SQL & ORM, Frontend Development, ES6 and Ruby on Rails to build and deploy their own web apps.\n\nStack: Ruby, RubyOnRails, JavaScript (Vanilla, JQuery, Ajax), PostGreSQL, HTML, CSS, Bootstrap, GitHub & Heroku\nSoft skills: Design (Sketch/Figma), Software Engineering, Web Project Development",
+            "location": "Bali",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_100_100/0/1654683278845?e=2147483647&v=beta&t=dQQZ0TRsPUMGSRltVHpUJ-9ZGjRXG-bQGD_2DRIkIc0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "Decathlon Italia",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/decathlon-italia",
+            "title": "Store Operation Manager and Personnel administration Manager",
+            "description": "- Made decisions necessary to develop business performance and to optimize profitability\n- Reviewed and simplified operations and sales processes to better serve customers and the team \n- Ensured customer satisfaction by managing store maintenance, image, sales and promotions. \n- Handled employee relations, payroll, benefits and training \n- Coordinated store targets and sales strategies \n- Developed HR strategy, overseeing immediate and long term staff requirements \n- Responsible for recruiting, screening, interviewing, placing and training employees. \n- Directed employee development, ensuring consistent training and career advancement",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0sjg7-3nueQ/company-logo_100_100/0/1519893156853?e=2147483647&v=beta&t=TwAKMf0F0dwi-fHQsV_I6nrGl3jy-JC4Za9HF0OX0HA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Decathlon Italia",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/decathlon-italia",
+            "title": "Store Operation Manager",
+            "description": null,
+            "location": "Osnago",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0sjg7-3nueQ/company-logo_100_100/0/1519893156853?e=2147483647&v=beta&t=TwAKMf0F0dwi-fHQsV_I6nrGl3jy-JC4Za9HF0OX0HA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "company": "Decathlon Italia",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/decathlon-italia",
+            "title": "Sales department manager",
+            "description": "- Executed weekly performance analysis and created action plans to maximize sales. \n- Carried out department piloting and implemented local communication plans \n- Managed point of sale and stock monitoring \n- Guaranteed the safety of goods, employees and customers",
+            "location": "Roncadelle (BS)",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0sjg7-3nueQ/company-logo_100_100/0/1519893156853?e=2147483647&v=beta&t=TwAKMf0F0dwi-fHQsV_I6nrGl3jy-JC4Za9HF0OX0HA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2013
+            },
+            "company": "Decathlon Italia",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/decathlon-italia",
+            "title": "Sales department manager",
+            "description": null,
+            "location": "Sondrio",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0sjg7-3nueQ/company-logo_100_100/0/1519893156853?e=2147483647&v=beta&t=TwAKMf0F0dwi-fHQsV_I6nrGl3jy-JC4Za9HF0OX0HA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2012
+            },
+            "company": "Decathlon Italia",
+            "company_linkedin_profile_url": "https://it.linkedin.com/company/decathlon-italia",
+            "title": "Sales specialist",
+            "description": "- Carried out tax inventories\n- Managed products within the store \n- Organized sporting events",
+            "location": "Seriate",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF0sjg7-3nueQ/company-logo_100_100/0/1519893156853?e=2147483647&v=beta&t=TwAKMf0F0dwi-fHQsV_I6nrGl3jy-JC4Za9HF0OX0HA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": "Web Development",
+            "degree_name": "FullStack Developer",
+            "school": "Le Wagon",
+            "school_linkedin_profile_url": "https://it.linkedin.com/school/le-wagon/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_100_100/0/1654683278845?e=2147483647&v=beta&t=dQQZ0TRsPUMGSRltVHpUJ-9ZGjRXG-bQGD_2DRIkIc0",
+            "grade": null,
+            "activities_and_societies": "Attended Le Wagon Bali (Batch # 128).\n9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, Implemented and Shipped to production a clone of AirBnB and a Rails prototype of run-db.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Filosofia",
+            "degree_name": "Laurea triennale",
+            "school": "Universit\u00e0 degli Studi di Milano",
+            "school_linkedin_profile_url": "https://it.linkedin.com/school/university-of-milan/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFrbSQVVNfRrg/company-logo_100_100/0/1624610871253?e=2147483647&v=beta&t=3x1ksd_ayN7NMjkI-BJ6BZhTR_9UFz_5zrWHfP0imSA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Inglese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://nl.linkedin.com/in/jeroen-rutten-60499921",
+            "name": "Jeroen Rutten",
+            "summary": "CEO @ Tablevibe (YC S21) | Ex-Google | Helping restaurants sell directly to customers",
+            "location": "Amsterdam"
+        },
+        {
+            "link": "https://nl.linkedin.com/in/lukasalevic",
+            "name": "Luka Salevi\u0107",
+            "summary": "Fullstack Developer @ Tablevibe",
+            "location": "Amsterdam"
+        },
+        {
+            "link": "https://be.linkedin.com/in/marin-bibot-51b30314a",
+            "name": "Marin Bibot",
+            "summary": "Software Engineer at Tablevibe",
+            "location": "Lasne"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/mathieusneep",
+            "name": "Mathieu Sneep",
+            "summary": "Helping restaurants sell directly to customers | COO @ Tablevibe (YC S21) | Ex-Google",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/martin-james-douglas",
+            "name": "James Douglas",
+            "summary": "Fullstack Web Developer",
+            "location": "East Hampshire"
+        },
+        {
+            "link": "https://tw.linkedin.com/in/pauline-rouger-a7a092113",
+            "name": "Pauline Rouger",
+            "summary": "Founder @ Time To Travel |\n\nCurrently learning Web Development @ Le Wagon Melbourne",
+            "location": "Kota Taipei"
+        },
+        {
+            "link": "https://id.linkedin.com/in/stephennatanael",
+            "name": "Stephen Natanael",
+            "summary": "Android Developer at ChatAja Messenger",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://it.linkedin.com/in/giulio-fermanelli-257609156",
+            "name": "Giulio Fermanelli",
+            "summary": "Tecnico ortopedico presso Fisioitop",
+            "location": "Roma"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/shah-ashna",
+            "name": "Ashna Shah",
+            "summary": "Junior Mobile App Developer",
+            "location": "London"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/jonathanjavaux",
+            "name": "Jonathan Javaux",
+            "summary": "Key Account Manager - Large Customer Sales APAC at Google",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://it.linkedin.com/in/luca-chiarottini-2336baa7",
+            "name": "luca chiarottini",
+            "summary": "Director / Producer",
+            "location": "Italia"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/samfayoumi",
+            "name": "Sam Fayoumi",
+            "summary": "Industry Manager at Google",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ykedrun",
+            "name": "Yevgeny K.",
+            "summary": "Helping businesses to thrive in a digital economy era",
+            "location": "Area San Francisco Bay"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/jethrowilliams",
+            "name": "Jethro Williams",
+            "summary": "Software engineer",
+            "location": "Kerajaan Inggris Bersatu"
+        },
+        {
+            "link": "https://it.linkedin.com/in/samanta-k-milton-knowles-47081696",
+            "name": "Samanta K. Milton Knowles",
+            "summary": "Traduttrice letteraria freelance SV>IT, DA>IT, EN>IT",
+            "location": "Provinsi Livorno"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/max-budnyk-a36b66b3",
+            "name": "Max Budnyk",
+            "summary": "Software Engineer at Upwork team",
+            "location": "Ukraina"
+        },
+        {
+            "link": "https://jp.linkedin.com/in/morten-tarris-4610091b2",
+            "name": "Morten Tarris",
+            "summary": "Senior Program Manager at Google",
+            "location": "Tokyo"
+        },
+        {
+            "link": "https://it.linkedin.com/in/luca-alfano-914894169",
+            "name": "Luca Alfano",
+            "summary": "Graphic design | Digital & Social media marketing",
+            "location": "Area Metropolitan Rome dan Sekitarnya"
+        },
+        {
+            "link": "https://it.linkedin.com/in/monica-maffei-55652b2b",
+            "name": "Monica Maffei",
+            "summary": "organizzazione e comunicazione per Rome Video Game Lab 2020",
+            "location": "Roma"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ann-koh-a9495124",
+            "name": "Ann Koh",
+            "summary": "Manage at NUS",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://www.linkedin.com/in/rayhanw",
+            "name": "Rayhan Wirjowerdojo",
+            "summary": "Teacher at Le Wagon, Bali",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/paalringstad",
+            "name": "Paal Ringstad",
+            "summary": "Training Future Tech Leaders | Change your Life - learn to code | Le Wagon Australia & Bali",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gianluca-perrone",
+            "name": "Gianluca Perrone",
+            "summary": "Full Stack Web Developer | Teacher at Le Wagon",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joaopfsilva",
+            "name": "Jo\u00e3o Silva",
+            "summary": "Enjoying life and coding",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/manon-shearn",
+            "name": "Manon Shearn ",
+            "summary": "City Operations Manager @ Le Wagon Melbourne \ud83c\udde6\ud83c\uddfa",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/spagnolodesign",
+            "name": "Luca Spagnolo",
+            "summary": "Writing code and living the dream",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicolas-proto",
+            "name": "Nicol\u00e1s Proto",
+            "summary": "Software Engineer @ Tablevibe (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/primaulia",
+            "name": "Prima Aulia Gusta",
+            "summary": "Full Stack Dev @ Tablevibe (YC S21) | Taught at Le Wagon",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/george-kettle",
+            "name": "George Kettle",
+            "summary": "Co-Founder at The Farm Folk",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Elijah Johnston\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Guido is a rockstar, and I'd recommend him to anyone looking for a dedicated learner with curiosity and leadership. We worked closely together on the Le Wagon Bali team and he is one of the most enjoyable people I've gotten a chance to work with. Very insightful and understanding, very skilled and knowledgable, and very organised in the way he thinks and manages. I know that anyone who works with Guido will end up making a new friend as well - his character is filled with integrity and empathy, making it easy to connect with him personally. Time and time again, I see how students of the bootcamp respond to Guido and it directly reflects that he is an outstanding human being. "
+    ],
+    "activities": [
+        {
+            "title": "We are delighted to announce our partnership with Guilt Free In Manila! \ud83e\udd1dGuilt Free offers delicious and effortless food to stay in shape. To\u2026",
+            "link": "https://www.linkedin.com/posts/tablevibe_tablevibe-directordering-phillipines-activity-7039492711971721216-fPZY",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "Swing by to say hi and try some delicious Karma Nuts cashews March 8-10 in the North Hall, First Floor, Booth N725 at Expo West. We'll have tons of\u2026",
+            "link": "https://www.linkedin.com/posts/rahul-sharma_swing-by-to-say-hi-and-try-some-delicious-activity-7036461819653177344-fUPg",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "BREAKING NEWS! We are delighted to announce the final closing of our new \u20ac500M fund, #HTGF IV. Let's go \ud83d\ude80",
+            "link": "https://www.linkedin.com/posts/johannes-weber-_htgf-activity-7036241012297461763-Ppj-",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "We are excited to announce that we acquired FATMAP, a European company widely known for their 3D mapping technology. Our active community will have\u2026",
+            "link": "https://www.linkedin.com/posts/strava-inc%2E_we-are-excited-to-announce-that-we-acquired-activity-7023614047568756736-2clu",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "I'm really excited to share that Tablevibe is now officially open for business in The #Philippines! Many thanks to our fantastic partners like\u2026",
+            "link": "https://www.linkedin.com/posts/mathieusneep_philippines-activity-7005387919544791040-Wfjn",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "It\u2019s official - Tablevibe's online ordering system is available in The #Philippines! We now empower any #restaurant to set up a free webshop and\u2026",
+            "link": "https://www.linkedin.com/posts/guidocaldara_philippines-restaurant-pickup-activity-7006170611345420289-5XT5",
+            "activity_status": "Condiviso da Guido Caldara"
+        },
+        {
+            "title": "Craving for some french cuisine on weekend? \ud83e\udd24\ud83e\udd50Try out MERCI MARCEL  GROUP, place your direct order with them today, and get $5 off \ud83e\udd11With\u2026",
+            "link": "https://www.linkedin.com/posts/tablevibe_foodandbeverage-foodandbeverageindustry-activity-6974200824394604544-anCL",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "The Bistro Group, a Southeast Asian leader in casual dining with well over 100 restaurants in the Philippines \ud83c\uddf5\ud83c\udded, partners with Tablevibe!Lisa\u2026",
+            "link": "https://www.linkedin.com/posts/tablevibe_tablevibe-thebistrogroup-restaurantsoftware-activity-6942775847896383488-OMJc",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "#Tablevibe is growing and #hiring! \ud83d\udcc8 Do you want to join our team?We're looking for a senior sales executive based out\u2026",
+            "link": "https://www.linkedin.com/posts/guidocaldara_tablevibe-hiring-australia-activity-6953422593592823808-IZ3C",
+            "activity_status": "Condiviso da Guido Caldara"
+        },
+        {
+            "title": "This is what my boss said to me when I took my dog for a vaccination during office hours. He said, \u201ctake time for things that are important in your\u2026",
+            "link": "https://www.linkedin.com/posts/sakshi-kumar-77169010a_team-work-people-activity-6928021212480569344--D7M",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "Yes, you read it right! \ud83e\udd29With Tablevibe start taking direct orders from your own website. Orders are delivered by food delivery pros at a low flat\u2026",
+            "link": "https://www.linkedin.com/posts/tablevibe_tablevibe-sales-food-activity-6910131451816472576-P79G",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "We're proud to partner with foodpanda and offer flat-fee, on-demand delivery to restaurants across #southeastasia, starting in #singapore \ud83c\uddf8\ud83c\uddec. This\u2026",
+            "link": "https://www.linkedin.com/posts/tablevibe_southeastasia-singapore-tablevibe-activity-6907620448604172289-QRvN",
+            "activity_status": "Consigliato da Guido Caldara"
+        },
+        {
+            "title": "Premi\u00e8re apparition tv ! Tr\u00e8s heureux d'avoir pu expliquer sur C8 \u00e0 une heure de grande \u00e9coute la n\u00e9cessit\u00e9 de diviser par 6 nos \u00e9missions de Gaz \u00e0\u2026",
+            "link": "https://www.linkedin.com/posts/tanguy-offways_television-offways-lowcarbon-activity-6877152355100459008-1nNi",
+            "activity_status": "Consigliato da Guido Caldara"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Guido Caldara",
+            "link": "https://de.linkedin.com/in/guido-caldara-3825851b6",
+            "summary": "Head Of Order Management",
+            "location": "Monaco di Baviera"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

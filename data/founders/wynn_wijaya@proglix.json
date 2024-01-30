@@ -1,0 +1,276 @@
+{
+    "public_identifier": "wynn-wijaya-76a2a8a4",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/wynn-wijaya-76a2a8a4/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221222Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7eab00b798bf18dd21080d57535b493ef0340c14bbc19bdbc48ab9e11d114268",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/wynn-wijaya-76a2a8a4/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221222Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=23ed665a8679df987fb24776c41502c98621b115a446cd97f367909a0a956f0d",
+    "first_name": "Wynn",
+    "last_name": "Wijaya",
+    "full_name": "Wynn Wijaya",
+    "follower_count": 1950,
+    "occupation": "Chief Executive Officer at Proglix",
+    "headline": "Co-Founder at Proglix",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Proglix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/proglixindonesia/",
+            "title": "Chief Executive Officer",
+            "description": "One stop shop for industrial raw materials",
+            "location": "Tangerang Selatan, Banten, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFxtvXV9_zZVQ/company-logo_400_400/0/1660276813791?e=1712188800&v=beta&t=MIufK15xBz_rdUWc4CWgEEIKSvCGhHBfFQvq6dbv-0s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2022
+            },
+            "company": "Sinari Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sinari-generasi-indonesia/",
+            "title": "Chief Executive Officer",
+            "description": "- Reviewed individual department performance and worked with leadership to improve processes, procedures, and practices.\n- Negotiated terms of business acquisitions to increase business base, solidify market presence and diversify offerings.\n- Developed key operational initiatives to drive and maintain substantial business growth.\nCreated the organization's mission and vision statements for use by all employees.\n- Increased company revenue by $300,000 in 6 months through aggressive new market strategies.\n- Determined vision and strategic direction for Pandemic COVID-19 Short-term strategies and coordinated resources to achieve targets within optimal timeframes.\n- Led strategic and business initiatives to successfully grow revenue in areas such as Agriculture and Energy Implementation.\n- Deal Partnership Contract with 4 big oil companies as raw material supplier (Wilmar, Bimoli, Cargill)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFuLuq4ptB8jg/company-logo_400_400/0/1630563290264/sinari_generasi_indonesia_logo?e=1712188800&v=beta&t=rUf__6ytBdGBNifMSmsK09CeWaSWYNgOYU5erkorHOQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "PT. Weston Global Energi",
+            "company_linkedin_profile_url": null,
+            "title": "Director",
+            "description": "- Created sales and marketing tools, growing clientele, and generating quality sales leads.\n- Prepared or reviewed detailed design drawings, specifications, or lists related to Rural and Commercial solar installations.\n- Aligned organizational objectives with company mission, increasing revenue, profit and business growth by collaboratively developing integrated strategies.\n- Prepared analyses of customer's current and projected electrical usage, demonstrating financial return on investment via new system introduction.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2011
+            },
+            "company": "Clariant",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/clariant/",
+            "title": "Internship",
+            "description": "Overviewing sales data at Master Batch department in 5 years period. Data report were used for improve and base standard in sales target each year.\n\nGenerated job description report; reports were used for guiding the efficiency time for every job desk in master batch department.\n\nDesigned and structure the workflow of Quality Management system to gain more efficiency in the future",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEOgrf3I9dY4g/company-logo_400_400/0/1689072159366/clariant_logo?e=1712188800&v=beta&t=hWP5_VOeyLR06iVficrHbvw2hLXblvtlFEWYU-R4h60"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2023
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712188800&v=beta&t=EgLxewxI_BDrlASGfsfLrqJBxsMda6-ggIQPdbJ7pks",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Finance, General",
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "Universitas Prasetiya Mulya",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_400_400/0/1630589925254/prasetiya_mulya_business_school_logo?e=1712188800&v=beta&t=OMhj5jhtxv1FZARayz3sOUAhJRQcQUfU0aW2fbxgPoE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Marketing",
+            "degree_name": "Bachelor of Business Administration - BBA",
+            "school": "Universitas Prasetiya Mulya",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_400_400/0/1630589925254/prasetiya_mulya_business_school_logo?e=1712188800&v=beta&t=OMhj5jhtxv1FZARayz3sOUAhJRQcQUfU0aW2fbxgPoE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Green Ecopreneur Award",
+            "issuer": "Prasetiya Mulya ",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "description": "Entepreneur Award for Prasetiya Mulya Alumni in Green and Sustainability impact"
+        },
+        {
+            "title": "PYC Energy Award",
+            "issuer": "The Purnomo Yusgiantoro Center (PYC)",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "description": "Appreciation for 2 best sociopreneur that solved and implement renewable energy solution to society"
+        },
+        {
+            "title": "Batch 2 Plug and Play Indonesia accelerator program",
+            "issuer": "Plug and Play Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "Wirausaha muda berprestasi 2017",
+            "issuer": "DIIB Universitas Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "description": "Menjadi salah satu startup yang berprestasi dalam program inkubasi DIIB Universitas Indonesia di bidang inovasi dan teknologi"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/eva-jessica-869284207",
+            "name": "Eva Jessica",
+            "summary": "Digital Marketing at Proglix",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/manish-r-chachada",
+            "name": "Manish Chachada (Cyble'r)",
+            "summary": "Co-Founder/COO at Cyble (YC W'21), Forbes Global Top 20 Cyber Startup | Ivy League MBA | Member of Forbes Business Council|Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/prawira-indrawan-11826a256",
+            "name": "Prawira Indrawan",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/keiran-olivares-whitaker",
+            "name": "Keiran Olivares Whitaker",
+            "summary": "Entocycle Founder \ud83c\udf0d Accelerating the shift to sustainable protein using insects and technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anggara-pranaspati-295a43166",
+            "name": "Anggara Pranaspati",
+            "summary": "Co-Founder at Manuva",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rickfirnando",
+            "name": "Rick Firnando",
+            "summary": "Co-Founder & CEO at VERIHUBS | YCS21 | Forbes 30 Under 30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yoheiiwasaki",
+            "name": "Yohei Iwasaki",
+            "summary": "Chief Executive Officer at Anifie",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dike-putri-yuniska-3ba141203",
+            "name": "Dike Putri Yuniska",
+            "summary": "Finance - AR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sanketh-andhavarapu",
+            "name": "Sanketh Andhavarapu",
+            "summary": "Co-Founder @ Vitalize Care (YC W23) -- we're hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/guntur-mallarangeng-b6b55385",
+            "name": "Guntur Mallarangeng",
+            "summary": "Chief Executive Officer at DELOS & Dewi Laut Aquaculture",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

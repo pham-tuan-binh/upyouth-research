@@ -1,0 +1,365 @@
+{
+    "public_identifier": "diegolrojas",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/diegolrojas/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221717Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d16460b48dde1aa291092a04d6fef3406ff8c19a6438bb9a36665ec88a79076c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/diegolrojas/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221717Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c34f64b5d55ea572f5ee6ba8a0a87dba568e0c1d90d361f0b81dfddbc0035184",
+    "first_name": "Diego",
+    "last_name": "Rojas",
+    "full_name": "Diego Rojas",
+    "follower_count": 11220,
+    "occupation": "Chief Technology Officer at Tribe Fintech",
+    "headline": "CTO at Tribe Fintech, Fintech Geek",
+    "summary": "Building the next generation of financial services across SEA and beyond.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Endeavor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorglobal/",
+            "title": "Endeavor ScaleUp Growth",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG9Nglb0ZU1kQ/company-logo_400_400/0/1681235668367/endeavorglobal_logo?e=1705536000&v=beta&t=dk4Mm08XxwsTMVCN3BiSHfRgCPrwEmvBArV4b_08B3Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "LEAP FINTECH",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/leap-fintech/",
+            "title": "Founder",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFiXUsdSTIe4Q/company-logo_400_400/0/1533736418028/leap_fintech_logo?e=1705536000&v=beta&t=Q5xdCFwAuLMqYdaI8x2XDkM61uDrflCSY_i9j3Q0X-M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Safelane AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/safelane-ai/",
+            "title": "Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFSYcU2hGHFZA/company-logo_400_400/0/1692185882728/safelane_ai_logo?e=1705536000&v=beta&t=x3OLWn_JyzBIMLhqCq8B3GJwBmxtk9cXkGcBYlSxxzA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Tribe Fintech",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tribefintech/",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHK4pOQwQIYgg/company-logo_400_400/0/1659465504502/tribefintech_logo?e=1705536000&v=beta&t=w4av5gCGIEFdWzRlp9a8_Gkxp2rCbicynWWw4dg0x6k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Finantier",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finantier/",
+            "title": "Co-Founder & CEO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8-QuqiHDPxw/company-logo_400_400/0/1609872362689/finantier_logo?e=1705536000&v=beta&t=6WpowETdQ8KmQAmWeCvWqa4mGkEH6DZrdIhXo0_0JOM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "Globant",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/globant/",
+            "title": "Advisor, APAC",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHWB0kBTxn0kA/company-logo_400_400/0/1688411226020/globant_logo?e=1705536000&v=beta&t=ozK-K-DYhscX3sG09KIkvOu7e_rdP9c7I2pBChG1y88"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "mattrvest",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mattrvest/",
+            "title": "Co-Founder & CTO",
+            "description": null,
+            "location": "Berlin, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG9J4PkqAb31A/company-logo_400_400/0/1563259380039/mattrvest_logo?e=1705536000&v=beta&t=sKXi5Y3l0oJexrzxvrX-c6_i55-WM18gUwo1ROuinJc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Antler",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antlerglobal/",
+            "title": "Entrepreneur in Residence",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGcO8WhScYJvg/company-logo_400_400/0/1610442211428/antlerglobal_logo?e=1705536000&v=beta&t=PDze9_kv38DJqpub1kgJ--VD06HXnWc7UNhMS3anw5c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "SmartFunding.sg",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/smartfunding.sg/",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFy0gKJqgZUbw/company-logo_400_400/0/1607413496260/smartfundingsg_logo?e=1705536000&v=beta&t=uL43rgG09S3EHANPloQGNwAebX1JHgxlIK-4q6RVYXY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2016
+            },
+            "company": "Dianrong.com (\u70b9\u878d\u7f51)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dianrong/",
+            "title": "Engineering Mananger",
+            "description": null,
+            "location": "Shanghai City, China",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFFZJ8pGKScPQ/company-logo_400_400/0/1519902839175?e=1705536000&v=beta&t=Ot6O0t2zWkPlOepwy93RkEU_p7YgVRqdNIcHAJD_gWM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951/y_combinator_logo?e=1705536000&v=beta&t=i84V0XHbUtZheZaxLObbGtsMOfNy6hLwQ9uPHPjE0mo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": "Systems Engineer",
+            "school": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEApmbg0PyCfg/company-logo_400_400/0/1519856522119?e=1705536000&v=beta&t=uGQPCIr_CGC-I4Sq1rKHG0KO6Am3kz-kvkdLr2Z6i1o",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "Espa\u00f1ol",
+        "Ingl\u00e9s"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "British Council",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Ielts General Training",
+            "license_number": null,
+            "display_source": null,
+            "authority": "British Council",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/rachel-freeman-9372151",
+            "name": "Rachel Freeman",
+            "summary": "Chief Growth Officer at Tyme, Board Member - GOtyme Bank (Philippines); Tribe Fintech (Singapore/Ireland); Governing Council, SME Finance Forum; SFF Ambassador 2023; Elevandi Ambassador for the Inclusive Fintech Forum.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/moharvey",
+            "name": "Mo Harvey \u590f\u98db\u9cf4",
+            "summary": "CEO & Founder \ud83d\udd06\ud83d\ude80 | AngelHub IC Member",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/faiqbrata",
+            "name": "Faiq Bratawidjaja",
+            "summary": "Improve growth through innovative market centered products | Payments | Settlement | Embedded Finance | AI | Open API",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/si-jie-lim",
+            "name": "Si Jie Lim",
+            "summary": "Machine Learning Software Engineer at Finantier (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tony-ocone-a350751a",
+            "name": "Tony Ocone",
+            "summary": "Managing Director",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amritavir",
+            "name": "Amrita Vir",
+            "summary": "wagely | Findicate | Green Room Pod | HBS",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anespramana",
+            "name": "Anestya Pramana",
+            "summary": "MBA Candidate at NYU Stern",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/benywijaya",
+            "name": "Andreas Wijaya",
+            "summary": "Group Product Manager at JULO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/achmadnazmy",
+            "name": "Nazmy A.",
+            "summary": "APAC Head of Engineering at Unity | Building Digital Twin & RT3D Solution | NUS MTech Alumni",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/riksasuviana",
+            "name": "Riksa S.",
+            "summary": "Senior Software Engineer at Tribe Fintech",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Diego Rojas",
+            "link": "https://ec.linkedin.com/in/diego-rojas-4931198b",
+            "summary": "Operations en Somilor - Administracion Sominur",
+            "location": "Ecuador"
+        },
+        {
+            "name": "Diego Rojas Garcia",
+            "link": "https://co.linkedin.com/in/diego-rojas-garcia-150861b7",
+            "summary": "Analista de Reclutamiento",
+            "location": "Bogota, D.C."
+        },
+        {
+            "name": "Diego Rojas",
+            "link": "https://www.linkedin.com/in/diego-rojas-02279761",
+            "summary": "Client Services Director at Zenith American Solutions, Inc.",
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "Diego Rojas",
+            "link": "https://cl.linkedin.com/in/diego-rojas-7802b697",
+            "summary": "QC Manager",
+            "location": "Chile"
+        },
+        {
+            "name": "Diego Rojas",
+            "link": "https://es.linkedin.com/in/diegoalexander-rojas-arias",
+            "summary": "Actuario Riesgos Solvencia II Estadistica Econom\u00eda",
+            "location": "Madrid"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

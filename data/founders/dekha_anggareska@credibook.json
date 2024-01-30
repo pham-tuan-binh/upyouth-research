@@ -1,0 +1,501 @@
+{
+    "public_identifier": "dekha-anggareska-5a27374b",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dekha-anggareska-5a27374b/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221243Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d16a04cf8095ae28e227bd2634375d81149da0962ce6f7c2b9b0b197551212a1",
+    "background_cover_image_url": null,
+    "first_name": "Dekha",
+    "last_name": "Anggareska",
+    "full_name": "Dekha Anggareska",
+    "follower_count": 1246,
+    "occupation": "Co-Founder & CTO at CrediBook",
+    "headline": "Building CrediBook",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": "West Java",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "CrediBook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credibook/",
+            "title": "Co-Founder & CTO",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFqG7KmANBCNg/company-logo_400_400/0/1664512238550/credibook_logo?e=1712793600&v=beta&t=-cMnAXI3_Wssr4ucAI45K7HfbHEfQ96ENQLWJzHprBM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Ritase.com",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Labtek V",
+            "company_linkedin_profile_url": null,
+            "title": "Network Administrator",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "FMCG Port",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fmcg-port/",
+            "title": "Co-Founder and Engineering",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEO9x0HWKy3vw/company-logo_400_400/0/1630610724417?e=1712793600&v=beta&t=ZiWIZ1r4srR43L-oU92WRTHQw1Dhrkwwa7tE1Fc_CCA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Rulo Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rulo-indonesia/",
+            "title": "Co-Founder and Engineering",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGWuKoYXWOG5A/company-logo_400_400/0/1631420383796/rulo_indonesia_logo?e=1712793600&v=beta&t=9C6wDO1ZrdGGZd8CqBFjsX2kIm3xWcj_r99FAkNxQzU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "company": "etobee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finfleet/",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHuHXhosRLRjA/company-logo_400_400/0/1630599365253/finfleet_logo?e=1712793600&v=beta&t=gFjJf8kXIuQRk-vngQhn3I8YTqHP0D7nJZrudPXffzc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "CrossTrack Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/crosstrack-pte-ltd/",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Bandung",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEwZN7_Cl6NMg/company-logo_400_400/0/1631321311631?e=1712793600&v=beta&t=M3nmyBMqROk4vAEVM__nhWwSr9fAVjRvJBR3vlh13BM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "PT. Inti Konten Indonesia (INTENS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt.-inti-konten-indonesia-intens-/",
+            "title": "Web Developer",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Informatics Engineering",
+            "degree_name": null,
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "SMAN 1 Sindang",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian",
+        "Javanese",
+        "Sundanese"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "org_name": "Himpunan Mahasiswa Informatika ITB",
+            "title": "Head of Community Service",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "org_name": "Kalbu Indramayu",
+            "title": "Chairman",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "org_name": "Aku Mau Kuliah",
+            "title": "Chairman",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Information extraction of public complaints on Twitter text for bandung government",
+            "publisher": "IEEE",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null,
+            "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7062658&searchWithin%3Dp_Authors%3A.QT.Anggareska%2C+Dekha.QT."
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "title": "City Insights",
+            "description": "City Insights is a website and mobile application for people reporting problem to the city government. Users can send photos, videos, location, and any other information about their problem. The uniqueness of City Insights is the rewarding system which is created to attract people and social insights feature which is crawling and detecting complaints about the city problems from social media.\nThis project bring our team to be finalist at IBM Developer War Day 2015. Url : http://devwarday.com/blog/pengumuman-finalist-2015\n",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2012
+            },
+            "title": "World Toilet Organization Website",
+            "description": "Redesign the UI for official website of World Organization. Implementing mock-up with the UI, export database to spreadsheets format, implementing e-paper format instead of .pdf in news section.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "title": "Pikavia",
+            "description": "Pikavia is online travel fair marketplace in Indonesia. This platform connecting the travel agents and a lot of travellers which provide many of tour packets. This is developed under Python Django's framework.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "title": "RPTK SKK Migas",
+            "description": "RPTK is an information system to facilitate reporting of human resources each PSC to SKK Migas. With this system, the PSC only just input the data and report into the system to then be reviewed by SKK Migas. This system is built with Java on the backend framework Grails.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Bike Sharing USU",
+            "description": "Bike sharing is a system with main function to track bike sharing process. This system can track bike, station and also member who uses bike sharing. Developed using PHP CodeIgniter and Bootstrap.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Imaji 3D",
+            "description": "Imaji3D is a marketplace for 3D Printing based in Bandung. This website shows a lot information about 3D Printing Technology and able to design something like that to customer. Besides, this website can sell 3D stuff based on freelance 3D designer.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "title": "BPLH Karawang Information System",
+            "description": "This system simplifies the reporting process for companies to BPLH Karawang. By this system, company in Karawang can input data to the system and then be accepted by BPLH karawang as liabilities of each company. This system can also generate chart and PDF report as additional feature. Built by PHP and Javacript.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "title": "Gemastik V",
+            "description": "Gemastik is an annual national competition organized by the ministry of education and culture. This website displays overall information about the competition and handle the registration of participants.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2013
+            },
+            "title": "SISKEU ITB",
+            "description": "Design a requirement for finance system in ITB. My role here is design some of new requirements and convert it into SKPL document.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "title": "Grumpand Waddle Wedding Website",
+            "description": "Create wedding website with RSVP system. This website also display all information about the wedding and able to sending invitation to invitee. The invitee can confirm an attendance and system can track it. This website is develop using PHP CodeIgniter and Javascript.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gbyfrans",
+            "name": "Gabriel Frans",
+            "summary": "Building CrediBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mkimaduddin",
+            "name": "M. Khasan Imaduddin",
+            "summary": "Lead Front End & Mobile at CrediBook (YC 22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/auroramarsye",
+            "name": "Aurora M.",
+            "summary": "Co-founder of Lumina (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wilson-yanaprasetya-357a055",
+            "name": "Wilson Yanaprasetya",
+            "summary": "Digitizing Tier 3 & Rural Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christlie",
+            "name": "Christian Lie",
+            "summary": "Building CrediBook | We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kevinzhong94",
+            "name": "Kevin Zhong",
+            "summary": "Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/daru-7591313b",
+            "name": "Daru .",
+            "summary": "Hello!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/angelica-s-ba2310219",
+            "name": "Angelica S",
+            "summary": "Human Resources Officer at Homprep",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roolin-njotosetiadi",
+            "name": "Roolin Njotosetiadi",
+            "summary": "CEO & Co-Founder at Logisly",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/taniaandini",
+            "name": "Tania Andini",
+            "summary": "Creative Strategist | Copywriter | Storyteller",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

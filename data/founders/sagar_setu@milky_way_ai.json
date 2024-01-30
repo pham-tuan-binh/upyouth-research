@@ -1,0 +1,331 @@
+{
+    "public_identifier": "sagarsetu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sagarsetu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221716Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=53792dede4f8100db4eb0651d628006f20fc7121057dddfa4731ed75fc701e76",
+    "background_cover_image_url": null,
+    "first_name": "Sagar",
+    "last_name": "Setu",
+    "full_name": "Sagar Setu",
+    "follower_count": 3409,
+    "occupation": "Data & Machine Learning at Anima",
+    "headline": "Enabling Healthcare with Knowledge Graphs and LLMs",
+    "summary": "Tech generalist with a  PhD in helicopter flight dynamics. Passionate about putting AI and hardware together. Driven by solving real business problems.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Anima",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/anima-health",
+            "title": "Data & Machine Learning",
+            "description": null,
+            "location": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEjCnl_y3FHzQ/company-logo_400_400/0/1630549534231/continuum_health_logo?e=1713398400&v=beta&t=ifnRoO-AKFXzTxLD8-AcP3MZfbj8LGbarjVzjAV73lc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "company": "Kami Vision",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kamivision",
+            "title": "Head of Machine Learning",
+            "description": null,
+            "location": "Bengaluru, Karnataka, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEsTohP61Wdug/company-logo_400_400/0/1663877497844/kamivision_logo?e=1713398400&v=beta&t=S_4dxxOZAvsLGuTGnRDZ38q4jk1w0rvph7xW-41Nb2o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2022
+            },
+            "company": "Milky Way AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/milkywayai",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH6d-QkVAkq_w/company-logo_400_400/0/1630661544596/milkywayai_logo?e=1713398400&v=beta&t=KiAArEsxjwKUxjSTn83xoy-4sB4bVVme4Z0sQ7VyUWY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Atomionics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/atomionics",
+            "title": "Technical Consultant",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH7bsWXSSrw8w/company-logo_400_400/0/1630636432627/atomionics_logo?e=1713398400&v=beta&t=DCvI0NfF7wGoNdsQwYqrzil6l_Y4hOBNA3jEZihXxOQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2019
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first",
+            "title": "Founder in Residence",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1713398400&v=beta&t=6D60f-rpTCPF14ux-oddUklyv4gtbdjfTI8fem8RHVc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "KritsnamTechnologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kritsnamtechnologies",
+            "title": "Co-founder and Director",
+            "description": "Kritsnam is an IoT company with special focus on water resource management.",
+            "location": "Kanpur Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG8ZclSdti-0A/company-logo_400_400/0/1652266428609/kritsnamtechnologies_logo?e=1713398400&v=beta&t=g7yuWwsf0YB88FKUmM3w79FyTlafPFTt9rTwcIw7jBQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "Infinium Robotics Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/inifnium-robotics-pte-ltd",
+            "title": "Assistant Research Scientist",
+            "description": "Worked on initial development of two localization systems for indoor navigation of a robotic waiter. ",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEUJHpy3jVOTQ/company-logo_400_400/0/1631346265924?e=1713398400&v=beta&t=vbaF-blewvmqbVLxkhcs3jBHLJJI4RHtwGjKcEUaP-o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Bournemouth University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bournemouth-university",
+            "title": "Visiting Researcher",
+            "description": "Hardware setup and UI development for pressure monitoring in an epidural syringe.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFbzhU9DZHnVQ/company-logo_400_400/0/1663932416859/bournemouth_university_logo?e=1713398400&v=beta&t=kEvlJZTmVsio-St5wteuoU5ijKauhQ2RZGwt9ws679Q"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "degree_name": "Doctor of Philosophy - PhD",
+            "school": "Indian Institute of Technology, Kanpur",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/157268/",
+            "description": "- System Identification, Deep Learning, Hardware-in-the-loop Simulation (HIL)\n- Autonomous autorotation of unmanned helicopter (landing post engine failure)",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEhNteRFbyBdQ/company-logo_400_400/0/1630585318049/indian_institute_of_technology_kanpur_logo?e=1713398400&v=beta&t=FXh9dPnvLn40nGEM4qpcgP_MEP599pY7siFunsbWHHI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "degree_name": "Bachelor of Technology (BTech) - Master of Technology (M Tech) Dual Degree",
+            "school": "Indian Institute of Technology, Kanpur",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/157268/",
+            "description": "- Collision avoidance system for micro air vehicles using XBox Kinect sensor\n- Boeing-IITK autonomous vehicle project",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEhNteRFbyBdQ/company-logo_400_400/0/1630585318049/indian_institute_of_technology_kanpur_logo?e=1713398400&v=beta&t=FXh9dPnvLn40nGEM4qpcgP_MEP599pY7siFunsbWHHI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Science (PCM)",
+            "degree_name": "Senior Secondary School",
+            "school": "Delhi Public School, Bokaro Steel City",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "NTSE",
+            "issuer": "AICTE",
+            "issued_on": null,
+            "description": "National Talent Search Examination"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Foundations of Project Management",
+            "license_number": "JPRMJWS8E9B2",
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/JPRMJWS8E9B2"
+        }
+    ],
+    "connections": 3413,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ruoni-wang-090031121",
+            "name": "Ruoni Wang",
+            "summary": "Engineering | Startup | Ex-Stripe, Meta, McKinsey",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mike-h-77448424",
+            "name": "Mike H.",
+            "summary": "Engineering at Anima",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shun-pang",
+            "name": "Shun Pang",
+            "summary": "Co-founder & CEO @Anima | YC W21 | Forbes 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dennis-holmer",
+            "name": "Dennis Holmer",
+            "summary": "Engineering at Anima",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yamin-d-126a773",
+            "name": "Yamin D.",
+            "summary": "CEO, Entrepreneur, Passionate Leader Driving Innovation in AI",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Sagar Setu",
+            "link": "https://in.linkedin.com/in/sagar-setu-9a742a213",
+            "summary": "Attended Patna University",
+            "location": "Patna"
+        },
+        {
+            "name": "Sagar Setu",
+            "link": "https://in.linkedin.com/in/sagar-setu-17759117b",
+            "summary": "Associate Consultant at Neudesic, an IBM company",
+            "location": "Bengaluru"
+        },
+        {
+            "name": "sagar setu",
+            "link": "https://br.linkedin.com/in/sagar-setu-0a1a1859",
+            "summary": "Business Analyst - Strategic business management | Hyperion consultant",
+            "location": "S\u00e3o Paulo, Brazil"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQGllJ-Q_sX0Hg/group-logo_image-shrink_400x400/0/1631008059441?e=1706097600&v=beta&t=_GN_XpmaImxvhqLYE6QmstzHIwjMMwFqwCN9eqo0TZk",
+            "name": "IIT Referral Group ",
+            "url": "https://www.linkedin.com/groups/10425209"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQE9glX2qoepsw/group-logo_image-shrink_48x48/0/1631008219791?e=1706097600&v=beta&t=MfiXFjEu7rb59OxS_ZJBqyOrdrTdQ7hkfXs35Ip0hEw",
+            "name": "Drone and UAVs: Future of Aerial and Autonomous Mobility (FoAAM)- Strictly Moderated & No-Junk",
+            "url": "https://www.linkedin.com/groups/8687512"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

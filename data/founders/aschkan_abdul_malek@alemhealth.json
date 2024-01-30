@@ -1,0 +1,369 @@
+{
+    "public_identifier": "aschkan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aschkan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221630Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd07141c6bf65c25d996b88f7598f161c6bffb6b7b849e1dfa92eaac5bc45a9a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aschkan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221630Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1f924c1dffcfa15c75116b50612b624f6b858184f7a39e2715c1042691b4622b",
+    "first_name": "Aschkan",
+    "last_name": "Abdul-Malek",
+    "full_name": "Aschkan Abdul-Malek",
+    "follower_count": 3924,
+    "occupation": " at AlemHealth",
+    "headline": null,
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "company": "AlemHealth",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/alemhealthltd",
+            "title": "",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQECJvRndfG1rw/company-logo_100_100/0/1519932378134?e=2147483647&v=beta&t=wAy2LhxhSKcH7IEc7dyvRVliOuuIEpObgoF_IHeE1Gs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Accounting, Finance",
+            "degree_name": "Master of Business Administration, Masters",
+            "school": "Vanderbilt University - Owen Graduate School of Management",
+            "school_linkedin_profile_url": "linkedin.com/school/vanderbilt-university-owen-graduate-school-of-management",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Law",
+            "degree_name": "Doctor of Jurisprudence, Doctorates",
+            "school": "Vanderbilt University Law School",
+            "school_linkedin_profile_url": "linkedin.com/school/vanderbilt-university-law-school",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Master in Data Intelligence E Strategie Decisionali - La Sapienza",
+            "school_linkedin_profile_url": "linkedin.com/school/master-in-data-intelligence-e-strategie-decisionali",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2006
+            },
+            "field_of_study": null,
+            "degree_name": "Doctor of Jurisprudence, Doctorates",
+            "school": "Vanderbilt University",
+            "school_linkedin_profile_url": "linkedin.com/school/vanderbilt-university",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "University of Rome",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2001
+            },
+            "field_of_study": "Business Economics, Accounting",
+            "degree_name": "Bachelors, Bachelor of Arts",
+            "school": "University of California, Los Angeles",
+            "school_linkedin_profile_url": "linkedin.com/school/ucla",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://fr.linkedin.com/in/vikaschhariya",
+            "name": "Vikas Chhariya",
+            "summary": null,
+            "location": "Greater Paris Metropolitan Region"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/nicolasramsay",
+            "name": "Nick Ramsay",
+            "summary": "CEO & founder at Circular | Making subscriptions the best way to access and experience tech | Angel Investor | Advisor | Entrepreneur",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/amit-dighe-195a75",
+            "name": "Amit Dighe",
+            "summary": "Founder & CEO at AXSA Wealth Management",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://kz.linkedin.com/in/kidrissov",
+            "name": "Kuanysh Idrissov",
+            "summary": "Product Manager at AlemHealth(YC W17)",
+            "location": "Almaty, Kazakhstan"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/dotkoh",
+            "name": "Dorothea K.",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/ivoverhaegh",
+            "name": "Ivo Verhaegh",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/kellychoo",
+            "name": "Kelly Choo",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/samarthshyam",
+            "name": "Samarth Shyam",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://ng.linkedin.com/in/christopher-nguzoro-741a32a2",
+            "name": "Christopher Nguzoro",
+            "summary": "Growth Manager At AlemHealth | Linux System Administrator | Business Developer | Operations",
+            "location": "Nigeria"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/access2hc",
+            "name": "Ee Bin Liew",
+            "summary": null,
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/alexbaqui",
+            "name": "Alex Baqui, MD",
+            "summary": null,
+            "location": "Greater Houston"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nehalswami",
+            "name": "Nehal Swami",
+            "summary": null,
+            "location": "Houston, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/trfitzpatrick",
+            "name": "Tim Fitzpatrick",
+            "summary": "Co-Founder & CEO at IKONA",
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://ng.linkedin.com/in/gatumialiyu",
+            "name": "Gatumi Aliyu",
+            "summary": null,
+            "location": "Nigeria"
+        },
+        {
+            "link": "https://in.linkedin.com/in/dr-nidhi-saraswat-764b9244",
+            "name": "Dr. Nidhi Saraswat",
+            "summary": "Public health consultant, health systems, research",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/suhaibimtiaz123",
+            "name": "Suhaib Imtiaz",
+            "summary": "Public Health & Innovation | Brown University",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://www.linkedin.com/in/kaakpema-kp-yelpaala-379b269",
+            "name": "Kaakpema \"KP\" Yelpaala",
+            "summary": null,
+            "location": "Denver Metropolitan Area"
+        },
+        {
+            "link": "https://ng.linkedin.com/in/courtney-anaka-40138a132",
+            "name": "Courtney Anaka",
+            "summary": "Administrative Associate at AlemHealth",
+            "location": "Nigeria"
+        },
+        {
+            "link": "https://www.linkedin.com/in/scott-reiter-82861125b",
+            "name": "Scott Reiter",
+            "summary": "Founder and CEO of Multi-Strategy Capital",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "link": "https://hk.linkedin.com/in/aluapikard",
+            "name": "Alua Pikard",
+            "summary": "Consulting, Business Development, ESG, Sustainability, Corporate Wellness, B2B Sales and Marketing. Mental Health Advocate.",
+            "location": "Hong Kong"
+        }
+    ],
+    "recommendations": [
+        "Janine de Nysschen\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          I was working for a Diagnostics company in Accra when a former client connected me to Aschkan and said I should talk to him, because he was doing great things for frontier markets. We had several conversations, and I was blown away with the inspired ingenuity behind Alem Health's vision and even more impressed by their achievements in remote, difficult markets. What I appreciated most about Aschkan was that he was willing to make spur of the moment connections and share lessons he had learned. I discovered that Alem Health sees challenges as opportunities, and that the people behind the company eat crazy obstacles for breakfast as they engineer simple and effective solutions that work in really well in Africa.  "
+    ],
+    "activities": [
+        {
+            "title": "Adam Smith International has worked with governments in #Somalia since 2008, and particularly on Public Financial Management reforms since 2015. It\u2026",
+            "link": "https://www.linkedin.com/posts/suvojitc_imf-staff-completes-staff-level-agreement-activity-7111003338774638594-jmQt",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "Proud Moment Alert \ud83c\udf1fI'm super pumped to announce that Curacel (YC W22)  has been recognized in Norrsken's annual list of the world\u2019s 100 most\u2026",
+            "link": "https://www.linkedin.com/posts/henrymascot_impact-insurance-emergingmarkets-activity-7100416040995573761-YelW",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "7 years ago, 1 man caused a nationwide shortage of radiologists. Here\u2019s how:\ud83d\udc49 Professor Geoffrey Hinton said \u201cwe should stop training\u2026",
+            "link": "https://www.linkedin.com/posts/robinallenson_7-years-ago-1-man-caused-a-nationwide-shortage-activity-7094941957793189888-BMuq",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "Thank you TechCrunch for taking interest in a not-often-discussed topic in the startup world.\"Still, choosing to give up the reins to a startup\u2026",
+            "link": "https://www.linkedin.com/posts/troy-bannister-259a3235_entrepreneurship-startups-founders-activity-7086722260580855811-MI7O",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "Twitter Sues Law Firm Over $90 Million Payment in Elon Musk DealThe lawsuit targeted Wachtell, Lipton, Rosen & Katz, a well-known Wall Street law\u2026",
+            "link": "https://www.linkedin.com/posts/andrew-bogle_twitter-sues-law-firm-over-90-million-payment-activity-7083420220366675968-irLE",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "After a fantastic and rewarding 2 years at Transcelestial as the Country manager for Oceania my time has come to an end.I'm on the lookout for a\u2026",
+            "link": "https://www.linkedin.com/posts/chantrahang_work-lookingfornewopportunities-networking-activity-7074589392710893568-2tdM",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "After a 3-year hiatus, happy to be back enjoying the chaos that is #ArabHealth2023. Looking forward to reconnecting with old colleagues, meeting our\u2026",
+            "link": "https://www.linkedin.com/posts/aschkan_arabhealth2023-activity-7025710981225881600-_Jv4",
+            "activity_status": "Posted by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "I'm looking to engage an entrepreneurial mind with proven electronics manufacturing experience, preferably in medical devices manufacturing. This\u2026",
+            "link": "https://www.linkedin.com/posts/fkagho_im-looking-to-engage-an-entrepreneurial-activity-7020570054777868288-USx4",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "On the first day of 2022, I would not have predicted that I would have so much to be thankful for in a good crazy sort of year: - The 40+\u2026",
+            "link": "https://www.linkedin.com/posts/gracesai_thankyou-2023predictions-climatetech-activity-7014871064941932544-8GSv",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "I\u2019m happy to share that I\u2019ve joined the law firm of Sidley Austin LLP!",
+            "link": "https://www.linkedin.com/posts/epsteindaniel_im-happy-to-share-that-ive-joined-the-law-activity-7005896920300756992-7StA",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "Particle is thrilled to be named the Rising Star winner in the UCSF Digital Health Awards\u2019 New EHR Innovation category!!! \ud83c\udfc6Come to Booth 1158-30\u2026",
+            "link": "https://www.linkedin.com/posts/particle-health_hlth2022-hlth-dha2022-activity-6998128834696871936-vQqI",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "Thank you for your wonderful review Shahriar, it was a pleasure to help your dad.",
+            "link": "https://www.linkedin.com/posts/ali-afshar-md-208b10_thank-you-for-your-wonderful-review-shahriar-activity-6992884911372185601-UsAg",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        },
+        {
+            "title": "One day, I hope, basic X-ray services in Africa won't just be provided by \"patients coming to the radiology centers,\" but also by radiology service\u2026",
+            "link": "https://www.linkedin.com/posts/godspower-asika-b32752111_xray-africa-healthcare-activity-6991716192952422400-iSj9",
+            "activity_status": "Liked by Aschkan Abdul-Malek"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [
+        {
+            "title": "AlemHealth launches Diabetic Retinopathy screening programme in Afghanistan",
+            "link": "https://www.linkedin.com/pulse/alemhealth-launches-diabetic-retinopathy-screening-abdul-malek",
+            "published_date": {
+                "day": 24,
+                "month": 6,
+                "year": 2018
+            },
+            "author": "By Aschkan Abdul-Malek",
+            "image_url": "https://media.licdn.com/dms/image/C5112AQGjNgvockLY-A/article-cover_image-shrink_180_320/0/1529833955794?e=2147483647&v=beta&t=F_EWYFaeBkYAXKaAt5b5nhhk5DKl4xrrkBpP1jD4lcs"
+        }
+    ],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

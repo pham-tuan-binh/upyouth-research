@@ -1,0 +1,458 @@
+{
+    "public_identifier": "vascopedro",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/vascopedro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221216Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d60c3427831affb6d794de93bca40f148cad5a44af342f1c078acf803f1f4e7e",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/vascopedro/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221216Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8b2d7ab54b38eee3ee8c0111633d316bc590c32033550718fea8d47351ff2c33",
+    "first_name": "Vasco",
+    "last_name": "Pedro",
+    "full_name": "Vasco Pedro",
+    "follower_count": 12672,
+    "occupation": "Co-founder and CEO at Unbabel",
+    "headline": "Co-Founder and CEO at Unbabel",
+    "summary": "I am the CEO of Unbabel, we are eliminating language barriers by combining machine translation and human post editing. I have a PhD in Language Technologies from Carnegie Mellon.",
+    "country": "PT",
+    "country_full_name": "Portugal",
+    "city": "Lisbon",
+    "state": "Lisbon",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Beta-i - Associa\u00e7\u00e3o para a Promo\u00e7\u00e3o da Inova\u00e7\u00e3o e do Empreendedorismo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/betai/",
+            "title": "Mentor and Associate",
+            "description": "As a mentor on Beta-i I help Startups navigate the early stages of development, focusing on team building, technology challenges and building testable MVP's.",
+            "location": "Lisbon Area, Portugal",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEBQ5zYsS_pMw/company-logo_400_400/0/1630551079241/betai_logo?e=1710374400&v=beta&t=CER3pDkQT0ZlNDYA1r8SBlxBgjd6IICzXIZibH822yU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Replai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/replai/",
+            "title": "Investor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHgV0c1WB16KQ/company-logo_400_400/0/1645521327854/replai_logo?e=1710374400&v=beta&t=10VBcxpP2f7W3ScnU0orG2I9LYAYLwKZLb3Gr5wLvig"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "Unbabel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unbabel/",
+            "title": "Co-founder and CEO",
+            "description": "Unbabel enables modern enterprises to serve customers in their native languages, with always-on, scalable translation across digital channels.\n\nPowered by AI and refined by a global community of translators, Unbabel combines the speed and scale of machine translation with the authenticity that can come only from a native speaker.\n\nUnbabel has raised $91M in funding and has over 260 employees across its Lisbon headquarters and offices in San Francisco, New York, and Pittsburgh. Leading brands like Facebook, Microsoft, Booking.com, and easyJet use Unbabel to make their customers happier and their support operations vastly more efficient.",
+            "location": "Lisbon, Portugal",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGINZLDBTR9NQ/company-logo_400_400/0/1630554225285/unbabel_logo?e=1710374400&v=beta&t=yORRYtxRFlY43qThSpkgi1a3EaWJW2U_qFk_iOZ7cOI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Dezine.com",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": "Lead the technical team in developing the product. Focus on everything from building a world class engineering team and building a prototype to bringing the product to market in a production environment.",
+            "location": "San Francisco Bay Area; New York City; Lisbon, Portugal",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            },
+            "company": "The Founder Institute",
+            "company_linkedin_profile_url": null,
+            "title": "Mentor",
+            "description": null,
+            "location": "Lisbon Area, Portugal",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "Bueda, Inc",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder and CEO",
+            "description": "Bueda is developing the next generation of semantic advertising for user generated content, video and images.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "Instituto Superior T\u00e9cnico",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ist/",
+            "title": "Research Assistant Professor",
+            "description": "Research on large scale semantic social network analysis",
+            "location": "Lisbon Area, Portugal",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHKMgxKObK5IA/company-logo_400_400/0/1631349147242?e=1710374400&v=beta&t=jeYyrTJUyXBdXfFphrV8Bg8v7ucfeWe9A2QwKbG4Nk4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2011
+            },
+            "company": "Carnegie Mellon University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+            "title": "Invited Researcher",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2009
+            },
+            "company": "Carnegie Mellon University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+            "title": "Research Assistant",
+            "description": "As a research Assistant I worked on projects like the Javelin Question Answering System, where I was responsible for initial database implementation, the answer justification module and the initial prototype for semantic parsing.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Intern",
+            "description": "Developed language resources for large scale usage. Worked on product search.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2007
+            },
+            "company": "Siemens Medical Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/siemens-healthineers/",
+            "title": "Research Intern",
+            "description": "Developed algorithms for analysis of medical graph networks",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE5hmEcQGYmLg/company-logo_400_400/0/1635709402063/siemens_healthineers_logo?e=1710374400&v=beta&t=ani94cf0pL5wxLYl8DY4nFle3DSU1izG4ese7rqGM6s"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Language Technologies",
+            "degree_name": "PhD",
+            "school": "Carnegie Mellon University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": "Language Technologies",
+            "degree_name": "Master of Science",
+            "school": "Carnegie Mellon University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1999
+            },
+            "field_of_study": "Language and Knowledge Engineering",
+            "degree_name": "Licenciatura",
+            "school": "University of Lisbon",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGEzqG4wKW_JQ/company-logo_400_400/0/1653583242711/universidade_de_lisboa_logo?e=1710374400&v=beta&t=mzFuoUJZwst-NRb87sWhkyWwo2a67DBPZpFhA-WftUs",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Unbabel Potcast features Anna Schlegel - Head of Globalization @NetApp",
+            "publisher": "Unbabel",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://blog.unbabel.com/2015/04/28/reach-3-anna-schlegel-head-of-globalization-netapp/?utm_content=buffera4185&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+        },
+        {
+            "name": "Unbabel Potcast features Anna Schlegel - Head of Globalization @NetApp",
+            "publisher": "Unbabel",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://blog.unbabel.com/2015/04/28/reach-3-anna-schlegel-head-of-globalization-netapp/?utm_content=buffera4185&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+        },
+        {
+            "name": "A Alma do Neg\u00f3cio",
+            "publisher": "Sabedoria Alternativa",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://www.aalmadonegocio.com"
+        },
+        {
+            "name": "A Alma Do Neg\u00f3cio - Um guia pr\u00e1tico para os empreendedores em Portugal",
+            "publisher": "Sabedoria Alternativa",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://aalmadonegocio.pt"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Fulbright Scholarship",
+            "issuer": "Fulbright Comission",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2001
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/vera-almeida-a031415",
+            "name": "Vera Almeida",
+            "summary": "Director of Language Operations at Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leahbuccellato",
+            "name": "Leah Buccellato",
+            "summary": "Chief People Officer at Unbabel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/helena-moniz-4942a120",
+            "name": "Helena Moniz",
+            "summary": "Assistant Professor at School of Arts and Humanities at UL. President of the International and European Associations for Machine Translation. Chair of the Ethics Committee of the Center for Responsible AI.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marlena-chmal-23513b29a",
+            "name": "Marlena Chmal",
+            "summary": "Business & Special Projects Manager | Business Coach",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joaovcosta",
+            "name": "Jo\u00e3o Vieira da Costa",
+            "summary": "CEO & founder - Replai AI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ricardo-rei-159154172",
+            "name": "Ricardo Rei",
+            "summary": "AI Research @ Unbabel | PhD student @ IST",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/manueltanger",
+            "name": "Manuel Tanger",
+            "summary": "Co-Founder & Head of Future at Beta-i | Singularity University Faculty",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diogo-teixeira-b025485",
+            "name": "Diogo Teixeira",
+            "summary": "Co-Founder and CEO at Beta-i Portugal, Teacher at Cat\u00f3lica School of Business Economics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/catarina-farinha-7a2108a4",
+            "name": "Catarina Farinha",
+            "summary": "AI Research Manager @ Unbabel Labs | Product Lead @ Center for Responsible AI | Lead Team @ Data Science for Social Good PT | PhD in Computational Neuroscience",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ana-becker-weinberg-0385a37",
+            "name": "Ana Becker-Weinberg",
+            "summary": "CEO of EVS Translations, an Unbabel company",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Vasco Pedro",
+            "link": "https://www.linkedin.com/in/vpedro",
+            "summary": "Making visual concepts that inspire. Believer in continuous learning and figuring out how to make things better.",
+            "location": "Fall River, MA"
+        },
+        {
+            "name": "Vasco Pedro",
+            "link": "https://pt.linkedin.com/in/vasco-pedro-ab9936a8",
+            "summary": "Consultant at Closer",
+            "location": "Lisbon Metropolitan Area"
+        },
+        {
+            "name": "Vasco Pedro",
+            "link": "https://pt.linkedin.com/in/dsgnvascopedro",
+            "summary": "Visual Designer",
+            "location": "Porto"
+        },
+        {
+            "name": "Vasco Pedro",
+            "link": "https://ca.linkedin.com/in/vasco-pedro-9456923",
+            "summary": "Delivery Executive at DevFacto",
+            "location": "Edmonton, AB"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

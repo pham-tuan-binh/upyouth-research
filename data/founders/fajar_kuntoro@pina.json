@@ -1,0 +1,452 @@
+{
+    "public_identifier": "fajar-kuntoro-35860354",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/fajar-kuntoro-35860354/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221311Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b6c2df33659cbee37c6fbd32ae4c4c881e7215b050c415b5c42cc098dd4fa80d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/fajar-kuntoro-35860354/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221311Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7130293ba1b8c7fc7b56a62a2f5e72405ac2eb74d5810594f621cffa0d0cdc9f",
+    "first_name": "Fajar",
+    "last_name": "Kuntoro",
+    "full_name": "Fajar Kuntoro",
+    "follower_count": null,
+    "occupation": "Co Founder - Chief Technology Officer at PINA Indonesia",
+    "headline": "Co-Founder & CTO at PINA (YC w22) - Hiring  Lead / Senior Backend Developer",
+    "summary": "Every brand has stories to tell\u2014stories that will not only engage, inform, surprise, delight, and impact their audience, but that will also deliver on measurable business goals. And I am the conduit between brand and consumer.\n\nI have a clear, logical mind with a practical approach to problem solving and a drive to see things through to completion. I enjoy working on my own initiative or in a team.\n\nAn expert in digital innovation and transformation with exposure across a wide area of business including technology, project delivery management, and change management in the digital field.\n\nActive researcher on Complex Programming, Artificial Intelligence, Machine Learning, & Big Data Technology. My range of skills also including a variety of technical skillsets on server side technologies such as Java, PHP, & Bash, combined with front-end technologies such as NodeJs, React, HTML5 and CSS, and a variety of different frameworks and CMS (Laravel, AEM, Drupal, Magento, Codeigniter, Joomla, Concrete5, and Wordpress). I've also worked with third party API's such as Salesforce, Gigya, Facebook, Twitter and Google.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "PINA Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pinaindonesia/",
+            "title": "Co Founder - Chief Technology Officer",
+            "description": "At PINA, we are designing and building the future of personal finance with a mission to help everyone achieve financial freedom by providing products and advice that make complicated financial decisions simple and relevant. Empowering people to invest smarter through personalized expert advice and powerful online investing and money management tools.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGrdB5AwKk6hw/company-logo_400_400/0/1617270861933?e=1671667200&v=beta&t=m4GSAuGJI-5Uqk6duqSBa-Q-VRZpCo1b6Atp58OrN-w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "Wunderman Thompson Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wunderman-thompson-indonesia/",
+            "title": "Director Of Operations & Technology",
+            "description": "Lead technology, projects management, and operations department, as well as improve cross-functional department workflow and communications.\n\nDrive change in conventional agency way of work to adopt agile and continous-improvement principle. Take a continuous approach to planning, forecasting, estimating, managing uncertainty, metrics and measurements, contingency planning and roadmapping. Communicate the plan, planning assumptions and progress to a range of stakeholders.\n\nLeading the operational area during the merging between Mirum, JWT, & Wunderman Indonesia to become single functional agency as Wunderman Thompson. Streamlining agency process and driving efficiency are the main objective.\n\nPerform agency resource planning, utilisation, budget, and build agency standard operating procedure to drive efficiency & profitability. Including the agency projects implementation planning. roadmaps, implementation, & evaluation.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFMVSOLs2O4Wg/company-logo_400_400/0/1587035078128?e=1671667200&v=beta&t=FDYdzXpNQG1ye9y1oHkOodDdWYp9G66OkChpVcC4ArI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Mirum Agency",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mirum-agency/",
+            "title": "Director, Project Consultancy & Technology",
+            "description": "Grow the business - grow the relationship - grow the team - deliver the best of the service - dive on technology and build it.\nIntroduce Growth Hacking approach as one of agency offering for marketing/commerce type clients.\nDriving a culture of brand thinking and consumer understanding through Human Centred Design approach.\nA business leader who is inspire best practice, state-of-the-art techniques and technological innovation across enterprise, consumer applications and experiences implementation.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFSVuxmGVhRPg/company-logo_400_400/0/1522944494141?e=1671667200&v=beta&t=FEm5xdNsULwERrtM6wFCS4HDx-wa36oh_I4yDx4YR3o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Edelman Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/edelman/",
+            "title": "Technical Lead",
+            "description": "\u2022\tEnsure teams follow the correct procedures, policies and documentation requirements across project phases\n\u2022\tGuide the team through the development, testing and implementation stages and review the completed work effectively\n\u2022\tProvide direction and technical expertise in design, development and systems integration\n\u2022\tAble to make quick decisions and solve technical problems to provide an efficient environment for project implementation\n\u2022\tIdentify resource and equipment requirements, efficient capacity planning and manage software and hardware availability\n\u2022\tProvide technical training to teams when required and serve as a technical mentor to team members\n\u2022\tServed as a core group member in defining and prioritizing technology investments for short and long terms, ensuring the alignment of process, technology and business objectives.\n\u2022\tLed, architected and participated in the design, testing and deployment of mobile, desktop, and web application.\n\u2022\tEnsure standard operating procedures and project guidelines are in place\n\u2022\tTask allocation and performance evaluation of team members\n\u2022\tProject scheduling and resource management\n\u2022\tPlanning, budgeting and reporting on projects [Tip:  Take this introductory course to learn effective project management]\n\u2022\tMake presentations on project status, present monthly and annual reports to senior management\n\u2022\tMeet with client teams and gather requirements, conduct regular team meetings and track project progress\n\u2022\tInterview candidates and hire resources\n\u2022\tConduct performance reviews of team members and identify areas of improvement, give feedback and recommend for promotions or salary increments\n\u2022\tEstimate project budgets cost-effective way\n\u2022\tProvide an efficient working atmosphere to project teams and ensure objectives are met within stipulated time",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGUuNW3ew5enQ/company-logo_400_400/0/1522783190101?e=1671667200&v=beta&t=nPx1W2voUUfawaf5lv2t--jEg0Qcn_ualfMYZ2Hh2v0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Edelman UK",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "\u2022\tResearch and develop responsive web application, on more than 20 desktop and mobile devices platform.\n\u2022\tResearch and develop IOs and Android application. \n\u2022\tResearch on mobile application project development process, management, and post service.\n\u2022\tResearch on Agile and Scrum project management.\n\u2022\tResearch and develop on javascript boilerplate web app platform.",
+            "location": "Brighton, United Kingdom",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "Appen",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/appen/",
+            "title": "Independent Consultant",
+            "description": "\u2022\tConduct web search evaluation using an Excel spreadsheet and annotation tool.\n\u2022\tReview and rate web content associated with specific search queries, using a web application to support the measurement of search data relevance.\n\u2022\tEvaluate online search results according to detailed criteria.\n\u2022\tData Transcription.",
+            "location": "Seattle, United States",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHUHJih-Ly1ug/company-logo_400_400/0/1587035438283?e=1671667200&v=beta&t=Hel8srovevrzpCCnWUboW6DRmofr3H8XNIQKN4NQGjU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2011
+            },
+            "field_of_study": "Computer and Information Sciences, General",
+            "degree_name": "Bachelor of Technology - BTech",
+            "school": "UNIVERSITAS PENDIDIKAN INDONESIA",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/universitas-pendidikan-indonesia/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQH_UuA-UZueUQ/company-logo_400_400/0/1559768244856?e=1671667200&v=beta&t=ujHGeWVtiC-GLlR1_KBgBO-mw4lu-tdO6MsrGa4QZtY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Golden Stevie Awards 2014",
+            "issuer": "The Stevie Award",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "description": "Conglomerates, Materials & Construction, and Metals & Mining\nGOLD STEVIE WINNER:\nAdaro Energy Web Site\nhttp://www.stevieawards.com/pubs/iba/awards/408_2942_24971.cfm"
+        },
+        {
+            "title": "Digital PRWeek Award 2013",
+            "issuer": "PRWeek, New York",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "description": "Honorable Mentions, Nutricia Indonesia Website Revamp"
+        },
+        {
+            "title": "Best Game nomination (GhatotKode) Increfest 2012",
+            "issuer": "Ministry of Industry, Indonesia",
+            "issued_on": null,
+            "description": "Nominated as the Best Game of the competition. \nFlash based game with educational purpose. built with actionscript2, xml, and Facebook apps platform."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "title": "Idola Chaching by Prudential",
+            "description": "Edelman Digital built the Cha-Ching Scavenger Hunt and Idola Cha-Ching app to host Prudential Indonesia\u2019s Cha-Ching Smart-Money Kids\u2019 online scavenger hunt game on Facebook.",
+            "url": "http://kamiberbagi.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "title": "Edelman Rebranding Initiative (Website)",
+            "description": "Best Internal Initiative, The Eddies Awards 2013, Jakarta.",
+            "url": "http://idolachaching.com/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "title": "Nutricia Website Revamp",
+            "description": "Redesign/Relaunch of Site\n\nHonorable mentions of 2013 Digital PR Awards, New York\nNutricia Indonesia Corporate Site Redesign",
+            "url": "http://adaro.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "title": "Cha-Ching Scavenger Hunt by Prudential",
+            "description": "Edelman Digital built the Cha-Ching Scavenger Hunt and Idola Cha-Ching app to host Prudential Indonesia\u2019s Cha-Ching Smart-Money Kids\u2019 online scavenger hunt game on Facebook.",
+            "url": "http://www.edelman.co.id"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "title": "Kami Berbagi",
+            "description": "An online social collaboration for helping each other, this application as built because world global crisis. Currently the project on QA phase and was released for alpha version.\n\nBuilt using PHP (CodeIgniter), jQuery, Client side templating using mustache.js) with MySQL for Database.",
+            "url": "http://www.nutricia.co.id"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "title": "ADARO Website revamp",
+            "description": "Wordpress at max.\nGOLD STEVIE WINNER:\nConglomerates, Materials & Construction, and Metals & Mining\nAdaro Energy Web Site\nhttp://www.stevieawards.com/pubs/iba/awards/408_2942_24971.cfm",
+            "url": "http://idolachaching.com/"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/alifjafar",
+            "name": "Alif Jafar Fatkhurrohman",
+            "summary": "Co-Founder & CTO at UpBanx (YC W22)",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/christian-hermawan-26293952",
+            "name": "Christian Hermawan",
+            "summary": "Co Founder at PINA Indonesia",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina (YC W22) | We are hiring!",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/shylla",
+            "name": "Shylla Estee Pramadhani",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kristian-frits-harris-sinaulan-04610744",
+            "name": "Kristian Frits Harris Sinaulan",
+            "summary": "Founder & CTO, Bananas (YC W22)",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wafataftazani",
+            "name": "Wafa Taftazani",
+            "summary": "Founder & CEO, UpBanx (YC W22) | Co-Founder & Chairman, VCGamers & ModalRakyat | Angel Investor | Ex-Google, YouTube, Shopee",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/larry-ridwan-22671228",
+            "name": "Larry Ridwan",
+            "summary": "Founder & CEO at Fresh Factory (YC W22)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nadiaamalia",
+            "name": "Nadia Amalia",
+            "summary": "Co-Founder at Sribuu (YC W22) | MIT",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bondanherumurti",
+            "name": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb Bondan Herumurti",
+            "summary": "CTO at Transfez YC(W22)",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/danavincent",
+            "name": "Pradana Vincentiar",
+            "summary": "Digital Marketing Lead at PINA | Freelance Lecture at Purwadhika",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/khimin-wu-3bb01049",
+            "name": "Khimin Wu",
+            "summary": "Engineer",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/belinda-savira-472701209",
+            "name": "Belinda Savira",
+            "summary": "Talent Acquisition at Pina Indonesia",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Aigis (YC W22)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/aldi-alhafidzi-981184167",
+            "name": "Aldi Alhafidzi",
+            "summary": "Web Developer di PINA Indonesia",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hendry-chou-42251125",
+            "name": "Hendry Chou",
+            "summary": "Co-Founder at PINA Indonesia (YC22) | Hiring Product Designer, Product Copywriter, and Product Manager",
+            "location": "Jakarta Selatan"
+        },
+        {
+            "link": "https://id.linkedin.com/in/maurice-fikry-4a454613a",
+            "name": "Maurice Fikry",
+            "summary": "Full Stack Developer at PINA Indonesia",
+            "location": "Jakarta Selatan"
+        },
+        {
+            "link": "https://id.linkedin.com/in/furqonramdhani",
+            "name": "Furqonuddin Ramdhani",
+            "summary": "Co-founder, CTO at PT Koltiva",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dekha-anggareska-5a27374b",
+            "name": "Dekha Anggareska",
+            "summary": "Building CrediBook | We are hiring!",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nadiraamelia",
+            "name": "Nadira Amelia",
+            "summary": "Product Researcher at PINA | BSc Computer Science Fresh Graduate",
+            "location": "Jakarta Selatan"
+        },
+        {
+            "link": "https://www.linkedin.com/in/purbatua",
+            "name": "Purba Tua Pasaribu",
+            "summary": "Full-Stack Web Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadia-fadhila-b9ba4675",
+            "name": "Nadia Fadhila",
+            "summary": "Co-Founder at Sribuu",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/issubrata",
+            "name": "Sony Subrata",
+            "summary": "CEO & Co-Founder at VCGamers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shyam-kalairajah",
+            "name": "Shyam Kalairajah",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dan-van-leeuwen-7429104",
+            "name": "Dan van Leeuwen",
+            "summary": "Co- Founder & CEO at PINA Indonesia (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christianhanggra",
+            "name": "Christian Hanggra",
+            "summary": "CTO at Modal Rakyat | Startup Builder | Tech Enthusiast",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Eldini Hilman\n\n\n\nFajar is a very wise and down to earth person, which are only a few of reasons why people love working with him. He focuses on solution, and analyzes problems really well at the same time to avoid the same thing to ever happen again.\n\nTechnology is not his only expertise, he is also an excellent project management person that can determine the right work flow to help us do our job more effectively. \n\nBeing a tech guy, doesn\u2019t make him hard to approach. In fact, he is a true leader that genuinely cares about his subordinates. He sees the positive side of people and brings the best of them with his mentoring style. \n\nIt was a wonderful years working with Fajar, will definitely do it again if we have the chance.",
+        "Daniel Riyardi Angga Kusuma\n\n\n\nI never surprise to see him reaching point at he is now. He's a perfect example of person who lead by example. Giving results instead of nonsense-clueless outcomes. He worked in silent, but we all could witnessed and felt of his meteoric-rising career is not coming out of nothing. His results speak for itself. We all can rely on him by the time the technical glitch was coming, and he never refused to give his best efforts helping us on that. Additionally, his humble and polite persona are becoming key points of making him a wonderful, talented, kind-hearted, smart-hardworking fella. It's been honour to get to know you broh..cheers..!",
+        "Cenmi Mulyanto\n\n\n\nFajar is an individual that constantly reminds me that there are smart people, then there are higher levels of intelligence that people like Fajar posses. He has a deep and expansive knowledge in tech in addition to having a no non-sense and solution oriented way in project management. But above all that his greatest asset is his empathy. With it he is able to identify problems and solution that other people might not realise.",
+        "Jofardhan Faruq\n\n\n\nFajar is a person who can be a good leader at work and a great friend outside. His technical ability is undoubtedly, supported with his creative thinking always bring an insightful solution. It always a pleasure to be on the same team with him."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,537 @@
+{
+    "public_identifier": "michael-rendy-3641ab67",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/michael-rendy-3641ab67/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221212Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c07e517ca8beb3179e1b82316e1d635baebe88954121bbefb620fab04489bb51",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/michael-rendy-3641ab67/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221212Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=23fa2f9a15d59f354345d059abf5483d000fa58c1ea1fad48252ec677d6ef18f",
+    "first_name": "Michael",
+    "last_name": "Rendy",
+    "full_name": "Michael Rendy",
+    "follower_count": 2822,
+    "occupation": "COO at Aplikasi Super (YC W18)",
+    "headline": "Building Aplikasi Super",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Nusantara Technology",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/nusantara-technology",
+            "title": "CPO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHmWxBXpwxf6g/company-logo_100_100/0/1540288614691?e=2147483647&v=beta&t=I7wus3bCcMfxvem_29PBuXUEsoneXr3_NAge8sWwY2Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Aplikasi Super (YC W18)",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/superapp-id",
+            "title": "COO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHb1KeUyrr0ew/company-logo_100_100/0/1679033213130?e=2147483647&v=beta&t=fVZy7YOnpdlCB0VY2ipu2iVmZkkPt6edGKahlU3z41Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Aplikasi Super (YC W18)",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/superapp-id",
+            "title": "CPO",
+            "description": "Aplikasi Super (www.superapp.id) by Nusantara Technology (www.nusantara.technology). Aplikasi Super is the first Indonesian consumer technology company that is backed by Y-Combinator; is a social commerce group buying by enabling community leaders to become retailers within their communities. We use technology to empower community leaders to become a self-made entrepreneur, by enabling them to sell various products to their communities.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHb1KeUyrr0ew/company-logo_100_100/0/1679033213130?e=2147483647&v=beta&t=fVZy7YOnpdlCB0VY2ipu2iVmZkkPt6edGKahlU3z41Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/y-combinator",
+            "title": "Batch Winter 2018",
+            "description": null,
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/0/1673555092951?e=2147483647&v=beta&t=PD-V4liY5FyU2ywkU45XGknc9_UIxAk2uHRdeW47YWg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2017
+            },
+            "company": "PT Chilikode Digital Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "CEO",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Design and Visual Communications, General",
+            "degree_name": null,
+            "school": "Universitas Kristen Petra",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/universitas-kristen-petra/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGSeRvsYgqFjg/company-logo_100_100/0/1572830535243?e=2147483647&v=beta&t=YHvHn-o0qwmXg0c6kRs4S6Rp7djUPgMKRhW5PcEkHxo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Executive Education",
+            "degree_name": null,
+            "school": "Stanford University Graduate School of Business",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/stanford-graduate-school-of-business/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_100_100/0/1558642645742?e=2147483647&v=beta&t=ErH8P_c1u7BhYxtoNS9jjS70z1CB8BXCjj4ScHdkJFI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/martinusgouw",
+            "name": "Martinus Gouw",
+            "summary": "Product Manager at Aplikasi Super (YC W18)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rezdki-ari-wardhana",
+            "name": "Rezdki Ari Wardhana",
+            "summary": "Product Manager",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-hidayat-089b585b",
+            "name": "Muhammad Hidayat",
+            "summary": "Strengthen Aurora & Aplikasi Super",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/siska-rachmawati-546245203",
+            "name": "Siska Rachmawati",
+            "summary": "Business Development Officer at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/achmad-basir-15a0ab76",
+            "name": "Achmad Basir",
+            "summary": "SEO Geek",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/setyoutami",
+            "name": "Rani Setyowati Utami",
+            "summary": "Social Media and Content Lead at Aplikasi Super (YC W18)",
+            "location": "Surabaya dan Sekitarnya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nashrulloh-putra-amwinsyah-2a8539201",
+            "name": "Nashrulloh Putra Amwinsyah",
+            "summary": "Trade Marketing Supervisor di Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/romizaki",
+            "name": "Romi Zaki Ferdiyanto",
+            "summary": "Software Engineer at Aplikasi Super (YC W18)",
+            "location": "Area DKI Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/denta-wellem-ab4213a5",
+            "name": "Denta Wellem",
+            "summary": "\"When the world shoves you around, you just gotta stand up and shove back\"",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/bayu-arya-kusuma-800499205",
+            "name": "Bayu Arya Kusuma",
+            "summary": "Field Researcher at Aplikasi Super (YCW18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/miranda-naomi-tambunan-b0810a13b",
+            "name": "Miranda Naomi Tambunan",
+            "summary": "Brand Manager at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/kurniawan-yuswardhani-aa864251",
+            "name": "Kurniawan Yuswardhani",
+            "summary": "Building Senyum Ceria Dental Care",
+            "location": "Jawa Timur, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hanum-imas-2927a8190",
+            "name": "Hanum Imas",
+            "summary": "Talent Services & Payroll Officer",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/pristiqa-ayun-wirastami-a8a05b109",
+            "name": "Pristiqa Ayun Wirastami",
+            "summary": "Blog Lead at Aplikasi Super (YC W18)",
+            "location": "Daerah Istimewa Yogyakarta, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/randy-arvika-putra-878b13151",
+            "name": "Randy Arvika Putra",
+            "summary": "Graphic Designer | Illustrator | Videographer",
+            "location": "Surabaya dan Sekitarnya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/disfiraika",
+            "name": "Disfira Ika Amelia",
+            "summary": "Senior Copywriter at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/alexander-agus-santosa",
+            "name": "Alexander Agus Santosa",
+            "summary": "Account Executive di Kontan",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/fatihsehat",
+            "name": "M. Fatih Ishlah",
+            "summary": "I rarely wear formals",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/sandi-ardianto-51123645",
+            "name": "Sandi Ardianto",
+            "summary": "Founder at BLAX Footwear (Need Angel Investor)",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/lutfi-adhiansyah-muftie",
+            "name": "lutfi adhiansyah",
+            "summary": "Fintech Specialist and Sociopreneur",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/danick-haryadji-tanuwidjaja-898779116",
+            "name": "Danick Haryadji Tanuwidjaja",
+            "summary": "Project Manager || Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/yudhi-trisandy",
+            "name": "Yudhi Trisandy",
+            "summary": "Co-Creating Platform for SMEs to Scale Up & Connect with the Market | Brand & Product Development - Sales & Marketing - Merchandising | E-Commerce - FMCG - Retail | Tech Start-Up - Social Enterprise - Corporate",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gisellatjoanda",
+            "name": "Gisella Tjoanda",
+            "summary": "Head of Business Development at Aplikasi Super (YC W18)",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nabil-ishak",
+            "name": "Nabil Abdullah Ishak",
+            "summary": "Head of Human Resources || Talent Lead at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dwi-rahma-yusli",
+            "name": "Dwi Rahma Yusli",
+            "summary": "Project, Product and Data Specialist",
+            "location": "Jawa Timur, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/moses-lazuaris-428921200",
+            "name": "Moses Lazuaris",
+            "summary": "Content & Media Supervisor di Aplikasi Super (YC W18)",
+            "location": "Sidoarjo"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dirajeng",
+            "name": "Ajeng Tias Indira",
+            "summary": "Senior Brand Executive at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ramonadianto",
+            "name": "Ramon A.",
+            "summary": "Associate Product Manager at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/fitrianuraida",
+            "name": "Fitria Nur Aida",
+            "summary": "Data Team @Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/umar-abdul-aziz-9a4130174",
+            "name": "Umar Abdul Aziz",
+            "summary": "Sr Graphic Designer Aplikasi Super (YC W18)",
+            "location": "Malang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/meizar-arie-nugraha-782591189",
+            "name": "Meizar Arie Nugraha",
+            "summary": "Quality Assurance Analyst at Aplikasi Super",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/rendra-syahrul-r-652474220",
+            "name": "Rendra Syahrul R",
+            "summary": "Graphic Designer at Aplikasi Super (YC W18)",
+            "location": "Daerah Istimewa Yogyakarta, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/zaula",
+            "name": "Moch Zaula Al Ihsan",
+            "summary": "Lead Frontend Engineer at Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/mauliamutia",
+            "name": "Maulia Mutiartanti Agus",
+            "summary": "Social Media Officer at Aplikasi Super (YC W18)",
+            "location": "Sidoarjo"
+        },
+        {
+            "link": "https://id.linkedin.com/in/fahmisinergia",
+            "name": "Fahmi Sinergia",
+            "summary": "Frontend Developer at Aplikasi Super (YC W18)",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/moh-fatkhur-rozi-69587a1ba",
+            "name": "Moh. Fatkhur Rozi",
+            "summary": "Quality Operational Staff at Aplikasi Super (YC W18)",
+            "location": "Tuban"
+        },
+        {
+            "link": "https://id.linkedin.com/in/mochamad-imron-rosady-64a1981aa",
+            "name": "Mochamad Imron Rosady",
+            "summary": "Talent Acquisition",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/clarabelle-alnando-51b366106",
+            "name": "Clarabelle Alnando",
+            "summary": "Talent Services and Payroll Lead at Superapp.id",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/totok-tugas-047017220",
+            "name": "Totok Tugas",
+            "summary": "Marketing di Aplikasi Super (YC W18)",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicoreinaldo",
+            "name": "Nico Reinaldo",
+            "summary": "Associate Product Manager at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/azkacode",
+            "name": "Achmad Zainul Karim",
+            "summary": "Engineering Manager at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yohanesricky3",
+            "name": "Yohanes Ricky",
+            "summary": "Associate Product Manager at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wgozali",
+            "name": "William Gozali",
+            "summary": "Venture Capitalist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jongkrut",
+            "name": "Willy Haryanto",
+            "summary": "Building Nusantara Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rizaldi-r-a2706a33",
+            "name": "Rizaldi R.",
+            "summary": "Building SuperStyle at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/garret-koeswandi-1a8720123",
+            "name": "Garret Jeremy Koeswandi",
+            "summary": ".",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/immanuelgilbert",
+            "name": "Gilbert Immanuel Josephus",
+            "summary": "Senior Associate Product Manager at Aplikasi Super",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/b-ong",
+            "name": "Bryan Ong",
+            "summary": "Researcher Executive at Aplikasi Super (YC W18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/halga-tamici",
+            "name": "Halga Tamici",
+            "summary": "AVP Engineering at Aplikasi Super (YC W18) | We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vincentarvin",
+            "name": "Vincent Arvin",
+            "summary": "Associate Product Manager at Aplikasi Super (YC W18)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Perempuan Super Episode 1 #BeraniJadiLebih untuk Wujudkan Cita-Cita!Now is the time for us to muster the courage and realize our deepest\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_beranijadilebih-kartiniday-beranijadilebih-activity-7056546944764047360-ZKaj",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "A woman with dreams and vision who empowered women to shine and thrive for the new heights, A woman with determination and resilience who paved the\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_perempuan-super-modern-kartini-activity-7054354014074793984-LdqK",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "CREATIVE TECHNOLOGISTWant to land a new job and upgrade your skills? Join me at Tech & Digital Career Fair 2023 with Apiary Academy as we explore\u2026",
+            "link": "https://www.linkedin.com/posts/halga-tamici_sharingiscaring-sharingknowledge-technology-activity-7044880893148073985-POSX",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "In Aplikasi Super (YC W18), we empower the personal growth and professional development of our employees through self-directed learning program\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_super-learning-wallet-activity-7028970473778532352-CjeH",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "Meet Steven Wongsoredjo, CEO and Co-Founder @ Aplikasi Super (YC W18). Aplikasi Super focusing on solving economic inequality across cities for\u2026",
+            "link": "https://www.linkedin.com/posts/webengage_retentionsimplified-retentionmarketing-activity-7022108914833833985-B1IP",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "When you are pursuing your career with an eye towards leaving a legacy and not merely as a source of income, it takes a far deeper meaning.When you\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_my-career-journey-at-aplikasi-super-gaby-activity-7021389311539372032-2-OD",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "WE'RE SUPER, WE'RE TOGETHERTeam work is our key to evolve. To have teamwork, your team has to be open minded, humble and helpful to each other\u2026",
+            "link": "https://www.linkedin.com/posts/halga-tamici_superengineering-lifeatsuper-jadisuper-activity-7019514801747886080-vh_R",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "In Aplikasi Super (YC W18), manifesting the customer-obsession mindset has been an integral part of our daily life. Embracing an environment whereby\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_spreading-impacts-nurul-afifah-activity-7017046381315977216-rebc",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "Introducing one of our Sedulur Super Rr. Nadhila Ramadhini Ayuvinda, Digital Campaign Manager at Aplikasi Super (YC W18). Desirous to have a\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_my-career-journey-as-a-marketer-in-aplikasi-activity-7008722060080295936-RMcj",
+            "activity_status": "Disukai oleh Michael Rendy"
+        },
+        {
+            "title": "In the month of November, we held the Super Leadership Summit 2022 in the city of Batu, Malang. Delivering the theme of Serve with Humility & Lead\u2026",
+            "link": "https://www.linkedin.com/posts/michael-rendy-3641ab67_super-leadership-summit-2022-activity-7011705451180408832-mvss",
+            "activity_status": "Dibagikan oleh Michael Rendy"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "michael rendy",
+            "link": "https://id.linkedin.com/in/michael-rendy-14785bb3",
+            "summary": "Student at Universitas Bina Nusantara (Binus)",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Michael Rendy",
+            "link": "https://id.linkedin.com/in/michael-rendy-363777131",
+            "summary": "Sr Product Manager SAP SD ( Sales Distribution)",
+            "location": "Jakarta"
+        },
+        {
+            "name": "MICHAEL RENDY",
+            "link": "https://id.linkedin.com/in/michael-rendy-85283a104",
+            "summary": "Warehouse staff at PT Wijaya Karunia Megah",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Michael Rendy",
+            "link": "https://id.linkedin.com/in/michael-rendy-64a142200",
+            "summary": "Ipc di PT Trakindo Utama",
+            "location": "Bengkulu"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

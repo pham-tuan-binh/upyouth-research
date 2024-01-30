@@ -1,0 +1,294 @@
+{
+    "public_identifier": "ania-lipinska",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Ania",
+    "last_name": "Lipinska",
+    "full_name": "Ania Lipinska",
+    "follower_count": 1128,
+    "occupation": "Co-Founder and Chief Product Officer at Notabene",
+    "headline": "Co-founder & Chief Product Officer at Notabene (YCS20)",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "New York",
+    "state": "New York",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Notabene",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/notabene-id/",
+            "title": "Co-Founder and Chief Product Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFjA2_JR3GX7A/company-logo_400_400/0/1586795259000?e=1705536000&v=beta&t=tRgBRhtdj9HyJunwgDBNY60E8IommDjFjYqfht-atno"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "ConsenSys",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/consensys-software-inc/",
+            "title": "Senior Product Designer at uPort",
+            "description": "Self-sovereign identity and user-centric data at uPort (www.uport.me)",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE3hYT2QCBRzw/company-logo_400_400/0/1687864719454?e=1705536000&v=beta&t=elTbitUeMxskjfsOlGhEpFZYc95Oe1Uwi0GP6k1eFws"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Justworks",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/justworks-/",
+            "title": "Product Designer",
+            "description": null,
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHdDsWmWjKgBA/company-logo_400_400/0/1688573040945?e=1705536000&v=beta&t=r6JRR9AihNDFhd9dCrSaDjcapPmkOEyecfY8iqByDIg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "Charming Robot",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/charming-robot/",
+            "title": "Lead UX Designer (web and mobile)",
+            "description": "\u2022 Leading UX projects for clients from various industries: Telecommunications, Media, E-Commerce, Finance\u200b;\u200b\n\u2022 \u200bWorking with clients ranging from Fortune 50 to early stage startups;\n\u2022 Producing design deliverables including user flows, wireframes, journey maps, and other tools to demonstrate and aid the validation of proposed design solutions;\n\u2022 Providing UX support and \u200bconsultation to clients, helping\u200b to\u200b define how \u200bto \u200bbest achieve business objectives through \u200ba \u200bquality user experience and user interface design;\n\u2022 Documenting the results of design related meetings and document design deliverables;\n\u2022 Facilitating and observing user testing both \u200bin \u200buser research labs and in the field;\n\u2022 Translating insights from usability testing and research into actionable recommendations\u200b and design modification\u200b\u200b;\u200b\n\u2022 Presenting concepts and UX strategies to clients\u200b through presentations, day-to-day account activity and client calls\u200b;",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFseWxMZlA87A/company-logo_400_400/0/1519928403010?e=1705536000&v=beta&t=zhgKHNuaS3ZO2l4raZJThFY-1cQHQ5X3rL0-lu_Wa4c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "Grupa Allegro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/allegro-pl/",
+            "title": "UX Designer (mobile iOS)",
+            "description": "\u2022 Iterating, producing, and presenting user flows, wireframes, and concept designs for company's mobile application\u200b;\u200b\n\u2022 Collaborating with the product manager and development team to construct use cases and high-level requirements for company's mobile applications\u200b;\u200b\n\u2022 Facilitating and conducting user testing both in a lab and onsite;\n\u2022 Documenting the results of design related meetings and document design deliverables\u200b;\u200b\n\u2022 Preparing requirements and scenarios for user testing; \n\u2022 Building interactive prototypes;",
+            "location": "Warsaw, Masovian District, Poland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGm6KEWPgWKqw/company-logo_400_400/0/1633419528854?e=1705536000&v=beta&t=8E9fZl8Cc8CTBjweyZf7G5X1yseFVA06o470VIDtbNQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Freelancer",
+            "company_linkedin_profile_url": null,
+            "title": "UX/UI Designer (freelancer)",
+            "description": "\u2022 Building (UX and UI) digital products for companies from IT, telecommunications, e-commerce industries; \n\u2022 Providing UX support and consulting, helping define how best to achieve business objectives through quality user experience and user interface design;\n\u2022 Participating and collaborating in concept development and design ideation for products features\n\u2022 Building wireframes and prototypes both for mobile applications and websites;\n\u2022 Graphic design;",
+            "location": "Warsaw, Masovian District, Poland",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Isobar",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/isobar/",
+            "title": "UX Designer (web and mobile)",
+            "description": "\u2022 Collaborating with product manager\u200bs\u200b and development team\u200bs\u200b to construct use cases and high-level requirements for company's mobile applications\u200b;\u200b\n\u2022 Iterating, producing, and presenting user flows, wireframes, and concept designs;\n\u2022 Building interactive prototypes;\n\u2022 Providing digital product analysis and market research; \n\u2022 Conducting website and mobile application audit\u200bs\u200b;\n\u2022 Preparing presentations and UX offers for clients and partners;",
+            "location": "Warsaw, Masovian District, Poland",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHcnqayoU0KQg/company-logo_400_400/0/1620812641468?e=1705536000&v=beta&t=6gcuG0rX-oKTpbAdg-dL08So9sLti13TMZtrP0WI1kY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "3D Modeling Fundamentals",
+            "degree_name": "Open Campus - Continuing Education",
+            "school": "The New School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFdlPN2GDZNZQ/company-logo_400_400/0/1578331959191?e=1705536000&v=beta&t=MqOmS5psC_gl21Rb_h_Jf0uzKr1PzqbRRS-DSjW1fQw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "MA of Linguistics",
+            "school": "Jagiellonian University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGZEqVTuAGhfA/company-logo_400_400/0/1549543319649?e=1705536000&v=beta&t=VHopKzCWHI9LEniGRiLZCY1iuKI7quh7OxmyysmK8xI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Saint Petersburg State University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHWUjwogE235A/company-logo_400_400/0/1519863922741?e=1705536000&v=beta&t=fPH3PXqeiEX7451TtcAMtk70haZSWsb2NUTEHFCor0U",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Polish",
+        "Russian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/lschwartzman",
+            "name": "Lana Schwartzman - CAMS, CCFC, CRC",
+            "summary": "Head of Regulatory and Compliance at Notabene || NFT, Web3, Crypto Compliance",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/catarinaveloso",
+            "name": "Catarina Veloso",
+            "summary": "Regulatory & Compliance Senior Associate at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ajunge",
+            "name": "Andres Junge",
+            "summary": "Co-Founder and CTO at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pelleb",
+            "name": "Pelle Br\u00e6ndgaard",
+            "summary": "CEO of Notabene (YC S20) - hiring in tech and ops. 20 years of Crypto/ID/Fintech. Co-founded uPort and Kipochi. Ex. ConsenSys, Doximity, and AltaVista.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/brycehedrick",
+            "name": "Bryce Hedrick",
+            "summary": "Helping Crypto Companies Efficiently Comply With The Travel Rule",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anastasiia-kostrub",
+            "name": "Anastasiia K.",
+            "summary": "Senior Poduct Manager | web3 enthusiast | launcher \ud83d\ude80",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mattaberdein",
+            "name": "Matt Aberdein",
+            "summary": "Head of Product - Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lesamone",
+            "name": "Lesa M.",
+            "summary": "Head of Content at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alicenawfal",
+            "name": "Alice Nawfal",
+            "summary": "Co-Founder & COO at Notabene (YCS20). We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/victoriaolsina",
+            "name": "Victoria Olsina",
+            "summary": "SEO Consultant & Growth Advisor \ud83c\udf99\ufe0f Speaker | Scaling with AI |Ex-Polkadot, Consensys & Barclays \ud83d\ude80 5x Growth for Web3, SaaS & FinTech \ud83d\udcc8 Ex-Polkadot, Consensys & Barclays \ud83d\udc69\ud83c\udffb\u200d\u2696\ufe0f European Search Awards \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Comedian",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Ania Lipi\u0144ska",
+            "link": "https://uk.linkedin.com/in/ania-lipi%C5%84ska-750a11115",
+            "summary": "--",
+            "location": "United Kingdom"
+        },
+        {
+            "name": "ania lipinska",
+            "link": "https://pl.linkedin.com/in/ania-lipinska-916136145",
+            "summary": "nauczycielka",
+            "location": "Warsaw Metropolitan Area"
+        },
+        {
+            "name": "Ania Lipinska",
+            "link": "https://pl.linkedin.com/in/ania-lipinska-2b7732a4",
+            "summary": "--",
+            "location": "Poland"
+        },
+        {
+            "name": "Ania Lipi\u0144ska",
+            "link": "https://pl.linkedin.com/in/ania-lipi%C5%84ska-380072263",
+            "summary": "--",
+            "location": "Szubin"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

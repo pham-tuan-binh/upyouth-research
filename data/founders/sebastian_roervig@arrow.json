@@ -1,0 +1,258 @@
+{
+    "public_identifier": "sebastianroervig",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Sebastian",
+    "last_name": "Roervig",
+    "full_name": "Sebastian Roervig",
+    "follower_count": 5179,
+    "occupation": "Co-Founder / Chief Operating Officer at Arrow",
+    "headline": "Co-Founder @ Arrow",
+    "summary": "Co-founder of Arrow, a Singapore tech company focusing on Payments and E-commerce. Drawing from my experience in launching products at Grab Financial Group and Rocket Internet. \n\nI also served as Director for 21C Girls (an NGO that gives female students free coding and AI education). \n\nFeel free to reach out for volunteer opportunities or connect to discuss tech, payments, and entrepreneurship in SEA.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Arrow",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/arrowcheckout",
+            "title": "Co-Founder / Chief Operating Officer",
+            "description": "Arrow makes it easier and faster for sellers and shoppers to safely sell and buy online in Southeast Asia. It is the first in SEA to provide brands a better, more profitable checkout experience for their shoppers.\n\nFunded by Sequoia, Meta, AJWC, YC, and many other awesome investors",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeAipheS4HCQ/company-logo_400_400/0/1636453171724/arrowcheckout_logo?e=1712793600&v=beta&t=6cX1O9W_lkddxT7Yd5C4Xjg4iFBubM-xLE_q3sKO1Gg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp",
+            "title": "Special Projects (Grab Financial)",
+            "description": "Headed up: \n- Cross Border payments\n- Digital Goods (gaming, airtime, and bills payment) \n- New payment product launches\n- All potential investments and partnerships for Crypto related products",
+            "location": "Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp",
+            "title": "Regional Business Development Manager (Payments)",
+            "description": "- Launched Grab's payments business in SG and PH market \n- Lead the early stage strategy and the roll out of Grab's QR code payments\n- Partnerships with FI, schemes, payment gateways, and a few JV's",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1630575649647/grabapp_logo?e=1712793600&v=beta&t=tM4D-1NGDaysGOCTqAI1wajQbCI_xjhqn5oQ6q-OqjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Rocket Internet SE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rocket-internet-se",
+            "title": "Global Venture Development Manager",
+            "description": "Daraz - the largest online marketplace in Pakistan, Bangladesh, Nepal, Myanmar, & Sri Lanka (Acquired by Alibaba)\n\n- Supported on payments and business development projects",
+            "location": "South Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHXANtSz2TYzQ/company-logo_400_400/0/1631403106850?e=1712793600&v=beta&t=zyXcH7VfkubR0gAo1oX5R2bsXaRGk95J4CNo2Q4gR9A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2016
+            },
+            "company": "ABRA",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/abra",
+            "title": "Business Development Manager",
+            "description": "Cryptocurrency investment app\n\n- One of the first employees\n\nRaised US$ +106M from Foxconn, American Express, Ratan Tata, First Round Capital, Jungle Ventures, Pantera, and others",
+            "location": "Silicon Valley/Manila",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF4flr2VRdHrQ/company-logo_400_400/0/1639609423239/abra_logo?e=1712793600&v=beta&t=s5A5kznetxr_5GBbx4r4kyafdP0cZG9yHM4Cz7jyplg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "TPG Global",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tpg-capital",
+            "title": "Research Analyst (Worked for Senior Advisor Karen Brooks)",
+            "description": "Internship",
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHpHXcd2JuzOA/company-logo_400_400/0/1688206921596/tpg_capital_logo?e=1712793600&v=beta&t=Ql521yqfDky9KQCEPtOcl04tkHHliATCiIIyZD8RfW4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "International Relations: Asia Studies",
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "school": "The George Washington University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4644/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFSVBibNbqMQA/company-logo_400_400/0/1633354278505/george_washington_university_logo?e=1712793600&v=beta&t=zvh88lYlFVZOY3Wjilmk_G94Pt6yen5zDpiTQq_AMdE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Virum Gymnasium",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Danish",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2023
+            },
+            "title": "Director",
+            "cause": "Education",
+            "company": "21C GIRLS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/6411415/",
+            "description": "21C Girls is a nonprofit organization that provides opportunities to learn and grow in technology through various programmes focused on coding, artificial intelligence, robotics, Web3 and Metaverse for young girls.\n\nSince 2014, it has helped teach over 3,000 students in schools. Sponsors have included Google, VISA, AirBnB, Goldman Sachs, Microsoft and Garena.\n\nI lead fundraising and treasury.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGnl96QRmsjjQ/company-logo_400_400/0/1631366583070?e=1712793600&v=beta&t=4FUbAf-lRxRa5xixWKLtUBbfgrdGXq0YH4IWW-9NVX4"
+        }
+    ],
+    "certifications": [],
+    "connections": 5221,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/arvindbramesh",
+            "name": "Arvind Ramesh",
+            "summary": "Co-Founder at Metafi (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kabir-set",
+            "name": "Kabir Sethi",
+            "summary": "Co-founder & CTO at Bitstack",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nitinmuthyala",
+            "name": "Nitin Muthyala",
+            "summary": "Co-Founder and CTO @ HitPay (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tiffany-danielle-1847a210b",
+            "name": "Tiffany Danielle",
+            "summary": "Co-Founder at Ros\u00e9 All Day Cosmetics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ash-rhazaly-402533209",
+            "name": "Ash Rhazaly",
+            "summary": "Co-Founder & CTO at Friz (YC W21)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQEpOgpQbQSzlw/group-logo_image-shrink_400x400/0/1631005705998?e=1705464000&v=beta&t=dKhUGZSHgVWsFFARjZKbvuMtJ00SFIihXmCbPtHvgWw",
+            "name": "On Startups - The Community For Entrepreneurs",
+            "url": "https://www.linkedin.com/groups/2877"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQGJh7zkoJxn9g/group-logo_image-shrink_48x48/0/1631416696921?e=1705464000&v=beta&t=SHb96Hly-pAVMeWrOcPuLtEnkyw3PPO6ZJncYX7VJOM",
+            "name": "Ecommerce in APAC - China, Hong Kong, Singapore, and more",
+            "url": "https://www.linkedin.com/groups/4580122"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

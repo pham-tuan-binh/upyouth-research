@@ -1,0 +1,527 @@
+{
+    "public_identifier": "jonathanweins",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jonathanweins/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3cd7cd2ed5e304b9ab32cff367b861e9d76232f8741f6f5cebd0dd149c4d5132",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jonathanweins/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6148c6e4334af3d85171751dfa42c22d97f974d16bb5560a16b010b3d8f0040f",
+    "first_name": "Jonathan",
+    "last_name": "Weins",
+    "full_name": "Jonathan Weins",
+    "follower_count": 15123,
+    "occupation": "CEO & Co-Founder at Pop Meals",
+    "headline": "Pop Meals (Y Combinator S17 / Endeavor Outliers 2023)",
+    "summary": "Build an epic product, move fast, break things, reason from first principles, work with super smart people! Go hard!",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "dahmakan",
+            "company_linkedin_profile_url": null,
+            "title": "CEO & Co-Founder",
+            "description": null,
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Endeavor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorglobal/",
+            "title": "Entrepreneur",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG9Nglb0ZU1kQ/company-logo_400_400/0/1681235668619/endeavorglobal_logo?e=1714608000&v=beta&t=GnAn7qT0SlucntKLVUckcuWQqsCDtAQVTOj9DElrKRI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Pioneer Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pioneerfund/",
+            "title": "Venture Partner",
+            "description": "Funding selected YC companies of every batch.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHi9VKZZ3eYKQ/company-logo_400_400/0/1630658894186/pioneerfund_logo?e=1714608000&v=beta&t=ijOEbcLjgqDveMqpzdBtBJcW4a0ifoL8I4qVWbqaEEE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Pop Meals",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/popmeals/",
+            "title": "CEO & Co-Founder",
+            "description": "Scaling a new food category with automated kitchens and recipes engineered through data & AI.\n\n\n\nY Combinator batch S17\n\nWant to work on an amazing product and with a super smart team? Join us: https://popmeals.com.my/careers",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFpVn1QFYYrGQ/company-logo_400_400/0/1630661420975/dah_makan_logo?e=1714608000&v=beta&t=eNPYb2CvsLTyfsFgHzVv5PejCZyaAD0wxdY6SeNo_Xs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Reforge",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/reforge/",
+            "title": "Growth & Retention Series 2018/2019",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFyuulckDgQ3w/company-logo_400_400/0/1672953318949/reforge_logo?e=1714608000&v=beta&t=BeKv_IzWOuqIuAZ6hbd20NrIL5o2bOHFEycTkWrmOeU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1921
+            },
+            "ends_at": null,
+            "company": "Riogrande (YCS20)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/riogranded2c/",
+            "title": "Investor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE2NQvnqHpCeg/company-logo_400_400/0/1630515321301/riogranded2c_logo?e=1714608000&v=beta&t=WbdqDYsmgqFm-VmmLpfwUqYtKdTTXkkxYhWn6Xis58Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "NexGenT",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ngtacademy/",
+            "title": "Investor",
+            "description": null,
+            "location": "San Jose, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGVI7xXOu9j7g/company-logo_400_400/0/1631363484459?e=1714608000&v=beta&t=mmbxAKevVtAs7RTqBOrAuxp9VzLfdSkCafkOxWW2NZI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "YC S17",
+            "description": null,
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714608000&v=beta&t=fMWXeZT9j-TCyR8HxdmYeLtBJ9zjxBK2IMyfHrKOzAE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "foodpanda",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/foodpanda/",
+            "title": "Founding team HK / Head of Business Development",
+            "description": "1st man on the ground for new country launch\nsolved chicken & egg problem for food delivery marketplace \nbrought various international & local AAA brands onto the platform\npioneered own-delivery",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEMhyQggIg8lQ/company-logo_400_400/0/1677135057605/foodpanda_logo?e=1714608000&v=beta&t=j5AOaAG1dei_EKlRucrUGQ0EENl_MVtlpIrW2vWBCtc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Kleef & Co Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kleef-&-co-ltd/",
+            "title": "Project Manager / Founding employee HK",
+            "description": "\u2022Partnership search & joint venture formation\n\u2022Market entry research & strategy\n\u2022Cross-border M&A advisory\n\u2022Business development",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEnp3moF1DDHg/company-logo_400_400/0/1631345356116?e=1714608000&v=beta&t=u3H0F3P5f5NfBhPtX80fYD9I6LhcBVa8L_VBDjv3Ouk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "International Business",
+            "degree_name": null,
+            "school": "The Hong Kong University of Science and Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH4YoQ1L_piMg/company-logo_400_400/0/1630652114876/hkust_logo?e=1714608000&v=beta&t=zpVRVWc2sdt5k5_5EFcPjpgPml3fGsZN68Y6OIwzuw8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Alternative Investment Conference",
+            "degree_name": null,
+            "school": "The London School of Economics and Political Science (LSE)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1714608000&v=beta&t=R4qfsF7vvjPpmTAsbQovAogH4cZqjz2vK3-R1LdPlT4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "International Business Economics",
+            "school": "Maastricht University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_400_400/0/1630507515740/maastricht_university_logo?e=1714608000&v=beta&t=pT-oTPwjKeilFf5ecxEtBW_3yPdZILskggscY8zJAYE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "German"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": null,
+            "org_name": "Beta Gamma Sigma",
+            "title": null,
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Endeavor ",
+            "title": "Entrepreneur ",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 under 30",
+            "issuer": "Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "https://www.forbes.com/profile/jonathan-weins/"
+        },
+        {
+            "title": "Beta Gamma Sigma International Honor Society Membership Award",
+            "issuer": "Beta Gamma Sigma International Honor Society",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "McKinsey Firsthand",
+            "issuer": "McKinsey & Company",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "Cum Laude With Distinction",
+            "issuer": "Maastricht University",
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Top 3% Student Award",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "title": "Global Sustainability Jam",
+            "description": "Applying Design Thinking to develop solutions for our world's biggest issues",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "title": "Deutsche Bundesstiftung - EUmwelt",
+            "description": "Collaborative project in Romania and Germany",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "title": "Startupweekend mentor",
+            "cause": "EDUCATION",
+            "company": "Techstars",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/techstars/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG8pk2bg7BAnQ/company-logo_400_400/0/1630571396535/techstars_logo?e=1714608000&v=beta&t=ctNuz61cR3u7LM5LCcuZcKdq1ov3dLSB6u65xiqhLRk"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Board Member",
+            "cause": "EDUCATION",
+            "company": "SCOPE Maastricht",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/scope-maastricht/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEW6UveUK8JhQ/company-logo_400_400/0/1630458936324/scope_maastricht_logo?e=1714608000&v=beta&t=XBs9C5dL85j3KDCn5CK-s8im3k1WdRk4KfQ-4KZS3wk"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": null,
+            "company": "Founder Institute",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/the-founder-institute/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHvHnd5W_EHwQ/company-logo_400_400/0/1630586437144/the_founder_institute_logo?e=1714608000&v=beta&t=UMTmBg-h3I3U1mm5x5a18QJzKE25LqxQqiQ5c7PySxg"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "  Deep Learning Specialization",
+            "license_number": "66BP2L8WZFBM",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/66BP2L8WZFBM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Convolutional Neural Networks",
+            "license_number": "HLFZPT74VNSV",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/HLFZPT74VNSV"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Sequence Models",
+            "license_number": "YVEAY7D6QF9Y",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/YVEAY7D6QF9Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Structuring Machine Learning Projects",
+            "license_number": "GXHK2S7VUMWP",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/GXHK2S7VUMWP"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+            "license_number": "GMHCE3RZHWTX",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/GMHCE3RZHWTX"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Neural Networks and Deep Learning",
+            "license_number": "6AWS934QTDPD",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/6AWS934QTDPD"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jessicaykli",
+            "name": "Jessica Li",
+            "summary": "Co-founder & COO (Pop Meals), Y Combinator S17",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christian-edelmann-we-are-hiring-27166531",
+            "name": "Christian Edelmann (We are hiring)",
+            "summary": "Co Founder & CTO at Pop; Y Combinator S17",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/janberssenbruegge",
+            "name": "Jan Berssenbruegge",
+            "summary": "Co-Founder @ Lhotse | Clark | Hometogo | London Business School",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kimjinwu",
+            "name": "Jin Wu Kim",
+            "summary": "CFO at Pop Meals | Y Combinator S17",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sinanismail",
+            "name": "Sinan Ismail",
+            "summary": "Founder Durioo+ (YC W22) | Omar Hana | Digital Durian",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akmalm",
+            "name": "Akmal Makmor",
+            "summary": "Strategy & Operations at Pop Meals | Ex-CloudKitchens",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jaspreetsingh2795",
+            "name": "Jaspreet Singh",
+            "summary": "Finance Analyst at Pop Meals (YC S17)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/derrick-dass-1475a628",
+            "name": "Derrick Dass",
+            "summary": "Head of People at Pop Meals",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wannhhwoz",
+            "name": "WANN WOZ",
+            "summary": "Head of Operations @ Popmeals | Entrepreneurial Visionary Leading Operations Teams to Unprecedented Success and Innovation.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/juan-tat-tee-78733426",
+            "name": "Juan Tat Tee",
+            "summary": "Director of Finance",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jonathan Weins",
+            "link": "https://my.linkedin.com/in/jonathan-weins-9b7006186",
+            "summary": "CEO at Polpa (Acquired by dahmakan)",
+            "location": "Pahang, Malaysia"
+        },
+        {
+            "name": "Jon Weins",
+            "link": "https://www.linkedin.com/in/jon-weins-b9b917189",
+            "summary": "Product Manager at Technica USA",
+            "location": "Kawasan Metropolitan Los Angeles"
+        },
+        {
+            "name": "Jonathan Weins",
+            "link": "https://my.linkedin.com/in/jonathan-weins-38101a266",
+            "summary": "--",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "name": "Jonathan Weins",
+            "link": "https://www.linkedin.com/in/jonathan-weins-43ab3794",
+            "summary": "Worker at Sakota",
+            "location": "Brighton, CO"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

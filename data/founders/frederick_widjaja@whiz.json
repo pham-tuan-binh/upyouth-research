@@ -1,0 +1,233 @@
+{
+    "public_identifier": "frw",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/frw/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221328Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ad0a0444bcc8a290ed6be216698ae8fbe742ae5ca0961fc552b1b45ec8a2b7af",
+    "background_cover_image_url": null,
+    "first_name": "Frederick",
+    "last_name": "Widjaja",
+    "full_name": "Frederick Widjaja",
+    "follower_count": 416,
+    "occupation": "Co-Founder at Whiz (YC W22)",
+    "headline": "Building Whiz",
+    "summary": "Building Whiz, Indonesia\u2019s first fintech company for teenagers, to empower a new generation of financial whiz kids. Ex-Facebook SWE, worked on several zero to one projects such as Blood Donations and Messenger Rooms. Graduated from Harvard College with a degree in Computer Science and Statistics. I'm passionate about working on projects that bring about positive social impact, and I'm excited to take on the next big challenge.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "Software Engineer",
+            "description": "\u2022 Developed tools and libraries to help Android developers debug their applications more easily, such as the Tracing library, which provided a waterfall view and timing breakdowns of function and network calls\n\u2022 Wrote a design doc and developed a framework for sending more detailed exception logs from a mobile client through RPCs, and receiving it on the server side for analysis\n",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Square",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/joinsquare",
+            "title": "Software Engineer",
+            "description": "\u2022 Planned, developed, and launched the initial version of the Square Cash Android app in a small and fast-paced team\n\u2022 Contributed to several of Square\u2019s open source projects, such as Picasso and Scaffold",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHikN6EXPd23Q/company-logo_400_400/0/1630646872203/joinsquare_logo?e=1712793600&v=beta&t=TkLuVXmJhrleSJFrKYqEZgYdiu9OUOEuV4nIwcrKMNo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Whiz (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/whiz-idn",
+            "title": "Co-Founder",
+            "description": "Building the product and tech that will help the next generation of Indonesians make smart financial decisions",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEc_HnQwKDX8Q/company-logo_400_400/0/1659370818281/whiz_id_logo?e=1712793600&v=beta&t=RsOGZ7b_hssdgjXNTlz-sXlmeuVuEX-bqQunNacf04M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook",
+            "title": "Software Engineer",
+            "description": "\u2022 Designed, conducted, and analyzed experiments on friending-related changes in Facebook\u2019s Android app\n\u2022 Designed and implemented infrastructure to make friendship statuses consistent across all surfaces and screens. This made use of Facebook\u2019s technologies such as GraphQL and Dependency Injection",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Facebook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook",
+            "title": "Senior Software Engineer",
+            "description": "Lite Interfaces Monetization\n\u2022 Developed and optimized new ad experiences on the Facebook Lite App, which is targeted to users on lower-end devices in emerging markets, driving more ad revenue for Facebook.\n\nMessenger Rooms\n\u2022 Developed and helped to launch the Messenger Rooms product, helping people connect in more meaningful ways during COVID.\n\nBlood Donations\n\u2022 Kickstarted the blood donations product, which aims to solve the world\u2019s safe blood shortage problem, from the ground up in a lean team environment and oversaw its release and expansion in India, Bangladesh, Pakistan, Brazil, and the United States\n\u2022 Led and managed better engineering efforts within the team to improve product reliability and performance, and to increase developer efficiency. Responsibilities include setting goals and planning for the better engineering workstream, leading brainstorms, and supporting other engineers on the team\n\u2022 Led the development of the blood request and blood donations hub features. This includes identifying project, scoping workstreams, and working with stakeholders such as the product manager and designer to prioritize and reach team goals\n\u2022 Performed on-the-ground user research to develop the user journey and to identify gaps in the product",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science and Statistics",
+            "degree_name": "Bachelor of Arts - BA",
+            "school": "Harvard University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1646/",
+            "description": "Magna Cum Laude",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_400_400/0/1631318058235?e=1712793600&v=beta&t=unWou6lQLqYI4ig4oaLds9gzWinJH5FRaVfSmg34-wE",
+            "grade": null,
+            "activities_and_societies": "Teaching Fellow, Harvard Computer Society"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "High School Diploma",
+            "school": "Jakarta Intercultural School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/46938/",
+            "description": "Salutatorian",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFDb07ERsGanA/company-logo_400_400/0/1660634393840/jakarta_intercultural_school_logo?e=1712793600&v=beta&t=xkN0Bipu3TlhtythemKaNqD6wUUnw5oYOwdGqBb_YCI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 385,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina (YC W22) | Forbes 30 under 30 | Jobs, Careers, AI, Startup",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/agneswlie",
+            "name": "Agnes W Lie",
+            "summary": "Co-Founder at Whiz (YC W22) | ex-OVO, ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/angela-dina-oktavia-b25b519a",
+            "name": "Angela Dina Oktavia",
+            "summary": "Head of Partnership at Whiz",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ian-thomas-4538285a",
+            "name": "Ian Thomas",
+            "summary": "Product @ Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nisrinaakalusyamoktika",
+            "name": "Nisrina Akalusyamoktika",
+            "summary": "Sr. Recruitment Consultant - Lead | Hiring Top Talents!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aqilasheila",
+            "name": "Aqila Sheila Zhafira",
+            "summary": "Social Media Manager | TikTok Creator | Strategizing digital campaign & community | AIESECers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kevinbasri",
+            "name": "Kevin Utama Basri",
+            "summary": "CEO Office @ Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aputri",
+            "name": "Adelia Anjani Putri",
+            "summary": "Communications Strategist - Social impact, innovation, tech, investment, and everything in between!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/randyramadhana",
+            "name": "Farandy Ramadhana",
+            "summary": "CTO & Co-founder at Segari | Forbes 30 under 30",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Frederick K Widjaja, CISSP",
+            "link": "https://www.linkedin.com/in/frederickwidjaja",
+            "summary": "Information Security Analyst at State Farm Insurance",
+            "location": "Dallas-Fort Worth Metroplex"
+        },
+        {
+            "name": "Frederick Fernando Widjaja",
+            "link": "https://sg.linkedin.com/in/frederick-fernando-widjaja-53328128",
+            "summary": "Relationship Manager at Citi",
+            "location": "Singapura"
+        },
+        {
+            "name": "Freddy Widjaja",
+            "link": "https://id.linkedin.com/in/freddy-widjaja-51327b2b",
+            "summary": "Owner, PT Dynami Makmur Lestari",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Frederick Widjaja",
+            "link": "https://au.linkedin.com/in/frederick-widjaja",
+            "summary": "Advertising and Marketing Communications Graduate",
+            "location": "Sydney, NSW"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,333 @@
+{
+    "public_identifier": "nicolasramsay",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nicolasramsay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221253Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=564591ff5d18450e5c3251f52310026db72c44d2fbdf2333098f3156c13b7806",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nicolasramsay/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221253Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=42a0855f22eb54a0511c7127bfa9b4132786e855f6555cac67a7d394ee9f223f",
+    "first_name": "Nick",
+    "last_name": "Ramsay",
+    "full_name": "Nick Ramsay",
+    "follower_count": 3705,
+    "occupation": "CEO & Founder at Circular",
+    "headline": "CEO & founder at Circular | Making subscriptions the best way to access and experience tech | Angel Investor | Advisor | Entrepreneur",
+    "summary": "Nick Ramsay is the co-founder and CEO of Circular. Nick drives Circular's mission to accelerate the adoption of the circular economy by making subscriptions the best way to access and experience tech. \n\nOur customers get their hands on the best tech through low-cost, convenient subscriptions. They can pay monthly, keep it as long as they want, and if they love it, buy it. If they return it, we carefully refurbish it and pass it on to the next loving owner - radically extending its useful life.\n\nNick is a proven business leader with hands-on experience across product management, new venture building and business development and has been successfully scaling Fintech and marketplaces across SE-Asia for 10+ years.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Early Stage Startups",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/early-stage-austin-startups/",
+            "title": "Investor, Board Advisor, Non-Exec Director",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Circular",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nowcircular/",
+            "title": "CEO & Founder",
+            "description": "Circular's vision is to accelerate the adoption of the Circular Economy by making subscriptions the best way to access and experience tech.\n \nOur customers get their hands on the best tech through low-cost, convenient subscriptions. They can pay monthly, keep it as long as they want, and if they love it, buy it. If they return it, we carefully refurbish it and pass it on to the next loving owner - radically extending its useful life.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGXLY7F9X91Q/company-logo_400_400/0/1691481063701?e=1712793600&v=beta&t=YiO51YEN7GjySwBGFZP0jkn7hxiRUv7PK3bDNwOpNa8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "MoneySmart Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/moneysmartgroup/",
+            "title": "Chief Product & Technology Officer; Chief Operating Officer",
+            "description": "MoneySmart Group is South East Asia's #1 personal finance group. As the go-to, all-in-one portal for personal finance across Singapore, Hong Kong, Taiwan, Indonesia and Philippines we help consumers navigate the complexities of the personal finance space and find the best loans, insurance and credit cards.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG3k3X7xHlCMA/company-logo_400_400/0/1664931552971/moneysmartgroup_logo?e=1712793600&v=beta&t=F3vP8Zqh7wzs0GmDlgHGbP9Ey3QSR9GXq4iNCUtKHo4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "PropertyGuru Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/propertyguru/",
+            "title": "Head of Product",
+            "description": "PropertyGuru is Southeast Asia\u2019s number 1 PropTech and homegrown unicorn, backed by KKR, TPG and SquarePeg. We generate over USD 17Bn Gross Merchandised Value annually across a portfolio of leading property marketplaces, FinTech solutions and SaaS CRM technologies that are visited by more than 25 million people monthly across Singapore, Vietnam, Malaysia, Indonesia, and Thailand. \n\nManaged the overall product strategy and roadmap for the Agent business \u2013 representing 70% of group revenue \u2013 and for launching the FinTech business. Responsible for all web and mobile (iOS and Android) agent facing applications, agent content quality moderation, agent service quality, as well as a manage an awesome team of product managers, product analysts, designers, engineers and data scientists.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFvNe-b6NmZeQ/company-logo_400_400/0/1683266249630/propertyguru_logo?e=1712793600&v=beta&t=q3R7mwhF2quNE9j1-yY4nO9QeelemRgJoD0NM4hF96Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "JFDI.Asia - Joyful Frog Digital Incubator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jfdiasia/",
+            "title": "Mentor",
+            "description": "JFDI is a seed startup accelerator in Singapore and is the first Techstars Network member in Southeast Asia. The 100 day program, with participants from all around the world, runs twice per year.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEHhrFme5oLYw/company-logo_400_400/0/1631347689315?e=1712793600&v=beta&t=QB8ff2LaUudX7ulJXwowNGZLIuqFn538WruREocMX_A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "PropTech Startup",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "B2B content marketing capability serving a market of over 30,000 register estate agents in Singapore.\n\nAcquihired by PropertyGuru in 2013.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "company": "Deloitte Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte/",
+            "title": "Manager, Financial Services Industry",
+            "description": "Ambitious, experienced and entrepreneurial consultant with a background in M&A, Customer, and Performance Improvement consulting across Financial Services, particularly in the Retail Banking and Insurance sectors\n\nSpecialties: M&A Management | Commercial Due Diligence | Financial Modeling | Customer Strategy | CRM | Process Improvement | Change Management | Programme Management and PMO | Management Reporting",
+            "location": "UK, Sweden, Norway, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120928214/deloitte_logo?e=1712793600&v=beta&t=DH9ccahBUsPod1iGlxw2aOo90qUn9GgVNPRAaIqMyus"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Innovation, Entrepreneurship",
+            "degree_name": "MBA (with Distinction)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Aerospace Materials Engineering",
+            "degree_name": "MEng",
+            "school": "Imperial College London",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFIhkSnjV0YNg/company-logo_400_400/0/1688215735026?e=1712793600&v=beta&t=lh-52hdbqPQgoV610bmEbHX8udPOKvhLX-YHGC6sATk",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Board Member - School Governor",
+            "cause": "EDUCATION",
+            "company": "Rainbow School for Autistic Children",
+            "company_linkedin_profile_url": null,
+            "description": "Advised leadership team of school around finance, operations and curriculum.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/george-oliver-81139754",
+            "name": "George Oliver",
+            "summary": "Founder & Head of Ops @ Circular (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabh-chauhan",
+            "name": "Saurabh Chauhan",
+            "summary": "CEO & Founder @ Peakflo (YC W22) | Rocket Internet | McKinsey",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pantharoy",
+            "name": "Pantha Roy",
+            "summary": "Founder & CPO @ Circular (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alap-bharadwaj-b241704",
+            "name": "Alap Bharadwaj",
+            "summary": "Director at Google, Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/emelia-long-839a5a72",
+            "name": "Emelia Long",
+            "summary": "Financial Controller, Circular | Director, Blaze Global | CA(Singapore), CPA(Australia), ASEAN CPA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ben-keller-24309644",
+            "name": "Ben Keller",
+            "summary": "COO @propify (YC W23) | ex-HubSpot",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ybernstein",
+            "name": "\ud83e\udd16 Yaniv Bernstein",
+            "summary": "I help founders make fewer mistakes | Founder @ Circular | Host @ The Startup Podcast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bircheve",
+            "name": "Birch Eve",
+            "summary": "Senior Product Manager, AI/ML",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mikessimpson",
+            "name": "Michael Simpson",
+            "summary": "Head Of Engineering at Circular",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alexis-liu-yuchen",
+            "name": "Alexis Liu",
+            "summary": "Product Manager at Circular (YC22) | Circular economy",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Nick Ramsay",
+            "link": "https://au.linkedin.com/in/nick-ramsay-a715b22a",
+            "summary": "Owner, Shellby Power Pty Ltd",
+            "location": "Greater Brisbane Area"
+        },
+        {
+            "name": "Nick Ramsay",
+            "link": "https://uk.linkedin.com/in/nickramsayelearningcontent",
+            "summary": "Helping you access the world's best digital learning content with Go1",
+            "location": "Greater Glasgow Area"
+        },
+        {
+            "name": "Nick Ramsay",
+            "link": "https://www.linkedin.com/in/nick-ramsay-4470871",
+            "summary": null,
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "Nick Ramsay",
+            "link": "https://uk.linkedin.com/in/nickramsayfilm",
+            "summary": "Junior Draughtsman",
+            "location": "United Kingdom"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

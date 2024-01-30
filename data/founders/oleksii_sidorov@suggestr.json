@@ -1,0 +1,682 @@
+{
+    "public_identifier": "sidorovoleksii",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sidorovoleksii/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221713Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=87b500e7a85bd8ef1e3d97f5a43febff42b554279e91178713fbbfe5d6c650ab",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sidorovoleksii/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221713Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d72e5b30c24c0d2044db8832f1148668df55297ed9a3834d1182df3c77316212",
+    "first_name": "Oleksii",
+    "last_name": "Sidorov",
+    "full_name": "Oleksii Sidorov",
+    "follower_count": 3436,
+    "occupation": "Co-founder & CEO at Slise",
+    "headline": "Co-founder at Slise (AdSense for Web3) \u2022 Y Combinator alum \u2022 ex-Facebook AI Research \u2022 ex-Oxford",
+    "summary": "Mister \"give it all\". Like everything business and strategy, and grateful to be able to do it.",
+    "country": "HU",
+    "country_full_name": "Hungary",
+    "city": "Budapest Metropolitan Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Investor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft-education-community/",
+            "title": "Angel",
+            "description": "Ex-Human (AI), Bueno.Money (fintech), Enlightra (photonics), Zodier (dating), Jiffsy (ecommerce), Hawksight (DeFi), Cluster (web3), Safary (web3 marketing), Weights & Biases (ML Ops)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGD2-MX6P5Ayg/company-logo_400_400/0/1688935134697/microsoft_education_community_logo?e=1712793600&v=beta&t=wMwfCM44b-rVtoacQkSWQSKqw_wk5dKmwQR3r-yce5s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Slise",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slise-xyz/",
+            "title": "Co-founder & CEO",
+            "description": "\u201cGoogle Ads for Web3\u201d\n\u2022 Started the company as a solo founder, built a team, and got the first funding from winning hackathons\n\u2022 Brought in the best Engineer and the best Sales guy I knew as co-founders\n\u2022 Raised $1M across top accelerators, VC funds, and angels\n\u2022 Grew the product to 1.5M unique users and served big B2B clients like PayPal and MetaMask\n\u2022 Earned $100k in revenue in less than a year since the first line of code was written\n\u2022 Led a multi-disciplinary team of 10 people across the US, Europe, and Asia\n\u2022 Responsibilities include Hiring, B2B Sales, Marketing, Product Management, Strategy, Fundraising, Finances, and Legal\n(snapshot as of Q4'23, still active)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF0BARfMHDVIw/company-logo_400_400/0/1661760359510?e=1712793600&v=beta&t=k82Z10j09Ku8Y6dUFd7X9fwua0ONQpbks1iSzlee4T8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "company": "Suggestr (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/suggestr/",
+            "title": "Co-founder & CTO",
+            "description": "Amazon-quality AI recommendations for mom-and-pop eCommerce stores\n\u2022 Started from EF accelerator, raised $1.3M and got accepted to Y Combinator\n\u2022 Grew to 150+ eCommerce brands worldwide using our solution\n\u2022 Built a product that generated $500k+ in additional sales to our clients\n\u2022 In 7 months and a team of 4 devs, built a product competitive with the products that had been on the market for 5-7 years\n\u2022 Managed Hiring, Strategy, Product Design and Development, led AI Research and Development",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEWRTdhnJmI1w/company-logo_400_400/0/1630637173160/suggestr_logo?e=1712793600&v=beta&t=63pwQM5TzqtB1Xv80Dg6Geq8enLxM0sjlTZcC90K7_Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence",
+            "description": null,
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Facebook AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/facebook/",
+            "title": "AI Resident (AI Research)",
+            "description": "\u2022 Worked on Multimodal AI Research (something that was added to ChatGPT at the end of 2023)\n\u2022 Developed an AI algorithm to assist visually impaired people in reading text from images\n\u2022 Collected a public dataset and organized a TextCaps challenge to incentivize research in this direction\n\u2022 Published a paper at the prestigious European Conference on Computer Vision with Oral presentation",
+            "location": "Menlo Park, California",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509331/facebook__logo?e=1712793600&v=beta&t=gwX-4TkJE4chdlD0VhnxvZcBTqfvtdS5rr8Q_NOjhpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Norwegian University of Science and Technology (NTNU)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ntnu/",
+            "title": "Research Assistant, Teaching Assistant",
+            "description": "Identified problems and developed novel ML solutions. Collaborated with different research teams. Analyzed and reported results at the top AI conferences. Assisted students in their projects in Python and gave lectures.",
+            "location": "Gj\u00f8vik, Norway",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHQ7O_T1TbFqg/company-logo_400_400/0/1631338499008?e=1712793600&v=beta&t=P5QfZYU6xyAALKQl_wRwybB0zke2vtRgRCPHQvY3rsc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "University of Oxford",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/oxforduni/",
+            "title": "Research Intern",
+            "description": "\u2022 Designed and performed experiments with human perception and analyzed the data to find insights\n\u2022 Developed new data analysis algorithms that helped team members improve core metrics\n\u2022 Wrote joint papers on Human-Computer Interaction including collaborators from Harvard and Adobe\n\u2022 Established a collaboration between NTNU and Oxford universities",
+            "location": "Oxford, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGwPZs3spXFqw/company-logo_400_400/0/1630592784438/university_of_oxford_logo?e=1712793600&v=beta&t=Nxb6nMmahpUfQ9nepY0S92_HyYNf2lSu8V_7BM7UNBc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "KU Leuven",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ku_leuven/",
+            "title": "Research Intern",
+            "description": "Analyzing User behavior, attention, and memory for visual data. Using statistical and core Data Science methods to gain insights from data. Individually initiating collaboration with Technicolor Inc. and CV lab.",
+            "location": "Leuven, Belgium",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHAtw6LesXG-w/company-logo_400_400/0/1631310791100?e=1712793600&v=beta&t=riTkuI19CtO5_qY98Qz3bVtmfVSyEkw_qYUu4HClxFY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "Self-employed",
+            "company_linkedin_profile_url": null,
+            "title": "Physics and Mathematics Tutor",
+            "description": null,
+            "location": "Kyiv, Ukraine",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Startup founder (W22 batch)",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Applied Computer Science ",
+            "degree_name": "Master of Science - MS",
+            "school": "Norwegian University of Science and Technology (NTNU)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHQ7O_T1TbFqg/company-logo_400_400/0/1631338499008?e=1712793600&v=beta&t=P5QfZYU6xyAALKQl_wRwybB0zke2vtRgRCPHQvY3rsc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Applied Computer Science",
+            "degree_name": "Master of Science - MS",
+            "school": "Universidad de Granada",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEPGw1pzWUynw/company-logo_400_400/0/1631306824521?e=1712793600&v=beta&t=sadO4tFbo4vJp2DuNzUxohFUYvwdXesJem9n4lt8B5M",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Optics, Image, Vision, Multimedia",
+            "degree_name": "Master of Science - MS",
+            "school": "Universit\u00e9 de Lyon",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHajSv4G3XCKw/company-logo_400_400/0/1631331403102?e=1712793600&v=beta&t=lPRgYB9jTR_J6pUIRdfLBzmBdnBhI2DBUJIVXmcytpI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Physics (Photonics specialization)",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Taras Shevchenko National University of Kyiv",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG0dwdA1TfNhQ/company-logo_400_400/0/1631374969564/taras_shevchenko_national_university_of_kyiv_logo?e=1712793600&v=beta&t=lp6hp6yrSabSBipoM8Nvi8fyaTwIoH7WKbkGb4m5BiI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Russian",
+        "Ukrainian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Are all the frames equally important?",
+            "publisher": "CHI 2020, Late Breaking Works",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "https://arxiv.org/abs/1905.07984"
+        },
+        {
+            "name": "Changes in the Visual Appearance of Polychrome Wood Caused by (Accelerated) Aging",
+            "publisher": "Electronic Imaging 2020, Material Appearance",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Artificial Color Constancy via GoogLeNet with Angular Loss Function",
+            "publisher": "Applied Artificial Intelligence, Taylor & Francis, 34(9):643-655, 2020",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://www.tandfonline.com/doi/full/10.1080/08839514.2020.1730630"
+        },
+        {
+            "name": "Changing the Image Memorability: From Basic Photo Editing to GANs",
+            "publisher": "CVPR 2019 Workshops ",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "http://openaccess.thecvf.com/content_CVPRW_2019/html/MBCCV/Sidorov_Changing_the_Image_Memorability_From_Basic_Photo_Editing_to_GANs_CVPRW_2019_paper.html"
+        },
+        {
+            "name": "Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?",
+            "publisher": "CVPR 2019 Workshops",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sidorov_Conditional_GANs_for_Multi-Illuminant_Color_Constancy_Revolution_or_yet_Another_CVPRW_2019_paper.html"
+        },
+        {
+            "name": "Craquelure As a Graph: Application of Image Processing and Graph Neural Networks to the Description of Fracture Patterns",
+            "publisher": "ICCV Workshops",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://arxiv.org/abs/1905.05010"
+        },
+        {
+            "name": "Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution",
+            "publisher": "ICCV 2019 Workshops",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://arxiv.org/abs/1902.00301"
+        },
+        {
+            "name": "Generative Smoke Removal",
+            "publisher": "NeurIPS 2019 Workshops, Proceedings of Machine Learning Research",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://arxiv.org/abs/1902.00311"
+        },
+        {
+            "name": "Overt visual attention on rendered 3D objects",
+            "publisher": "SIGGRAPH Asia (submitted)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://arxiv.org/abs/1905.10444"
+        },
+        {
+            "name": "Bayesian Optimization of Neural Network for Modelling Chromaticity Discrimination Ellipses",
+            "publisher": "WDS\u201918 Proceedings \u2014 Mathematical and Computer Modelling, pp. 62\u201367, 2018",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Image multiplexing with laser-controlled plasmonic colors",
+            "publisher": "META18, The 9th International Conference on Metamaterials, Photonic Crystals and Plasmonics",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Novel approach to uniformization of a color space via generic deep learning-based transformation",
+            "publisher": "Proceedings of IEEE Colour and Visual Computing Symposium 2018 (CVCS), pp. 1\u20134, 2018",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://ieeexplore.ieee.org/document/8496586"
+        },
+        {
+            "name": "Spectral characteristics of silver nanoparticles in polyacrylamide matrix in the presence of berberine molecules",
+            "publisher": "Molecular Crystals and Liquid Crystals, 670(1):11-19, 2018",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15421406.2018.1542058"
+        },
+        {
+            "name": "Spectral properties of novel fluorophores synthesized from citric acid and their solutions with DNA ",
+            "publisher": "WDS\u201916 Proceedings of Contributed Papers \u2014 Physics",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "TextCaps: a Dataset for Image Captioning with Reading Comprehension",
+            "publisher": "In submission",
+            "published_on": null,
+            "description": null,
+            "url": "https://arxiv.org/abs/2003.12462"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "2nd place in Kaggle challenge in Data Analysis organized by DeepMind (at EEML 2019)",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "description": null
+        },
+        {
+            "title": "Best Paper Award at AI-DLDA18 summer school",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "description": null
+        },
+        {
+            "title": "Erasmus+ 2 years scholarship",
+            "issuer": "European Union",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "Grant of the Opportunity Funds program (funded by the USA Government)",
+            "issuer": " Goverment of the USA",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Increased scholarship by Ukrainian Government for excellent academic performance",
+            "issuer": "Ukrainian Government",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "All-Ukrainian Research Paper Defense Competition among the Student-members of Minor Academy of Sciences of Ukraine; Scholarship and the Diploma of the Winner (regional stage)",
+            "issuer": "National Academy of Sciences of Ukraine",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "Ukrainian National Olympiad in Physics, the Diplomas of the Winner (national and regional stages)",
+            "issuer": "Ministry of Education and Science of Ukraine",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": "2010 - 2013 annually"
+        },
+        {
+            "title": "Scholarships/grants by University of Groningen, Vrije Universiteit Brussel,  Friedrich Schiller University Jena,  Charles University, Norwegian University of Science and Technology",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "3D Scene Reconstruction using Microsoft Kinect ",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Automatic Photo Editng: reproduction of Photshop tools, Saliency maps for background detection, Face detection",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Clustering and sorting of laser-colored films (modified K-means, PCA) in collab. with Laboratoire Hubert Curien",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Intelligent video event detection for surveillance systems applications. (SAFEVOYAGE IA Project for airports)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Mapping of medical data domains: MRI to CT (CycleGAN)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Project for Vilmorin seed company: Automatic ColorChecker detection and color calibration ( SURF features matching / object detection with Faster R-CNN / semantic segmentation with SegNet)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Projection of gaze fixations from eye-tracking experiment to 3D surface/point-cloud",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Spectral estimation from wide-band channels with two Multispectral capture systems",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Visualization and analysis of a fine-tuned CNN using GradGAM and guided backpropagation",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Web data collection and synced Tableau visualization of COVID-19 in Ukraine",
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sinameraji",
+            "name": "Sina Meraji",
+            "summary": "Building in AI x Learning x Community",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roman-sevast",
+            "name": "Roman Sevast",
+            "summary": "Founder & CEO at Awesomic (Y Combinator S21, Forbes 30under30)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jky116",
+            "name": "Joe Kim",
+            "summary": "Building HypeLab, a web3 ad network",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sdianahu",
+            "name": "Diana Hu",
+            "summary": "Group Partner at Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jonathantkennedy",
+            "name": "Jonathan Kennedy",
+            "summary": "Founder, AppStoreResearch | User Research Recruitment for eCommerce Saas",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nikita-kozlov-partnerships",
+            "name": "Nikita Kozlov",
+            "summary": "BD / Partnerships / Network / Web3",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zlumer",
+            "name": "Dmitry Radkovskiy",
+            "summary": "Co-Founder & CTO @ Slise",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sofiiashvets",
+            "name": "Sofiia Shvets",
+            "summary": "CEO Claid.ai, Let's Enhance - We create beautiful product images with Generative AI | Forbes 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/justin-vogel",
+            "name": "Justin Vogel",
+            "summary": "Co-founder of Safary \ud83e\udd81 | web3 growth",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/garrytan",
+            "name": "Garry Tan",
+            "summary": "President & CEO, Y Combinator",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Oleksii Sidorov",
+            "link": "https://de.linkedin.com/in/oleksii-sidorov-358127a9",
+            "summary": "Motion Designer",
+            "location": "Oldenburg"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

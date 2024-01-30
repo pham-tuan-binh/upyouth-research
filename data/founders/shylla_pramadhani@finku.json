@@ -1,0 +1,609 @@
+{
+    "public_identifier": "shylla",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/shylla/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221306Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0b31d7537fdfa1f509a621cf3575d7b0d003bb9b47a6e01f5f6414d3c0d2b3bc",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/shylla/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221306Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8af8b6d0958c844a132659cfb97677dd5c3eeaf92a758a114ce815b884ef1dca",
+    "first_name": "Shylla",
+    "last_name": "Estee Pramadhani",
+    "full_name": "Shylla Estee Pramadhani",
+    "follower_count": null,
+    "occupation": "Co-Founder at Finku",
+    "headline": "Co-Founder at Finku (YC W22)",
+    "summary": "Hey! I'm Shylla, a fintech startup co-founder, previously a product designer. With many years of working in the design & tech field, I've strategized & designed digital products for various industries (e-Commerce, Fintech, Travel, etc.) on multiple platforms (iOS, Android, desktop web, and mobile web).\n\nWhat excites me:\n1. Turning abstract things into something concrete\n2. Meeting new people and exchanging knowledge & experiences\n3. Observing people's behavior \u2013 they're full of surprises!\n4. Trying out new things that will somehow inspire me in some way\n5. In my spare time: playing competitive games with friends bc I'm lowkey competitive \ud83d\ude08\n\nAlso: I'm always up for catch ups or knowledge exchanges \u2013 from digital product design to branding strategy. Let me know if I can help you with any kind of initiatives you have! \ud83d\udc83\ud83c\udffb",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Finku",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/finku/",
+            "title": "Co-Founder",
+            "description": "Democratizing finance for Indonesians \ud83d\ude06\u2728\nDoing product, design & experience, growth & marketing, and lots of random but exciting stuff!\nTry our app now, download through Play Store or App Store! \ud83d\ude09",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFOTqwbiO9qng/company-logo_400_400/0/1621171869009?e=1668643200&v=beta&t=Ijl8eON4khYDc1aIiBOHwpOSOStcICZSmB6nvkzcwyM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Bukalapak",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-bukalapak-com/",
+            "title": "Senior Product Designer; Shopping Experience - Upper Funnel",
+            "description": "Worked for Shopping Experience tribe - upper funnel\n\nExperimented various initiative to increase homepage to search and homepage to product detail page funnel\n\nPromoted to Senior Product Designer mostly based on  review during Q1-Q2 2020, officially promoted after Q4 2020 due to company-wide promotion cycle postpone in mid 2020.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQGC-91AXtMCHQ/company-logo_400_400/0/1585543979975?e=1668643200&v=beta&t=5793KjM599elllNDqgjXPJHgsG_FI-zqLvjy15jBKZE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "eBay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ebay/",
+            "title": "Product Designer; Gumtree",
+            "description": "Designed products for various platform - Desktop, iOS, and Android. Given business & user context, generated user flow & information architecture, designed low to high fidelity prototype, conducted quick usability testing",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFfGj-Xuawo6A/company-logo_400_400/0/1634568184091?e=1668643200&v=beta&t=v4w0DvO3ARXhGkuCWxUVOv_E3ysOSgL9RzFCfyIhKXY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "RISTEK Fakultas Ilmu Komputer Universitas Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ristek-fakultas-ilmu-komputer-universitas-indonesia/",
+            "title": "Head of Product Design & Research Club",
+            "description": "- Trained 10 member about Product Design (UX Research, translating research insights to product concepts, UX Design)\n- 6 among 10 trained members got an internship as Product Designer in various top IT companies in Indonesia\n- Trained 50 of CS UI students about Introduction to UI Design",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGjdH4xEp3Q9w/company-logo_400_400/0/1615436063717?e=1668643200&v=beta&t=brGkweBk5Iv2wCBNUb3rCIFXCSJNyzz030pa69IaG-4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "University of Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-indonesia/",
+            "title": "Teaching Assistant of Human-Computer Interaction (HCI)",
+            "description": "Tutored, led, and assessed around 25 students to do their project, from User Research, Concept Synthesis, Low to High Fidelity Prototyping, to Usability Testing.",
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1519952524993?e=1668643200&v=beta&t=h6g_SDMkOLeNa06McTNwlORRAPvZfyuXOMn_Wmax9kw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Traveloka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traveloka/",
+            "title": "Product Designer; Flight",
+            "description": "Worked on data enrichment for Flight feature in Traveloka for Desktop. Assisted in user interview, generated user context, used Crazy8 method to make wireframes, designed low to high fidelity prototype, conducted usability testing & usability review",
+            "location": "Jakarta",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEJd-tOXWBrcw/company-logo_400_400/0/1643085366647?e=1668643200&v=beta&t=NRfevLoyoe1CZZpZylmH4Ulj5DIBGOlWP9M2wyBV1m8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "HappyFresh",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/happyfresh/",
+            "title": "Product Designer & Software Engineer",
+            "description": "Software engineering class from Universitas Indonesia where they partnered with HappyFresh, created E2E auto replacement system for out of stock items in the groceries",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFdvAzaRG7uWQ/company-logo_400_400/0/1619499994242?e=1668643200&v=beta&t=-u6-IcVueidSZuLCihEQ3xrVwaJoAr4vtOe6Z-6YM-M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Xendit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xendit/",
+            "title": "Product Designer",
+            "description": "One of Xendit's first batch interns! Did product design & marketing design for their early products.",
+            "location": "East Hive",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_400_400/0/1607674694387?e=1668643200&v=beta&t=5tAdJPAKCiOOnwXTIffymYpSeJ4-DkKb5XQNNDcqbSY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "Somia Customer Experience",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/somiacx/",
+            "title": "UX & Product Design Trainee",
+            "description": "In a team consists of four, I was trained on how to make a good product with UX approach - from problem definition, user research, interaction design, testing & prototyping, communication design.",
+            "location": "East Hive",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEsER_yX9sGmQ/company-logo_400_400/0/1519898956840?e=1668643200&v=beta&t=yBohVXOZ2KMZ_4Lpdl3l2DUeIrOOdzD5jsn9JkbLtVU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Kitabisa.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kitabisa.com/",
+            "title": "Graphic & Product Designer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQHFSC01SN5rog/company-logo_400_400/0/1519870638704?e=1668643200&v=beta&t=abCNXyDpiVkEWq90mrcGmNeCN4oWlz-RLuPf-5-k-6Q"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "W22 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_400_400/0/1519894128493?e=1668643200&v=beta&t=0T1f8rQbxwuNFyKyKCbWsQFyi3HJfFzdt0Xt6ZIIOlc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's Degree",
+            "school": "University of Indonesia",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1519952524993?e=1668643200&v=beta&t=h6g_SDMkOLeNa06McTNwlORRAPvZfyuXOMn_Wmax9kw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "field_of_study": "Natural Sciences",
+            "degree_name": "High School Diploma",
+            "school": "SMA Labschool Jakarta",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_400_400/0/1519894128493?e=1661385600&v=beta&t=VnxCf_nH4HVFCaajzUUmDMycmuuaSZmVI-5PYnBbIYw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian",
+        "Japanese"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "org_name": "Ristek Fasilkom UI 2016",
+            "title": "Head of UI/UX Special Interest Group",
+            "description": "As head of UI/UX SIG, I am responsible to conduct all projects related to UI/UX including UI/UX internal class, UI/UX summer course, UI/UX competition, seminars, workshops, etc. Not only that, we also have to help another SIGs (WebDev, MobAppDev, GameDev, etc) to build products with good UI/UX. UI/UX SIG has 9 members (excluded me). In the first 6 months, I have to train the 9 members about UI/UX Design Process from User Research to Usability Testing. In the last 6 months all the members of UI/UX SIG have to conduct some events (or similar) to spread the UI/UX excitement to the whole students of Fasilkom UI, UI, even public."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "org_name": "DPM Fasilkom UI 2015",
+            "title": "Staff of Media Bureau",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "org_name": "Ristek Fasilkom UI 2015",
+            "title": "Member of UI/UX Special Interest Group",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "org_name": "BEM Fasilkom UI 2014",
+            "title": "Staff of Media Bureau",
+            "description": "Person in charge of visual design of all publication that will be publicated by the organization"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "org_name": "DPM UI 2014",
+            "title": "Staff of Media Division",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "org_name": "MPK SMA Labschool Jakarta",
+            "title": "Public Relations",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "org_name": "OSIS SMP Labschool Jakarta",
+            "title": "Vice President",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "1st Winner of Interaction & Design Category",
+            "issuer": "Bukalapak Hackathon 2017",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "description": "- Teamed up with 1 Associate Product Manager and 3 Software Engineers\n- Researched and analysed various problems regarding Bukalapak's user journey.\n- Concepted, designed, and developed a new feature for Bukalapak, buyer-side and seller-side, for both Desktop and Mobile Application.\n- Announced as the 1st winner of Interaction & Design category among 50+ teams"
+        },
+        {
+            "title": "Winner of Jakarta Round & Top 8 Finalist of Final Round for Open Category",
+            "issuer": "Singapore Airlines Apps Challenge",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "description": "- Teamed up with 1 Business Analyst and 2 Software Engineers\n- Researched & analyzed about millenials' behaviour towards Singapore Airlines' loyalty program & miles system.\n- Concepted & designed the brand new KrisFlyer app (Singapore Airlines' loyalty program) with new business model and interaction."
+        },
+        {
+            "title": "Best User Experience Award",
+            "issuer": "Bukalapak Hackathon 2017",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "description": "- Teamed up with 1 Associate Product Manager and 3 Software Engineers\n- Researched and analysed problems regarding Bukalapak internal teams' behaviour.\n- Concepted, designed, and developed a web platform that consists of several applications needed by company's internal teams\n- Announced as the winner of Best User Experience Award"
+        },
+        {
+            "title": "Gold Medal (1st Winner) for ICT Business Development Competition in GEMASTIK9",
+            "issuer": "GEMASTIK9 by Ristek Dikti",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "description": "Our team won this competition with the web-based platform Quint. Quint is an internship matchmaking that connects talented students, top universities, and qualified companies. We have launched our MVP in early 2016 and connected 60+ talented students with 13+ qualified companies, which 13 of them finally accepted as interns in 6 qualified companies."
+        },
+        {
+            "title": "Gold Medal (1st Winner) for User Experience Design Competition in GEMASTIK9",
+            "issuer": "GEMASTIK9 by Ristek Dikti",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "description": "Our team won this competition with the Digital Information Board application named TransMeet. TransMeet tries to solve problems about transportation in Universitas Indonesia's bus shelters. We've been developing TransMeet since mid 2015, and now we're in the middle of our fifth iterations."
+        },
+        {
+            "title": "3rd winner of Mobile Game Development with a game called \"Amba\"",
+            "issuer": "GEMASTIK7 by Ristek Dikti",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "description": "Was held in University of Gadjah Mada, Yogyakarta, Indonesia, GEMASTIK7 is a series of prestigious IT competition held by Indonesia's Directorate of General Higher Education. For the Game Development Competition, we went through 3 stages - first elimination stage (Game Design Documentation, Gameplay Video, Mockup), second elimination stage (Executable File), and final stage (Live Coding, Pitching)."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Artificial Intelligence",
+            "number": "-"
+        },
+        {
+            "name": "Basic Physics 1",
+            "number": "-"
+        },
+        {
+            "name": "Basic Physics 2",
+            "number": "-"
+        },
+        {
+            "name": "Calculus 1",
+            "number": "-"
+        },
+        {
+            "name": "Calculus 2",
+            "number": "-"
+        },
+        {
+            "name": "Computer Networks",
+            "number": "-"
+        },
+        {
+            "name": "Computer-Based Learning",
+            "number": "-"
+        },
+        {
+            "name": "Data Structures & Algorithms",
+            "number": "-"
+        },
+        {
+            "name": "Database",
+            "number": "-"
+        },
+        {
+            "name": "Design & Analysis of Algorithm",
+            "number": "-"
+        },
+        {
+            "name": "Discrete Math 1",
+            "number": "-"
+        },
+        {
+            "name": "Discrete Math 2",
+            "number": "-"
+        },
+        {
+            "name": "Foundations of Programming",
+            "number": "-"
+        },
+        {
+            "name": "Functional Programming",
+            "number": "-"
+        },
+        {
+            "name": "Human Computer Interaction",
+            "number": "-"
+        },
+        {
+            "name": "Integrated Personality Development Skills (A)",
+            "number": "-"
+        },
+        {
+            "name": "Integrated Personality Development Skills (B)",
+            "number": "-"
+        },
+        {
+            "name": "Introduction to Computer Organization",
+            "number": "-"
+        },
+        {
+            "name": "Introduction to Digital System",
+            "number": "-"
+        },
+        {
+            "name": "Language Theory & Automata",
+            "number": "-"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "HappyFresh's Out of Stock Management System",
+            "description": "Working mainly as UI/UX Designer and partially as Software Engineer, we tried to solve HappyFresh's Out of Stock Management Problem by making a platform for HappyFresh's internal team. As the only UI/UX Designer, I made the UI guideline, wireframe, prototype and high fidelity mockups. As Software Engineer, I made several functions and features for the platform.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Quint.id",
+            "description": "Quint is an internship match-making platform for talented students, qualified companies, and top universities. We have validated our proposed problem to both students and companies with various research methods. We made dealings with 10 companies in 10 days and got 50+ applicants in our first three weeks - which some of them are accepted in the company they registered to.",
+            "url": "http://quint.id"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": null,
+            "title": "TransMeet - A kiosk application prototype",
+            "description": "We first started it as a final project for Human Computer Interaction lecture at college. After doing several interviews with various people in Universitas Indonesia, we decided to make it happen. We're still on our way, though.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Amba (Mobile Game Application)",
+            "description": "As both of UI/UX Designer and Illustrator in the team, I was responsible to create an efficient interaction between the game and the player, illustrate the game assets & backgrounds, and make game UI prototypes.\n\nAmba is a mobile game application in Android OS that exposes Batik as the main theme of the game. In the game, player has to lead Pak Kartono, the main character, by drawing lines to the portal that will bring him to the next level. Now, Amba already has three stages that every stage consists of 15 levels. Every stage represents a unique world of a Batik pattern, and player can learn more about Batik in each stage by making achievements completed.\n\nAmba won a bronze medal in a national-scaled IT competition in Indonesia, GEMASTIK7.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            },
+            "title": "NomNom Pot",
+            "description": "NomNom Pot is a brand of food product made by Potato. We released three kinds of product: Potato Twist, Potato Chips, and Mashed Potato. Also, customers could taste our food with several variants of flavour.\n\nBeside marketing stuff, I also worked as Visual Designer for the packaging of the products and for every publication needs.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Indie Prize Showcase Volunteer on Casual Connect Singapore 2016",
+            "cause": "Science_and_technology",
+            "company": "Casual Games Association",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/computer-games-association",
+            "description": "Working as Indie Prize Showcase Volunteer in Casual Connect Asia 2016, Hard Rock Hotel Sentosa, Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFwWUmGSyMrJQ/company-logo_100_100/0/1519911678772?e=1643846400&v=beta&t=VargW5ZOb3dZSAuIc1Yk37GOViZalMvZzjYvYq3KmRM"
+        }
+    ],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Hanif Ibadurrahman\n\n\n\nShylla is truly one of a kind. She has a great positive energy that spreads to the people she worked with. We worked together when we were crafting solutions for the national competition of UX (Gemastik), and her enthusiasm, ambition, and of course her creativity and hard work helped our team to become the winner in that competition. I highly recommend her to be part of your team if you are looking for a smart, creative, and enthusiastic designer.",
+        "Rivandi Anjas\n\n\n\nShylla is a wellspring of fresh ideas while also being the frontline of design executions. Working with her has always been a fun and insightful experience; even when working with various stakeholder backgrounds and minimum briefs, Shylla can quickly adapt and find her way to achieve extraordinary outcomes. All in all, it's always a pleasure working with her and I can't recommend her highly enough to join your design team!",
+        "Wigy Ramadhan\n\n\n\nShylla is the most creative product designer I have worked with, she is a very fast thinker and always delivers design ideas that we never thought of before. Despite not being formally trained as a designer, Shylla has a great visual sense and can produce high-quality aesthetics that will surprise you, yet are functional and easy to understand for users."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

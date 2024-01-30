@@ -1,0 +1,323 @@
+{
+    "public_identifier": "yasaman-nemat",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yasaman-nemat/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221530Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=acd4a16863fd8eb828d71e40bb34dc54a171ad4f8b30ee14d4445f6a4a7d1f2f",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yasaman-nemat/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221530Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=24cb4a3fae376546d1cca53882f152fecd4026aa541f4c1b1cba12640b3ca912",
+    "first_name": "Yasaman",
+    "last_name": "Nematbakhsh, PhD",
+    "full_name": "Yasaman Nematbakhsh, PhD",
+    "follower_count": 3091,
+    "occupation": "Co-Founder & CPO at Adra (YC S21)",
+    "headline": "Co-Founder at Adra (YC S21) \ud83e\uddb7",
+    "summary": "I am a scientist turned entrepreneur.  I am always interested to connect with like-minded individuals who are interested in technology and entrepreneurship.\n\nI can be contacted directly at yasaman@adra.ai",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Adra (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/adra-ai",
+            "title": "Co-Founder & CPO",
+            "description": "Dentists have less training compared to radiologists in interpreting radiographs; yet, radiographs are a major tool that dentists rely on to evaluate, diagnose, treat and prevent. Dentists may misdiagnose in up to 40% of the cases that can cost both the clinic and patients' time and money. Adra is a cloud-based AI platform that aims to revolutionize dental diagnosis by improving dental diagnosis accuracy, promote early diagnosis and reduce misdiagnosis & unnecessary treatments. ",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEr2h1mJwVbOg/company-logo_400_400/0/1664542063187/adra_ai_logo?e=1712793600&v=beta&t=1FJf-bJ0cGpjtApLB-wn2OhNs-C5LdqHKUzX10n-9PU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "42LAB",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/42lab",
+            "title": "CEO & Cofounder",
+            "description": "42LAB is the first modular, portable and affordable biotech laboratory for students. With Science, Technology, Engineering and Mathematics (STEM) education becoming required in OECD countries, most schools struggle to introduce biotechnology to their students due to high equipment cost and troublesome experiment preparation. 42LAB solves this problem by providing a portable modular biotech equipment for students to conduct experiments as well as a companion app which serves as an electronic manual for students and a management tool for teachers. Its vision is to bring biotech experience to every student like what Raspberry pi does for computer science.\n\nKey Contributions:\n-Led development of 200+ hours of research informed pedagogy from pre-school (early childhood) to secondary school level according to local and international curriculum (IB & NGSS).\n-Directed scientific research and development (R&D) to evaluate adaptability of developed lesson plans for each level.\n-Planned executions in the company.\n-Raised pre-seed funding and grants.\n-Directed sales and customer development, conducted market research, and promoted our brand through presentations, events and exhibitions.\n-Established strategic partnerships with key players in the education sector such as Marshall Cavendish Education and Popular Bookstore.\n\n-Second Runner Up in SheLovesTech (Singapore, 2019)\n-Top 5 Finalist, Startcon (Hong Kong 2019)\n-Top 5 Finalist, Global Edtech (Education Technology) Innovation Startup Competition (Abu Dhabi, 2018)\n-Winner in Project Alpha Singapore Startup Competition (Singapore 2018)\n-Top 8 Finalist, Cocoon 60th Pitch Night (Hong Kong, 2018)\n-Top 8 Finalist, Seedstars Singapore Region (Singapore, 2018)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHmd7h0OxGy9w/company-logo_400_400/0/1630606235019/42lab_logo?e=1712793600&v=beta&t=SvIcbu11-ofrDiOJJbVddVDn5kJudyAUeUCpaSZ4Gvw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Ladies Investment Club (L.I.C.)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/licvc",
+            "title": "Scientific Consultant",
+            "description": "Served as a consultant performing scientific due diligence processes for shortlisted startups",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHhyhSkfGzzEA/company-logo_400_400/0/1630591010196/licvc_logo?e=1712793600&v=beta&t=Vf6rU3RQ1ri0AcsaZH9Qw8EtU_ztR38SgomAD4MBVUk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first",
+            "title": "Fellow",
+            "description": "Cofounded an Edtech startup to bring affordable and portable biotechnology and life science experiment kits to K-12 education.\n-Designed and developed a working prototype of a biotech mini laboratory for education\n-Secured 3 memorandum of understandings\n-Pitched to Investment Committee and received pre-seed funding ",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "Research Scholar",
+            "description": "Thesis: I investigated the correlation between the mechanical properties of breast cancer cells and circulating tumor cells in the blood and their metastatic potential.\nKey contributions:\n-Conducted scientific research on projects in the areas of cancer mechanics, microfluidics, cancer diagnostics, cell mechanics, drug screening and flexible microfluidics.\n- Designed, prototyped & developed the first high-throughput deform & trap microfluidic device to measure mechanical & biological properties of cancer cells.\n-Performed wet-lab & cell mechanics scientific research, using Atomic Force Microscope, Confocal Microscope, Fluorescent Microscope, Confocal Microscope, Syringe pump, Immunocytochemistry & Immunofluorescence.\n- Processed & analyzed 70+ clinical blood samples from breast cancer patients to investigate the mechanical properties of circulating\ntumor cells.\n- Trained & supervised 10 final year project students, summer interns & collaborators to conduct meaningful research.\n- Developed a high-throughput data analysis program with capacity to process up\nto 10k cells/min.\n- Presented and shared scientific findings in prestigious conferences.\n- Collaborated with research groups in Singapore, Sweden and China.\n- Received Best poster presentation award at WACBE World Congress in Bioengineering (Singapore, 2015)\n- Received full scholarship from NUS Graduate School for Integrative Sciences and Engineering (NGS)",
+            "location": "Nano-Biomechanics Lab, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "Graduate Teaching Assistant",
+            "description": "Assisted in teaching for biomedical engineering courses, monitored student progress and assisted students in accomplishing established learning objectives. \nAssisted professor in running the course, lesson planning, grading assignments, and holding office hours.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Georgia Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+            "title": "Research Scholar",
+            "description": "Project goal: Study the local and global mechanical properties of tissue engineered blood vessels constructed by self assembly.\nResponsibilities:\n- Developed a mathematical model to better understand how geometrical parameters affect the mechanical properties of doublelayer tissue engineered blood vessels constructed by self assembly.\n- Identified fabrication parameters for these vessels that impart mechanical response close to that of the native blood vessels.\n- Cultured cells to make SA-TEBV using fibroblasts and endothelial cells.\n- Designed a mechanical testing apparatus to perform mechanical testings (shear & circumferential stress analysis) on constructed vessels to validate the theoretical analysis.",
+            "location": "United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1712793600&v=beta&t=wyxwYUXEom9rRrMg2u3cjDYqUZBo94yhxmzs-J5ipwQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Biomedical Engineering, Cancer mechanics & Microfluidics",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "description": "Received NUS Graduate School for Integrative Science and Engineering (NGS) Fellowship and studied the mechanical properties of breast cancer cells and circulating tumor cells.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Bioengineering and Biomedical Engineering",
+            "degree_name": "Master's degree",
+            "school": "Georgia Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+            "description": "Received the prestigious National Science Foundation Scholarship for my graduate studies. ",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1712793600&v=beta&t=wyxwYUXEom9rRrMg2u3cjDYqUZBo94yhxmzs-J5ipwQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Mechanical Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "Georgia Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+            "description": "Graduated with honors; Received numerous scholarships such as President Undergraduate Research Award (twice), Women in Engineering Scholarship (twice), General Electric Scholarship, NSF funded Tech to Teaching SURE Program, etc.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1712793600&v=beta&t=wyxwYUXEom9rRrMg2u3cjDYqUZBo94yhxmzs-J5ipwQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Flagellum couples cell shape to motility in Trypanosoma brucei",
+            "publisher": "Proceedings of the National Academy of Sciences",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://www.pnas.org/content/115/26/E5916"
+        },
+        {
+            "name": "Mechanical Stretch Kills Transformed Cancer Cells",
+            "publisher": "BioRxiv The preprint server for biology",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://www.biorxiv.org/content/10.1101/491746v2"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Second Runner Up at SheLovesTech Singapore",
+            "issuer": "",
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Top 5 Global Edtech Innovation Startup Competition ",
+            "issuer": "",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "title": "Student Mentor",
+            "cause": "Education",
+            "company": "PSB Academy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/2764803/",
+            "description": "Help students in resume and cover letter writing, major selection, and job hunting.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEr8qafhdtijQ/company-logo_400_400/0/1631342075367?e=1712793600&v=beta&t=Kz0uVUbsvOdzoAyJ4hEVRm3phziRtUCI0si5ENeI1Lo"
+        }
+    ],
+    "certifications": [],
+    "connections": 3067,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/alex-stec",
+            "name": "Alex Stec",
+            "summary": "Co-Founder at Potion (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vaibsite",
+            "name": "Vaibhav Saxena",
+            "summary": "Co-founder @ infer.so (YC S21) | Humane voice bots with infinite memory",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/liushifeng-c",
+            "name": "Liushifeng C.",
+            "summary": "\ud83e\uddb7\ud83c\udfe0",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kartikye",
+            "name": "Kartikye Mittal",
+            "summary": "CTO & Co-Founder at Dots (YC S21) | Automate your payouts with one line of code \u26a1",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pierre-de-poulpiquet-28ba1a95",
+            "name": "Pierre de Poulpiquet",
+            "summary": "Co-Founder / Customers / Tech @ Whaly.io (YC S21) \ud83d\udc33",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Sakthivel Baskaran\n\n\n\nI had the pleasure of working with Yasaman at Adra, reporting to her directly for my AI & ML internship. Despite the short duration of the internship, I got to see many of her very admirable qualities, as a Leader and a Technologist. She showed genuine care and concern in the personal development of those under her charge and would go out of the way to help them get closer to reaching their respective goals and aspirations. In her team no one was left feeling like a tiny cog in a bigger machine but rather everyone was motivated by her direction and vision to bring Adra to greater heights. I am confident anyone would be lucky to work together with Yasaman at any level. Wishing for greater things for Adra and Yasaman"
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQHpVyeOSdBH6A/group-logo_image-shrink_48x48/0/1682076234248?e=1705453200&v=beta&t=antYM8BV2TtONvjagIEBCqidolWJRfBloMDlDwwmjUM",
+            "name": "Dental Sales Professionals",
+            "url": "https://www.linkedin.com/groups/122554"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHgEoH6SWTxOg/group-logo_image-shrink_48x48/0/1631411011024?e=1705453200&v=beta&t=hXZ_ykbcg8A38JyEPyYbOT6pd_ZNp3HnHOJmgC6HlxU",
+            "name": "Artificial Neural Networks",
+            "url": "https://www.linkedin.com/groups/77471"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

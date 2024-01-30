@@ -1,0 +1,1024 @@
+{
+    "public_identifier": "sandhyasriram",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sandhyasriram/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221700Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=91010da8adfd81ed7673d9a5de809bf53ae03c35dc3699fd1fcf00aec4a91b30",
+    "background_cover_image_url": null,
+    "first_name": "Sandhya",
+    "last_name": "Sriram, PhD",
+    "full_name": "Sandhya Sriram, PhD",
+    "follower_count": 13221,
+    "occupation": "Group CEO at Gaiafoods",
+    "headline": "Group CEO & Co-Founder, Shiok Meats Pte. Ltd. | 2021 Bloomberg New Economy Catalyst | Forbes Women in Tech | Investor, Ecosystem builder, Advisor, Mentor",
+    "summary": "Dr. Sandhya Sriram is the Group CEO and Co-founder of Shiok Meats Pte. Ltd., Singapore, the first cell-based seafood & meat company in Southeast Asia and the first cell-based Crustacean company globally. With her at the helm, Shiok Meats has raised USD 30 Million in funding since its inception in 2018, from a global suite of investors - USA, Europe, Singapore, Japan, South Korea to name a few. Shiok Meats also acquired Gaia Foods, a cultivated red meat company, headquartered in Singapore as well.\n\nA stem cell biologist and scientist by training and education, a former business development professional, a serial entrepreneur, and a thought leader - all in one - Sandhya was recently named as part of the 2021 class of Bloomberg New Economy Catalysts and as one of Forbes Women in Tech. \n\nShe is also an advisor, mentor and investor to trailblazing Food Tech start-ups and has spoken at leading industry conferences worldwide. A proud mother to a 10-year-old son and 3-year-old daughter, a conscious lifestyle blogger, and an avid traveller, Sandhya likes to call herself a productive juggler. She is extremely passionate about ecosystem building.\n\nSandhya has over ten years of experience working with muscle, adipose, cells, and stem cells. After graduating with a Ph.D. from Nanyang Technological University in Singapore, Sandhya pursued her postdoctoral work at A*STAR in Singapore. Following four years of postdoctoral work, she took up business development at a research institute.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Joyful Ventures",
+            "company_linkedin_profile_url": null,
+            "title": "Advisor",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Asia New Zealand Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/asia-new-zealand-foundation/",
+            "title": "Young Business Leader",
+            "description": null,
+            "location": "New Zealand",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGP86vMkUrb4Q/company-logo_400_400/0/1562281449981?e=1704326400&v=beta&t=YsFVR8BXcs8uPWHEpPicBshjFOvxQmKYPoJkak-o3JY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Gaiafoods",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gaiafoods/",
+            "title": "Group CEO",
+            "description": "Gaia Foods (subsidiary of Shiok Meats Pte. Ltd.) is SEA's first clean red meat company producing meat using stem cell technology and cellular agriculture",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGlZm4wGXzEgQ/company-logo_400_400/0/1595570634324?e=1704326400&v=beta&t=5JY04I91fRfKnBJHX0jbupY_s_fNoqndHnVRm_00U3I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "J.P. Morgan",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorgan/",
+            "title": "Top 100 Women-Powered, High-Growth Businesses in Asia Pacific",
+            "description": "https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/documents/en/other/22420-APAC-EY-Report_Eng_(e-version).pdf",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/0/1630056226107?e=1704326400&v=beta&t=Jqt_WSq8Kvz74583JtokYN7dreEKybHeaUaai6mKPMY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "PHYX44 LABS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/phyx44/",
+            "title": "Investor",
+            "description": null,
+            "location": "India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHcXH4AeQ85Vw/company-logo_400_400/0/1667973030042?e=1704326400&v=beta&t=73wkzNDQ3gMN4Wh4c2l7t0OoN-3JyNnxcKws5xUR1o4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Pri Bakes",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pribakes/",
+            "title": "Investor",
+            "description": null,
+            "location": "United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHRSeFPu74Ogw/company-logo_400_400/0/1670854371618?e=1704326400&v=beta&t=-iCe_P0MTjaZVL8F_MiAxLqvVoosrs3leSyqsWTuOtA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Shiok Meats",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/shiokmeats/",
+            "title": "Group CEO & Co-founder",
+            "description": "Shiok Meats is a cell-based meat and seafood company \u2013 the first of its kind in Singapore and South-East Asia.\n\u201cShiok\u201d in Singapore and Malay slang means fantastic, delicious, and simply, pleasure.\nOur mission is to bring delicious, sustainable, and healthy seafood to your table, using our technology to grow meat from healthy cells instead of animals. Currently, we produce crustaceans like shrimps, crabs, lobsters and are the first in the world to do so using cellular agriculture technology.\nOur meats are real meat, delicious, nutritious and are animal-, health- and environment-friendly.\nSame great taste, better for the planet!\nShiok Meats Pte. Ltd. also holds Gaia Foods (cell-based red meat company)",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEwOVOQha0Gsw/company-logo_400_400/0/1656572979226?e=1704326400&v=beta&t=dtsPFEyciEgxS3EjR1qRj_mKzoRlstGRL8YrxDba-bY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Women Venture Asia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/women-venture-asia/",
+            "title": "Founding Board Member",
+            "description": "Women Venture Asia aims to unleash the power of women entrepreneurs by providing access to networks and building a vibrant ecosystem of women entrepreneurs, investors and business leaders with a shared purpose of addressing the gender gap in entrepreneurship.\n\nOur initiatives and activities are designed to catalyze true transformation. We aim to contribute towards building an inclusive economy where women reach their full potential, because when women thrive, economies and societies thrive.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEgRHYI9yM3Rg/company-logo_400_400/0/1661787938433?e=1704326400&v=beta&t=0dlWbU29Yfy5amA76uzzpbL1N4dhUT5MXmmTac_VgUk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Tech Pioneer 2023",
+            "description": "Shiok Meats has been selected to join the TechPioneers Class of 2023! \n#techpioneers23. \nRead more about this year\u2019s class and about their inspiring work: wef.ch/techpioneers23",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1533712023777?e=1704326400&v=beta&t=CntWdKXzV_CR4phROPWb9uaO-HIjsuoWJNtcfOFCNK4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Council Member",
+            "description": "Council member - Global Future Council on the Future of Food and Water Security",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1533712023777?e=1704326400&v=beta&t=CntWdKXzV_CR4phROPWb9uaO-HIjsuoWJNtcfOFCNK4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Nanyang Technological University Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/ntusg/",
+            "title": "Advisory Board Member",
+            "description": "Advisory Board Member, College of Science, Nanyang Technological University",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682215525?e=1704326400&v=beta&t=3VjD-EJo9tf9R9JBONwARqqNCsmjhvf8ONErs9EISjY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Biological Sciences, School of Biological Sciences",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682215525?e=1704326400&v=beta&t=3VjD-EJo9tf9R9JBONwARqqNCsmjhvf8ONErs9EISjY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": "CPR and Automated External Defibrillation (AED) Training",
+            "school": "Nanyang Technological University Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/0/1656682215525?e=1704326400&v=beta&t=3VjD-EJo9tf9R9JBONwARqqNCsmjhvf8ONErs9EISjY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Project Management",
+            "degree_name": "NICF-PMP\u00ae for Project Managers Course",
+            "school": "Institute of Systems Sciences, National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "\u2022\tManage Project Costs (National Infocomm Competency Framework) \u2013 2016.\n\u2022\tManage Project Procurement (National Infocomm Competency Framework) \u2013 2016.\n\u2022\tManage Project Team (National Infocomm Competency Framework) \u2013 2016."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Science Communications Training",
+            "school": "A*STAR",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Office of Science Communications and Archives"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Competency Training on Procurement Governance & Crafting Specifications",
+            "school": "A*STAR",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": "Responsible Care and Use of Laboratory Animals ",
+            "school": "A*STAR",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": null,
+            "degree_name": "Responsible Care and Use of Laboratory Animals ",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1519856127538?e=1704326400&v=beta&t=VCUdd2xDtKBWCf5iPRLMqF8dc_FpZN4HL_1Pmeiyqu8",
+            "grade": null,
+            "activities_and_societies": "NUS Laboratory Animals Centre"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": "Biotechnology",
+            "degree_name": "Master's Degree",
+            "school": "University of Madras",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFnYPDIXmEmVA/company-logo_400_400/0/1519901065593?e=1704326400&v=beta&t=VLwYy1_u51JjVkYJ-RX6P1amz-C1gmNs3uoei4I-Vuc",
+            "grade": "First Class-2nd Rank",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Company Secretary",
+            "degree_name": "Executive Programme ",
+            "school": "The Institute of Company Secretaries of India",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGlclAvrap42A/company-logo_400_400/0/1519908818740?e=1704326400&v=beta&t=mV5L_urtbqEYZq1bpUT_-R-roZc0yZyhL4j3PFRNHqk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Clinical Laboratory Science/Medical Technology/Technologist",
+            "degree_name": "Certificate Course",
+            "school": "Loyola College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGBYC3zcE2bEw/company-logo_400_400/0/1519874712145?e=1704326400&v=beta&t=SFNKqhSRSJshqscBj6ZyHuJvSdbxgtGpVhbAbFTPJvM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Microbiology",
+            "degree_name": "Bachelor's Degree",
+            "school": "University of Madras",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFnYPDIXmEmVA/company-logo_400_400/0/1519901065593?e=1704326400&v=beta&t=VLwYy1_u51JjVkYJ-RX6P1amz-C1gmNs3uoei4I-Vuc",
+            "grade": "First Class with Distinction-1st Rank",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": null,
+            "org_name": "Singapore Leaders of Tomorrow (SLoT) Forum, Global Biotech Revolution",
+            "title": "Vice President and Finance Manager",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": null,
+            "org_name": "Life Science Archives - JPS Scientific Publications",
+            "title": "Editorial Board Member and Advisory Board Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "Stem Cell Society Singapore (SCSS)",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "A*PECSS (A*STAR postdoc and early career scientist society)",
+            "title": "Vice President and Publicity chair",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Collaborate, not compete",
+            "publisher": "Nature Biotechnology Trade Secrets blog \u2013 Bioentrepreneur",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": null,
+            "url": "http://blogs.nature.com/tradesecrets/2017/03/30/collaborate-not-compete"
+        },
+        {
+            "name": "Diffuse Optical Spectroscopy and Imaging to Detect and Quantify Adipose Tissue Browning",
+            "publisher": "Scientific Reports",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": null,
+            "url": "https://www.nature.com/articles/srep41357"
+        },
+        {
+            "name": "Adipocyte sphingolipids regulate subcutaneous adipose browning, inflammation and metabolism",
+            "publisher": "Cell Metabolism",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://www.cell.com/cell-metabolism/pdf/S1550-4131(16)30533-2.pdf"
+        },
+        {
+            "name": "Stem cells in dentistry: potential applications and perspectives in clinical research",
+            "publisher": "Stem cells in clinical applications (Book)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://www.springer.com/series/14002"
+        },
+        {
+            "name": "The impact of the media on scientific research",
+            "publisher": "A*STAR Research Voices from A*STAR blog",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://www.research.a-star.edu.sg/blog/7620/the-impact-of-the-media-on-scientific-research"
+        },
+        {
+            "name": "Retinoic acid is abundantly detected in different depots of adipose tissue by SERS",
+            "publisher": "Adipocyte",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://tandfonline.com/doi/abs/10.1080/21623945.2016.1245817?journalCode=kadi20"
+        },
+        {
+            "name": "Bio-leaders of Tomorrow",
+            "publisher": "Nature Biotechnology Trade Secrets blog",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://blogs.nature.com/tradesecrets/2016/08/23/bio-leaders-of-tomorrow"
+        },
+        {
+            "name": "Retinoic Acid Mediates Visceral-specific Adipogenic Defects of Human Adipose-derived Stem Cells",
+            "publisher": "Diabetes",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://diabetes.diabetesjournals.org/content/65/5/1164.long"
+        },
+        {
+            "name": "The right track for you in biotech and biomedical sciences",
+            "publisher": "Nature Biotechnology",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://www.nature.com/nbt/journal/v33/n10/full/nbt.3376.html"
+        },
+        {
+            "name": "Myostatin augments ROS-induced MuRF1 transcription via MAPK but not NF-\u03baB in Smad3 null muscle",
+            "publisher": "Molecular Endocrinology",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null,
+            "url": "http://press.endocrine.org/doi/10.1210/me.2013-1179?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed"
+        },
+        {
+            "name": "Molecular Targets of Cancer Cachexia: Opportunities for Pharmanutritional Approaches",
+            "publisher": "PharmaNutrition",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://www.sciencedirect.com/science/article/pii/S2213434413000388"
+        },
+        {
+            "name": "Muscle-specific microRNA1 (miR1) targets Heat Shock Protein 70 (HSP70) during Dexamethasone mediated atrophy",
+            "publisher": "Journal of Biological Chemistry",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://www.jbc.org/content/288/9/6663.long"
+        },
+        {
+            "name": "Modulation of reactive oxygen species in skeletal muscle by myostatin in mediated through NF-\u03baB",
+            "publisher": "Aging Cell",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1474-9726.2011.00734.x/abstract;jsessionid=25C5454D333722F48A24CAB626FD99AE.f02t01"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Mogul Influencer",
+            "issuer": "Mogul (onmogul.com)",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "description": null
+        },
+        {
+            "title": "A*STAR Awards 2017 - Borderless Award",
+            "issuer": "A*STAR",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "description": "For contributions to One-North Festival 2016"
+        },
+        {
+            "title": "The Best Advice 11 Inspiring Women In Tech Would Give To Their College Selves",
+            "issuer": "Forbes Magazine \u2013 Women@Forbes",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": "http://www.forbes.com/sites/break-the-future/2016/12/29/the-best-advice-these-inspiring-women-in-tech-would-give-to-their-college-selves/#3a52fed37f52"
+        },
+        {
+            "title": "Young Scientist Award",
+            "issuer": "Venus International Research Awards",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Face-to-face with Sandhya Sriram",
+            "issuer": "Club SciWri",
+            "issued_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "description": "http://www.sciwri.club/archives/1758"
+        },
+        {
+            "title": "How to Craft Your Own Career, According to a Scientist-Journalist-Entrepreneur",
+            "issuer": "Breaking Hoops",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "description": "https://choijason.com/2016/08/09/how-to-craft-your-own-career-according-to-a-scientist-journalist-entrepreneur/"
+        },
+        {
+            "title": "Take the Plunge: Go Beyond Your Sector!",
+            "issuer": "Triptych",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "description": "https://howtriptych.com/"
+        },
+        {
+            "title": "Scientist-Journalist-Entrepreneur: In talks with Sandhya Sriram of Biotechin.Asia",
+            "issuer": "Feministaa",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "description": "http://feministaa.com/2016/07/08/scientist-journalist-entrepreneur-in-talks-with-sandhya-sriram-of-biotechin-asia/"
+        },
+        {
+            "title": "Secrets of Womanhood talk show",
+            "issuer": "Colors TV",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "description": "Invited guest"
+        },
+        {
+            "title": "Interview with Leader of Tomorrow 2016, Dr Sandhya Sriram (Global Biotech Revolution, Gap Summit 2016, University of Cambridge, UK)",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "description": "http://globalbiotechrevolution.com/2016/03/19/meet-the-leader-of-tomorrow-dr-sandhya-sriram-director-of-the-virtual-newsroom-biotechin-asia/"
+        },
+        {
+            "title": "Leader of Tomorrow, Gap Summit 2016",
+            "issuer": "Gap Summit 2016, Global Biotech Revolution",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Stem Cell Society Singapore (SCSS) Overseas Travel Fellowship Award 2015 (OTFP15)",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "Nanyang Research Scholarship for PhD in Biological Sciences",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "Ministry of Education Tier 2 funding-Academic Research Council for PhD in Biological Sciences",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null
+        },
+        {
+            "title": "Ministry of Education Tier 2 funding-Academic Research Council for PhD in Biological Sciences",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": null
+        },
+        {
+            "title": "Ministry of Education Tier 2 funding-Academic Research Council for PhD in Biological Sciences",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "description": null
+        },
+        {
+            "title": "Academic Merit Scholarship, MSc Biotechnology, DG Vaishnav College",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "description": null
+        },
+        {
+            "title": "Academic Merit Scholarship, MSc Biotechnology, DG Vaishnav College",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "description": null
+        },
+        {
+            "title": "Education Scholarship Award, BSc Microbiology",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            },
+            "description": null
+        },
+        {
+            "title": "Education Scholarship Award, BSc Microbiology",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2004
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Mentor for the IDEA Challenge Competition, GapSummit 2017",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "title": "Ministry of Education (MOE), Scientist-in-School Programme",
+            "description": "Mentored (2015) students of Yishun Junior College, Singapore in preparation for their Maths and Science Week and helped them design posters on Adipose stem cells.\nMentored students of Anderson Junior College and gave a talk on \"Career tracks in Biotech and Biomedical sectors\".",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Mentor to Polytech intern ",
+            "description": "Supervised and training provided on cell culture and molecular biology techniques",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "title": "Mentor-Attachment student",
+            "description": "Research on depot-specific differences in oxidative profiles of ASCs from subcutaneous and visceral fat",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "title": "Mentor, National University of Singapore, Department of Biochemistry",
+            "description": "Mentored (2013-2014) Bachelor of Science with Honours student, Desi, during her FYP and for her thesis titled \u2018Deciphering Mechanism of High Advanced Glycation End-product (AGE) diet induced muscle atrophy\u2019",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Teaching Assistant, Nanyang Technological University, School of Biological Sciences",
+            "description": "Assisted Professor Ravi Kambadur in preparing course materials for lectures, grading reports and determining final grades for undergraduate course students.\nAssisted Professor Mark Featherstone and Assistant Professor Kristen Elizabeth Sadler in conducting lab practical and grading reports for undergraduate course students.\nAssisted Associate Professor Valerie Lin Chun Ling, Assistant Professor Koh Cheng Gee and Dr. Kenneth Yu Chin-Wen in conducting lab practical for undergraduate students.\n(2009-2012)",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Teaching Assistant, National University of Singapore, Department of Biochemistry",
+            "description": "Assisted Associate Professor Mridula Sharma in preparing course materials, conducting lab practical, grading reports and determining final grades for undergraduate course students.\nAssisted Assistant Professor Yeong Foong May in conducting lab practical, grading reports and determining final grades for undergraduate course students.\n(2011-2012)",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Organizing committee member, Stem Cell Society Singapore Symposium 2017",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "Stem Cell Society Singapore",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Organizer",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "Entrepreneur Roundtable, Singapore Bioimaging Consortium, A*STAR",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Vice President and Finance Manager",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "Singapore Leaders of Tomorrow (SLoT) Forum, Global Biotech Revolution",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Organizing committee",
+            "cause": null,
+            "company": "Rotary Club, India",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Power Speaker",
+            "cause": null,
+            "company": "NewCampus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/newcampus/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHBska2dFRaeg/company-logo_400_400/0/1678258946079?e=1704326400&v=beta&t=E7jMWu_dNHx6Fx6geFOwKCXx9PhXpyY5HO2NakrjC1o"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/shraddha-bhansali-evo",
+            "name": "Shraddha Bhansali",
+            "summary": "Co-founder EVO Foods | Forbes 30 under 30 Asia & India | Alt Protein & Sustainability Entrepreneur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lynette-leong-9975964",
+            "name": "Lynette Leong",
+            "summary": "CEO, private & public cos | Sustainability Leader | Business Transformer | Board member | Mentor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/francia-navarrete-utreras-35b487106",
+            "name": "Francia Navarrete Utreras",
+            "summary": "COO en Protera Biosciences",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harmin-kaur",
+            "name": "Harmin Kaur",
+            "summary": "Co-Founder & CEO, Stellaire | xGoldman Sachs | Chair, Women Venture Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ari-sarker",
+            "name": "Ari Sarker",
+            "summary": "President, Asia Pacific at Mastercard",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sanjaygujral",
+            "name": "Sanjay Gujral",
+            "summary": "Chief Business Officer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/deborah-widjaja-74a66519",
+            "name": "Deborah Widjaja",
+            "summary": "Deputy CEO & Executive Director at Bund Center Investment Ltd and MD at Shanghai Golden Bund Real Estate Co Ltd",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kasia-gora-3859654",
+            "name": "Kasia Gora",
+            "summary": "Co-founder & CTO at SCiFi Foods, making meat the world can depend on.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/neeraj-aggarwal-0a33a7",
+            "name": "Neeraj Aggarwal",
+            "summary": "Chair, Asia Pacific, at The Boston Consulting Group (BCG)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/piyushguptadbs",
+            "name": "Piyush Gupta",
+            "summary": "Group Chief Executive Officer at DBS Bank",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,460 @@
+{
+    "public_identifier": "thang-nguyen-92620557",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thang-nguyen-92620557/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221607Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8187e797d9aecd6ca2c1a38f7875b7d1507b58eb0399683b1bab6d9bfb10defd",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thang-nguyen-92620557/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221607Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7ac5be1fedd08c71bcb247a08074fe5046d7962d8b35b81bec7858d3a0674b8c",
+    "first_name": "Thang",
+    "last_name": "Nguyen",
+    "full_name": "Thang Nguyen",
+    "follower_count": null,
+    "occupation": "Co-Founder at  Nano Technologies Pte Ltd",
+    "headline": "Co-Founder at Nano Technologies Pte Ltd",
+    "summary": "A software engineer which luckily have opportunity to build many exciting products varies from e-commerce & crowd funding websites, mobile applications, consumer hardware products. Love to solve challenging problems and create value.",
+    "country": "VN",
+    "country_full_name": "Vietnam",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": " Nano Technologies Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vuiapp/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Hanoi, Th\u00e0nh Ph\u1ed1 H\u00e0 N\u1ed9i, Vietnam",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFqxIPgJ4iJfQ/company-logo_400_400/0/1592465555226?e=1670457600&v=beta&t=Fb0mZhIGSqZ9TrsSJkUfir8ORmHklxVBlQeEIWLmnqY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Focal Labs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/focal-labs-jsc/",
+            "title": "Co-Founder/CTO",
+            "description": null,
+            "location": "Hanoi",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEQQZJQ8Ek9sA/company-logo_400_400/0/1562295126709?e=1670457600&v=beta&t=Gl2xmyojuABfqGRIA4D1jvVotyQCQV2-4WWY2fEohXQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Missing Corner",
+            "company_linkedin_profile_url": null,
+            "title": "Software Technical Leader",
+            "description": null,
+            "location": "Hanoi",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHNvhzPYbOMww/company-logo_100_100/0/1519897924206?e=1659571200&v=beta&t=vqYgTx6i0TtjIS8w1ZvJvRTzWeZIogrX_0bZcRiMUCk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Seespace",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/seespace-ltd-/",
+            "title": "Senior Software Developer",
+            "description": "Took responsibility of low-level software in inAiR system, include Android kernel & native system development, customizing Android rendering/compositing engine to support stereoscopic 3D rendering. In charge of system design/infrastructure/devops/backend development. In charge of R&D in the company, which involves machine learning, virtual reality, computer vision, kinect, hardware development... Later become software team lead, take charge of all software development in Seespace.",
+            "location": "Hanoi",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQENNTkDidtvVA/company-logo_400_400/0/1611261389774?e=1670457600&v=beta&t=rjjBgsSkf6FjV3a4yvRqyBPymFOhtTKs2Z0Z3LKZz3Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "Dynabyte",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dynabyte/",
+            "title": "Software Developer",
+            "description": "Develop e-commerce & crown funding website.",
+            "location": "Hanoi",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFL1Wuurdfeuw/company-logo_400_400/0/1606419165843?e=1670457600&v=beta&t=KmR3exWvtSaXKSf4xm6j1KhJodC-t9eKLH6BDO9acPU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Computer Software Engineering",
+            "degree_name": "Computer Software Engineering",
+            "school": "Hanoi University of Science and Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [
+        {
+            "title": "Method and apparatus for controlling video content on a display",
+            "issuer": "us",
+            "issued_on": {
+                "day": 5,
+                "month": 5,
+                "year": 2015
+            },
+            "description": null,
+            "application_number": "14/704905",
+            "patent_number": null,
+            "url": null
+        }
+    ],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://vn.linkedin.com/in/tuan-anh-nguyen-viet-32633313a",
+            "name": "Tuan Anh Nguyen Viet",
+            "summary": "Backend Developer at Nano Technologies Pte Ltd",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/hiep-bui-26704030",
+            "name": "Hiep Bui",
+            "summary": "Founder at Pascal Group",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/son-mai-291ba04b",
+            "name": "Son Mai",
+            "summary": "Product Manager at Nano Technologies Pte Ltd",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/%F0%9F%94%AD-dzung-dang-1565425",
+            "name": "\ud83d\udd2d Dzung Dang",
+            "summary": "We are hiring!",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/harry-cuong-nguyen-dinh-495297213",
+            "name": "Harry - Cuong Nguyen Dinh",
+            "summary": "Client Solutions Manager at VUIAPP by Nano Technologies",
+            "location": "Hanoi"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/nghiatv",
+            "name": "Ngh\u0129a Th\u00e2n",
+            "summary": "Frontend Web Developer at Nano Technologies Pte Ltd",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/quankm",
+            "name": "Quan Khong",
+            "summary": "Software Developer at VUIAPP by Nano Technologies",
+            "location": "Hanoi"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/luongvm183",
+            "name": "Luong Vu",
+            "summary": "Senior Software Engineer at Focal Labs",
+            "location": "Hanoi Capital Region"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/phuc-hoang-0105",
+            "name": "Phuc Hoang",
+            "summary": "Frontend Developer at VUIAPP by Nano Technologies",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/ch%C3%AD-nguy%E1%BB%85n-thanh-b49abb1b9",
+            "name": "Ch\u00ed Nguy\u1ec5n Thanh",
+            "summary": "Client Solutions Manager at  VUIAPP by Nano Technologies",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://au.linkedin.com/in/phamquybaolong",
+            "name": "Pham Quy Bao Long",
+            "summary": "Client Solution Director at VUIAPP by Nano Technologies",
+            "location": "Adelaide, SA"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/nhanledev",
+            "name": "Nhan Le",
+            "summary": "Software Engineer",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/long-hoang-50314389",
+            "name": "Long Hoang",
+            "summary": "Senior Software Engineer at Focal Labs",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/natele",
+            "name": "Nate Le",
+            "summary": "Business Intelligence Lead at Nano Technologies (YC W21)",
+            "location": "Hanoi"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/valvu",
+            "name": "Valerie Van V.",
+            "summary": "Early-Stage Venture Capital | Futurist | Startup Hustler | Web3 | Metaverse | Hiring & Investing!",
+            "location": "Ho Chi Minh City Metropolitan Area"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/tai-do-7a59a31ab",
+            "name": "Tai Do",
+            "summary": "Client Solution Manager",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/ch%E1%BB%AD-v%C4%83n-s%C6%A1n-256a9688",
+            "name": "Ch\u1eed V\u0103n S\u01a1n",
+            "summary": "--",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/linhtd",
+            "name": "Linh Tr\u01b0\u01a1ng",
+            "summary": "Vega Corporation",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/kevinngo0949",
+            "name": "Nh\u00e2n Ng\u00f4 ( Kevin Ngo )",
+            "summary": "Director of VAS & DE Center | Ex- Start Up (NaNo Tech) | Ex- Head of BD and Merchant Solutions MOMO | Ex - Business Development & Brand Manager Circle K Vietnam",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/phuong-le-28110113a",
+            "name": "phuong le",
+            "summary": "Chief Executive Officer at MHTech Viet Nam",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/linhluc",
+            "name": "Linh Luc",
+            "summary": "The happiest person at Nano Technologies. We're hiring!",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/chi-v%C4%83n-0681a9109",
+            "name": "Chi V\u0103n",
+            "summary": "Vui App by Nano Technologies",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/kimduong07",
+            "name": "Kim Duong",
+            "summary": "Project Manager at Nano Technologies",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/truongmanh209",
+            "name": "Tr\u01b0\u01a1ng M\u1ea1nh",
+            "summary": "Project manager at  VUIAPP by Nano Technologies",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/vy-le-08630953",
+            "name": "Vy Le",
+            "summary": "General Partner at Do Ventures * Forbes 30-under-30 Vietnam & Asia * Ex-Chair at UNICEF NextGen",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/cong-vu-62b282a2",
+            "name": "Cong Vu",
+            "summary": "We are hiring! Ping me if you're interested in product & customer experience",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/nguy%E1%BB%85n-kh%E1%BA%AFc-ki%C3%AAn-9215a7155",
+            "name": "Nguy\u1ec5n Kh\u1eafc Ki\u00ean",
+            "summary": "Software engineer",
+            "location": "Hanoi Capital Region"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/duy-ho%C3%A0ng-2783521b3",
+            "name": "Duy Ho\u00e0ng",
+            "summary": "Frontend Developer at Gannha",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/ngovinhhop",
+            "name": "Vinh-Hop Ngo",
+            "summary": "Partnerships Manager at Vui App by Nano Technologies",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/thanh-thao-phan-a896b1130",
+            "name": "Thanh Thao Phan",
+            "summary": "General Manager at  VUIAPP by Nano Technologies",
+            "location": "Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/khanh-phamvan",
+            "name": "Khanh PhamVan",
+            "summary": "Business Intelligence Analyst",
+            "location": "Hanoi"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/van-doan-7bbb7072",
+            "name": "Van Doan",
+            "summary": "CPO at Nanotechnologies",
+            "location": "Ho Chi Minh City"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nguy\u1ec5n-kh\u1eafc-ki\u00ean-9215a7155",
+            "name": "Nguy\u1ec5n Kh\u1eafc Ki\u00ean",
+            "summary": "Software engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ch\u00ed-nguy\u1ec5n-thanh-b49abb1b9",
+            "name": "Ch\u00ed Nguy\u1ec5n Thanh",
+            "summary": "Client Solutions Manager at VUIAPP by Nano Technologies",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diep-dam-tran-hoang-05995023a",
+            "name": "Diep Dam Tran Hoang",
+            "summary": "Business Development Executive at Vui App by Nano Technologies",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Vietnamese flexible pay startup Nano (YC W21) raises a $3M seed round -- congrats to the team! http://ow.ly/M0UC50EM3pt",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Thang Nguyen"
+        },
+        {
+            "title": "#hiring #qa #automation #tester #engineerFocal Labs c\u1ea7n tuy\u1ec3n full time Automation QA (H\u00e0 N\u1ed9i only)- L\u01b0\u01a1ng th\u00e1ng #$800 - #$1500. Anh em b\u1ea1n b\u00e8 tr\u00ean\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Shared by Thang Nguyen"
+        },
+        {
+            "title": "C\u01a1 h\u1ed9i vi\u1ec7c l\u00e0m cho c\u00e1c b\u1ea1n tr\u1ebb m\u1edbi ra tr\u01b0\u1eddng t\u1ea1i Missing Corner nh\u00e9 ;)https://lnkd.in/gaU7agE",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Thang Nguyen"
+        },
+        {
+            "title": "Vietnamese flexible pay startup Nano (YC W21) raises a $3M seed round -- congrats to the team! http://ow.ly/M0UC50EM3pt",
+            "link": "https://vn.linkedin.com/posts/y-combinator_vietnamese-flexible-pay-startup-nano-yc-share-6798758802314334208-IXr7",
+            "activity_status": "Liked by Thang Nguyen"
+        },
+        {
+            "title": "#hiring #qa #automation #tester #engineerFocal Labs c\u1ea7n tuy\u1ec3n full time Automation QA (H\u00e0 N\u1ed9i only)- L\u01b0\u01a1ng th\u00e1ng #$800 - #$1500. Anh em b\u1ea1n b\u00e8 tr\u00ean\u2026",
+            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6448101439599415296",
+            "activity_status": "Shared by Thang Nguyen"
+        },
+        {
+            "title": "C\u01a1 h\u1ed9i vi\u1ec7c l\u00e0m cho c\u00e1c b\u1ea1n tr\u1ebb m\u1edbi ra tr\u01b0\u1eddng t\u1ea1i Missing Corner nh\u00e9 ;)https://lnkd.in/gaU7agE",
+            "link": "https://vn.linkedin.com/posts/linhnguyenchi_missing-conner-inc-tuy%E1%BB%83n-d%E1%BB%A5ng-nhanh-junior-share-6382186601119911937-I81X",
+            "activity_status": "Liked by Thang Nguyen"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-0082a578",
+            "summary": "Researcher at Vietnam Academy of Science and Technology",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-29a7b965",
+            "summary": "Business Development Specialist at ITR VN",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-a2701a36",
+            "summary": "Construction Manager at Sino Pacific",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-270ba4a5",
+            "summary": "Android Dev at TitanShark GmbH",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-3a319582",
+            "summary": "Project Manager EPA.VIETNAM",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/thang-nguyen-137735a3",
+            "summary": "Manager at Vietnam Chamber of Commerce and Industry - VCCI",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://vn.linkedin.com/in/nguyenthang173",
+            "summary": "Technical Manager at Vites JS",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Thang Nguyen",
+            "link": "https://ch.linkedin.com/in/thang-nguyen-swiss",
+            "summary": "Entrepreneur | Board Member | Business Angel",
+            "location": "Geneva"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

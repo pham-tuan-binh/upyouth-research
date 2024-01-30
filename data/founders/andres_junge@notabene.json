@@ -1,0 +1,385 @@
+{
+    "public_identifier": "ajunge",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ajunge/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221621Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=edbee71c2306eb431ce5891784103910df96cb6ca93ba89dd9c424568335b14e",
+    "background_cover_image_url": null,
+    "first_name": "Andres",
+    "last_name": "Junge",
+    "full_name": "Andres Junge",
+    "follower_count": null,
+    "occupation": "Co-Founder and CTO at Notabene",
+    "headline": "Co-Founder and CTO at Notabene",
+    "summary": "A results-driven, customer-focused and analytical Senior Software Engineer and Architect thrilled by the idea of making a better world using information technology . Strong in design and integration problem solving skills. Interested in a challenging technical environment focused on new technologies like Blockchain",
+    "country": "CL",
+    "country_full_name": "Chile",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": null,
+            "company": "A. e I. Timaukel / Totexa",
+            "company_linkedin_profile_url": null,
+            "title": "Founder, CEO & Software Developer / IT Consultant",
+            "description": "Work for mayor software companies, like Adexus and Sonda. Develop and Architect solutions for government departments including, FONASA (National Healthcare System), ISL (National Safety at Work Organization), Banco Estado (State Bank), Transantiago (City of Santiago Public Transportation System), Banco Central (Central Bank) and also for private companies including Entel (Telcom), Cisco and Deloitte. Manage and coordinate development teams, using Agile methodologies.",
+            "location": "Santiago",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2000
+            },
+            "company": "AccessNova Project (Universidad de Chile \u2013 NTT Japan)",
+            "company_linkedin_profile_url": null,
+            "title": "Research Assistant",
+            "description": "Software developer for Air Conditioner Project with Carrier and Virtual Kiosk using ISDN videoconference",
+            "location": "Santiago",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Notabene",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/notabene-id/",
+            "title": "Co-Founder and CTO",
+            "description": null,
+            "location": "Chile",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFjA2_JR3GX7A/company-logo_400_400/0/1586795259000?e=1695254400&v=beta&t=vFtxi05FSY_1Kt-tJRjrIVvWjA9psUvjRybX_FOEuNk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Consensus Systems (ConsenSys)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/consensys-software-inc/",
+            "title": "Senior Architect / dApp Developer",
+            "description": "Design, architect and develop reputations systems framework over ethereum network",
+            "location": "Remote",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEewpHGX7ikKg/company-logo_400_400/0/1680785177908?e=1695254400&v=beta&t=vT5qI3teJ_BMLnENMvszs2ehn2o0B3v9ULIWhm9mGwc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Consensus Systems (ConsenSys)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/consensys-software-inc/",
+            "title": "uPort Co-Founder",
+            "description": null,
+            "location": "Chile",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEewpHGX7ikKg/company-logo_400_400/0/1680785177908?e=1695254400&v=beta&t=vT5qI3teJ_BMLnENMvszs2ehn2o0B3v9ULIWhm9mGwc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "uPort",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uport/",
+            "title": "Co-Founder and Senior Developer",
+            "description": "Develop and architect many components of uPort on the server side",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEUo7DsJTPEpw/company-logo_400_400/0/1570024545178?e=1695254400&v=beta&t=7iC03OpJnNNPrfAH67-xHaS4iaGOl_PI3UDrOchbIKA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "Yaykuy Bitcoin Chile",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yaykuy/",
+            "title": "Founder, CEO & Software Architect",
+            "description": "Develop business model and implement complete platform for first fixed rate Bitcoin exchange in Chile. Define the architecture and implement partners integration. API coding in Vert.x, Java + Javascript and MongoDB. Build and develop Chilean Bitcoin community. Co-organize the first Bitcoin Hackathon in Chile. Recurrent speaker at local Bitcoin talks. Explore Bitcoin regulations with local authorities",
+            "location": "Chile",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHjDVMmYadmMA/company-logo_400_400/0/1519877879501?e=1695254400&v=beta&t=YH9nRsmh-iuLqCb2smtL_cDn9umokx4BW2ikY1daJZg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "37coins",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/37coins/",
+            "title": "Senior Architect",
+            "description": "Help redesign the architecture, strongly focusing on a trustless system. Move from single developer code development to multi developer coding workflow. Help integrate with Coins.ph, a Philipinean Bitcoin Exchange",
+            "location": "Bangkok Metropolitan Area, Thailand",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGBPGmqNTEzig/company-logo_400_400/0/1519873109827?e=1695254400&v=beta&t=VepyC8XXIqC15cKzNTAMlgUeBgMO1nnS3O1O0Gc3fV4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2004
+            },
+            "company": "everis",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/everis/",
+            "title": "Senior Consultant",
+            "description": "Software developer and IT Consultant for private companies including: Entel (Telecom), Telefonica Movil (Wireless Telecom), AGF (Insurance) and LAN (Airline). Solve hard coding problems. Coordinate development teams.",
+            "location": "Santiago",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQETuGdWWSkP3w/company-logo_400_400/0/1637523264297?e=1695254400&v=beta&t=Xgs2Vf9dtlyHlLP6LZh1AJO5lJVNX46aSLd1yrGZMIQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2002
+            },
+            "company": "Adexus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/adexus/",
+            "title": "Software Engineer",
+            "description": "Software developer for public sector including: SII (Tax Institution), Servicio Registro Civil e Identificacion (National Registry) and private sector including General Electric, Telefonica (Telecom), SalcoBrand (Pharmacy), Servipag (Payment Systems). Build software solutions for business problem",
+            "location": "Santiago",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFBCvRIC4F8oQ/company-logo_400_400/0/1610464697272?e=1695254400&v=beta&t=kYPGrBcsqwBqr9PcZJKdHKdOC8_T53FHJmHqIG4Liag"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "field_of_study": "Computacion",
+            "degree_name": "Ingenieria Civil",
+            "school": "Universidad de Chile",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFGh6sK5sIIrw/company-logo_400_400/0/1667481375217?e=1695254400&v=beta&t=YLLlyEdYoyAzTkwwRBkYOjeDHT1WkIDqOoVhJr546W0",
+            "grade": "Ingeniero Civil en Computaci\u00f3n",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "field_of_study": null,
+            "degree_name": "Eduaci\u00f3n Media",
+            "school": "Colegio Suizo de Santiago",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1980
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1989
+            },
+            "field_of_study": null,
+            "degree_name": "Educaci\u00f3n B\u00e1sica",
+            "school": "Colegio Alem\u00e1n de Santiago",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Alem\u00e1n",
+        "Espa\u00f1ol",
+        "Ingl\u00e9s"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Reputation Systems on the Blockchain",
+            "publisher": "DevCon1",
+            "published_on": null,
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=W63oB4fbnEg&feature=youtu.be"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2010
+            },
+            "ends_at": null,
+            "title": "Founder and Business/Economic Advisor",
+            "cause": "EDUCATION",
+            "company": "Colegio Micael",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/colegio-micael/",
+            "description": "Build independent Waldorf school from scratch based on open source community experience. Develop internal community of parents and teachers. Founder member and advisor of the economic board.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEtHU17I80nKg/company-logo_400_400/0/1588348098876?e=1695254400&v=beta&t=6QWusy5tUA9u-xxu_yA5-ZE5XB5y7y51G_lXn7enz1g"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ania-lipinska",
+            "name": "Ania Lipinska",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alicenawfal",
+            "name": "Alice Nawfal",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pelleb",
+            "name": "Pelle Br\u00e6ndgaard",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diegoibietareyes",
+            "name": "Diego Ibieta Reyes",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lopezjuri",
+            "name": "Patricio L\u00f3pez Juri",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ignaciopugasalman",
+            "name": "Ignacio Domingo Puga Salman",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/patriciolopezcerda",
+            "name": "Patricio L\u00f3pez Cerda",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/najarami",
+            "name": "Nicolas Jaramillo",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/josezaratesousa",
+            "name": "Jose Z\u00e1rate",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lluis-sur\u00f3s-sancho-67ab8484",
+            "name": "Lluis Sur\u00f3s Sancho",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Andres Junge",
+            "link": "https://cl.linkedin.com/in/andres-junge",
+            "summary": "Jefe de Gesti\u00f3n/ Planificaci\u00f3n Estrategica/ Mejora Continua/ Supply Chain",
+            "location": "Chile"
+        },
+        {
+            "name": "Andres K\u00fcchenjungs",
+            "link": "https://de.linkedin.com/in/andres-k%C3%BCchenjungs-366b561a8",
+            "summary": "--",
+            "location": "Ribnitz-Damgarten"
+        },
+        {
+            "name": "Andres Junge",
+            "link": "https://www.linkedin.com/in/andres-junge-a0a740247",
+            "summary": "Student at State College of Florida-Manatee-Sarasota",
+            "location": "Bradenton, FL"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

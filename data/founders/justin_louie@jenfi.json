@@ -1,0 +1,460 @@
+{
+    "public_identifier": "nitsujri",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nitsujri/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221632Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c57015b808792e60875c1b78d932819bc436c19cd1cb62f2e22e98a5858a1e8c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nitsujri/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221632Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=42256a8e7e41b27affd928d5d66c2b18519bbd95b6742de22d6e3883dde84bf6",
+    "first_name": "Justin",
+    "last_name": "Louie",
+    "full_name": "Justin Louie",
+    "follower_count": 740,
+    "occupation": "CTO at Jenfi",
+    "headline": "CTO at Jenfi",
+    "summary": "Love building products and talking with users to make them better.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Jenfi",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/jenfi",
+            "title": "CTO",
+            "description": "Building software to underwrite Small, Medium Enterprises in Asia faster and manage financing life cycle.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF7YW09bV2gBw/company-logo_100_100/0/1614699833924?e=2147483647&v=beta&t=u7WEziQc0TYMK-znmzT6OfJ8KApyZgyx-WNsLSUbMnQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "ClassPass",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/classpass",
+            "title": "Engineering Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH628mqplMiKg/company-logo_100_100/0/1639674741903?e=2147483647&v=beta&t=RaB8WN96R60UjFSpkF5r8YekEGq6mQqHXWuVGhME4ig"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "GuavaPass",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/guavapass",
+            "title": "CTO",
+            "description": "Build the product. Lead and grow the team. All things tech!",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFchMcoLekxnQ/company-logo_100_100/0/1519950871650?e=2147483647&v=beta&t=eYhCHX57HrbHzlzOMnBIWiqDCQU2FV2lrTcdb5BXqVY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Archlabs.io Limited",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "Machine learning for banking news and customer up/cross product selling. \n\nIn Singapore, we participated in the UBS Challenge Nov '14 where the problem was curated news for high wealth clients and Archlabs achieved one of the finalist.\n\n# Finalists, UBS Challenge Nov 2014\n# Cast vision for product and company direction\n- Manage customer, investor relationships\n- Product development",
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Artscience.io",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "Home automation product. A virtual home butler that controls your appliances automatically via presence and voice. No need for a wearable or 3rd device for any control.\n\n- Awarded Cyberport Microfund and Incubation\n- Developed Android App, Base Station & Cloud Service\n- Manufactured 3 prototypes\n- Languages included C, Java, Ruby",
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "IRJustin",
+            "company_linkedin_profile_url": null,
+            "title": "Freelance Developer",
+            "description": "- Full stack Ruby on Rails including JavaScript interactions.\n- Developed websites and backend search for PHP projects. \n- Sys ops deployment and maintenance.\n- Delivered 8 projects. 2 ahead of schedule. 100% on time.",
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Cut Media, LLC",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/cut-media-llc",
+            "title": "Director of Product and Development",
+            "description": "- Team leadership and management, product ownership and project management.\n- Developed and implemented product strategies.",
+            "location": "Seattle, WA",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEshs2MIxkeqA/company-logo_100_100/0/1519935715598?e=2147483647&v=beta&t=VDpmzqxL4MvUemVwHDYPZGHrTSH1LuYzNcMqZweXZqw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2012
+            },
+            "company": "Narble, LLC",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/narble-llc",
+            "title": "Founder/CEO",
+            "description": "- Built products to improve daily life. From task management to gaming.\n- Startup based in Ruby on Rails and Java with Android.\n- Delivered 2 websites and 7+ apps.\n- 200,000+ downloads.",
+            "location": "Bellevue, WA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "WhitePages",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/whitepages",
+            "title": "Mobile Marketing Contractor",
+            "description": "- Managed US$600k marketing campaign through direct SEM, and 3rd party networks.\n- Grew iPhone app downloads by 25% QoQ\n- Discovered and rectified subscription issue worth US$120k/yr by analyzing product statistics.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHrsZ5qzFbCwQ/company-logo_100_100/0/1657302475470?e=2147483647&v=beta&t=-0jo3ycvgfhpOYJm7DDJabl-uu-P7Y3Iit5VF-0OuNI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2011
+            },
+            "company": "Expedia",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/expedia",
+            "title": "Marketing Analyst",
+            "description": "- Co-managed worldwide marketing strategy with 3 ad networks providing avg. 140% ROI\n- Developed machine learning algorithm and interface to improve long tail ad marketing at scale.",
+            "location": "Bellevue WA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCJ4PG0WVumA/company-logo_100_100/0/1593618041184?e=2147483647&v=beta&t=Osf5WwEpbd0ewNv4DWmy-9RF7cCNJ8NYCKlhjWAfWf0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "National Instruments",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/niglobal",
+            "title": "Applications Engineer",
+            "description": "- Supported platinum level customers through technical issues by developing and delivering solutions.\n- 97% Customer satisfaction rating; 300+ cases",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHcpmsrLx1mig/company-logo_100_100/0/1657053360507?e=2147483647&v=beta&t=SS8jXKgB7EP7cPc3HujBNFvuW2lqqZb2fNP6V-0uQrM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Bachelors of Science",
+            "school": "University of Washington",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/university-of-washington/",
+            "description": "Discovered my love for tinkering with hardware products and a foundation for leading teams as we built prototypes for automatic parallel parking cars.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEMmhF9TqUCgA/company-logo_100_100/0/1554743867768?e=2147483647&v=beta&t=VpQnfGHMB8pMKGBqElVZ_ps7evyv7EC9aCTpMuCPG34",
+            "grade": null,
+            "activities_and_societies": "Asian American Christian Fellowship"
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Actionist",
+            "cause": "Civil Rights and Social Action",
+            "company": "Refugeek",
+            "company_linkedin_profile_url": null,
+            "description": "Helping refugees learn coding to become more desirable to nations which they are attempting to gain asylum and a producing individual.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://sg.linkedin.com/in/thisisajay",
+            "name": "Ajay Gopal",
+            "summary": "Founder / CEO",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/duc4nh",
+            "name": "Duc Nguyen",
+            "summary": "Team Lead at Jenfi | Ex-Circles.Life",
+            "location": "Hanoi Capital Region"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/dmytro-lytvynchuk",
+            "name": "Dmytro Lytvynchuk",
+            "summary": "Head Of Business and Corporate Development at Jenfi",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yeosean",
+            "name": "Sean Yeo",
+            "summary": "Providing Growth Capital as a Service",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/michaelnguyen20",
+            "name": "Michael Nguyen",
+            "summary": "Business Development Manager",
+            "location": "Ho Chi Minh City Metropolitan Area"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/therealjohntan",
+            "name": "John Tan",
+            "summary": "Obama Leader | Helping 1m kids become tomorrow's leaders through play. I write about the future of work and learning.",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://id.linkedin.com/in/irwansyah-hertanto",
+            "name": "Irwansyah Hertanto",
+            "summary": "Providing Growth Capital for Startups",
+            "location": "Jakarta Metropolitan Area"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/motochan",
+            "name": "James Chan",
+            "summary": "Building Southeast Asia\u2019s leading EV motorcycle company for Indonesia and SE Asia",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ardian-nugroho",
+            "name": "Ardian Nugroho",
+            "summary": "Providing Non-Dilutive Growth Capital to Scale Your Revenue-Generating Activities.",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/laitran28",
+            "name": "Lai Tran",
+            "summary": "Business Development Specialist at Jenfi",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/cuongnguyenfu0211",
+            "name": "C\u01b0\u1eddng Nguy\u1ec5n Ch\u00ed",
+            "summary": "Engineer at Jenfi",
+            "location": "Hanoi"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/alap-bharadwaj-b241704",
+            "name": "Alap Bharadwaj",
+            "summary": "Director at Google, Angel Investor",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://in.linkedin.com/in/pranjali-khattri",
+            "name": "Pranjali Khattri",
+            "summary": "Credit and Risk Associate | CFA Level 2 Candidate",
+            "location": "Bengaluru"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vrishika-momaya-300ba3102",
+            "name": "Vrishika Momaya",
+            "summary": "Fraud Risk Analyst at Jenfi || Ex RCU- Manager at IDFC FIRST BANK",
+            "location": "Karnataka, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/sohaibmohd",
+            "name": "Mohd Sohaib",
+            "summary": "Engineering @ Recur Club | Programmer & Author | Simplifying the Digital Security Maze",
+            "location": "New Delhi"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yoshini-rajendran-38b3aa10a",
+            "name": "Yoshini Rajendran",
+            "summary": "Providing Growth Capital for Startups and SMEs in Singapore \ud83c\udf31",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/nguyenthoa20",
+            "name": "Thoa Nguy\u1ec5n",
+            "summary": "Looking for a new Account position for Fresher in HCMC | Onsite or Hybrid",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "link": "https://id.linkedin.com/in/wilson-yanaprasetya-357a055",
+            "name": "Wilson Yanaprasetya",
+            "summary": "Digitizing Tier 3 & Rural Indonesia",
+            "location": "Sleman"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/bryancgs",
+            "name": "Bryan Chua",
+            "summary": "Regional Planner at Apple",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://vn.linkedin.com/in/dieulinhle",
+            "name": "Di\u1ec7u Linh L\u00ea",
+            "summary": "Providing Growth Capital for Startups and SMEs in Vietnam | Fintech",
+            "location": "Ho Chi Minh City, Vietnam"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "PropertyGuru Group is delighted to announce its entry into home services and to welcome Sendhelper to the Group. Sendhelper is a Singapore based home\u2026",
+            "link": "https://www.linkedin.com/posts/propertyguru_createwhatsnext-wearegurus-proptech-activity-6986506756210253824-ETFC",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "Applications for Iterative Summer 2021 (S21) were officially due on Friday (2 July). You're still welcome to apply. We'll do our best to get to all\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_apply-to-iterative-activity-6817636662630338560-6NNv",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "Massive kudos to the Adrien and the Propseller team for this amazing progress. Getting these updates in my feed is a delight as a friend of the team\u2026",
+            "link": "https://www.linkedin.com/posts/danielshi_massive-kudos-to-the-adrien-and-the-propseller-activity-6816055353441177600-IXxP",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "PrizePool has been a fun and exciting ride for the last 6 months. We have some exciting news to share soon (and new products) but in the meantime, we\u2026",
+            "link": "https://www.linkedin.com/posts/franklynchien_prizepool-activity-6777680394981658624-Qzxy",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "The application deadline for our next batch (Winter 21) is on Monday, 23 Nov. If you're debating whether you should apply, you should. We invest in\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_apply-activity-6735378622825197568-nNEE",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "We started a podcast! Most of the time, we will be interviewing people who start, operate, and invest in startups, on how they got started and what\u2026",
+            "link": "https://www.linkedin.com/posts/hsukenooi_we-started-a-podcast-most-of-the-time-we-activity-6731402436294119424-kIcd",
+            "activity_status": "Liked by Justin Louie"
+        },
+        {
+            "title": "I'm excited to be talking about what makes the top 10% of founders different with Michael Seibel, CEO of Y Combinator tomorrow (Wed, 21 Oct) at 10:00\u2026",
+            "link": "https://www.linkedin.com/posts/iterative-capital_im-excited-to-be-talking-about-what-makes-activity-6724143813796990977-AzHW",
+            "activity_status": "Liked by Justin Louie"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Justin Louie",
+            "link": "https://www.linkedin.com/in/justin-louie-321a5898",
+            "summary": "PACU RN",
+            "location": "San Francisco, CA"
+        },
+        {
+            "name": "Justin Louie",
+            "link": "https://ca.linkedin.com/in/justin-louie-a2a08016",
+            "summary": "General Counsel and Corporate Secretary at Ensign Energy Services",
+            "location": "Calgary, AB"
+        },
+        {
+            "name": "Justin Louie",
+            "link": "https://www.linkedin.com/in/justin-louie5253",
+            "summary": "Recruiting Specialist- Randstad Sourceright supporting Google",
+            "location": "Millbrae, CA"
+        },
+        {
+            "name": "Justin Louie",
+            "link": "https://www.linkedin.com/in/justin-louie-a65809143",
+            "summary": null,
+            "location": "United States"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

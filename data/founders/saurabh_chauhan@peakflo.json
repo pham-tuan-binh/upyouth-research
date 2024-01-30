@@ -1,0 +1,409 @@
+{
+    "public_identifier": "saurabh-chauhan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/saurabh-chauhan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221333Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f873a445ca33148e5341a2b168bba4d3686c19274f6d0943c814c73541738218",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/saurabh-chauhan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221333Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bff4a4731db3aac13e0ece53da08a4806ceb3da9c97216b38bffb1ff91a0da91",
+    "first_name": "Saurabh",
+    "last_name": "Chauhan",
+    "full_name": "Saurabh Chauhan",
+    "follower_count": 5049,
+    "occupation": "Founder & CEO at Peakflo",
+    "headline": "CEO & Founder @ Peakflo (YC W22) | Rocket Internet | McKinsey",
+    "summary": "Empowering Finance Teams and streamlining finance operations payments in APAC.\n\nMy professional experience spans across management consulting at McKinsey to country managing director/group managing director roles at series A funded Rocket Internet startups. \n\nDuring my two year stint at McKinsey & Co, I worked on general aviation, ecommerce and retail sector client engagements across India, US and Australia. I then relocated to Colombo, Sri Lanka to launch and lead Rocket Internet's ecommerce venture - Daraz.lk (which was subsequently acquired by Alibaba). After completing a two year stint in Sri Lanka, I relocated to Singapore to lead a turnaround for Rocket Internet's beauty services marketplace - Vaniday, until early 2020. \n\nOn the side, I also mentor founders of pre-series B marketplaces in SEA.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Peakflo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/peakflo/",
+            "title": "Founder & CEO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFRxgQs49c2Dg/company-logo_400_400/0/1704179942629/peakflo_logo?e=1712793600&v=beta&t=l-gcfUweYSOdH4XcvSo7Watxrj-MPUxmf-AACAygAjE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Rocket Internet SE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rocket-internet-se/",
+            "title": "Venture Group MD (2018-2020) | Venture Country MD (2015-2017)",
+            "description": "\u25ba Group Managing Director & Co-founder - Vaniday (2018-2020)\n\u25ba Managing Director - Daraz Sri Lanka (2015-2017)",
+            "location": "Singapore, Sri Lanka",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHXANtSz2TYzQ/company-logo_400_400/0/1631403106850?e=1712793600&v=beta&t=zyXcH7VfkubR0gAo1oX5R2bsXaRGk95J4CNo2Q4gR9A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Vaniday",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vaniday/",
+            "title": "Group Managing Director | Rocket Internet Venture",
+            "description": "\u25ba Raised 7-digit funding from Asia Pacific Internet Group (JV between Rocket Internet & Ooredoo) with participation from Rocket Internet, Holtzbrinck Ventures and Vorwerk Ventures, to lead a turnaround effort for Rocket Internet's portfolio venture for beauty services - Vaniday (founded in 2015). \n\n\u25ba Pivoted business model from a pure marketplace play towards a new SaaS enabled marketplace for salons across South East Asia. Delivered 150% increase in GMV in CY2018. In CY2019, Vaniday became the first beauty services platform in SEA to integrate its salon management software with \u2018Reserve with Google\u2019, unlocking a valuable discovery and whitelabel booking channel for our salon partners.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHRwDCDZCYhJw/company-logo_400_400/0/1631317966571?e=1712793600&v=beta&t=Pw77Z85RwK3E62YKwS-_1eGiDAGNXm328vInhl9Qg5s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "Daraz",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/daraz/",
+            "title": "Managing Director | Daraz.lk (Acquired by Alibaba)",
+            "description": "\u25ba Launched and built Daraz Sri Lanka (0->1). Daraz Group, backed by Rocket Internet, is one of the fastest growing marketplaces across 5 countries in South Asia. \n\n\u25ba Acquired by Alibaba Group for US$200m\n\n\u25ba As the Country Manager for Daraz Sri Lanka, I built and led a 60 member team. Drove core corporate strategy, commercials, operations and P&L. Achieved 3x growth in GMV and NMV YoY and launched mega campaigns such as black friday in a frontier market in partnership with strategic brands such as Hutch and Unilever.",
+            "location": "Sri Lanka, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE8Bn3gkAem9w/company-logo_400_400/0/1645696559151/daraz_logo?e=1712793600&v=beta&t=Eo9w8EO8QUDJK8P_DsYBc_AmZL7q1V0avxVgdObRSrg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Analyst",
+            "description": "\u25ba Rated 'Distinctive' (Top 5 percentile) in my 2014 year-end performance review\n\u25ba Worked on general aviation, industrial and retail client engagements with focus on GTM strategy, channel management and financing: \n     - 6 month strategy engagement with a fortune 500 client in the general aviation industry. For the duration of the engagement, worked in USA, Australia and Dubai to closely assess client operations and build a long term action plan geared towards scaling-up business and revamping the client\u2019s sales excellence, channel management & financing strategy.\n     - Charting the Asia-inbound growth strategy for a large European industrial equipment manufacturer. Synthesized GTM strategy for India & SEA\n     - Expansion and corporate strategy for an e-commerce client. Defined launch imperatives and GTM for select markets.\n\u25ba Contributed to knowledge development effort through the 'Winning in Indonesia' KIP, an initiative that provides strategic imperatives to MNC clients on how to win in the world's fourth largest market.",
+            "location": "New Delhi Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1712793600&v=beta&t=zRUz30stUVKGW6H4W-PjhK5_-AvxEejd4j9tfCZc_4c"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Winter 2022 batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Deferred MBA admission twice (co '17 & '18). Not attended due to commitment at Daraz.lk (Alibaba)",
+            "school": "Indian School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF_fJFzgl3vKA/company-logo_400_400/0/1672230749864/indian_school_of_business_logo?e=1712793600&v=beta&t=s1SSRdrFy2tKvgRANu6nTvIw4KZqn7LwMGLa86Qz4cM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "3rd Year Finance Specialization",
+            "degree_name": "Bachelors in Business Studies (B.B.S.), University of Delhi",
+            "school": "Shaheed Sukhdev College Of Business Studies",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFcmAg3z9OUhg/company-logo_400_400/0/1631425420701/shaheed_sukhdev_college_of_business_studies_logo?e=1712793600&v=beta&t=7qxrOXxf8N2KBkfkfn1ueRj1poRv_k-lHln1nX21A-o",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Semi-Finalist",
+            "issuer": "Practice Olympics, McKinsey & Company",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "description": "\u25baThe Practice Olympics is a Firmwide competition designed to produce new ideas and approaches for our clients. It is also a platform for non-Partner CSS to demonstrate their thought leadership capabilities in the area of knowledge.\n\n\u25baOver 1500 colleagues participated in 2014 Practice Olympics making it the biggest event of its kind at the Firm."
+        },
+        {
+            "title": "Finalist (TOP 5)",
+            "issuer": "Global Social Entrepreneurship Competition, University of Washington, Seattle",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "description": "\u25baThe Global Social Entrepreneurship Competition, GSEC, is an international student social business plan competition that challenges university-level students worldwide to use business principles to create sustainable, positive solutions to some of the world\u2019s most challenging issues - poverty, health and development. Semi-finalist student teams from around the globe are invited to Seattle to present their ideas to coaches, mentors and judges and compete to win prizes\n\n\u25baAdjudged amongst the top 5 (as finalist) by judges from the Bill & Melinda Gates Foundation, Microsoft Corporation and the Rotary Foundation. GSEC 2012 welcomed 16 semi-finalist teams representing more than 10 countries to Seattle. Was selected from an applicant pool of 176 submissions from student teams across 49 countries."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GMAT",
+            "score": "730 [96 Percentile]",
+            "date_on": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": null,
+            "company": "Techstars",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/techstars/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG8pk2bg7BAnQ/company-logo_400_400/0/1630571396535/techstars_logo?e=1712793600&v=beta&t=khxrnsdxooW1hY9iQc8lxVfhBx3yxXRGcDt-JGZSbiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "title": "Vice President, Operations",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "Enactus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/enactus/",
+            "description": "\u25baEnactus is an international non-profit organization spread across 36 countries that brings together academic and business leaders who are committed to using the power of entrepreneurial action to improve the quality of life and standard of living for people in need.\n\n\u25baUnder the aegis of Enactus SSCBS, helped set up operations for Project Akshar - a social enterprise focused on empowering marginalized communities through the creation of recycled notebooks. Also helped in scaling up operations for Sanitation Solutions - a social enterprise empowering women in poor urban and rural communities by integrating them into the sanitary napkin supply chain as direct to market sellers:\n\u2013 Led a team of 17 members focusing on launching and scaling operations for two social enterprise projects\n\u2013 Mentored and guided members on areas such as commercial assessment, unit economic analysis, sourcing and SCM\n\u2013 Empowered 94 entrepreneurs earning an average annual income of INR 20,185 and impacted 13,964 people across six states\n\u2013 Helped raise funding of $10,000 from Dell Social Innovation in 2011/12",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGJi9chtdt_Jg/company-logo_400_400/0/1630613586866/enactus_logo?e=1712793600&v=beta&t=jVchJ308s-4qnKefQ_zRffKipmaxhIncIcR0L6ma9yI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": null,
+            "company": "Iterative",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/iterativevc/",
+            "description": "Iterative.vc is a Y Combinator style accelerator focused exclusively on Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE8kVcekG6NdA/company-logo_400_400/0/1630588508797/iterative_capital_logo?e=1712793600&v=beta&t=XVHj2PMAt0LjlwWOPpuE8w7F7sldcK7TpXSVo1NpC_Y"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Passed Level II of the CFA Program ",
+            "license_number": null,
+            "display_source": "google.com",
+            "authority": "CFA Institute",
+            "url": "https://drive.google.com/file/d/1pshOi0gALDTqo0FaGdYyFikDU7B2nIE8/view?usp=sharing"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Passed Level I of the CFA Program ",
+            "license_number": null,
+            "display_source": "google.com",
+            "authority": "CFA Institute",
+            "url": "https://drive.google.com/file/d/15CsVtx1ali0pCKMoEvTLlrkXpoyx75Tv/view?usp=sharing"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "name": "NSE Certified Capital Market Professional",
+            "license_number": null,
+            "display_source": null,
+            "authority": "NSE India",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/dmitryvedenyapin",
+            "name": "Dmitry Vedenyapin, PhD",
+            "summary": "\ud83d\ude80 CTO & Founder Peakflo (YC W22) | Looking for Top 1% Software Engineers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/eder-echeverria-3246141a7",
+            "name": "Eder Echeverria",
+            "summary": "CO - Founder at Kapital (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jwonged",
+            "name": "Joshua Wong",
+            "summary": "CEO at Hypotenuse AI (YC S20) \u2014 we\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/evisdrenova",
+            "name": "Evis Drenova",
+            "summary": "CEO/Co-Founder, Neosync | YC S22",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rmgoyal",
+            "name": "Rakesh Goyal",
+            "summary": "CEO @Velt (YC W22), Superflow. We're Hiring \ud83d\udd25 | was: Product @Google",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jy-tan",
+            "name": "JunYuan Tan",
+            "summary": "CEO & Co-founder at Homebase (YC W'21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/grahammcnicoll",
+            "name": "Graham McNicoll",
+            "summary": "Co-founder & CEO at GrowthBook (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ivoverhaegh",
+            "name": "Ivo Verhaegh",
+            "summary": "Co-Founder & CEO at Powerhouse AI | \ud83d\udce6 Boosting warehouse productivity",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alokhk",
+            "name": "Alok Kumar",
+            "summary": "Co-founder of Zywa (YC W22) | Forbes 30 under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alaap",
+            "name": "Alaap Tatwawadi",
+            "summary": "Coffee Venture | Innovation | MarTech | Startups",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Saurabh Chauhan",
+            "link": "https://in.linkedin.com/in/saurabh-chauhan-b916b05a",
+            "summary": "Assistant Merchandiser at WORLDFA EXPORTS PRIVATE LIMITED",
+            "location": "Sonipat Tehsil"
+        },
+        {
+            "name": "SAURABH CHAUHAN",
+            "link": "https://in.linkedin.com/in/saurabh-chauhan-b6a3a039",
+            "summary": "Sales Manager in prateek group",
+            "location": "Ghaziabad"
+        },
+        {
+            "name": "Saurabh Chauhan",
+            "link": "https://in.linkedin.com/in/saurabh-chauhan-682003a3",
+            "summary": "Team Lead Manager - Non Medical Operations - Fortis Memorial Research Institute, Gurgaon | Rukmani Birla Hospital, Jaipur | Fortis Hospital Vasant Kunj, Delhi | VPS Rockland Hospital, Gurgaon| Jaypee Hospital, Noida",
+            "location": "New Delhi"
+        },
+        {
+            "name": "Saurabh Chauhan",
+            "link": "https://in.linkedin.com/in/saurabh-chauhan-3741b324",
+            "summary": "Deputy Vice President at Skyway RMC Plants Private Limited",
+            "location": "Mumbai Metropolitan Region"
+        },
+        {
+            "name": "Saurabh Chauhan",
+            "link": "https://in.linkedin.com/in/saurabh-chauhan-2a0b043b",
+            "summary": "Sr. Talent Acquisition",
+            "location": "Delhi, India"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

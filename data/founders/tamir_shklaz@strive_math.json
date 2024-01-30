@@ -1,0 +1,657 @@
+{
+    "public_identifier": "tamir-shklaz-32b446160",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tamir-shklaz-32b446160/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221553Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=609f1babc3f0110711a8b81cc4a4f8336c971125b77a3a1f97542b7af37ec707",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/tamir-shklaz-32b446160/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221553Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f175bf478087bb45c37abbb0c32af763f4fcdcf789c8c06d36d2e985617e484b",
+    "first_name": "Tamir",
+    "last_name": "Shklaz",
+    "full_name": "Tamir Shklaz",
+    "follower_count": null,
+    "occupation": "CTO & Co-Founder at Strive Math (YC S21)",
+    "headline": "Co-Founder at Strive Math (YC S21) - Hiring!",
+    "summary": "My life's mission is to empower people through the use of education, technology and entrepreneurship. I bring ideas into reality through the use of software and engineering. I plan to use this talent to disrupt the education sector to make education more accessible, affordable and meaningful. ",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Pioneer Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pioneerfund/",
+            "title": "Venture Partner",
+            "description": "In the real world when math is done by engineers or financial analysts they use computers and code yet in school students are still calculating by hand. Coding is the literacy of the 21st century and Strive is creating the content and platform to make math more joyful and actually applicable to the real world.\n\nStrive Math (YC S21) is a 1:1 tutoring service for 6\u201310th graders that teaches math through coding games and visualizations. For example, when students create the game \"Pong\", they bring algebra and geometry to life by determining how fast the ball moves and at what angle. They also learn coding at the same time.\n\nOur vision is to replace STEM education in schools and universities globally through our unique pedagogy.  Math, physics, biology and economics can all and should all be taught through code because that's how they are actually applied in industry.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHi9VKZZ3eYKQ/company-logo_400_400/0/1602302074283?e=1661990400&v=beta&t=muQMFPoltKwuSu5uQU2e4MXSD03Y-0MeUlEkHIlkylk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Quillo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/quillotextbooks/",
+            "title": "Founder",
+            "description": "Entrepreneur First is the world\u2019s leading talent investor. It invests time and money in the world\u2019s most talented and ambitious individuals, helping them to find a co-founder, develop an idea, and start a company. So far, EF helped 2,000+ people create 300+ companies, worth a combined $2bn.",
+            "location": "Cape Town ",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGlSBM8vslocA/company-logo_400_400/0/1537429610619?e=1661990400&v=beta&t=JUTXrY-f_gGfqywBzh6kGNrOM7XxpZIrAh5sU5Q6vPg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Strive Math (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/strivemath/",
+            "title": "CTO & Co-Founder",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGptIP_kfG3Yg/company-logo_400_400/0/1637828631654?e=1661990400&v=beta&t=TQdlspzrV9DqXwmSMbi9bcv7YNgnH78H1YRpkPMA3v8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Coronapp",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Quillo is South Africa's largest second-hand textbook marketplace. While pursuing a full-time degree in electrical and computer engineering at the University of Cape Town, I scaled the platform to more than 32 000 students across 24 different universities in South Africa. Quillo won the reward of 'Best Student Startup' in South Africa in 2019 (Awarded by Global Startup Awards). Quillo has received more than $40K worth of support from two incubators, MTN Solution Space and Injini - Africa's Edtech Incubator. In the space of two years, the platform has transacted more than $65K in textbook value and has saved students $130K on textbooks. I was responsible for product development, design, marketing and business strategy. I led a team of four developers, two sales representatives and 18 brand ambassadors.",
+            "location": "South Africa",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGlSBM8vslocA/company-logo_100_100/0/1537429610619?e=2147483647&v=beta&t=SUuXNd58anXM-uK2x6CrL_5I0MyTnIlvNliD3qW4o3c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence (EFSG8)",
+            "description": "Our urgent mission is to make it easy to buy and sell PPE in Africa so that frontline workers can get the vital protection they need. We enable suppliers to find a market of reliable, vetted buyers. We enable buyers to find products and suppliers quickly and efficiently.\nWe\u2019re an efficient marketplace, which:\n1. Reduces stock-outs and lead times. Buyers and suppliers are connected in a reliable and convenient way\n2. Creates trust. We take steps to vet both buyers and suppliers and educate around the certification to look for. \n3. Keeps prices reasonable. We enable easy searches and comparisons.\nOur PPE marketplace will grow into a platform for wholesale trade in Africa. We believe in the power of enabling African manufacturers to find markets locally, on the African continent, and internationally.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFryofqr7-45w/company-logo_400_400/0/1551278478769?e=1661990400&v=beta&t=csb4QVjEfJUV897PpfGa8-Swu4B0RuPkIcFk4gIGmZE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Insupply",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/insupplyza/",
+            "title": "Founder",
+            "description": "Coronapp https://www.coronapp.co.za/ is a centralised repository for relevant and accurate information regarding the COVID-19 virus in South Africa. Its purpose is to make reliable information highly accessible to South Africans in a hope to help people and prevent panic.\n\nCoronapp serves 1000s of South African daily seeking reliable up to date information about the coronavirus. Since the platform's inception it has received more than 1.5M website hits.",
+            "location": "Cape Town, Western Cape, South Africa",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGphznenPo98A/company-logo_400_400/0/1589788929407?e=1661990400&v=beta&t=kKorJjjQnImfdoFtDU0mFbqk2dCNlADnFp6bfRZM44o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "South African Union of Jewish Students (SAUJS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/south-african-union-of-jewish-students-saujs-/",
+            "title": "Chief Political Officer and Events Co-ordinator ",
+            "description": "I served two terms part of the executive of the South African Union of Jewish Students, the primary body that represents Jewish students on university campuses. I presented to the academic freedom committee of UCT a distinguished group of the top professors, lecturers and academics in the country. I was responsible for strategising and presenting a case against the proposed academic boycott of Israel. I played a crucial role in organising our political strategy and being a spokesperson for the organisation. This opportunity allowed me to cultivate my leadership skills as well as begin grappling with solving broader political and social issues.",
+            "location": "Cape Town Area, South Africa",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH3rRwl1eWuaQ/company-logo_400_400/0/1623841163686?e=1661990400&v=beta&t=6XiQZSdL4MnRqn-iyoAsbvL-as1B5R3pUJLOHJQ9KIQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "S21 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_400_400/0/1519894128493?e=1661990400&v=beta&t=s1d46bXDb2wCxuCbea9NYn9ch-42j_Mn8V--RziF-Ts",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "BSc Eng in Electrical & Computer Engineering",
+            "degree_name": "Engineer's degree",
+            "school": "University of Cape Town",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/university-of-cape-town/",
+            "description": "Graduated with first-class honours\nTop student of 2016 Engineering Physics (400+ students)",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEFCqoOrVEFCA/company-logo_400_400/0/1519856479029?e=1661990400&v=beta&t=rMh8qp5d0gxqQV7nHThWlhMSF-kHvgBmp87Ky--5uPk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Matric Certificate ",
+            "school": "King David Victory Park",
+            "school_linkedin_profile_url": null,
+            "description": "Matriculated with 9 distinctions \nAchieved within the top 1% for English in South Africa",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Hebrew"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Represented South Africa at ESDC Debating Championship ",
+            "issuer": "ESDC",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "description": "I represented South Africa in debating at the Eurasian Schools Debating Championship. I was team captain and led my team to the finals of the competition where we placed second to the then best team in the world.  Amongst a pool of over 150 world-class international speakers, I came ranked as the 8th best speaker at the tournament. I won various other debating competitions throughout my high school career and consistently came ranked amongst the top 10 individual speakers."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "title": "Camp Counselor",
+            "cause": "Education",
+            "company": "Habonim Dror South Africa",
+            "company_linkedin_profile_url": null,
+            "description": "Camp counsellor for two years.  My role was to facilitate and educate Jewish youth across South Africa for four weeks on a camp that happens every December. Our primary goal was to teach critical thinking while creating an unforgettable experience. \n\nI was responsible for coordinating and planning activities for over 150 kids and 24 councillors. I hand to create fun and enjoyable experiences while ensuring these experiences were educational. It was during this time where I discovered that education and empowering people was amongst one of my foremost passions.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Mentor",
+            "cause": "Education",
+            "company": "Equal Education",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/equal-educationsa/",
+            "description": "I was a mentor for 20 plus teenagers from disadvantaged backgrounds. I was responsible for organising educational activities and looking after the group. ",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHWbxtwtYaB2A/company-logo_400_400/0/1648799825337?e=1661990400&v=beta&t=zIWi_0pywpHtTm_Mj4QUXM2XQwgVdzndiETjV1HMJEA"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Google Africa Scholarship Mobile Web Specialist Course ",
+            "license_number": null,
+            "display_source": "google.com",
+            "authority": "Andela",
+            "url": "https://storage.cloud.google.com/open-cert.appspot.com/alc/v3/certs/google/wsc/tamirShklaz_626318f5-b6aa-4cf4-8b02-c4efdf352740.pdf"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://za.linkedin.com/in/mthlongwane",
+            "name": "Thando Hlongwane",
+            "summary": "Chief Executive Officer at Lipa Payments",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/agarwalpulkit",
+            "name": "Pulkit Agarwal",
+            "summary": "MBA Stanford | Co-Founder at Strive Math (YC S21)",
+            "location": "United States"
+        },
+        {
+            "link": "https://in.linkedin.com/in/jithin-ks-3834a731",
+            "name": "Jithin KS",
+            "summary": "Content Developer at Strive Education",
+            "location": "Kerala, India"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/aditya-banerjee-6065281b1",
+            "name": "Aditya Banerjee",
+            "summary": "Chief Technical Officer at OURFinals",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/therealjohntan",
+            "name": "John Tan",
+            "summary": "Deep in the future of work & learning | Obama Leader",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/abigail-van-breda-10491959",
+            "name": "Abigail van Breda",
+            "summary": "Teacher at Strive education",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/teri-aiw",
+            "name": "Teri Aiw",
+            "summary": "Part-Time Software Engineer | Math+Coding Teacher at Strive Education",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/singapore",
+            "name": "Eric Li",
+            "summary": "Founder, TEDxNewton | Cryptocurrency Trader | RI'21",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/jonohartz",
+            "name": "Jonathan Hart",
+            "summary": "Growth Manager at The Delta | Business Science Graduate | Tech & Entrepreneurship Enthusiast",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://www.linkedin.com/in/mohitprateek",
+            "name": "Mohit Prateek",
+            "summary": "Founder and CEO, Anakin (Y Combinator S21)",
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/hazellim95",
+            "name": "Hazel Lim",
+            "summary": "Mathematics and Chemistry tutor",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/martin-wolfaardt-aa28034b",
+            "name": "Martin Wolfaardt",
+            "summary": "CTO Peopletree Group",
+            "location": "Knysna"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/nyx-iskandar",
+            "name": "Nyx Iskandar",
+            "summary": "Incoming ARTC/A*STAR Intern || NYAS The Junior Academy & 1000 Girls, 1000 Futures || Cyber Youth Innovator",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/machiel-reyneke",
+            "name": "Machiel Reyneke",
+            "summary": "VP Product Management | Enabling developers in industrial companies",
+            "location": "Cape Winelands"
+        },
+        {
+            "link": "https://za.linkedin.com/in/liron-toledo-5a64a01a5",
+            "name": "Liron Toledo",
+            "summary": "Software Developer at ydangle apps",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/lim-jia-rong-021138159",
+            "name": "Lim Jia Rong",
+            "summary": "Second Year Undergraduate Student at NUS Law",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/mmadikana-basetsana-digashu",
+            "name": "Mmadikana (Basetsana) Digashu",
+            "summary": "Founder at Scarlett By Bassie",
+            "location": "City of Johannesburg"
+        },
+        {
+            "link": "https://za.linkedin.com/in/valeska-naidoo-733038a6",
+            "name": "Valeska Naidoo",
+            "summary": "--",
+            "location": "South Africa"
+        },
+        {
+            "link": "https://za.linkedin.com/in/godfrey-dhlandhlara-b2914a91",
+            "name": "Godfrey Dhlandhlara",
+            "summary": "Founder | Reylan Systems (Pty) Ltd | Software Developer",
+            "location": "Durban"
+        },
+        {
+            "link": "https://za.linkedin.com/in/softwarevisionary",
+            "name": "Derek Diamond",
+            "summary": "Software Visionary PrimeThought Software Solutions",
+            "location": "City of Johannesburg"
+        },
+        {
+            "link": "https://in.linkedin.com/in/adilbub",
+            "name": "Adil Ahmed",
+            "summary": "Teacher & Content Creator at Strive Education",
+            "location": "Kolkata"
+        },
+        {
+            "link": "https://za.linkedin.com/in/alex-furman",
+            "name": "Alex Furman",
+            "summary": "Software Engineer at Zappi",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://za.linkedin.com/in/max-glanz",
+            "name": "Max Glanz",
+            "summary": "CA(SA) Trainee at Investec",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://za.linkedin.com/in/nicole-williams-3a8069111",
+            "name": "Nicole Williams",
+            "summary": "Recruitment Manager at Electrum Payments",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://za.linkedin.com/in/takunda-rukanda-9988b844",
+            "name": "Takunda Rukanda",
+            "summary": "Managing Director at Taksa Global | Edtech Specialist | E-Learning Design and Development | Brain Coach | Media Production | I Solve EdTech and Media Production Problems and Provide Training Solutions. Message me\ud83d\udcf2",
+            "location": "Johannesburg Metropolitan Area"
+        },
+        {
+            "link": "https://za.linkedin.com/in/divan-van-zyl-486b091b9",
+            "name": "Divan van Zyl",
+            "summary": "Digital Marketing Intern",
+            "location": "Cape Town"
+        },
+        {
+            "link": "https://www.linkedin.com/in/paulo-guedes-pinto-85ba276",
+            "name": "Paulo Guedes-Pinto",
+            "summary": "V.P. of Technology at Infinitum Electric",
+            "location": "Round Rock, TX"
+        },
+        {
+            "link": "https://za.linkedin.com/in/gerhard-kotze7",
+            "name": "Gerhard Kotze",
+            "summary": "Software Engineer / Java Developer / Android Development /Python Developer",
+            "location": "Pretoria"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/leonid-fernando-83653417",
+            "name": "Leonid Fernando",
+            "summary": "CEO at Platinum Advisors",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/arnav-hans",
+            "name": "Arnav Hans",
+            "summary": "Final Year BSc Economics student at The University of Warwick",
+            "location": "Greater Coventry Area"
+        },
+        {
+            "link": "https://za.linkedin.com/in/chanel-jonk-86228b40",
+            "name": "Chanel Jonk",
+            "summary": "Supply Chain Finance Analyst at Addendum Financial Technologies",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://www.linkedin.com/in/harit-raghunathan",
+            "name": "Harit Raghunathan",
+            "summary": "Freshman at Princeton University",
+            "location": "Princeton, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/patricksnevels",
+            "name": "Patrick Nevels",
+            "summary": "Co-Founder at RightFit Counseling | Product | BizOps",
+            "location": "Atlanta, GA"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/sharhanmuhseen",
+            "name": "Sharhan Muhseen",
+            "summary": "Chairman at Platinum Advisors",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/luca-sabbatini-05002596",
+            "name": "Luca Sabbatini",
+            "summary": "Head of Addendum Consulting Services: Supply Chain Finance at Addendum Financial Technologies",
+            "location": "City of Johannesburg"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/kumarbhaya",
+            "name": "Kumar Bhaya",
+            "summary": "VP Client Solutions, APAC at Cielo Talent",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/cara-fourie",
+            "name": "Cara van Schalkwyk",
+            "summary": "Product R&D and UX: Addendum Funding Solutions",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://in.linkedin.com/in/rohit-vadithela-7ab1292b",
+            "name": "Rohit Vadithela",
+            "summary": "Process Improvement | Customer Experience & Engagement | Dabbled in Performance Marketing | Start-up Ops | Co-founder @ Vai Ra and The Bid",
+            "location": "Hyderabad"
+        },
+        {
+            "link": "https://za.linkedin.com/in/josephinerey",
+            "name": "Josephine Rey",
+            "summary": "Computer Science Graduate | Teacher at Strive Math",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/levron-goh",
+            "name": "Levron Goh",
+            "summary": "Professional Services Intern",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/yong-liang-yeo-9576a6141",
+            "name": "Yong Liang Yeo",
+            "summary": "Undergraduate at NUS Food Science & Technology | Minor in Interactive Media Development",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://za.linkedin.com/in/basheer-phiri-397270125",
+            "name": "Basheer Phiri",
+            "summary": "No-Code Expert | Co-Founder and CEO at No Code Labs | We Build Web and Mobile Applications Without Code, 10x Faster and 10x Cheaper",
+            "location": "Cape Town"
+        },
+        {
+            "link": "https://za.linkedin.com/in/dillan-wilken-6a4737190",
+            "name": "Dillan Wilken",
+            "summary": "BSc Computer Science, Mathematical Science at Stellenbosch University",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://www.linkedin.com/in/matt-higgins-rse",
+            "name": "Matt Higgins",
+            "summary": "CEO and Co-Founder at RSE Ventures, Executive Fellow at Harvard Business School",
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://za.linkedin.com/in/lusizo-seku-a97368118",
+            "name": "Lusizo Seku",
+            "summary": "Program Manager",
+            "location": "Cape Town"
+        },
+        {
+            "link": "https://ie.linkedin.com/in/dublin-jobs-5691368a",
+            "name": "Dublin Jobs",
+            "summary": "Positions @ Symantec Dublin at Symantec",
+            "location": "Ireland"
+        },
+        {
+            "link": "https://za.linkedin.com/in/ahren-posthumus",
+            "name": "Ahren Posthumus",
+            "summary": "CEO at Momint",
+            "location": "City of Cape Town"
+        },
+        {
+            "link": "https://za.linkedin.com/in/luke-mitchell-andrews-02385a1b4",
+            "name": "Luke Mitchell Andrews",
+            "summary": "Student at Cornwall Hill College",
+            "location": "Gauteng, South Africa"
+        },
+        {
+            "link": "https://za.linkedin.com/in/kholosa-cetyiwe-61243388",
+            "name": "kholosa cetyiwe",
+            "summary": "proffesional nurse at eastern cape department of health",
+            "location": "South Africa"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/olivia-kay-leadsnipe",
+            "name": "Olivia Kay",
+            "summary": "Hate Cold Calling? I Got You! \ud83d\udd25 B2B Lead Generation Specialist \ud83d\udd25 Growth Marketer & Advertiser",
+            "location": "Greater Montreal Metropolitan Area"
+        },
+        {
+            "link": "https://za.linkedin.com/in/kenny-raleaka-12745a18",
+            "name": "Kenny Raleaka",
+            "summary": "Managing Director at Kenny And Hlompho Associates Pty Ltd",
+            "location": "City of Johannesburg"
+        },
+        {
+            "link": "https://www.linkedin.com/in/guidocaldara",
+            "name": "Guido Caldara",
+            "summary": "CTO @ Tablevibe | YCombinator (S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kavyasivagurunathan",
+            "name": "Kavya Sivagurunathan",
+            "summary": "MERN stack developer | Employed at Strive Math (YC S21) | Certified Educator (Coding & Math)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ernestsim",
+            "name": "Ernest Sim",
+            "summary": "Co-Founder of Atlas and Grain | Forbes 30U30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kundala-gayathri-s-70b617140",
+            "name": "Kundala Gayathri S.",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "We're hiring, come help us build the future of math education.",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "Looking to introduce your kids to coding and computational thinking, while making it as engaging as Minecraft? \ud83e\udd16 Attend our free 1-day workshop.",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "As Dorothy says to Toto, I have a feeling we're not in Kansas anymore!In 2020-21, 15% of parents changed their child\u2019s school, a rate 50% higher\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Tamir Shklaz"
+        },
+        {
+            "title": "#hiring We're looking for a rockstar who is passionate about education knows how to code and can edit videos.The role is available as a full-time\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "My beef with mainstream education is the amount of rote memorisation that goes on in school. Jean Piaget rejected the idea that memorising is\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Tamir Shklaz"
+        },
+        {
+            "title": "Pallav Agarwal and I celebrated 1 Million unique users on mywordle.strivemath.com, but by the time I got to posting this, we had reached 2 Million\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "Absolutely loved talking to Jeremy Au \u533a\u6c49\u8f89 for an episode of BRAVE Southeast Asia Tech Podcast. We spoke about how I nearly dropped out of Uni for a\u2026",
+            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6919105106802020352",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "When Pulkit Agarwal and I started Strive Math (YC S21) we decided that everyone at the company has to teach \ud83e\uddd1\u200d\ud83c\udfeb - from operations to engineering\u2026",
+            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6918473181749985280",
+            "activity_status": "Shared by Tamir Shklaz"
+        },
+        {
+            "title": "Hey team - we've been growing a lot and want to press even harder on the gas. With that, we're looking for someone to head up our marketing/growth\u2026",
+            "link": "https://sg.linkedin.com/posts/yarden-shaked-b2011082_hey-team-weve-been-growinga-lot-and-want-share-6917454300138856448-Zsyb",
+            "activity_status": "Shared by Tamir Shklaz"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

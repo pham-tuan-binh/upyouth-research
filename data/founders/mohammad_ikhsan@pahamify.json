@@ -1,0 +1,373 @@
+{
+    "public_identifier": "mohammad-ikhsan-2a861a30",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mohammad-ikhsan-2a861a30/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221636Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6b7c747c5445976387936a74d227612c12322834eb678ab19f97f4054817caf5",
+    "background_cover_image_url": null,
+    "first_name": "Mohammad",
+    "last_name": "Ikhsan",
+    "full_name": "Mohammad Ikhsan",
+    "follower_count": 756,
+    "occupation": "Co-Founder at Sqouts",
+    "headline": "Co-Founder at Sqouts | Assistant Professor at Universitas Indonesia | Co-Founder, Ex-COO, Product at Pahamify",
+    "summary": "I am an experienced educator, startup founder, and company executive with expertise in machine vision, pedagogy, and product management. I have experience building products from zero to millions of users, leading cross-functional teams of various sizes, and managing company-wide initiatives. I hold a Ph.D. in computer engineering with a focus on machine learning and machine vision from the National University of Singapore (NUS). Besides education and product management, I\u2019m also passionate about parenting, running, and rock climbing.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Sqouts",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sqouts/",
+            "title": "Co-Founder",
+            "description": "I am a co-founder at Sqouts where we help companies hire and build their optimal teams through the use of conversational AI.",
+            "location": "Jakarta Selatan, Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEZwhJDfAf0gw/company-logo_400_400/0/1697519874540/sqouts_logo?e=1712793600&v=beta&t=Wst_KpkYwTKiikD-a0BBjg0YkCUytICSX_kkfEzFnB4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2023
+            },
+            "company": "Antler",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antlerglobal/",
+            "title": "Entrepreneur in Residence",
+            "description": "I am part of Antler's ID3 entrepreneur-in-residence program. During this period, we developed Kinna, an AI copilot for parents and caregivers in Indonesia.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGcO8WhScYJvg/company-logo_400_400/0/1630652634929/antlerglobal_logo?e=1712793600&v=beta&t=vSFRhYqMl6V3vJYPDCo-PkXpjd6u3ihfy88VxU7ZW74"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Pahamify",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pahamify/",
+            "title": "Co-Founder, Chief Operating Officer",
+            "description": "Pahamify is a leading education technology startup in Indonesia backed by Y Combinator. As Chief Operating Officer (2020 - 2022), I oversaw the company's day-to-day operations and ensured that we met our strategic objectives. In addition to leading the product and academic teams, I was also responsible for leading the sales and marketing teams. My key accomplishments in this role include:\n\n\u25cf Developed high-level company goals and objectives that aligned with the company\u2019s and founders\u2019 overall vision and mission, and communicated these goals to the whole organization.\n\u25cf Establishing and monitoring company objectives and key results (OKRs) to keep all teams aligned (annually and quarterly). \n\u25cf Developing high-level marketing & sales strategy to ensure growth in our customer base. Our revenue grew 3x YoY during this period.\n\u25cf Developed a product and educational content strategy that aligned with the company\u2019s overall goals. Pahamify became the leading online college test prep platform in Indonesia during this period by the number of online test sessions.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEBZSvaAjmvhQ/company-logo_400_400/0/1635920495802/pahamify_logo?e=1712793600&v=beta&t=VRiMmfSmI_b7JAb9P_3mJe5eG7kpxb-kXT7F_5rAuSo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Pahamify",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pahamify/",
+            "title": "Co-Founder, Chief Product Officer",
+            "description": "Pahamify is a leading education technology startup in Indonesia backed by Y Combinator. As Chief Product Officer at Pahamify, I was responsible for driving the company's product strategy and ensuring the successful delivery of our products to market. My key accomplishments in this role include:\n\n\u25cf Developing a product vision and strategy that aligns with the company's overall goals and objectives, and communicating this vision to the broader organization.\n\u25cf Building and managing a high-performing product team, including product managers, UI designers and UX researchers, and fostering a culture of innovation and collaboration. \n\u25cf Building and managing a high-performing academic and creative team, including teachers, content writers, and creatives (illustrators, animators, videographers). I lead the development of more than 30,000+ educational videos and content accessible through the learning app.\n\u25cf Leading the successful launch of several products (mobile and web app) that spanned three large product areas: self-paced online learning, online live classes, and an adaptive college test preparation platform. These products help establish Pahamify as a top online college test preparation platform in Indonesia.\n\u25cf Collaborating closely with cross-functional teams, including engineering, sales, marketing, and customer success, to ensure that our products are meeting the needs of our customers and driving business growth.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEBZSvaAjmvhQ/company-logo_400_400/0/1635920495802/pahamify_logo?e=1712793600&v=beta&t=VRiMmfSmI_b7JAb9P_3mJe5eG7kpxb-kXT7F_5rAuSo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2022
+            },
+            "company": "Hujan Tanda Tanya",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hujan-tanda-tanya/",
+            "title": "Co-Founder, Executive Producer",
+            "description": "Hujan Tanda Tanya is a leading Indonesian educational video channel on YouTube with over 500,000 subscribers.\n\n\u25cf From 2016 - 2018, I was involved in the full-stack content creator process: pre-production (writing), production (camerawork, lighting, sound), post-production (video editing, animation, illustration), and publishing (thumbnail design, metadata, platform integration).\n\u25cf In 2018, I transitioned to executive producer focused on securing partnerships with brands. Examples include content and endorsement deals with Google, Cambly, Nutrifood, and Kormo Jobs.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQG0Uh8gDHum9Q/company-logo_400_400/0/1683014720048?e=1712793600&v=beta&t=dLKj8BqdUPw6WgnL3bD6Wlx4Cr9_vTfCHifcb56IxzY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/national-university-of-singapore/",
+            "title": "Graduate Teaching Assistant",
+            "description": "I was a teaching assistant at NUS, teaching and aiding in module development for several courses in the field of Control, Intelligent Systems, and Robotics. These courses include:\n\n\u25cf Modelling of Mechatronic Systems\n\u25cf Control Systems Design And Simulation\n\u25cf Industrial Control Systems",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+            "title": "Business Analyst",
+            "description": "Developed an activity-based budgeting model for a company working in the mining industry. The model helped improve alignment between departments and reduce unnecessary spending in operational expenses.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1712793600&v=beta&t=JCN1hMcZ-FlvNHRkavoviTAxdcdYbVVS_uFDZ7R0JTE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Control, Intelligent Systems, and Robotics",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Master of Engineering",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Bachelor of Engineering",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "A novel approach to neuraxial anesthesia: application of an automated ultrasound spinal landmark identification",
+            "publisher": "BMC anesthesiology",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://link.springer.com/article/10.1186/s12871-019-0726-6"
+        },
+        {
+            "name": "Assistive technology for ultrasound-guided central venous catheter placement.",
+            "publisher": "Journal of Medical Ultrasonics",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": null,
+            "url": "https://link.springer.com/article/10.1007%2Fs10396-017-0789-2"
+        },
+        {
+            "name": "Ganex: a Load-bearing Lower Extremity Exoskeleton",
+            "publisher": "2013 International Conference on Electronics, Information and Communication (ICEIC)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Inside the Physical Design of Ganesha Exoskeleton",
+            "publisher": "2013 International Conference on Electronics, Information and Communication (ICEIC)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "PALAPA - Distributed power generation for the development of underdeveloped villages in Indonesia",
+            "publisher": "IEEE - Electrical Engineering and Informatics (ICEEI), 2011 International Conference on",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6021729"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sabda-ps-40bb1383",
+            "name": "Sabda PS",
+            "summary": "Founder & CEO at Zenius",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nurfaridah",
+            "name": "Nur Faridah",
+            "summary": "Co-Founder and COO of Sqouts (AI Powered Recruitment)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anindilla",
+            "name": "Dilla Anindita",
+            "summary": "Entrepreneur in Residence",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/david-jendra-6159848b",
+            "name": "David Jendra",
+            "summary": "Co-founder of Codr",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jason-rusli-a83736a6",
+            "name": "Jason Rusli",
+            "summary": "CFO at Pahamify (YC W20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aditya-banuaji",
+            "name": "Aditya Banuaji",
+            "summary": "Ex-Senior Product Manager at Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andiya-putra-b253a095",
+            "name": "Andiya Putra",
+            "summary": "Product Management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reza-63475189",
+            "name": "Reza .",
+            "summary": "Business Development & Partnership",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shafira-fitri-hazairin-a8a25818a",
+            "name": "Shafira Fitri Hazairin",
+            "summary": "Academic Program Coordinator at Pahamify | Mathematics Tutor | Content Creator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ichsanmulia",
+            "name": "Ichsan Mulia Permata",
+            "summary": "Marketing and Data Enthusiast",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Mohammad Ikhsan",
+            "link": "https://id.linkedin.com/in/ikhsanprimejobfinder",
+            "summary": "Managing Director of PRIME JOBFINDER | Recruitment Consultant",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "name": "Mohammad Ikhsan",
+            "link": "https://id.linkedin.com/in/mohammad-ikhsan-50a19663",
+            "summary": "Associate di Maqdir Ismail & Partners Law Firm",
+            "location": "Indonesia"
+        },
+        {
+            "name": "Mohammad Ikhsan",
+            "link": "https://id.linkedin.com/in/mohammad-ikhsan-9064211a0",
+            "summary": "Bachelor of Psychology",
+            "location": "Jakarta Timur"
+        },
+        {
+            "name": "Mohammad Ikhsan",
+            "link": "https://id.linkedin.com/in/rem5",
+            "summary": "I solemnly swear that I'm up to no good",
+            "location": "Jakarta"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

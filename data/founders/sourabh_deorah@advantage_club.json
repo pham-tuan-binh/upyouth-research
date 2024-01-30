@@ -1,0 +1,374 @@
+{
+    "public_identifier": "sourabh-deorah-a4912b1a",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sourabh-deorah-a4912b1a/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221554Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd1c0dad0df30b83123040f6eca36fb2c5bfc9c890a3ab656e0a9abbacedb9bf",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sourabh-deorah-a4912b1a/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221554Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9501a33b9719b73575634fa0a982b96ccbc7cd455a3dfc2ed30afc6137ef07ac",
+    "first_name": "Sourabh",
+    "last_name": "Deorah",
+    "full_name": "Sourabh Deorah",
+    "follower_count": null,
+    "occupation": "Founder & Chief Executive Officer at Advantage Club",
+    "headline": "Chief Executive Officer and Co-Founder at Advantage Club. Hiring rockstars in Product, Engineering, UI/UX & Alliances (US, India, SE-Asia & Dubai) | YC S21",
+    "summary": "Co-Founded Advantage Club. Advantage Club is a global platform for employee engagement and financial wellness. Previously worked for Microsoft's Bing team and Amazon's Lab 126. I completed my masters in computer science from University of California at LA.\n\nI believe in getting things done. Outside work I love to socialize, interact with like-minded people, fellow entrepreneurs, travel places and jump from wherever I can.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Advantage Club",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/advantageclub",
+            "title": "Founder & Chief Executive Officer",
+            "description": "Advantage Club is a global platform for employee engagement and financial wellness including perks, rewards and early wage access. We bring multiple employee benefits on the same platform and are live with 370+ companies across 60+ countries. I am responsible for the company's vision, product and strategic developments.",
+            "location": "Gurgaon",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHZUYLO5pQ-jQ/company-logo_100_100/0/1660720540118?e=2147483647&v=beta&t=ko1UE1uvq1MJbjbv9TrWJ094m6C8RRGy80fJwb_h-6E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Old Advantage Club",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Executive Officer and Co-Founder",
+            "description": "We were focused on employee perks for SME to large companies and then eventually pivoted to a better model in 2019.",
+            "location": "Gurgaon",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2009
+            },
+            "company": "Web Genie",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "In a team of 4 we started a venture while pursuing under graduation at Thapar University. We made a local portal for the city and tried to cater to localized requirements of students in Patiala.",
+            "location": "Patiala Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/microsoft",
+            "title": "Software Developer Engineer",
+            "description": "I worked in the core team of Bing on layer 2 ranking",
+            "location": "Bellevue",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=2147483647&v=beta&t=rffql7GLHsSqWXKbdP2LJMMv7CMTqu7-Ms9d9tophKI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2011
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/microsoft",
+            "title": "Intern",
+            "description": "I interned with Natural Language Group of Office. During 12 weeks of my internship worked on 4 projects which were all in different stages of product life cycle.",
+            "location": "Redmond, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=2147483647&v=beta&t=rffql7GLHsSqWXKbdP2LJMMv7CMTqu7-Ms9d9tophKI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "Lab126-Amazon",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/lab126",
+            "title": "Software Developer",
+            "description": "Built the first version of platform search for kindle devices",
+            "location": "Cupertino",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF42fGVfa1OTg/company-logo_100_100/0/1519952365817?e=2147483647&v=beta&t=AruZCQ1yZ4zavC6u8jkBju_0wsm3DSnqN0dmt7BkMlI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Symantec",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/symantec",
+            "title": "Intern",
+            "description": "I worked with STAR team which works on core Malware technologies used by Symantec in Norton.",
+            "location": "Culver City, Los Angeles",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE4pkDM4IZm1A/company-logo_100_100/0/1650402805085?e=2147483647&v=beta&t=Sune5ily8XE4CODa2wi2rcjHodDYWNzuXLS6CeQL5wg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "Oracle",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/oracle",
+            "title": "Intern",
+            "description": "Worked on ADF on migrating Oracle Web Communities from Enterprise 1.0 to Enterprise 2.0",
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/0/1665755678671?e=2147483647&v=beta&t=BBjGBVZ-kcxvjwTFPVNymoU4ilfvgMSDDovXm5R2lS4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Master of Science",
+            "school": "University of California, Los Angeles",
+            "school_linkedin_profile_url": "https://in.linkedin.com/school/ucla/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9Njw4w5UjtQ/company-logo_100_100/0/1625622502302?e=2147483647&v=beta&t=NC4r3qJrEBNmeA0HJZVxObQ6Wa1-eiMe010NMl5Tx-o",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Computer Science and Engineering",
+            "degree_name": "B.E.",
+            "school": "Thapar Institute of Engineering & Technology",
+            "school_linkedin_profile_url": "https://in.linkedin.com/school/tietofficial/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEHtx1U87kUjA/company-logo_100_100/0/1645923772496?e=2147483647&v=beta&t=BU_0eJcRI7pG-fwap42IXrx7TIJCPqPZ3rVfY_1WTvQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Evaluation and Extension to the Duckworth Lewis Method: A Dual Application of Data Mining Techniques",
+            "publisher": "Proceedings of the 11th IEEE International Conference on Data Mining Workshops (ICDMW 2011)",
+            "published_on": {
+                "day": 11,
+                "month": 12,
+                "year": 2011
+            },
+            "description": "This paper deals with the evaluation of the Duckworth Lewis method, identifying its limitation, and devising a modification to address these limitations. The Duckworth Lewis method, or D/L method, was created by Frank Duckworth and Tony Lewis. The International Cricket Council (ICC) adopted D/L method in 1999 to address the issue of delayed one-day cricket matches due to interruptions such as inclement weather conditions, poor light and floodlight failures, and crowd problems. We have attempted to identify the shortcomings in the existing Duckworth Lewis method using data mining algorithms such as Random Forests and C4.5.\n\nWe have also shown that the p-values and other data mining techniques serve a dual purpose of not only evaluating whether systems such as D/L method have been exploited by taking advantage of their properties such as simplicity, but also devising alternate and robust approaches (or models).",
+            "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1988542"
+        },
+        {
+            "name": "SEAS-Expert system for advising academic major",
+            "publisher": "IEEE Xplore, International Advance Computing Conference\u20192010",
+            "published_on": {
+                "day": 19,
+                "month": 2,
+                "year": 2010
+            },
+            "description": "Most students in India choose their undergraduate major solely on the basis of persisting trends in the society. Due to the lack of a holistic guidance system, students often end up making choices solely on the basis of the above parameter, which in eventuality, may fail to align with the student\u2019s actual interest and inherent aptitude towards a particular major. In this paper we propose an expert system-SAES which aims to provide intelligent advice to the student as to which major he/she should opt. SAES acquires knowledge of academic performances as well as explicit and implicit interests of the candidate. Knowledge representation in SAES is done by the use of a combination of case based and rule based reasoning. SAES draws inferences on the basis of acquired knowledge and also takes into account the degree of dilemma faced by the candidate and the time he/she takes to decide the interest areas. SAES then recommends the most suitable majors for each candidate, which are further classified as strong, mild and weak on the basis of calculated relative probabilities of success. At the end, we analyze results of the test conducted on a working prototype of SAES.",
+            "url": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5422931"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Organizing The Army Exhibition event \"ShauryaGaatha\" Successfully for 3 years at Thapar University Technical Festival - ARANYA",
+            "description": "A salute to the great Armed Forces of our Nation INDIA from the students' of Thapar University. This event showcases the latest equipment used by the Indian Army.",
+            "url": "https://www.facebook.com/ShauryaGaatha"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/smitibhattdeorah",
+            "name": "Smiti Bhatt Deorah",
+            "summary": "Co-Founder and Chief Operating Officer at Advantage Club (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aditya-sharma-37ab5b85",
+            "name": "Aditya Sharma",
+            "summary": "Business Development Manager at Advantage Club (formerly, Work Advantage)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/simran-punjabi-63966a133",
+            "name": "Simran Punjabi",
+            "summary": "Associate Vice President - Alliances",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vaishali-gulia-ab5435155",
+            "name": "Vaishali Gulia",
+            "summary": "Senior Business Development Manager at Advantage Club",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saksham-mandhyan-234789217",
+            "name": "Saksham Mandhyan",
+            "summary": "Business Development Manager at Advantage Club | Digital Rewards & Recognition and Corporate Perks Solutions",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sudipto-banerjee-0672a778",
+            "name": "Sudipto Banerjee",
+            "summary": "Senior Manager Business Alliance at Advantage Club (formerly, Work Advantage)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sai-jyothi-2659a229",
+            "name": "Sai Jyothi",
+            "summary": "Business Development Manager || Rewards and Recognition || Employees Benefits || Corporate Perks.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aritrasen2706",
+            "name": "Aritra Sen",
+            "summary": "Business Development Manager at Advantage Club",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rahul-ojha17",
+            "name": "Rahul Ojha",
+            "summary": "Software Engineer - Backend",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/himanshu-chopra-01",
+            "name": "Himanshu Chopra",
+            "summary": "Senior Software Developer at Advantage Club",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Atishay Jain\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Sourabh is a hard working individual with desire to grow collectively."
+    ],
+    "activities": [
+        {
+            "title": "One of the favorite quotes I have read in my life: \"My will to survive exceeds almost everybody else's will to kill me\" - Jensen Huang, Nvidia\u2026",
+            "link": "https://www.linkedin.com/posts/sourabh-deorah-a4912b1a_startups-advantageclub-lifelessons-activity-7017434485130444801-Pq2N",
+            "activity_status": "Liked by Sourabh Deorah"
+        },
+        {
+            "title": "During my YC, I learned the best way to figure out a 'Product - Market fit':The Pre PM Fit days are like pushing a boulder up a mountain, and in\u2026",
+            "link": "https://www.linkedin.com/posts/sourabh-deorah-a4912b1a_advantageclub-founders-startup-activity-7017469370884927489-to8u",
+            "activity_status": "Shared by Sourabh Deorah"
+        },
+        {
+            "title": "One of the favorite quotes I have read in my life: \"My will to survive exceeds almost everybody else's will to kill me\" - Jensen Huang, Nvidia\u2026",
+            "link": "https://www.linkedin.com/posts/sourabh-deorah-a4912b1a_startups-advantageclub-lifelessons-activity-7017434485130444801-Pq2N",
+            "activity_status": "Posted by Sourabh Deorah"
+        },
+        {
+            "title": "Seems like we've gone from \"Build in India for US\" to \"Build anywhere, Sell anywhere, From anywhere\"#startups #founders #advantageclub",
+            "link": "https://www.linkedin.com/posts/sourabh-deorah-a4912b1a_startups-founders-advantageclub-activity-7017051980162347008--kbB",
+            "activity_status": "Posted by Sourabh Deorah"
+        },
+        {
+            "title": "Delhi-based #OTT platform \ufeffSTAGE - OTT for Bharat\ufeff has raised Rs 40 crore in funding led by Blume Ventures. The round also saw participation from NB\u2026",
+            "link": "https://www.linkedin.com/posts/yourstory-com_ott-platform-stage-raises-rs-40-cr-led-by-activity-7015913482894151680-gR59",
+            "activity_status": "Liked by Sourabh Deorah"
+        },
+        {
+            "title": "In the phases of my career over the past 20+ years I have been blessed to have bosses who have always taught me or I have chosen to learn a few\u2026",
+            "link": "https://www.linkedin.com/posts/arpan-dasgupta-6833405_in-the-phases-of-my-career-over-the-past-activity-7014561854748266496-j4OM",
+            "activity_status": "Liked by Sourabh Deorah"
+        },
+        {
+            "title": "Philip takes over the role of Zone India #CHRO from Rachna Mukherjee who was with the company for eight years and retired on 31st 31, 2022, as per\u2026",
+            "link": "https://www.linkedin.com/posts/ethrworld_schneider-electric-appoints-binu-philip-as-activity-7015928393992974336-mssX",
+            "activity_status": "Liked by Sourabh Deorah"
+        },
+        {
+            "title": "From acknowledging the impact of emergent technologies on how we work & live to discovering the best of technology solutions to the most\u2026",
+            "link": "https://www.linkedin.com/posts/ethrworld_nextech-india-hr-summit-hr-tech-conference-activity-7015628221295542273-b9vC",
+            "activity_status": "Liked by Sourabh Deorah"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "sourabh deorah",
+            "link": "https://in.linkedin.com/in/sourabh-deorah-72510210",
+            "summary": "Student at Thapar Institute of Engineering and Technology",
+            "location": "Dibrugarh"
+        },
+        {
+            "name": "Sourabh Deorah",
+            "link": "https://www.linkedin.com/in/sourabh-deorah-6b570135",
+            "summary": "--",
+            "location": "United States"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

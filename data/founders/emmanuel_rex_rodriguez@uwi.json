@@ -1,0 +1,338 @@
+{
+    "public_identifier": "rexrodriguez",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rexrodriguez/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221232Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e4058ed65e8c0dc6f9ca4944b0f3b8f7169d27fc6db8dde9fb60bcfa2d09cdba",
+    "background_cover_image_url": null,
+    "first_name": "Emmanuel Rex",
+    "last_name": "Rodriguez",
+    "full_name": "Emmanuel Rex Rodriguez",
+    "follower_count": 960,
+    "occupation": "Chief Technology Officer at uwi homes",
+    "headline": "(YC S22). #fintech #ycombinator #proptech",
+    "summary": "I am a strong believer in the 80/20 rule and I actively apply that in my daily life.  I push to do the most possible good with the least expenditure of time or resources and have consistently delivered.  My technical background has allowed me to leverage technology to find ways to generate value, increase efficiency and productivity for the people around me.  \n",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": "Metro Manila",
+    "state": "National Capital Region",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "uwi homes",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uwi-homes/",
+            "title": "Chief Technology Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFbKjSMezWidg/company-logo_400_400/0/1648358069004?e=1704326400&v=beta&t=RA2jDt3ZeyMLFMSVI3S49XeJPDTRWk0VSlld8domThI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "company": "RPSGi (Red Pixel Solutions Global inc.)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rpsgi/",
+            "title": "Global Technology Director",
+            "description": null,
+            "location": "Makati",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGWJimWT5wKvQ/company-logo_400_400/0/1519910692980?e=1704326400&v=beta&t=fxQ6k6vpbwz_evODOwcZaaXCAObh1FbX-do8zH5rvZk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2017
+            },
+            "company": "gumi Asia Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gumi-asia-pte-ltd/",
+            "title": "General Manager",
+            "description": "Overall head of the Philippines branch of gumi Asia Pte. Ltd.",
+            "location": "Pasig City, Metro Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGURc6Pi-5eFQ/company-logo_400_400/0/1557219695549?e=1704326400&v=beta&t=cp5MBNVb7AjILATtXhMWD5wb3vAKczD_6DyuqXda59U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "gumi Asia Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gumi-asia-pte-ltd/",
+            "title": "Engineering Manager",
+            "description": "Was responsible for ensuring a timely response to infrastructure related issues as well as client and server feature development support to main development teams in Singapore.  Was in charge of a team that provides 24/7 infrastructure monitoring and response to existing gumi Asia Pte. Ltd. games hosted on AWS and Google Cloud Platform.\n\nNotable achievements:\n\u2022 Created alerting tools, scripts and dashboards for NOC engineers to significantly decrease response time to any infrastructure issue.",
+            "location": "Pasig City, Metro Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGURc6Pi-5eFQ/company-logo_400_400/0/1557219695549?e=1704326400&v=beta&t=cp5MBNVb7AjILATtXhMWD5wb3vAKczD_6DyuqXda59U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Gameloft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gameloft/",
+            "title": "Technical Director",
+            "description": "Served as a technical expert representative across mobile production teams\nand internal clients. Established standards, guidelines and procedures to\nmeasure and accelerate project progress. Offered technical support across\nprojects, mentored development teams all along the production life cycle from\ntechnical design to applications delivery.  Defined middleware, engines, framework\nto facilitate, improve and optimise production.  Suggested alternative technical\nsolutions to meet with client requirements more efficiently. Tracked and identified\nnew opportunities to improve methodology. Evaluated development teams and\nbuilt developing plans for performance improvement. Ensured technical training\nand induction of new developer hires.\n\nNotable achievements:\n\u2022 Developed systems and procedures to reduce porting time of Linux based\nplatform projects from 3 weeks to one day.\n\u2022 Created core code used by Gameloft Pad for LG TV.  A novel application which allows a user to use their smartphone as a controller for a number of games on the LG Smart TV platform.",
+            "location": "City of Makati, Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF-d4Puskmo5w/company-logo_400_400/0/1620206186428?e=1704326400&v=beta&t=HvtWI38TApoaJrx7Zf5gjNOIl2AwTRZRXoW2_NKM1es"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "company": "Gameloft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gameloft/",
+            "title": "Lead Game Developer",
+            "description": "Was responsible for task estimation, breakdown, and assignments to developer\nteam. Provided mentoring and direction to team members. Communicated\nprogress and issues of the project to designated project managers and\nsuperiors.\n\nNotable achievements:\n\u2022 Singlehandedly implemented online multiplayer for a game on a linux platform.\n(Shrek Kart Freebox)\n\u2022 Pioneered development and porting to the IPad platform.\n\u2022 Pioneered development and porting to the HTML5 platform. (GT Racing HTML5)\n\u2022 Created the processes and practices required for porting Gameloft games to \nvarious Linux-based platforms.",
+            "location": "City of Makati, Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF-d4Puskmo5w/company-logo_400_400/0/1620206186428?e=1704326400&v=beta&t=HvtWI38TApoaJrx7Zf5gjNOIl2AwTRZRXoW2_NKM1es"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "company": "UP Information Technology Training Center",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/up-information-technology-development-center-upitdc-/",
+            "title": "Embedded Systems Training Officer",
+            "description": "Served a general role as a trainer for programming languages and other computer\nscience concepts. Also performed a more specific role as an instructor\nof embedded systems technologies.\n\nNotable achievements:\n\u2022 Main contributor to the school\u2019s Embedded Linux curriculum.\n\u2022 Instrumental in the school\u2019s victory in the Microcontroller Applications\nDesign Competition (MADC 2008) \u2013 Classic Line Following Division.",
+            "location": "Diliman, Quezon City",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEAuoniiEj8Qw/company-logo_400_400/0/1519909536058?e=1704326400&v=beta&t=nbU-Q_QlPNgeSMRYAklj9TDCrWKMwr4IhK-y1-goNdY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "company": "Philippine Batteries Inc. (Ramcar Group of Companies)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ramcar-group-of-companies/",
+            "title": "Process Design Engineer",
+            "description": "Formulated, through hypothesis and experimentation, new processes to improve productivity in\nautomotive battery manufacturing.\n\nNotable achievements:\n\u2022 Reduced dry cell formation process from 24 hours to 16 hours.",
+            "location": "Sta. Maria, Bulacan",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "BS Metallurgical Engineering",
+            "school": "University of the Philippines",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFhc7r3beFtvA/company-logo_400_400/0/1672705533849?e=1704326400&v=beta&t=ZdQ4fcRWncGMbzPH2oUYiMj7Ct_PibanfgYmMM56Kl4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "UP Information Technology Training Center",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "La Salle Greenhills",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Tagalog"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Rank 8th in the Metallurgical Engineer National Board Examination",
+            "issuer": "Society of Metallurgical Engineers of the Philippines (SMEP)",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "AWS Certified Solutions Architect - Associate",
+            "license_number": "WSL56VB1K11114WV",
+            "display_source": null,
+            "authority": "Amazon Web Services (AWS)",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Fundamental Engineer",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Japanese Language Proficiency Test Level 4",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Sun Certified Java Programmer",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Sun Microsystems",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/pvillagomez",
+            "name": "Paulo Villagomez",
+            "summary": "Home-Lending-as-a-Service for banks & NBFIs in Southeast Asia (YC S22). #fintech #ycombinator #proptech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/elmer-g-ba6b42156",
+            "name": "Elmer G.",
+            "summary": "Customer Success Officer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/r-joseph-tan-82967a161",
+            "name": "R. Joseph Tan",
+            "summary": "Designing bespoke loan programs for Southeast Asia's residential developers (YC S22). #fintech #ycombinator #proptech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dann-dee-orzales-06296842",
+            "name": "Dann Dee Orzales",
+            "summary": "Architect, IT Systems at Philippine Associated Smelting and Refining Corporation",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rubiconcepcion",
+            "name": "Rubi Concepcion",
+            "summary": "Designing bespoke loan programs for Southeast Asia's Tier 2 & 3 residential developers (YC S22). #fintech #ycombinator #proptech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/johnroberttolentino",
+            "name": "John Robert T.",
+            "summary": "Head of Technology @ Gur Lavi Corp. | ITIL certified | Telecommunications | MSP | Cloud | Masters in Information Technology | Innnovations | A mentor & life long learner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/liwayway-benter-47b45619a",
+            "name": "Liwayway Benter",
+            "summary": "Administrative Executive at RPSGi (Red Pixel Solutions Global inc.)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/john-amiel-capistrano-aa3b0012a",
+            "name": "John Amiel Capistrano",
+            "summary": "Front-end Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/franzmationg",
+            "name": "Franz Lyndl Mationg",
+            "summary": "-",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joseph-marcelo-39761738",
+            "name": "Joseph Marcelo",
+            "summary": "Operations Manager",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

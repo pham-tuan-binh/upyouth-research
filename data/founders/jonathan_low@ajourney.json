@@ -1,0 +1,339 @@
+{
+    "public_identifier": "jonathanlowhy",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jonathanlowhy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221237Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9b5453428c41c569ff0f3f40787b84e05bc95da8dd29c2e777ca16435e8bdfd6",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jonathanlowhy/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221237Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cf6f1b5e5450cc48870046d07152d4c6461d6619d9c03b374b44f8fdf987c545",
+    "first_name": "Jonathan",
+    "last_name": "Low",
+    "full_name": "Jonathan Low",
+    "follower_count": 3184,
+    "occupation": "CEO & Co-Founder at Ajourney",
+    "headline": "CEO & Co-Founder @ Ajourney | Consolidate & automate your payroll",
+    "summary": "CEO, co-founder of Ajourney and previously CTO, co-founder of honestbee\n\nAjourney is a modern payroll solution that helps local and regional businesses simplify their payroll by consolidating and automating all their payrolls in one place. We provide payroll support so that businesses can run their businesses and payrolls compliantly without requiring internal payroll expertise.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Ajourney",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ajourney/",
+            "title": "CEO & Co-Founder",
+            "description": "Ajourney is a modern payroll solution that helps local and regional businesses simplify their payroll by consolidating and automating all their payrolls in one place. We provide payroll support so that businesses can run their businesses and payrolls compliantly without requiring internal payroll expertise.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG-28PPON5-uA/company-logo_400_400/0/1654509081495?e=1707955200&v=beta&t=YXSkml56qbAkz6jOJawSIbZDvNraHR2c3rLHAG8K1r8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Meta Illusions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/metaillusions/",
+            "title": "Partner",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF1KBQC3CeU4A/company-logo_400_400/0/1631308414855?e=1707955200&v=beta&t=vqAkTGyTAN0rbX8esUWbOTUDCclKE7TCUtY8TLWY2Eo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2021
+            },
+            "company": "NE Digital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ne-nexus-sg/",
+            "title": "Head of Product Development - OBFS and Loyalty Tech",
+            "description": "Building product and enabling transformation in FairPrice Group",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFaGdNggeustw/company-logo_400_400/0/1675406885852/ne_digital_sg_logo?e=1707955200&v=beta&t=Sv8CU_0DJxOdHAhWH6v1BEVnnZ5EfunH4qyfVP8TG7c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "honestbee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honestbee/",
+            "title": "Co-Founder | CTO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG3vFJlU3yG6g/company-logo_400_400/0/1631340340025?e=1707955200&v=beta&t=Rzft7CMFFcMfgXSYaY-94Ab79XRcQQmwIzqKxFRl8PI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "honestbee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honestbee/",
+            "title": "Co Founder | VP (Engineering)",
+            "description": "\u2022 Grew and managed a 130+ sized product & engineering organisation across 4 hubs \u2013 Singapore (50+), Taipei (60+), Bangalore (20+), Ho Chi Minh (5+)\n\u2022 Developed job levels and compensation banding for individual contributors and managers across engineering, data, product management and project roles across all hubs\n\u2022 Managed a wide variety of functions in terms of strategy and roadmap \u2013 Product Engineering, DevOps, Data Science, Data Engineering, Business Intelligence\n\u2022 Develop a strong engineering culture of trust, quality and ownership with emphasis on teams, not individuals\n\u2022 Drive decisions on technology choices such as Build vs Buy and technology stacks\n\u2022 Dive deep and be hands-on when necessary to get ground context in the business, operations and tech to facilitate higher level decision making\n\u2022 Oversee logistics and eCommerce product development for 8 geographies \u2013 SG, HK, TW, MY, PH, TH, ID, JP\n\u2022 Manage stakeholders to crystallise business needs and perform product roadmap prioritisation\n\u2022 Led product and engineering development for habitat by honestbee, a Food and Groceries O2O retail store\n\u2022 Handle incoming product and technology due diligence for fund raising\n\u2022 PR trained and served as the spokesperson for English and Chinese media and events\n\u2022 honestbee tech stack: AWS, Kubernetes, DataDog (Monitoring), Drone CI, Postgres, Redis, ElasticSearch, RoR, Golang, Python (Data), Airflow, Redshift, Looker (BI), Node/React, React Native, iOS, Android, Git",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG3vFJlU3yG6g/company-logo_400_400/0/1631340340025?e=1707955200&v=beta&t=Rzft7CMFFcMfgXSYaY-94Ab79XRcQQmwIzqKxFRl8PI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "honestbee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honestbee/",
+            "title": "Lead Software Engineer",
+            "description": "\u2022 Development and code reviews for for consumer web (Node.js, rendr.js) and backend (Ruby on Rails)\n\u2022 Set up CI/CD (AWS, Travis CI) and BI Tools (Periscope)",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG3vFJlU3yG6g/company-logo_400_400/0/1631340340025?e=1707955200&v=beta&t=Rzft7CMFFcMfgXSYaY-94Ab79XRcQQmwIzqKxFRl8PI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Lifeopp Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Lead Software Engineer",
+            "description": "\u2022 Led the MVP development of a headhunting network in Ruby on Rails",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "NUS Computing for Voluntary Welfare Organisations",
+            "company_linkedin_profile_url": null,
+            "title": "Team Lead",
+            "description": "\u2022\tLed a team of developers to develop, enhance and deploy systems for 5 different Voluntary Welfare Organisations (VWO) with PHP and Drupal 7.\n\u2022\tCarried out requirement studies for the systems involved.\n\u2022\tManaged clients\u2019 requirements and expectations realistically to prevent feature creep and ensure timely deployment.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "NUS Computing for Voluntary Welfare Organisations",
+            "company_linkedin_profile_url": null,
+            "title": "Summer Fellow",
+            "description": "Worked in a team that was involved in building a Client Management System for Movement for the Intellectually Disabled in Singapore (MINDS).\n\nDeveloped the Attendance Taking and Attendance Reporting modules.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Peekman Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/peekman-pte-ltd/",
+            "title": "Software Engineer & Strategic Client Relations Manager",
+            "description": "\u2022 Developed a search engine using JavaScript, Node.JS, ElasticSearch to query a candidate database \u2022 Developed LinkedIn search SOPs and automated repetitive work via a Chrome Extension\n\u2022 Self-trained as a recruitment consultant specialising in technical recruitment\n\u2022 Generated revenue from recruitment that moved the company into the black in 2014 Q1",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFcWiqER0-Hqg/company-logo_400_400/0/1631330093444?e=1707955200&v=beta&t=KFRv0Y-WKigBl9Rb-MljS9408yWqdGlLW0o-loGLncI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Zong",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zong/",
+            "title": "Operations Analyst",
+            "description": "\u2022\tManaged language localisation for Zong's products across 30+ countries worldwide. Streamlined the localisation workflow from the start (communicating with vendors) to the end (deployment) to ensure quick response time while maintaining low costs. Wait time for translations from vendors was shortened from 2 weeks to 3 days.\n\u2022\tDeveloped a Flash demo game implementing one of Zong\u2019s newest product \u2013 a headless mobile API payments solution. Demo game was used as a showcase in presentations for clients and conventions.\n\u2022\tAssisted product team to gather analytics data and carry out testing of product payments flow across multiple countries using DeviceAnywhere.",
+            "location": "Menlo Park, San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFrvbwsomf2KA/company-logo_400_400/0/1631373109318?e=1707955200&v=beta&t=QLOMKm5Rst0VLIlE9vOCZPvh0cGgdB5wiFeA0D3cJcw"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "B.Eng",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1707955200&v=beta&t=HU4Ehn7c4hXFCNVtK8mkLxhgGRtd6pjbQ-KVa9Q6_TQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Hwa Chong Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The Chinese High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Tenza Yakitori",
+            "description": "iPad app consisting of an integrated game and restaurant menu developed for Tenza Izakaya restaurant. Customers of the restaurant can play the game and exchange for rewards on-the-spot.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jonathan Low",
+            "link": "https://sg.linkedin.com/in/jonathan-low-382b3841",
+            "summary": "VP MIS",
+            "location": "Singapore"
+        },
+        {
+            "name": "Jonathan L\u00f8w",
+            "link": "https://dk.linkedin.com/in/jloew",
+            "summary": "Entrepreneur, Speaker & Co-founder af JumpStory",
+            "location": "Aarhus"
+        },
+        {
+            "name": "Jonathan Low",
+            "link": "https://www.linkedin.com/in/jonathan-low-0b5a4927",
+            "summary": "Captain at SFFD",
+            "location": "San Francisco, CA"
+        },
+        {
+            "name": "Jonathan Low",
+            "link": "https://au.linkedin.com/in/jonathannlow",
+            "summary": "User Research Coordinator at Westpac",
+            "location": "Greater Sydney Area"
+        },
+        {
+            "name": "Jonathan Low",
+            "link": "https://sg.linkedin.com/in/jonathanlowkh",
+            "summary": "Strategy & New Ventures at Crypto.com || DeFi",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

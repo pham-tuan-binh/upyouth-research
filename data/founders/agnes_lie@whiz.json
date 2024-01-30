@@ -1,0 +1,323 @@
+{
+    "public_identifier": "agneswlie",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/agneswlie/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221327Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=251a6680af1cafeb5ad792d1bfbcf967101c5fde7f8327539ff760652e4c50c9",
+    "first_name": "Agnes",
+    "last_name": "W Lie",
+    "full_name": "Agnes W Lie",
+    "follower_count": 2186,
+    "occupation": "Co-Founder at Whiz (YC W22)",
+    "headline": "Co-Founder at Whiz (YC W22) | ex-OVO, ex-BCG",
+    "summary": "Proven track records in:\n1. Managing and creating on-the-ground impact of new businesses, both in traditional business and startups\n2. Solving strategic and operational problems for startup leaders and C-suites in global corporations alike\n\nExpertise Summary: Strategy, Growth, MarTech, Analytics, User Research, Operations\n\nFluency: Bahasa Indonesia, English and Chinese Mandarin\n\nObsessions: DLT applications, Fintech & New retail\n\nDM me if you -\n(1) share the same obsessions\n(2) could benefit from my expertise",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Whiz (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/whiz-idn",
+            "title": "Co-Founder",
+            "description": "Whiz, Indonesia\u2019s first teenage money app that enables teens to have their first financial account and start developing good money habits, e.g., saving up towards their wants, learning how to portion their expenses, tracking goals, transacting independently (via QRIS or bank transfers), and gaining early exposure/knowledge to various financial assets. Parents\u2019 involvement can be customized, from receiving real-time notifications and setting up spending limits/blockages to rewarding desired behaviors and matching savings.\n\nWith Whiz, teens develop a sense of financial responsibility early and get a head start in life!",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEc_HnQwKDX8Q/company-logo_400_400/0/1659370818281/whiz_id_logo?e=1712793600&v=beta&t=RsOGZ7b_hssdgjXNTlz-sXlmeuVuEX-bqQunNacf04M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "OVO (PT Visionet Internasional)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/visionetinternasional",
+            "title": "VP of Growth Marketing",
+            "description": "Led 4 teams \u2013 Demand Planning & Growth Product, Marketing Analytics, Marketing Research & Insight and Digital Marketing \u2013 strategizing and executing on promotional and paid ads spend for all OVO businesses, focusing on business growth and optimization of spend through data-driven decision making and A/B testings.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHxkqQCRjikkQ/company-logo_400_400/0/1667355326144/visionetinternasional_logo?e=1712793600&v=beta&t=iBTr3roqgwb6ROCktcPSLUQeKQhuwVol-VF2HpvnKO8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Consultant",
+            "description": "Industry & practice area focus: Financial Institutions (FIs) - covered cases ranging from Strategy to Transformations; Corporate Finance - covered sell- and buy-side diligence",
+            "location": "Singapore/ Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "PT GPP",
+            "company_linkedin_profile_url": null,
+            "title": "Managing Co-founder",
+            "description": "Rapidly growing Indonesia-based polybags manufacturer for the food & beverage sector, ca. 100\nemployees.",
+            "location": "Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "PT CMBP",
+            "company_linkedin_profile_url": null,
+            "title": "Sales Manager",
+            "description": "Indonesia-based corrugated carton box manufacturer, ca. 1,000 employees",
+            "location": "Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "United Overseas Bank Limited (UOB)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uob",
+            "title": "Corporate Planning & Strategy Officer",
+            "description": "Indonesia\u2019s subsidiary of the third largest bank in SEA, ca. 4600 employees",
+            "location": "Jakarta / Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE7TULSMjVkbA/company-logo_400_400/0/1663196867873/uob_logo?e=1712793600&v=beta&t=sZRfDC4L6Hc1pa24Z1FumdW_7JpaBE0qYcPuR4wt0aE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "Morgan Stanley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/morgan-stanley",
+            "title": "Wealth Management Intern",
+            "description": null,
+            "location": "Los Angeles, California",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1712793600&v=beta&t=313Qjjl1LUyxbgDgzrB0KElP-JW5Kz1EJpjCVAj-2dA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5176/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1712793600&v=beta&t=ezcJyhLTrEtoJub7ScHjnXsodInFuUDxcSx5WVKB9Xw",
+            "grade": null,
+            "activities_and_societies": "Leadership team of INSEAD Entrepreneurship Club"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Business Economics",
+            "degree_name": "Bachelor of Arts (BA)",
+            "school": "UCLA",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2477/",
+            "description": "Minor: Accounting\n",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831517/ucla_logo?e=1712793600&v=beta&t=_H-H3sgzpU_Dg8fr6xsvVZVe2quGzj87_A0TGGpMUsI",
+            "grade": "GPA: 3.94 / 4.00",
+            "activities_and_societies": "Student Accounting Society, Undergraduate Business Society"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": null,
+            "degree_name": "Business Management",
+            "school": "Diablo Valley College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/163444/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF_mrZ68wuyBg/company-logo_400_400/0/1657077449766/diablo_valley_college_logo?e=1712793600&v=beta&t=Ma8A5IQAgIReZq1Jvn1hjaP1kyImk4Mx0Ztnb-2L4Js",
+            "grade": "GPA: 4.00 / 4.00",
+            "activities_and_societies": "Alpha Gamma Sigma"
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Summa Cum Laude",
+            "issuer": "University of California - Los Angeles",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "description": "Highest Honor, Top 1% of class, Dean's Honors List for 5 consecutive quarters"
+        },
+        {
+            "title": "Academic Honors",
+            "issuer": "Diablo Valley College",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            },
+            "description": "Outstanding academic achievements for 3 consecutive semesters"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "title": "Alumni Mentor",
+            "cause": null,
+            "company": "IWiB Club",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/54279073/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQERw2HmlUPx-A/company-logo_400_400/0/1630644707843/iwib_club_logo?e=1712793600&v=beta&t=R6Ccs3MmRG-wPDQH-pYFnyXoCCP-wYJYJrVkoSxMIKc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "title": "Volunteer",
+            "cause": "Economic Empowerment",
+            "company": "Cartier Women's Initiative Awards",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/1083710/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHgD-cjpL-9YQ/company-logo_400_400/0/1633965801566/cartier_womens_initiative_logo?e=1712793600&v=beta&t=EwHN729-UjuzusiFqv4ba8FqGfe5PJMOirdPYJkMlys"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Blockchain Revolution Specialization",
+            "license_number": "7G4Q6QHJ2CQ3",
+            "display_source": "www.coursera.org",
+            "authority": "INSEAD",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/7G4Q6QHJ2CQ3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Google UX Design Professional Certificate",
+            "license_number": "Wqhc9JIM",
+            "display_source": "www.coursera.org",
+            "authority": "Google",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/7G4Q6QHJ2CQ3"
+        }
+    ],
+    "connections": 2202,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQGWXSIkB3xudg/group-logo_image-shrink_48x48/0/1630999702453?e=1705478400&v=beta&t=h6Y8OFA2VyvQoP_5cMqGSp74Pjx_Mq5PTUI9F-IHB-k",
+            "name": "Entrepreneur BCGers",
+            "url": "https://www.linkedin.com/groups/12122799"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQGN91DlLz9ACQ/group-logo_image-shrink_48x48/0/1631362678351?e=1705478400&v=beta&t=VJeUvO4xvuNWBXnnyMvo7v8UjMF_UeM2X14_FIonKXU",
+            "name": "AGLA - Alibaba Global Leadership Academy",
+            "url": "https://www.linkedin.com/groups/10329719"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

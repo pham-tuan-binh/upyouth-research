@@ -1,0 +1,315 @@
+{
+    "public_identifier": "dannycastonguay",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dannycastonguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221704Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5e7af56de7bcd33cd93eec942dc1a07d71274b5af0fbffa2e7aa15f6a6f264e0",
+    "background_cover_image_url": null,
+    "first_name": "Danny",
+    "last_name": "Castonguay",
+    "full_name": "Danny Castonguay",
+    "follower_count": 4465,
+    "occupation": "Co-Founder and CEO at bld.ai",
+    "headline": "CEO at bld.ai",
+    "summary": "I\u2019m the founder of bld.ai\n\nI\u2019m a husband and father of three. I train Brazilian Jiu-Jitsu 5 times a week and I don\u2019t compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.\n\nI can talk about: Product Management, Machine Learning, User Experience, Agile, DevOps, Big Data Analytics, IoT, Infrastructure as Code, PaaS, Entrepreneurship, MIT, Y-Combinator, McKinsey, VC, railroads, mining, refining, oil & gas (upstream and downstream), electricity production and distribution, banking, retail, non-profits, and education.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "bld.ai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bldai/",
+            "title": "Co-Founder and CEO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGgFkbUnb1dOA/company-logo_400_400/0/1641435552398/bldai_logo?e=1709164800&v=beta&t=EIdHuIrNbVD-v-KCaWvMtfHowxRKCASyYpUldcP7c2o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Associate Partner",
+            "description": null,
+            "location": "United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1709164800&v=beta&t=SPb5ymB8elAkXCOszgdXLUg3ScCrYEd_Eat98xqkkEg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Business Analyst",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214174212/mckinsey_logo?e=1709164800&v=beta&t=SPb5ymB8elAkXCOszgdXLUg3ScCrYEd_Eat98xqkkEg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Kalibrr Technology Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kalibrr-technology-ventures/",
+            "title": "Co-Founder, CTO",
+            "description": null,
+            "location": "Boston, SF, Manila.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCKXJa7FhyuQ/company-logo_400_400/0/1633449669041/kalibrr_technology_ventures_logo?e=1709164800&v=beta&t=lkHehanyU4eLnwJG_ProAb5gYnNJLYzfD4T2gPBXJkc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Massachusetts Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/mit/",
+            "title": "Instructor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1709164800&v=beta&t=X2nUahk7JkzO7BAPFbuiAPdgT-45H1HXEiiV-kevEOI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "University of the Philippines",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-the-philippines/",
+            "title": "Adjunct Professor",
+            "description": "We train and fund top MIT students and alumni to conduct technology incubator courses globally. Participants mentor startups, network with entrepreneurs and VCs, learn and teach real-world technology platforms, and explore exotic locales. Travel allowance plus generous stipend provided.\n\nI taught two semesters in Metro Manila (sponsored by Google, MIT, Heroku (Salesforce), and Smart Communications). \n\nSee: http://gsl.mit.edu/",
+            "location": "Quezon City, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFhc7r3beFtvA/company-logo_400_400/0/1672705537119/university_of_the_philippines_logo?e=1709164800&v=beta&t=C_UTj13bZPIJIrZQRcKOxlNbTfZpn5pVvAp1_y56SK4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2007
+            },
+            "company": "McGill University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/mcgill-university/",
+            "title": "Teaching Assistant",
+            "description": "TA in Software Engineering, Artificial Intelligence, Probability and Stochastic Processes.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFvv1npMZWzKA/company-logo_400_400/0/1631348310705?e=1709164800&v=beta&t=wUcuKB2mTaOB2Gp_CEcwqH5vubTE7hbj72w36L_lFPM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Building things people want.",
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "MBA",
+            "school": "MIT Sloan School of Management",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF-NKQHUG7hUg/company-logo_400_400/0/1631325873804?e=1709164800&v=beta&t=yqeUI3PO5avcQJzTLzzslVQQ5H2nxFL_tjNEWaosCMw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Master",
+            "school": "McGill University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFvv1npMZWzKA/company-logo_400_400/0/1631348310705?e=1709164800&v=beta&t=wUcuKB2mTaOB2Gp_CEcwqH5vubTE7hbj72w36L_lFPM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2004
+            },
+            "field_of_study": "Electrical and Computer Engineering",
+            "degree_name": "B Eng",
+            "school": "McGill University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFvv1npMZWzKA/company-logo_400_400/0/1631348310705?e=1709164800&v=beta&t=wUcuKB2mTaOB2Gp_CEcwqH5vubTE7hbj72w36L_lFPM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": "Sciences",
+            "degree_name": "International Baccalaureate",
+            "school": "CEGEP Champlain",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Portfolio Management : An empirical study of the Anticor algorithm",
+            "publisher": "McGill University",
+            "published_on": null,
+            "description": null,
+            "url": "http://digitool.library.mcgill.ca/webclient/StreamGate?folder_id=0&dvs=1339077464398~317"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "CFA Program candidate. Passed Level I (2005) and Level II (2006)",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Daniel Castonguay",
+            "link": "https://ca.linkedin.com/in/danielcastonguaystudios",
+            "summary": "Fine Art Photographer & CEO at Daniel Castonguay Studios",
+            "location": "Montreal, QC"
+        },
+        {
+            "name": "Daniel Castonguay",
+            "link": "https://www.linkedin.com/in/daniel-castonguay-46385a53",
+            "summary": "Chief Software Architect at Acsis, Inc.",
+            "location": "Mt. Laurel, NJ"
+        },
+        {
+            "name": "Daniel Castonguay",
+            "link": "https://ca.linkedin.com/in/daniel-castonguay-a34178112",
+            "summary": "Specialists truck equipment Les industries Halrai",
+            "location": "Vaudreuil-Dorion, QC"
+        },
+        {
+            "name": "Daniel Castonguay",
+            "link": "https://ca.linkedin.com/in/daniel-castonguay-9880a670",
+            "summary": "Maintenance Planner at McCain Foods",
+            "location": "Drummond, NB"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

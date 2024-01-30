@@ -1,0 +1,324 @@
+{
+    "public_identifier": "aandrison",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aandrison/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221523Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b9910c08bfbfd2e31d409142d3d3640af045316903a0e3b135e0b4bc09ddb3cb",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aandrison/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221523Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5351354152544df22dfe2a70fb3fe834ed37d1edb0ad0071a1fc26fe8243d440",
+    "first_name": "Aswin",
+    "last_name": "Andrison",
+    "full_name": "Aswin Andrison",
+    "follower_count": 9588,
+    "occupation": "Co-founder & CEO at TazkerAI (YC W22)",
+    "headline": "AI-powered automation | Co-founder of TazkerAI & Lumina (YC W22) | VC scout | *STILL* HIRING!",
+    "summary": "Aswin has 20-year experience applying cutting-edge tech in the physical industry.\n\nThrough TazkerAI (by Lumina, YC W22), he helps companies integrate systems, automate repetitive processes and improve business performance through fit-for-purpose Intelligent Automation, AI and Human-in-the-Loop solutions.\n\nPrior to Tazker, he has built, invested in and exited startups, such as STOQO, a pioneer fresh-produce supplier for 40,000 food-stalls with 1,500-strong workforce and USD 13M raised from investors (eg. Accel, Monk's Hill and AlphaJWC).\n\nAt McKinsey, IBM, Honeywell and Saratoga Capital (PE), Aswin consulted across physical industries, including supply chains, FMCG, airline, utilities, manufacturing, mining and telecom. Aswin graduated Computer Science & Chemical Engineering at UNSW (Australia) and holds an MBA from London Business School and MIT.\n\nIn his spare time, Aswin loves tinkering with codes, doing extreme sports, supporting other founders and travelling the world.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "New York",
+    "state": "New York",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Lumina (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/luminatechnologies/",
+            "title": "Co-founder & CEO",
+            "description": "Southeast Asia's first community-powered job platform for frontline and gig workers with global ambitions; 1-million workers in 6 months after app launch; backed by Y Combinator, Monk's Hill, Alpha JWC, Goodwater Capital, SWC Global and January Capital.",
+            "location": "Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFs4CcXjKXFtg/company-logo_400_400/0/1621866904522/lensanusa_logo?e=1706745600&v=beta&t=ykeacgGXqE3ecCHHj5CmCGoLzcs4HlIvjeNGnlir7ZA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Monk's Hill Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/monk's-hill-ventures/",
+            "title": "Venture Scout",
+            "description": "I invest in mission-driven founders with bold, game-changing ventures and help them grow.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGToJPC1xtZkQ/company-logo_400_400/0/1594824345821/monks_hill_ventures_logo?e=1706745600&v=beta&t=bxviSAm3VSmWYpVwJ_Eg8gFb3PcyqRESEYdcan9WgbM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "TazkerAI (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tazker/",
+            "title": "Co-founder & CEO",
+            "description": "TazkerAI is a bespoke AI+human-powered automation solution for companies in the physical industry. We synchronize systems and ingest unstructured data through Intelligent Automation, AI and human-in-the-loop, tightening processes for sustainable growth.",
+            "location": "New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFtGfZe_YNdyg/company-logo_400_400/0/1679245604290?e=1706745600&v=beta&t=fuDSoDY66CZWAYYmT8-1JEPnszYctfsm0kC_UcjSZPQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "STOQO",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stoqo-technologies/",
+            "title": "Co-founder & CEO",
+            "description": "\u2022 Indonesia's pioneer in fast, precision deliveries of fresh ingredients to 40,000+ hawkers in Greater Jakarta\n\u2022 Built high ownership, mission-driven, 1,500 people-strong workforce delivering millions of perishable orders with 95% precision and 5-hr processing time when our customers were asleep, night in, night out\n\u2022 Raised USD 13mio from Accel, ZhenFund, Insignia, Monk's Hill and Alpha JWC",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF5Pfm6BQ_EgQ/company-logo_400_400/0/1535536853165/stoqo_technologies_logo?e=1706745600&v=beta&t=dKLjg2DTvj7E2DP3ylcYf6lzZoSfvMyseRBnoANHVmE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "McKinsey & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mckinsey/",
+            "title": "Associate",
+            "description": "\u2022 Strategy, operations, customer experience and digital consulting for tech, telecom, healthcare and energy clients in Indonesia, Singapore, Thailand and Australia\n\u2022 Advanced analytics and digital fellow",
+            "location": "Asia Pacific",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGkMCCyZFcj-Q/company-logo_400_400/0/1688214173898/mckinsey_logo?e=1706745600&v=beta&t=hYre-84mEt_INN5lIxYgBBNcWwjNtXcldGOjhnIgvuw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "PT Saratoga Investama Sedaya Tbk.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-saratoga-investama-sedaya-tbk/",
+            "title": "Intern",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHgUxBJAbqbqA/company-logo_400_400/0/1652333970040/pt_saratoga_investama_sedaya_tbk_logo?e=1706745600&v=beta&t=wVSOz-1u8PKzRlUIi-4VF6ldvaqNS0PAzMO0LIO7D8E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "company": "IBM",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+            "title": "Senior Consultant - Strategy & Innovation",
+            "description": "\u2022 Internet of Things: smart grids, smart cities, e-health, big data\n\u2022 Complex program management, organisational outsourcing/offshoring and innovation jam \n\u2022 Corporate Service Corps leadership development program in China",
+            "location": "Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427/ibm_logo?e=1706745600&v=beta&t=8f54TdKvAA_9N6m3sK7Jf-3ySIPspWlxkNpdr7aoEDE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "company": "Honeywell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honeywell/",
+            "title": "Control & Automation Engineer",
+            "description": "Embedded programming and implementation of gas pipeline control system, refinery automation and control system, and prison security system",
+            "location": "Melbourne, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFvcIh3UnA5zw/company-logo_400_400/0/1535662846602/honeywell_logo?e=1706745600&v=beta&t=5DOjreyZL1_I8HGyjnKp62yMBYXXEIG4Kpwz_DM60Mc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "company": "EB2 International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/eb2-international/",
+            "title": "Software Engineer",
+            "description": "B2B SaaS startup focusing on internet booking engine for international airlines, later acquired by Sabre Airline Solutions",
+            "location": "Sydney, Australia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEmRnErm-4iIQ/company-logo_400_400/0/1519857032464?e=1706745600&v=beta&t=Nk3jsjpOikd0MiXZKDw0ke5vVkiIE2Lq2IbA6WRk5cU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "MBA Exchange",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799728670/mit_logo?e=1706745600&v=beta&t=otMwpfPT4NwfsUZMvOOrdyWtymzQYFsMMeZMSxrIUxg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": "MBA",
+            "school": "London Business School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEqDlcBJVq7_A/company-logo_400_400/0/1688382214258/london_business_school_logo?e=1706745600&v=beta&t=2KcRu06Js9npQ7CKO5baRQbqThWXJEXiwJI3ap05EkU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Computer Science / Chemical Engineering",
+            "degree_name": "BSc / BE",
+            "school": "UNSW",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409335681/unsw_logo?e=1706745600&v=beta&t=ee-9hJCRLJFygdk_vg27axLBWictGzi5CzV0b940r8I",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Alibaba",
+            "title": "eFounder Fellow",
+            "description": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Y-Combinator",
+            "title": "W22 batch",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/crystalwidjaja",
+            "name": "Crystal Widjaja",
+            "summary": "Startup Advisor | EIR at Reforge | prev Gojek",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arayanoonhutasuwan",
+            "name": "Araya Noon Hutasuwan",
+            "summary": "Co-founder at Snapcart | Finance, Strategy, People Operations | Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pengtong",
+            "name": "Peng T. Ong",
+            "summary": "Co-Founder and Managing Partner at Monk's Hill Ventures",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/justinnguyen",
+            "name": "Justin Nguyen",
+            "summary": "Venture Investor | Entrepreneur | Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cherylliew",
+            "name": "Cheryl Liew",
+            "summary": "Head of Talent at Monk's Hill Ventures",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/linggamadu",
+            "name": "Lingga Madu",
+            "summary": "Venture Partner at Monk's Hill Ventures",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/auroramarsye",
+            "name": "Aurora M.",
+            "summary": "Co-founder of Lumina (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/susli",
+            "name": "Susli Lie",
+            "summary": "Partner at Monk's Hill Ventures | YC Founder turned VC | Proud Mom",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stephanie-wongsoredjo",
+            "name": "Stephanie Wongsoredjo",
+            "summary": "Co-Founder at BAKOOL (Y-Combinator W22) | Global Shaper World Economic Forum",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina (YC W22) | Forbes 30 under 30 | Jobs, Careers, AI, Startup",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

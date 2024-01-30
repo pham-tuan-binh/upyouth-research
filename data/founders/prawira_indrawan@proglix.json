@@ -1,0 +1,338 @@
+{
+    "public_identifier": "prawira-indrawan-11826a256",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Prawira",
+    "last_name": "Indrawan",
+    "full_name": "Prawira Indrawan",
+    "follower_count": 10,
+    "occupation": "Freelance Software Engineer",
+    "headline": "Software Engineer",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Karangasem",
+    "state": "Bali",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": null,
+            "company_linkedin_profile_url": null,
+            "title": "Freelance Software Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Proglix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/proglixindonesia/",
+            "title": "Back End Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFxtvXV9_zZVQ/company-logo_400_400/0/1660276813791?e=1714608000&v=beta&t=dIHjzblWMbHDE95ADstPDOLlhnp0mr2DlOe65koFHpU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "StafBook",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stafbook-com/",
+            "title": "Back End Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFiZWQLxMo2eA/company-logo_400_400/0/1680000793725?e=1714608000&v=beta&t=alyS7iDCpwks7-8Czk8W9A4rx3XCYBD27NGQgKT4uA8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "TechX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/techx-id/",
+            "title": "Back End Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFXJAz_G_teuQ/company-logo_400_400-alternative/0/1630636493353?e=1714608000&v=beta&t=mHo0QdihnsAbul7ls7SJD3a6dY1MQINI9lHXjkTppTA"
+        }
+    ],
+    "education": [],
+    "languages": [
+        "English",
+        "Indonesian",
+        "Japanese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Finalist of Cyber Defence Competition 2015",
+            "issuer": "Ministry of Defense Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null
+        },
+        {
+            "title": "2nd Winner of Cyber Jawara 2014",
+            "issuer": "ID-SIRTII",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Finalist of Cyber Defence Competition 2014",
+            "issuer": "Ministry of Defense Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Winner of IBM Bluemix App Challenge 2014",
+            "issuer": "IBM",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "2nd Winner of Imagine Cup 2013: Innovation Category",
+            "issuer": "Microsoft",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        },
+        {
+            "title": "3rd Winner of Lumia Apps Olympiad 2013: IPAYMU Category",
+            "issuer": "Microsoft",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "title": "Blocknom",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "title": "Colibri",
+            "description": "Comprehensive LMS with blended learning, evaluation, and gamification. That is actively used by thousands of employees every day.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "title": "bebasinvestasi",
+            "description": "bebasinvestasi is a premier social investing app where you can invest socially with communities where everyone can connect, share, and learn about investment.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "title": "CAR Reasuransi",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "title": "Maqmur",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "title": "Prixa",
+            "description": "Prixa is a pioneer in the management of corporate health benefits accessible on a single platform. Prixa provides better experience and accessibility to health care through engaged member advocacy, connected administration, and curated employee benefits.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "Kofounder",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "title": "Marketspot",
+            "description": "Marketspot is a geo social commerce app that can help sellers meet nearby customers and show them on map.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "title": "Ayoreview",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "title": "KIDEA",
+            "description": "An application for interactive learning for children with mental retardation. Our concern is solve those problem and provide new media learning that easy to use which implement Kinect sensor.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/manish-r-chachada",
+            "name": "Manish Chachada (Cyble'r)",
+            "summary": "Co-Founder/COO at Cyble (YC W'21), Forbes Global Top 20 Cyber Startup | Ivy League MBA | Member of Forbes Business Council|Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vera-oktavia-91510a145",
+            "name": "Vera Oktavia",
+            "summary": "HR Manager | Start up Enthusias | Head Hunter",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dwiky-bagas-regio-perkasa",
+            "name": "Dwiky Bagas Regio Perkasa",
+            "summary": "Back End Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nugrohoadi",
+            "name": "Adi Nugroho",
+            "summary": "Fullstack Developer | Cryptocurrency | Cyber Security | AI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ghuniyu",
+            "name": "Ghuniyu Fattah Rozaq",
+            "summary": "Building StafBook, People-First HR Partner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chokevin1",
+            "name": "Kevin Cho",
+            "summary": "Building in stealth | YC W23 | Forbes 30 under 30 | Co-Founder at Peeba",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yahya-maulana-juliansyah-a2510a154",
+            "name": "Yahya Maulana Juliansyah",
+            "summary": "Building People First HR Partner for Southeast Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/umizahroh",
+            "name": "Umi Zahroh",
+            "summary": "Bank-end Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alifjafar",
+            "name": "Alif Jafar Fatkhurrohman",
+            "summary": "Co-Founder & CTO at UpBanx (YC W22) | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ivanekaputra",
+            "name": "Ivan Eka P.",
+            "summary": "Front-End Engineer",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

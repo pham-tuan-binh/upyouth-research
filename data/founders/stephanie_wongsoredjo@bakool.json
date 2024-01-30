@@ -1,0 +1,404 @@
+{
+    "public_identifier": "stephanie-wongsoredjo",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/stephanie-wongsoredjo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221320Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9c16b6d202d7842a1e723434ad8b5fdfc19960e80a3a3f15e1237b1f7532a3ab",
+    "background_cover_image_url": null,
+    "first_name": "Stephanie",
+    "last_name": "Wongsoredjo",
+    "full_name": "Stephanie Wongsoredjo",
+    "follower_count": 748,
+    "occupation": "Co-Founder at BAKOOL (YC W22)",
+    "headline": "Co-Founder at BAKOOL (Y-Combinator W22) | Global Shaper World Economic Forum",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "BAKOOL (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bakool/",
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFsrmGbJHGAOA/company-logo_400_400/0/1671507977175/bakool_logo?e=1712793600&v=beta&t=LoMc5rnRXRhVZYNvdQ5vzO3uOAOfM-4iTMo_ea9eAXI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Global Shaper",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1712793600&v=beta&t=1XT901u8dTU5_urahLUY3v2xs6gm3NFYsfmpbvhtQX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "Batch Winter 22",
+            "description": null,
+            "location": "Silicon Valley, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "Nusantara Entertainment",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Executive Officer",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "Central Bank of Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/central-bank-of-indonesia/",
+            "title": "Department of Economic and Monetary Policies Analyst",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF9p5_ginYV7A/company-logo_400_400/0/1631334737586?e=1712793600&v=beta&t=H1UEeNwHvFR_nOBzzU5Pb4cmAyJD2i1i6zvnJqIhU3Y"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2017
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "University of California, Berkeley, Haas School of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEc1EFtLIThEw/company-logo_400_400/0/1631312193135?e=1712793600&v=beta&t=ufOIrJhiYVrJYLGgIQi3zx518QLaXlUdjWYnYDZB9NQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Associate of Science (A.S.)",
+            "school": "Diablo Valley College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF_mrZ68wuyBg/company-logo_400_400/0/1657077449766/diablo_valley_college_logo?e=1712793600&v=beta&t=Ma8A5IQAgIReZq1Jvn1hjaP1kyImk4Mx0Ztnb-2L4Js",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "org_name": "Indo DVC",
+            "title": "Vice President",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "org_name": "Santa Laurensia Student Government",
+            "title": "President",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "title": "Volunteer",
+            "cause": "SOCIAL_SERVICES",
+            "company": "American Red Cross",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/american-red-cross/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHUWIQmmDRJOw/company-logo_400_400/0/1656603670184/american_red_cross_logo?e=1712793600&v=beta&t=lnkDZfOHnXzEnM7PovWjDUyn31TqeOtanCKbkHdfkW8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "title": "Vice President",
+            "cause": null,
+            "company": "Indo DVC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/indo-dvc/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE6in1m0_fWeA/company-logo_400_400/0/1631418118053/indo_dvc_logo?e=1712793600&v=beta&t=jHfMM0mCcrGSb8q4U7D2qKZhpUzfYAhojaOZwKEF1rs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "title": "Chief of Event",
+            "cause": null,
+            "company": "UNICEF",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/unicef/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE5WFsvU5iicw/company-logo_400_400/0/1631310285230?e=1712793600&v=beta&t=W4WiKP8XAUiZsZMlYsgLntzcAdddNb55YHC7C3acFCk"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ivan-darmawan-850887b1",
+            "name": "Ivan Darmawan",
+            "summary": "Co-Founder at BAKOOL | Y Combinator W22",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maudyayunda",
+            "name": "Maudy Ayunda",
+            "summary": "Storyteller | Founder | Angel Investor | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chandni-chainani",
+            "name": "Chandni Chainani",
+            "summary": "Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nadia-fadhila-alatas-patompo-b9ba4675",
+            "name": "Nadia Fadhila Alatas Patompo",
+            "summary": "Co-Founder at Fintelite",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bryansilfanus",
+            "name": "Bryan Silfanus",
+            "summary": "COO at Kitabisa | Ex-Bain | Global Shaper WEF",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina | Forbes 30 under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/choijesse",
+            "name": "Jesse Choi",
+            "summary": "Building Reku | Stanford MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Finnix (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "After a brief \"trip\" to Hong Kong last week with Tao of Alibaba author Brian A. Wong, back in Indonesia this week with BAKOOL (YC W22) founders Ivan\u2026",
+            "link": "https://www.linkedin.com/posts/paulojoquino_after-a-brief-trip-to-hong-kong-last-week-activity-7033663741116211200-7cMU",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "What makes a pivot meaningful for a business? Pivots are part and parcel of a startup\u2019s journey but some are more effective than others. Go behind\u2026",
+            "link": "https://www.linkedin.com/posts/insignia-ventures_podcast-business-innovation-activity-7033660736362938368-uQbl",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Kicking off Season 5 of On Call with Insignia with the leaders behind Indonesia social commerce platform Aplikasi Super (YC W18)'s private label\u2026",
+            "link": "https://www.linkedin.com/posts/paulojoquino_kicking-off-season-5-of-on-call-with-insignia-activity-7026049920419647488-EMrw",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Y Combinator just published my Startup School video: How to get your first customers. https://lnkd.in/dbCNcRWS",
+            "link": "https://www.linkedin.com/posts/gustafalstromer_how-to-get-your-first-customers-startup-activity-7014343861439197184-pYes",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Ready for 2023!",
+            "link": "https://www.linkedin.com/posts/stephanie-wongsoredjo_ex-grab-traveloka-execs-social-commerce-activity-7012942048697741312-0szo",
+            "activity_status": "Dibagikan oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "What does it mean to be a Super Mother?A mother who sacrifices her own comfort for their children in spite of receiving the burnt bits of\u2026",
+            "link": "https://www.linkedin.com/posts/superapp-id_happy-mothers-day-to-all-the-super-mothers-activity-7011577782098939904-ofFa",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Mengumumkan pendanaan awal dari Kleiner Perkins, Goodwater, Insignia Ventures, Global Brain, hingga Mari Elka Pangestucc: BAKOOL (YC W22), Ivan\u2026",
+            "link": "https://www.linkedin.com/posts/dailysocial-id_startup-quick-commerce-radius-pivot-jadi-activity-7010831209924632576-7j-5",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Wrapping 2022 with a high note \ud83d\ude80 Introducing Bakool, the first group buying for fresh in rural IndonesiaFor those who are looking for\u2026",
+            "link": "https://www.linkedin.com/posts/ivan-darmawan-850887b1_ex-grab-traveloka-execs-social-commerce-activity-7010828472323371008-W13V",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Wrapping 2022 with a high note \ud83d\ude80 Introducing Bakool, the first group buying for fresh in rural IndonesiaFor those who are looking for\u2026",
+            "link": "https://www.linkedin.com/posts/bakool_ex-grab-traveloka-execs-social-commerce-activity-7010828563826294784-GaRh",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "When Aadit Palicha and Kaivalya V. couldn't find a good grocery delivery app to use during Covid in India, they dropped out of school and started\u2026",
+            "link": "https://www.linkedin.com/posts/y-combinator_they-raised-360-million-after-dropping-out-activity-6985263892964798464-dXpG",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Whiz (YC W22) is Indonesia\u2019s first money management app for families - kids, teens and parents. They're on a mission to empower a new generation of\u2026",
+            "link": "https://www.linkedin.com/posts/y-combinator_aplikasi-keuangan-whiz-pertama-untuk-keluarga-activity-6968749366870249472-WdRO",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Super memilih mengembangkan bisnis socia commerce mereka ke wilayah Timur Indonesia, yang diproyeksi menyimpan potensi hingga ribuan triliun Rupiah.\u2026",
+            "link": "https://www.linkedin.com/posts/tech-in-asia-indonesia_super-bermodal-rp500-m-abaikan-jabodetabek-activity-6966997356936409088-I6x2",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "As we passed our milestone of having raised to date 106 M USD+, after Mount Bromo at our SoftBank Series B round last year, this time we chose Padar\u2026",
+            "link": "https://www.linkedin.com/posts/stevenwongsoredjo_as-we-passed-our-milestone-of-having-raised-activity-6939392196991168512-uvfs",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Meet Indonesia's Aplikasi Super (YC W18)! While they're a social commerce startup focused on small towns and rural areas, what they've achieved is\u2026",
+            "link": "https://www.linkedin.com/posts/backscoop_70m-to-super-charge-indonesias-small-towns-activity-6938327721403895808-4Hbq",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Aplikasi Super (YC W18) was born as an underdog, and since day one, we have stood for the underdog population in rural Indonesia. Our underdog stance\u2026",
+            "link": "https://www.linkedin.com/posts/stevenwongsoredjo_indonesian-social-commerce-platform-super-activity-6938025293617975296-iIje",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "This year we are selected as one of Forbes 30 under 30 Asia 2022 honorees; we would like to thank all Sedulur Super and Villagers that make us here.\u2026",
+            "link": "https://www.linkedin.com/posts/stevenwongsoredjo_forbes-30-under-30-2022-activity-6935454287506341888-zaij",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        },
+        {
+            "title": "Finku (YC W22) has raised $2.8 million in its latest seed funding round to build the personal finance platform for Indonesia.On a mission to bridge\u2026",
+            "link": "https://www.linkedin.com/posts/y-combinator_finku-secures-28m-seed-funding-led-by-b-activity-6930911392178827266-f05A",
+            "activity_status": "Disukai oleh Stephanie Wongsoredjo"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

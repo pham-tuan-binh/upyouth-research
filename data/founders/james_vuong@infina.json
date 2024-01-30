@@ -1,0 +1,353 @@
+{
+    "public_identifier": "jameslvuong",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jameslvuong/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221536Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=055f7ad51f466cb81ad2e15f0d5c7cfd6168f55d23680a5ce6d94bc2e2a5a953",
+    "background_cover_image_url": null,
+    "first_name": "James",
+    "last_name": "Vuong",
+    "full_name": "James Vuong",
+    "follower_count": 11851,
+    "occupation": "Founder and CEO at Infina.vn",
+    "headline": "Founder & CEO of Infina.vn (YC S21), serial founder and former VC",
+    "summary": "Serial entrepreneur, angel investor, and former VC.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Infina.vn",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/infinavn",
+            "title": "Founder and CEO",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG3in5hsEM6kg/company-logo_400_400/0/1630662866648/realstake_logo?e=1713398400&v=beta&t=eIF4ecWGYWnq3zr2Ibrl4vQtIJZ35xJsR5Ymo7bT_rs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Lana Group (acquired by LINE Corp)",
+            "company_linkedin_profile_url": null,
+            "title": "CEO",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2002
+            },
+            "company": "Pluris, Inc",
+            "company_linkedin_profile_url": null,
+            "title": "Lead Chip Designer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "IDG Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/idg-ventures-vietnam",
+            "title": "VP of Investment and Kauffman Fellow",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEQMgTXYUk60w/company-logo_400_400/0/1630557762332/idg_ventures_vietnam_logo?e=1713398400&v=beta&t=d3M0_vcpyuidyMkExpyjUsvIuDYzHQhfW-uPXq7z6ZQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "FormFactor",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/formfactor",
+            "title": "Senior Product Manager",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH8vsGhR7eQPA/company-logo_400_400/0/1631332718608?e=1713398400&v=beta&t=dsT_QQ9KRRYnRpDkBkQrZqb37qvN9S0z7Fn3qKiZmIY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2004
+            },
+            "company": "Candera",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/candera",
+            "title": "Lead Chip Designer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2000
+            },
+            "company": "Hewlett-Packard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hewlett-packard-enterprise",
+            "title": "Member of Technical Staff",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1713398400&v=beta&t=rk3zyWKRAWwM9Y1dXpXfhzI_mdkF0z1kydgk4N3kQqE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Certificate in Management of Technology, Certificate in Entreprenuership",
+            "degree_name": "MBA",
+            "school": "University of California, Berkeley, Haas School of Business",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2519/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEc1EFtLIThEw/company-logo_400_400/0/1631312193135?e=1713398400&v=beta&t=zyyGaFfcJnzJz8sQFpq0mf9bvCkI3mAu-IPI5WC0TdA",
+            "grade": null,
+            "activities_and_societies": "Mayfield Fellow 2005, New Venture Fellow 2006, Entrepreneur Association - VP Engineering Liason"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1997
+            },
+            "field_of_study": "Electrical Engineering and Computer Science",
+            "degree_name": "BS",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1713398400&v=beta&t=JLp77N68z1nOOle9KBuoy7dBp-jfo28aIT95Ygv18cQ",
+            "grade": null,
+            "activities_and_societies": "Honors Co-op at HP Labs, Eta Kappa Nu, Tau Beta Pi"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1989
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1993
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Alhambra High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 9871,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/alap-bharadwaj-b241704",
+            "name": "Alap Bharadwaj",
+            "summary": "Director at Google, Angel Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/phuoc-thien-tran",
+            "name": "Phuoc Tran",
+            "summary": "Co-Founder & CEO at Anfin (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/brianjschardt",
+            "name": "Brian Schardt",
+            "summary": "Co-founder at Autopilot",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mina-chung-36282112",
+            "name": "Mina Chung",
+            "summary": "Financial Literacy for Women / Founder at Money With Mina",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/longvtran",
+            "name": "Long Tran",
+            "summary": "CEO & Co-founder \u00b7 YC S21",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "C\u1ea3m \u01a1n c\u00e1c Doanh nghi\u1ec7p l\u1edbn ti\u00ean phong \u0111\u00e3 tin t\u01b0\u1edfng. C\u00f9ng chung s\u1ee9c \u0111\u1ec3 Doanh nghi\u1ec7p kho\u1ebb, ng\u01b0\u1eddi lao \u0111\u1ed9ng Vui!",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "Satya Nadella is arguably the most successful CEO in recent corporate history. As we scale Groww, India, we couldn't have asked for a better leader\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "POPS had our first NFT drop, working with some of our hottest celebrities. Its just the start as we further expand across all our markets and\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "Don\u2019t Overdose on VC: Lessons from 166 startup IPOs https://lnkd.in/g5MYndhi",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "Twitter based map of Russian troop movements#russiaukraineconflict https://lnkd.in/gmUMs4m2",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "The best way to learn about disruptive technologies is to attend conferences where this technology is discussed and reviewed.I\u2019m having\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": ":D fun with Elon Memes #elonmusk #startups #robinhood",
+            "link": "https://www.linkedin.com/posts/james-vuong-4634a0_d-fun-with-elon-memes-elonmusk-startups-share-6925312535906705408-aab6",
+            "activity_status": "Shared by James Vuong"
+        },
+        {
+            "title": "\"Too many distractions lead to a heavy mind\". If you have a long list of \"I need to do this, I need to do that...\" then it's time to sit down and\u2026",
+            "link": "https://www.linkedin.com/posts/justatd_too-many-distractions-lead-to-a-heavy-mind-share-6922374925978673152-Hand",
+            "activity_status": "Liked by James Vuong"
+        },
+        {
+            "title": "Race Capital office coming together!!",
+            "link": "https://www.linkedin.com/posts/alchuang_race-capital-office-coming-together-share-6922401645884579840-Of8j",
+            "activity_status": "Liked by James Vuong"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "James Vuong",
+            "link": "https://www.linkedin.com/in/james-vuong-631ab1196",
+            "summary": "Managing Director at Transamerica Agency Network",
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "James Vuong",
+            "link": "https://au.linkedin.com/in/james-vuong-27573b67",
+            "summary": "CEO & Co-Founder, KeyNinja.io | CEO & Founder, Roomerang.com.au",
+            "location": "Greater Melbourne Area"
+        },
+        {
+            "name": "James Vuong",
+            "link": "https://www.linkedin.com/in/james-vuong-2519629a",
+            "summary": "COO and owner of Ayotree.com and 3 Guys Software Consulting LLC",
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "James Vuong",
+            "link": "https://www.linkedin.com/in/jamesvuong",
+            "summary": "Vice President, Director of IT & Software Development at McKinley, Inc.",
+            "location": "Ann Arbor, MI"
+        },
+        {
+            "name": "James Vuong",
+            "link": "https://vn.linkedin.com/in/james-vuong-862a2033",
+            "summary": "Metaverse Enthusiast - Bitcoin Maximalist",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "name": "James Vuong",
+            "link": "https://vn.linkedin.com/in/james-vuong",
+            "summary": "Co-Founder & CEO Of Cyberium",
+            "location": "Ho Chi Minh City Metropolitan Area"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQFo8RMsVd3z-w/group-logo_image-shrink_48x48/0/1631439406123?e=1706115600&v=beta&t=bS-6nMngDl4pN6BJ5HBuAeLTmMKPkmZ6ajDxOdNcCj4",
+            "name": "React Native",
+            "url": "https://www.linkedin.com/groups/8364861"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQGWsloHdgQkGA/group-logo_image-shrink_48x48/0/1686439264302?e=1706115600&v=beta&t=kXTwpW5uyns2UQNHzuAAtFvO2RFTVFOGg68KzJWYAc8",
+            "name": "Artificial Intelligence \ud83d\udfe5",
+            "url": "https://www.linkedin.com/groups/3746827"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

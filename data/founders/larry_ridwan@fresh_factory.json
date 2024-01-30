@@ -1,0 +1,303 @@
+{
+    "public_identifier": "larry-ridwan-22671228",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/larry-ridwan-22671228/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ac29b1b979601457c1f838a8e249e98e211ae8310fe875fb609b8cd55b7895a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/larry-ridwan-22671228/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1ce86b8169218352d40c24f24476784990f9c157dd0860b12ead0f536c3456a3",
+    "first_name": "Larry",
+    "last_name": "Ridwan",
+    "full_name": "Larry Ridwan",
+    "follower_count": 1511,
+    "occupation": "Founder & CEO  at Fresh Factory",
+    "headline": "Founder & CEO at Fresh Factory (YC W22)",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Fresh Factory",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/freshfactoryid/",
+            "title": "Founder & CEO ",
+            "description": "www.freshfactory.id",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHSiPJEItqZxA/company-logo_400_400/0/1635476677276?e=1712793600&v=beta&t=iVNiERvJNNzDhX8G8BBSEbYaj9CZl4YZ7qyJ_n1hRvQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Net1 International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/net1-international/",
+            "title": "CEO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUIpjCpnu5iw/company-logo_400_400/0/1630581472108/net1_international_logo?e=1712793600&v=beta&t=UbMLC6Xe0gfqzQS-Us4EWnkbgzIf3KAMy9RpMU3Y370"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "PT.Internux - Bolt Super4G",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Commercial Officer",
+            "description": "",
+            "location": "Jakarta, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2014
+            },
+            "company": "PT.First Media Tbk",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Financial Officer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "company": "Sitra 4G Wimax - PT.First Media Tbk",
+            "company_linkedin_profile_url": null,
+            "title": "Strategic Business Development Director",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2010
+            },
+            "company": "Citibank N.A. Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "VP Mass Segment Head",
+            "description": "Marketing - Card Business",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "Citibank N.A. Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "VP Portfolio Management Head",
+            "description": "Marketing - Card Business",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "Citibank N.A. Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "AVP Product Management",
+            "description": "Marketing - Card Business",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "company": "Citibank N.A. Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "Card Business Planning Head",
+            "description": "Finance",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2002
+            },
+            "company": "Citibank N.A. Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "Management Asscociate",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": "Management info system",
+            "degree_name": "BA, Cum laude",
+            "school": "The Ohio State University Fisher College of Business",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHfnqVkNg0VEQ/company-logo_400_400/0/1630622992557/the_ohio_state_university_fisher_college_of_business_logo?e=1712793600&v=beta&t=yfEwf9TvcTeMwPzv7a3DaFrPfQxtvw5B_aaTV-emt9I",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/widijastoro-nugroho-7b686b",
+            "name": "Widijastoro Nugroho",
+            "summary": "Co-Founder & Chief Commercial Officer ( YC W22 ) of Fresh Factory",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khafitaarusada",
+            "name": "Khafita Ajnas Arusada",
+            "summary": "Data Support Analyst at Squezee",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andre-septiano-b69a40114",
+            "name": "Andre Septiano",
+            "summary": "Co-founders & CFO at Fresh Factory | YC W22 | Forbes 30 under 30 Indonesia & Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/danny-ramintang-0308b718b",
+            "name": "Danny Ramintang",
+            "summary": "CEO, CFO, and VP",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/henkyprihatna",
+            "name": "Henky Prihatna",
+            "summary": "Looking for any good company or startup to invest - Founder of Google Indonesia - Investor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fresh-factory-indonesia-686b77224",
+            "name": "Fresh Factory Indonesia",
+            "summary": "Company Owner at PT Gudang Segar Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ivonne-jonathan-78832089",
+            "name": "Ivonne Jonathan",
+            "summary": "Finance Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roynmandey2407",
+            "name": "Roy Nicholas Mandey",
+            "summary": "Chairman of FAPRA (Federation of Asia-Pasific Retail Association) & APRINDO (Indonesia Retail Association-Asosiasi Pengusaha Ritel Indonesia)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yashnegi",
+            "name": "Yash N.",
+            "summary": "AVP - Commercial (Large Enterprise) at Fresh Factory (YC W22) | Hyper-Local Logistics | Ex - OYO | Ex - RedDoorz",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/atirta",
+            "name": "Arip Tirta",
+            "summary": "President/Co-Founder at Evermos, Global Innovator at WEF",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

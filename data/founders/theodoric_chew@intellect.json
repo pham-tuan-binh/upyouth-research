@@ -1,0 +1,219 @@
+{
+    "public_identifier": "theodoricchew",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/theodoricchew/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221539Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=00325920e0edc1a3a1e134775d2a7d0dddf92d91dd3a9736170284aa3f84e1c2",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/theodoricchew/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221539Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=24067a3faeb8540a0a4ea273141418e41b3e8e66ac60dc5128f3a96b50cfd4f6",
+    "first_name": "Theodoric",
+    "last_name": "Chew",
+    "full_name": "Theodoric Chew",
+    "follower_count": 8536,
+    "occupation": "Co-founder & CEO at Intellect",
+    "headline": "CEO at Intellect | Modern-day Mental Healthcare for Asia-Pacific | Forbes 30u30",
+    "summary": "Building Intellect, a modern-day mental health company on a mission to make mental healthcare & wellbeing support accessible for everyone, starting with Asia-Pacific.\n\nIntellect is the largest and fastest growing mental health company in APAC, serving over 3 million members and leading employers globally through our mental health platform. Intellect was also selected as one of Google\u2019s Best Apps of 2020. \n\nWe're backed by leading investors including Tiger Global, Insignia Ventures Partners, Y Combinator, HOF Capital, K3 Ventures, JAFCO, Headline, East Ventures, MS&AD Ventures, and an extensive list of family offices, big tech executives & renowned angel investors.\n\nYou can also find me on my personal blog at https://theodoric.com",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Intellect",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/intellecthq/",
+            "title": "Co-founder & CEO",
+            "description": "Intellect is a modern-day mental health company with a mission to make mental healthcare and wellbeing support accessible for everyone in Asia Pacific.\n\nToday, Intellect is the largest and fastest growing mental health tech company in Asia, and serves over 3 million members and leading organisations globally through our mental health platform. Intellect was also selected as one of Google\u2019s Best Apps of 2020. \n\nWe're backed by leading investors including Tiger Global, Insignia Ventures Partners, Y Combinator, HOF Capital, K3 Ventures, JAFCO, Headline, East Ventures, MS&AD Ventures, and an extensive list of family offices, big tech executives & renowned angel investors.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFUA7BQ-Hlh5g/company-logo_400_400/0/1630655280351/intellecthq_logo?e=1710374400&v=beta&t=Xx_sdXVwkwGtILrg7bdIZW9uPfwIMbEsuzqpcPsid3k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Theodoric.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/theodoric/",
+            "title": "Chief Human",
+            "description": "The personal blog for growth marketing, entrepreneurship and startups in Asia.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFS7LiKbKG1RA/company-logo_400_400/0/1630631713355/theodoric_logo?e=1710374400&v=beta&t=OMoMRzyMzwks1h3NAgPkwoOC3sVhho5uce7Q0kMlSnY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Global Digital Lead",
+            "description": "Leading the global digital strategy for the world's largest talent-first accelerator.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1710374400&v=beta&t=6-zUYLWP5GDDJNQ0ZhpjXlppXSRdITLXFZ8Dno3bINk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Entrepreneur in Residence | Interim Digital Lead",
+            "description": "Entrepreneur in residence and leading the growth/digital at one of the world's largest venture builders, backed by Greylock, Founders Fund, Mosaic Ventures and Reid Hoffman.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1710374400&v=beta&t=6-zUYLWP5GDDJNQ0ZhpjXlppXSRdITLXFZ8Dno3bINk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "Voyagin",
+            "company_linkedin_profile_url": null,
+            "title": "Head of Affiliate Growth and Content Marketing (acquired by Rakuten Inc.)",
+            "description": "Voyagin is one of Asia's largest online marketplace for booking tours and activities acquired by Japanese e-commerce giant Rakuten Inc.\n\nIn the past year fulfilling the role, our team managed to scale revenue growth of the affiliate marketing stream by 11x since 2016.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2017
+            },
+            "company": "EITAN Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/eitan-pte-ltd/",
+            "title": "Head of Digital Marketing",
+            "description": "Short stint at local advertising firm Eitan, leading the front for digital and online marketing.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGBKg5ec8Mqfw/company-logo_400_400/0/1630588696924/eitan_pte_ltd_logo?e=1710374400&v=beta&t=ns8m10qmvFX6olE8EnH5-689kXcbb_wnlDcPzlIBWMc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            },
+            "company": "Existgreat",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/existgreat-com/",
+            "title": "Founder & CEO (acquired)",
+            "description": "Built and brought to acquisition a global online media publishing platform curating intellectual content for the masses. Extensive media collaborations corroborated with entrepreneurial kingpins the likes of Gary Vaynerchuk, Rand Fishkin, and many more.  Entirely managed and acquired during the time-span while still serving full-time national service.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEAChS83e6b_Q/company-logo_400_400/0/1631349056842?e=1710374400&v=beta&t=ombO3agZqmBarDdCr7Cmuh_ymIgsIcvC5BdcUIxxqwM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Raffles Institution",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFwtPNL-8C-EA/company-logo_400_400/0/1631308430611?e=1710374400&v=beta&t=hOi7S0ysan_llprOhBLJLbqvfBxenXctfFIe_Q8XKSs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "S21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710374400&v=beta&t=Q-qQL8YAGA3kws2SGXfuGtBz1lhfWcycVOSK15t1PRE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "Raffles Alumni",
+            "title": "Member",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

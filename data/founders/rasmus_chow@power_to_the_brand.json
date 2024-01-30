@@ -1,0 +1,180 @@
+{
+    "public_identifier": "rasmuschow",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rasmuschow/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221315Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9f83fefd804c97f426598833db456f81568f8a024670ad2993d0bf2c821a1933",
+    "background_cover_image_url": null,
+    "first_name": "Rasmus",
+    "last_name": "Chow",
+    "full_name": "Rasmus Chow",
+    "follower_count": 1379,
+    "occupation": "Co-Founder at Power to the Brand (YC W22)",
+    "headline": "Co-Founder at Power to the Brand (YC W22)",
+    "summary": "Currently solving for customers in Southeast Asia. \n\nIf you'd love to have a chat, feel free to schedule a call via \u200bhttps://calendly.com/d/z6q-pcg-4xf/quick-chat",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Power to the Brand (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/power-to-the-brand",
+            "title": "Co-Founder",
+            "description": "Helping overseas brands distribute into Southeast Asia without a single employee on the ground (www.powertothebrand.com)",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGgZJi72f5cKA/company-logo_400_400/0/1648567341842?e=1712793600&v=beta&t=_eXQH-lMpATEPTayAl-guW4wMM6ynTKxDUhUOvMWbSA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "Republic of Singapore Navy",
+            "company_linkedin_profile_url": null,
+            "title": "Naval Officer",
+            "description": "I specialise in operational planning and management. \n\nI was part of the team that planned the inaugural Exercise Pacific Griffin 2017, a high-end bilateral naval exercise between the United States Navy and the Singapore Navy. The exercise involved numerous sea, air and submarine assets that conducted Missile and Naval-Gun firings in the Pacific Ocean off the island of Guam. \n\nI led the Navigation department onboard a warship and oversaw the safe navigation of the ship for multiple local and foreign exercises.",
+            "location": "Singapore",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": "Funded by the world's best start-up accelerator",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor of Business Administration",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5524/",
+            "description": "Skills: Team Management \u00b7 Financial Accounting \u00b7 Business Administration",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": "Honours (Second Upper)",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Banking and Financial Support Services",
+            "degree_name": "Diploma",
+            "school": "Ngee Ann Polytechnic",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/165191/",
+            "description": "Skills: Financial Accounting \u00b7 Business Administration",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEc-IoUGeW79Q/company-logo_400_400/0/1697524879652/ngee_ann_polytechnic_logo?e=1712793600&v=beta&t=i5QJ3Ob6j08OGy0hgsiJ27lnRwq7-tpsWNiv3woD24k",
+            "grade": "Gold Medalist",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1340,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/yee-meng-chua-6845a990",
+            "name": "Yee Meng Chua",
+            "summary": "Co-Founder at Power to the Brand (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/elan-negara-a70860171",
+            "name": "Elan Negara",
+            "summary": "Always learning",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rachel-lee-49859b185",
+            "name": "Rachel Lee",
+            "summary": "Account Director",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/surenpinto",
+            "name": "Suren Pinto",
+            "summary": "Chief Executive Officer at Wavenet",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stevenchuajc",
+            "name": "Steven Chua, MSID",
+            "summary": "Consultant at BIZSUPERMART Pte Ltd | Serial entrepreneur | Technopreneur  | Angel investor | Startup ecosystem builder | Mentor",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQECnJclvVN6EQ/group-logo_image-shrink_48x48/0/1521154498090?e=1705438800&v=beta&t=E2D4xb-NLyjq7PJei7abY9_PjegSv0-adpY96_NUJ3I",
+            "name": "Software Vendors, Distributors, VARS, Resellers and Retailers",
+            "url": "https://www.linkedin.com/groups/7429349"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQErVGpEN8Qa0Q/group-logo_image-shrink_400x400/0/1631005517730?e=1705438800&v=beta&t=p0CIQhi40rElXNxci8cCfxd_evoqYCi1q7sS7bH4J8I",
+            "name": "Brain Expansion Group",
+            "url": "https://www.linkedin.com/groups/13927028"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

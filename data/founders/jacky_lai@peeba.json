@@ -1,0 +1,254 @@
+{
+    "public_identifier": "jackylaihk",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jackylaihk/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221221Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=12fe196670bdd7c84ec35bd31ef8a76458694feff9081d825cd3ccc8bc884adb",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jackylaihk/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221221Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5e3977829f1957e7126a652636df3948f2a7ab467bb82fa4d5e3712a1f989879",
+    "first_name": "Jacky",
+    "last_name": "L.",
+    "full_name": "Jacky L.",
+    "follower_count": 905,
+    "occupation": "Founder and CEO at Peeba",
+    "headline": "Founder & CEO @ Peeba (YC W23), Tedx speaker",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Adson Group",
+            "company_linkedin_profile_url": null,
+            "title": "Board Member",
+            "description": "Established in 1982, ADSON is one of the leading leather goods manufacturers, specializing in producing high-end small leather goods and leather handbags. We also engage in production of quality leather accessories, such as belts, keychains and stationeries. We are not only able to provide fashionable designs to customers, but we are also able to produce leather products in accordance with customers\u2019 designs and concepts. Our service, quality and workmanship are the hallmark of our success. Many of our customers are well-recognized international brands in Europe, United States, Australia and Asia. In 2007, we received the \u201cBest Small Leather Goods Collection\u201d award from the APLF. As commented, our leather goods collection was \u201cergonomically-designed\u2026with clever use of surplus materials combined with fine detailing and craftsmanship\u201d.",
+            "location": "Hong Kong",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2009
+            },
+            "company": "Misedukated Entertainment",
+            "company_linkedin_profile_url": null,
+            "title": "President",
+            "description": "Misedukated Entertainment was founded as a college promotions company. We had delivered some of the largest and most elite college parties in the nation, featuring many platinum artists and acclaimed entertainers. Our events have earned press and praise for the standard of excellence we are committed to uphold.",
+            "location": "Greater Atlanta Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2008
+            },
+            "company": "Hinlun International",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Selling excess inventory from factories in China to the USA",
+            "location": "Greater Atlanta Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2008
+            },
+            "company": "Ontheside.com",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "OnTheSide.com is a free and easy way to offer your services or to find a qualified individual to do a job for you. Avoid the mark-up a company would charge and deal directly with an expert On The Side.",
+            "location": "Atlanta, GA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Peeba",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/peeba",
+            "title": "Founder and CEO",
+            "description": "Helping millions of independent retailers and brands to grow and thrive across Southeast Asia. We are backed by top tier vcs from around the world.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEY4Mtol46ORQ/company-logo_400_400/0/1652332700150/peeba_logo?e=1712793600&v=beta&t=jccDA6j0ySE-py9i44vnbcT8dM1hmHzz74DI1NX0_I0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Jarkas Lab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jarkas-lab",
+            "title": "Co-Founder",
+            "description": "Tongdao, a mobile marketing automation platform for China with over 200 customers. We use real-time data to help businesses send hyper-personalized messages to the right user at the right time through the right channel. \n\nBacked by Mindworks, SOSV, Triumph Capital, China Accelerator Batch 8. ",
+            "location": "Shanghai City, China",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG2HB9HshmwfA/company-logo_400_400/0/1631329890653?e=1712793600&v=beta&t=Y0FxPdDpMXeIMFBfOTOc8euJqzMK2BPC99VTod57X44"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "company": "Wavee.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wavee.com",
+            "title": "Founder and CEO",
+            "description": "Wavee was the third largest online auction company, in an emerging industry known as \"entertainment shopping\u201d, serving over 1 million customers. With its patent pending auction format, Wavee offers an ever-changing mix of consumer products at incredibly low prices (on average more than 90% off retail).\n\n- Started company and grew revenue from 0 to $30 million USD annual run-rate\n- Scaled and managed multi-million dollar marketing campaign\n\nAwards and Accomplishments:\n\n2010 Technology Association of Georgia Top 10 Innovative Company Award \nMember of the Georgia Institute of Technology Advanced Technology Development Center",
+            "location": "Greater Atlanta Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH4YzNfef2ThQ/company-logo_400_400/0/1631342469662?e=1712793600&v=beta&t=c4VoDOu2O-reZn1RuZcICMyQVeJdwZYjkHNIidPL_eI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Marketing and Operations Management",
+            "degree_name": "Bachelor of Business Administration (B.B.A.)",
+            "school": "Emory University - Goizueta Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3890/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFazoqrq_g-GQ/company-logo_400_400/0/1657130160598/goizueta_business_school_logo?e=1712793600&v=beta&t=yraNjX09ppLSKrZDx2x4G9wB3Ka6CjQ14vd7W_nJQwY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W23",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Marketing, Management",
+            "degree_name": "BBA",
+            "school": "Emory University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3889/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHU63E5TDuvZw/company-logo_400_400/0/1630590802215/emory_university_logo?e=1712793600&v=beta&t=jV1uoeO9BG5BmVVdu7A6xjx3dqGO9B1pfMtjmfgWbJ4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Thomas Jefferson School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 827,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQF4iMmZxcfepg/group-logo_image-shrink_48x48/0/1631419817925?e=1705467600&v=beta&t=p0mFdG0VHxIRYDZzcdVcl6Z6oSpADNR_wvQiePMMHbU",
+            "name": "Emory Entrepreneur Network",
+            "url": "https://www.linkedin.com/groups/769637"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQHyoq5QTAX_HA/group-logo_image-shrink_48x48/0/1631381567383?e=1705467600&v=beta&t=rW4iNHkGQH4rzwO2RIDGiE9EBqYD_MMvI9a9i9DI7us",
+            "name": "Shanghai Guanxi Network",
+            "url": "https://www.linkedin.com/groups/4610537"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

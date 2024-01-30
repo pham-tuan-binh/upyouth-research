@@ -1,0 +1,512 @@
+{
+    "public_identifier": "benjamintee",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/benjamintee/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221637Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=126cb66f46c58465c5972cf9b3fd53c9c87ecf0754eba95f77bb7d718d740612",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/benjamintee/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221637Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f8ffa0235483aeb4a6a51592677b3a55ae27685ef244c5ff87957546c00391d3",
+    "first_name": "Benjamin C.K.",
+    "last_name": "Tee",
+    "full_name": "Benjamin C.K. Tee",
+    "follower_count": 3231,
+    "occupation": "Associate Vice President at National University of Singapore",
+    "headline": "Associate Vice President (NUS Enterprise) and Vice Dean (Research), College of Design and Engineering at National University of Singapore",
+    "summary": "Group Leader of Sensors.AI Systems Lab. Medtech entrepreneur. Wearable sensor electronics expert. Serial Innovator. Stanford Biodesign Global Fellow. Tactile perception scientist and engineer.\n\nMy goal is to become a leader in constant innovation. I have spent many years using micro-fabrication techniques to make sensors, but the true promise of manufacturing anything is in its purpose. Entrepreneurship is the purposeful process between ideation to realization to unlock value to society. \n\nSpecialties: Medtech commercialization, mechatronic design, transistor characterization, circuit layout, multiphysics simulation, wearable electronics, microfabrication, hardware, firmware, wireless, bioelectronics",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Stanford",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Hannah Life",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/twoplus-fertility",
+            "title": "Co-Founder",
+            "description": "Y Combinator funded growth stage startup",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFOCTDjl2ku6A/company-logo_400_400/0/1648190068606/twoplus_fertility_logo?e=1712793600&v=beta&t=9GkKvlw4tdMb293Rqz3jHam_AyZA43APsfcBilaz5bM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "Associate Vice President",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "Vice Dean (Research and Innovation)",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "Associate Professor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-university-of-singapore",
+            "title": "President's Assistant Professor",
+            "description": "We develop new materials, devices and systems for addressing the challenges in human-machine interactions, robotics and biotechnology applications for the AI and Robotics future.\n\nMy research group aims to study fundamental physical effects and integrate knowledge from material science, nano-electronics, communications and biology to design and create frontier devices and system architectures for multi-scale, multi-modal sensing. ",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "Privi Medical (Acquired)",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": "Intracutaneous wound care solution innovator.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Stanford University",
+            "company_linkedin_profile_url": null,
+            "title": "Biodesign Global Fellow (Singapore-Stanford)",
+            "description": "The mission of the Stanford global Biodesign programs is to train the next generation of global medical technology innovators.",
+            "location": "Stanford, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Stanford University",
+            "company_linkedin_profile_url": null,
+            "title": "Ph.D Candidate",
+            "description": "Involved in research on sensor technologies for biomedical applications, consumer electronics, and robotics. Focus is on mechanical transducers such as pressure sensors using flexible and stretchable technologies. Experience include sensor design and development, data acquisition and testing.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "company": "Stanford University",
+            "company_linkedin_profile_url": null,
+            "title": "Business Management for Scientists and Engineers",
+            "description": "Taught by Prof. Fred Gibbons and Micah Siegel, the course explores corporate strategy, new product development, product marketing, sales, distribution, intellectual property, financial accounting, and human behavior in business organizations. Our team won the best paper award on Strategy and Marketing.",
+            "location": "Stanford University",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "Bao Research Group",
+            "company_linkedin_profile_url": null,
+            "title": "Graduate Student",
+            "description": "Developed an understanding of elastomer based pressure sensors. Designed, construct, and assembled an entire electro-mechanical test station running on custom Labview programs to automate mechanical testing of the sensors developed in the lab. Performed extensive experiments with sensor fabrication and soft lithography processing methods.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "Institute of Materials Research and Engineering IMRE",
+            "company_linkedin_profile_url": null,
+            "title": "Research assistant",
+            "description": "Involved in manufacturing and characterization of flexible electronic devices using organic semiconductors.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Amazon Lab126",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lab126",
+            "title": "Hardware Engineering Intern",
+            "description": "Next generation touch input interfaces.",
+            "location": "Cupertino",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF42fGVfa1OTg/company-logo_400_400/0/1631351277605?e=1712793600&v=beta&t=YF5BZWuwI8rfBXOZf-fYzoDME-1Y6xJ1UcTgBiHfWZM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Hasso Plattner Institute of Design at Stanford",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hasso-plattner-institute-of-design-at-stanford",
+            "title": "Design Thinking bootcamp graduate",
+            "description": "The Design Thinking Bootcamp is a fast-paced immersive experience in design thinking and provides the foundational skills required to lead projects with a design thinking point of view. Tenets of design thinking including being human-centered, prototype-driven, and mindful of process. As a bootcamp graduate, I have completed three design thinking projects involving real world corporations with multi-disciplinary teams over a three month period. The projects involved performing empathy research, definition of need, prototyping, testing and iterating.",
+            "location": "Stanford",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGi99Y_denSJA/company-logo_400_400/0/1698964880529/hasso_plattner_institute_of_design_at_stanford_logo?e=1712793600&v=beta&t=5r6kWSOVcQ0FGlA0Kz0OkKQUL4bK4GQE-VYhqH2busk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Synaptics",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/synaptics",
+            "title": "Research and Development Intern",
+            "description": "Capacitive thin film prototyping for future human-machine interfaces.",
+            "location": "San Jose, California",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHj4Oa-y-YwsA/company-logo_400_400/0/1630669845708/synaptics_logo?e=1712793600&v=beta&t=WpnE1n4I9Zn5R9TXP0jiLX24qxllsPDix3gyTN-Zabk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "Stanford Graduate School of Business",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stanford-graduate-school-of-business",
+            "title": "Creating a Startup (S356)",
+            "description": "Taught by Prof. Haim Mendelson.  Learnt about business models, market research, design thinking, opportunity analysis and team dynamics; identify a viable opportunity, form a team and start iterating on the business model \u2013 product \u2013 market. My team project focused on the consumer internet vertical.",
+            "location": "Stanford, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1712793600&v=beta&t=4ECkSfbWbLige44xsTHUgQdwMWxoVXC42l2wAAhX0DM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Doctor of Philosophy - PhD",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1792/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Doctor of Philosophy - PhD",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1792/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "M.S.",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1792/",
+            "description": "Passed the EE qualifying examinations at first attempt.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "B.S.E",
+            "school": "University of Michigan",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2516/",
+            "description": "Mildred Steele and Bailey Prize, College of Engineering Award, 2005-2006\nOutstanding Research Award, EECS Department, 2005-2006",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_400_400/0/1631307390795?e=1712793600&v=beta&t=N4htnEe-2SjXUYepI8Dr48jMcMEnI9bBxZy5ApGgENY",
+            "grade": "Summa cum laude",
+            "activities_and_societies": "Society of Global Engineers (Co-founder), Tau Beta Pi\nWebmaster, Singapore Student Association"
+        }
+    ],
+    "languages": [
+        "English",
+        "Japanese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "A skin-inspired organic digital mechanoreceptor",
+            "publisher": "Science",
+            "published_on": {
+                "day": 16,
+                "month": 10,
+                "year": 2015
+            },
+            "description": "Human skin relies on cutaneous receptors that output digital signals for tactile sensing\nin which the intensity of stimulation is converted to a series of voltage pulses. We present a power-efficient skin-inspired mechanoreceptor with a flexible organic transistor circuit that transduces pressure into digital frequency signals directly. The output frequency ranges between 0 and 200 hertz, with a sublinear response to increasing force stimuli that mimics slow-adapting skin mechanoreceptors. The output of the sensors was further used to stimulate optogenetically\nengineered mouse somatosensory neurons of mouse cortex in vitro, achieving stimulated pulses in accordance with pressure levels. This work represents a step toward the design and use of large-area organic electronic skins with neural-integrated touch feedback for replacement limbs.\n",
+            "url": "http://www.sciencemag.org/cgi/doi/10.1126/science.aaa9306"
+        },
+        {
+            "name": "Continuous wireless pressure monitoring and mapping with ultra-small passive sensors for health monitoring and critical care",
+            "publisher": "Nature Communications",
+            "published_on": {
+                "day": 19,
+                "month": 8,
+                "year": 2014
+            },
+            "description": "Continuous monitoring of internal physiological parameters is essential for critical care patients, but currently can only be practically achieved via tethered solutions. Here we report a wireless, real-time pressure monitoring system with passive, flexible, millimetre-scale sensors, scaled down to unprecedented dimensions of 1 \u00d7 1 \u00d7 0.1 cubic millimeters. This level of dimensional scaling is enabled by novel sensor design and detection schemes, which overcome the operating frequency limits of traditional strategies and exhibit insensitivity to lossy tissue environments. We demonstrate the use of this system to capture human pulse waveforms wirelessly in real time as well as to monitor in vivo intracranial pressure continuously in proof-of-concept mice studies using sensors down to 2.5 \u00d7 2.5 \u00d7 0.1 cubic millimeters. We further introduce printable wireless sensor arrays and show their use in real-time spatial pressure mapping. Looking forward, this technology has broader applications in continuous wireless monitoring of multiple physiological parameters for biomedical research and patient care.",
+            "url": "http://www.nature.com/ncomms/2014/141006/ncomms6028/abs/ncomms6028.html"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "World Economic Forum Young Scientist of the Year",
+            "issuer": "World Economic Forum",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "description": "Benjamin C.K. Tee (National University of Singapore, Singaporean) was honored for his work on skin-like sensor systems to help the brain interact with prosthetic limbs, giving robots the sense of touch and enabling them to repair themselves.\n\nThe World Economic Forum recognizes 21 brilliant researchers under the age of 40 at the cutting edge of discovery with the announcement of its Class of 2019 Young Scientists. The scientists have been selected for their contribution to advancing the frontiers of science in the areas of health, sustainability, inclusiveness and equity. Collectively, their research covers a diverse spectrum from ecology to quantum technology, physics and materials science to biology and bio-medicine, and universe sciences."
+        },
+        {
+            "title": "Top Young Outstanding Persons Award (Singapore) ",
+            "issuer": "Junior Chamber International ",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "description": "Selected as the Singapore's Top Young Outstanding Persons in the Science and Technology Category.\n\nJCI TOYP Award ranks among the most prestigious local and international awards to recognize outstanding young persons aged 18 to 40 who have excelled and created positive change in a variety of field, living the JCI Mission in an extraordinary way. \n\nPast JCI TOYP Award Singapore awardees and the year of their achievement: Dr Vivian Balakrishnan, Minister of Foreign Affairs (1985), See Too Hoi Siang (2001), Associate Professor Dr Fatimah Binte Abdul Lateef, Current Member of the Parliament (2006), Hossan Leong (2007) and Nick Shen (2014)."
+        }
+    ],
+    "accomplishment_patents": [
+        {
+            "title": "Self-healing composites and applications thereof",
+            "issuer": "US",
+            "issued_on": {
+                "day": 8,
+                "month": 11,
+                "year": 2016
+            },
+            "description": null,
+            "application_number": "US9490045B2",
+            "patent_number": "US9490045B2",
+            "url": null
+        },
+        {
+            "title": "Nanostructures with strain-induced resistance",
+            "issuer": "US",
+            "issued_on": null,
+            "description": null,
+            "application_number": "US 20140109695 A1",
+            "patent_number": "US 20140109695 A1",
+            "url": null
+        }
+    ],
+    "accomplishment_courses": [
+        {
+            "name": "Creating a Startup",
+            "number": "S356"
+        },
+        {
+            "name": "Design Bootcamp - Stanford Hasso Plattner Institute of Design",
+            "number": "ME 377"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1806,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/prusothman-sina-raja-93881440",
+            "name": "Prusothman Sina Raja",
+            "summary": "Co-founder and CEO at twoplus Fertility",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/john-ho-01866285",
+            "name": "John Ho",
+            "summary": "Research Scientist at Meta | Associate Professor at NUS (on leave)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tsuhan-chen-7b7bb4",
+            "name": "Tsuhan Chen",
+            "summary": "Deputy President and Distinguished Professor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andy-kah-ping-tay-8583268b",
+            "name": "Andy Kah Ping Tay",
+            "summary": "Presidential Young Professor at National University of Singapore | WEF Young Scientist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dean-ho-73873070",
+            "name": "Dean Ho",
+            "summary": "Provost\u2019s Chair Professor; Director, N.1 and WisDM; Head, Department of Biomedical Engineering",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Ying Diao\n\n\n\nBen is an exceptional innovator and an incredibly efficient and devoted researcher. We worked together on developing novel methods for fabricating single-crystalline, solution-processed organic semiconductors at Stanford. I am deeply impressed by his breath of knowledge and creative thinking.  An expert in electrical engineering and microfabrication, he has also gleaned a wealth of knowledge about biomedicine, fluid mechanics, crystal growth, energy materials, to name a few. Ben\u2019s broad interest is certainly not limited to science and technology. His artistic and literary bent transformed our research \u2018by-products\u2019 into a gold prize (2012) in the Science as Art competition, organized by the Materials Research Society. Ben\u2019s creativity is also manifested in communicating concepts and ideas. His work time and time again captures the imagination of the general public (e.g. flexible pressure sensor, self-healing materials etc). Ben is an effective team player and goes the extra mile to help others. I believe Ben will continue to succeed and to inspire as a scientist and an innovator in the path he chooses to take.",
+        "Darren Lipomi\n\n\n\nBen is a fantastic scientist and engineer. He is an outstanding practitioner in his home field of electrical engineering, but his multi-disciplinary work benefits from his proficiency in solid-state physics, chemistry, materials science, and biomedical engineering. The success of my work has depended critically on Ben's collaboration. He designed all of the equipment for the electromechanical characterization of soft electronic devices that we make in the Bao Laboratory, and he has an unofficial role as the mentor of the chemists and chemical engineers in the group on the subjects of electronics and electrical engineering. He is always willing to troubleshoot the projects of coworkers, even if he is not directly involved. He is also a gifted communicator, and his interests in subjects outside of science (among them are food, history, and music) augment his technical creativity. In short, I could not more strongly recommend Ben for any position for which he might be considered."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQF10TCUF27QzQ/group-logo_image-shrink_48x48/0/1649753042995?e=1705474800&v=beta&t=NJ3S3GPbXT1GogtX8Es_Urw9CxxxcFUgJL7Dt891GMk",
+            "name": "NUS CDE Alumni United States Chapter",
+            "url": "https://www.linkedin.com/groups/14076714"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHZUajWW-e-fw/group-logo_image-shrink_48x48/0/1631428892983?e=1705474800&v=beta&t=7HAQX3ht86Dhzf17ng0XKO3GlClcPtjOThv9mWFLrwI",
+            "name": "Singularity U Singapore Chapter Open Community",
+            "url": "https://www.linkedin.com/groups/8473545"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

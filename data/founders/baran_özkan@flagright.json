@@ -1,0 +1,579 @@
+{
+    "public_identifier": "baranozkan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/baranozkan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a9c261a740d9767b71388f9748d700b3bec33646d7c53a5964e68f23ee4287bb",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/baranozkan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9423eeea5731e3013530818c7a4f457ac66e93f781693dd9be9fa69c8ae15f56",
+    "first_name": "Baran",
+    "last_name": "Ozkan, CAMS",
+    "full_name": "Baran Ozkan, CAMS",
+    "follower_count": 4445,
+    "occupation": "Co-Founder & CEO at Flagright",
+    "headline": "Co-founder & CEO at Flagright (YC W22) - AI-powered AML compliance for fintechs & banks",
+    "summary": "Making AML compliance & fraud protection more accessible for financial institutions globally. Flagright is an API-first product with a flexible, no-code interface. We offer transaction monitoring, customer risk scoring, merchant monitoring, case management, sanctions screening, and more, all in a single API that can be integrated in a week. Contact me to hear more or visit https://flagright.com/contact\n\nOpen to VC calls (Series A investors only)",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Flagright",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/flagright/",
+            "title": "Co-Founder & CEO",
+            "description": "Flagright arms financial institutions with a flexible, no-code platform to prevent financial crime to comply with AML compliance regulations. Flagright customers quickly set up their infrastructure to prevent fraud and money laundering with our API-first solution that can be integrated in a week compared to 2-4 months industry benchmark of similar solutions. Product portfolio includes real-time transaction monitoring, customer risk scoring, merchant monitoring, case management, sanctions screening, and more.",
+            "location": "Singapore | Berlin | San Francisco | Bangalore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG0lZTnXV_01A/company-logo_400_400/0/1656584426887/flagright_logo?e=1708560000&v=beta&t=ULNBxaw83fHv55HzszpyGPk03yymIHZpxc7LBx1FeAY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2023
+            },
+            "company": "Women Go Tech",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/women-go-tech/",
+            "title": "Mentor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH4N3JtAV5jhg/company-logo_400_400/0/1646044298560/women_go_tech_logo?e=1708560000&v=beta&t=PzGJwrMuJBdQDgJh-HqvdtazAXd4fQxpqO-KZwrtmLY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "TransferGo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/transfergo/",
+            "title": "Director of Product - Apps & Platform",
+            "description": "Leading the consumer (B2C) & SMB (B2B) products and serving 3m users globally. My team looks after apps - user-facing platforms, fraud, compliance, core banking, pricing, and back office domains.\n\n\u2022 Drive product strategy and product  roadmap in alignment with the best user experience, constraints, and commercial needs\n\u2022 Foster a culture of T-shaped focus to align vision with attention to detail across all Product initiatives\n\u2022 Oversee Product Team performance and ensure cross-team alignment\n\u2022 Within the first 7 months, delivered 4 monthly transaction volume records in the company's 8-year history\n\u2022 Grew B2B segment monthly revenue by 30+% at 0 (zero) CPA within the 1st quarter of taking it over\n\u2022 Launched Turkey as the first new market outside Europe where users could sign up and send money from upon taking up the project after 6 months of delay, delivered in 4 months end-to-end\n\u2022 Built a hall of fame Product Management Team from scratch by attracting the best  talent from the likes of Atlassian, Nubank, Delivery Hero, Trafi\n\u2022 Launched wallet as a money storage utility for users to realize speed and price benefits on each transaction",
+            "location": "Vilnius, Vilniaus, Lithuania",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGXuZ28aasW1Q/company-logo_400_400/0/1700579423281/transfergo_logo?e=1708560000&v=beta&t=5up4x-EaCt5tYQHI4yQWDMipx7r0N2Bwbo0NBcQkogA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "TransferGo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/transfergo/",
+            "title": "Senior Product Manager - Compliance & Fincrime",
+            "description": "\u2022 P&L owner and product manager for TransferGo for Business\n\u2022 Built a formidable, high throughput team  with engineers and designers who cared about the users and their problems\n\u2022 Fraud prevention, risk management & monitoring\n\u2022 Consumer credit & risk modeling\n\u2022 eWallet & core banking",
+            "location": "Vilnius, Vilniaus, Lithuania",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGXuZ28aasW1Q/company-logo_400_400/0/1700579423281/transfergo_logo?e=1708560000&v=beta&t=5up4x-EaCt5tYQHI4yQWDMipx7r0N2Bwbo0NBcQkogA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Forto",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fortocompany/",
+            "title": "Senior Product Manager",
+            "description": "Led booking experience including pricing/monetization, network management, and real-time quotation. \n\nUser Experience Owner of Air Freight Vertical.\n\n\u2022 Built a dynamic pricing product in Ocean Freight on top of the real-time quotation engine; a first in the industry in collaboration with Maersk, world\u2019s largest ocean carrier. Generated solid traction and attracted new customers in the target segment via multi-channel marketing.\n\u2022 Scaled the Air Freight product ~400% in quarterly revenue alongside the business stakeholders within a year as Air Freight Product Owner.\n\u2022 Fostered a high-output team culture by building a transparent & driven working environment and applying the best Scrum and Kanban practices.\n\u2022 Increased the auto-quotation speed 100+% via a multitude of system optimizations while delivering great user experience.\n\u2022 Created, groomed, and owned the product backlog, carried out daily product owner duties.\n\u2022 Supported Microservice architecture design and contributed engineering ideation with customer-centric thinking.\n\u2022 Sourced, implemented, and optimized a self-service customer onboarding solution on the B2B user-facing platform and cut sales onboarding time by about 80% within 2 months.\n\u2022 Defined ownership areas and improved org structure for Product and Tech Teams by proactively identifying problems and starting ideation with Tech Leadership. Interviewed and hired the best talent.\n\u2022 Contributed to organizational goals through Series B ($30M) by boosting the Gross Margin and topline figures.\n\nLogistics, freight forwarding",
+            "location": "Berlin Area, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF-WX3zeUQKtw/company-logo_400_400/0/1630530820050/fortocompany_logo?e=1708560000&v=beta&t=Dlvg-sfEJPYFmjs3c2NveSjw9-S46nee3QATKA6pjcM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Audiotap",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder & CEO",
+            "description": "Attempted to build your AI-powered travel companion, Audiotap, as a weekend project. Used technologies like text-to-speech synthesis and image recognition. Experimented with Java, Google Cloud/AI, NodeJS, and React Native.\n\nGot $20K credit from Google Startups. Terminated after a year on a self-imposed deadline based on some success metrics. Had a great experience with some learnings:\n\n- Focus is key! it's challenging to navigate the errands of running a business with accounting, business development, hiring, legal, etc. while having a full-time job that I also enjoyed. \n- Design thinking works! Go to potential users as early as possible before you build.\n\nCheck out the retired website at https://audiotap.herokuapp.com/, the working app is unpublished and available in prototype on-demand.\n\nAnimated promo of the MMP: https://youtu.be/pdxWRSS65mQ",
+            "location": "Berlin Area, Germany",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "ASI Global",
+            "company_linkedin_profile_url": null,
+            "title": "Product Management Bootcamp",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "Zalando SE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zalando/",
+            "title": "Product Manager",
+            "description": "Built scalable data tools to solve real-time business monitoring & process analytics problems.\n\n\u2022 Scrum product co-owner for real-time business monitoring and analytics solutions with built-in anomaly detection capabilities using Python, Kafka, Flink, and React.\n\u2022 Groomed the product backlog, create epics/user stories, optimize use cases via user research, clarify functionality/usability/design for the stakeholders and the development team and defined priorities.\n\u2022 Led the development and enhancement of the real-time sales monitoring tool and owned 80% of daily unique users for the whole platform as of November 2018; drove usage via multiple marketing channels.",
+            "location": "Berlin Area, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGV0yfl9i2orA/company-logo_400_400/0/1685530361231/zalando_logo?e=1708560000&v=beta&t=g2YIu8eGtEl_dfTIMbOrfiBjQ1RZuNBv7yJyukB1TEU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "company": "Florida Blue",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/florida-blue/",
+            "title": "Product Manager",
+            "description": "\u2022\tDrove product enhancement ideation, value proposition, and Go-to-Market (GTM) strategy with the Profit & Loss (P&L) owners for Retail, Telesales, and Media & Creative product lines with $80M in combined revenue. Aligned vision and 5-year-strategy for each product line.\n\u2022\tReporting to the Chief Financial Officer, led the Financial Systems vetting process with multiple global vendors (Oracle, SAP, and more); conducted vendor management role on a daily basis.\n\u2022\tTook end-to-end ownership of the vendor evaluation process from both technical and business aspects; governed the stage-gate process.\n\u2022\tFacilitated and drove conversations with internal & external solution consultants, identified granular business requirements, walked candidate providers through the specifics, and mapped the vendor capabilities to requirements.\n\u2022\tDrove product vision, enhancement ideation, value proposition, and Go-to-Market (GTM) strategy with the Profit & Loss (P&L) owners for Retail, Telesales, and Media & Creative product lines with $80M in combined revenue.\n\u2022\tRolled out a time tracking software for 500 employees.\n\u2022\tLed process design, improvement, and standardization to increase the efficiency of cross-functional teams by adopting industry best practices and Lean methodologies.\n\u2022\tActing as a product specialist for Retail and Call Center services, identified improvement opportunities, performed requirements analysis, and provided visibility for technical teams to understand/remedy pain points.",
+            "location": "Jacksonville, Florida, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFooGDA5ZU2_w/company-logo_400_400/0/1630548568882/florida_blue_logo?e=1708560000&v=beta&t=-wfrwZHBMsEmeeXo0mCcVV8Kximk3XeDsqr8zxDRRWA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Florida Blue",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/florida-blue/",
+            "title": "IT Project Lead",
+            "description": "\u2022\tAs a project manager and lead analyst, implemented Microsoft O365 Cloud Suite for an internally-incubated startup, GuideWell Connect. Working with a team of more than 10 engineers and with the support of Microsoft consultants and Legal & Compliance resources, the project was deployed within less than 8 months with a limited operational budget.",
+            "location": "Jacksonville, Florida, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFooGDA5ZU2_w/company-logo_400_400/0/1630548568882/florida_blue_logo?e=1708560000&v=beta&t=-wfrwZHBMsEmeeXo0mCcVV8Kximk3XeDsqr8zxDRRWA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Florida Blue",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/florida-blue/",
+            "title": "IT Business Analyst",
+            "description": null,
+            "location": "Jacksonville, Florida, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFooGDA5ZU2_w/company-logo_400_400/0/1630548568882/florida_blue_logo?e=1708560000&v=beta&t=-wfrwZHBMsEmeeXo0mCcVV8Kximk3XeDsqr8zxDRRWA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Founder",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1708560000&v=beta&t=VtLwykLKpEbpcnmmwDFlUAqn3VcD-rCc21W-0gNFFcU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Engineering Management",
+            "degree_name": "Master of Science (M.Sc.)",
+            "school": "University of South Florida",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHwsMY_NU98iw/company-logo_400_400/0/1686165874965/usouthflorida_logo?e=1708560000&v=beta&t=lluAixkqQ009ZLjR9qP0uTYFrgAGFlOanFIf9jAh3J0",
+            "grade": "Magna Cum Laude (3.90/4.00)",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Industrial Engineering",
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "school": "Bilkent University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFmBOOliUpQ7w/company-logo_400_400/0/1631301002212?e=1708560000&v=beta&t=XvpezsmYEPX1EaPowGA-Mn4dL-Rf9PX3mzKhVHWC9u0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Lithuanian",
+        "Russian",
+        "Turkish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Best Use of Technology in Sales (Gold & Silver)",
+            "issuer": "The Stevie Awards",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": "Recipient of the prestigious Stevie Awards in 2016 in Best Use of Technology in Sales (Gold & Silver) with GuideWell Connect Call Center Operations."
+        },
+        {
+            "title": "e-Commerce Customer Service (Gold & Bronze)",
+            "issuer": "The Stevie Awards",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": "Recipient of the prestigious Stevie Awards in 2016 in e-Commerce Customer Service (Gold & Bronze) with GuideWell Connect Call Center Operations."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "title": "Retail Risk Assessment Process Improvement Project | Member Engagement",
+            "description": "As a lead analyst, successfully implemented a retail risk assessment process improvement project that had been behind schedule when inherited; turned the project around such that it was subsequently delivered on time and on budget. Project objective was to develop a short-term, easily deployable, cost-effective digital process so that retail center nurses could maintain reliable records, eliminate data quality issues, and streamline Engagement Call Center appointment feed process via MS Outlook. Being brought onto the project after two months of kick-off, quickly analyzed and documented the current (As-Is) state across different systems and departments, analyzed and clarified the requirements, documented the desired state (To-Be) and determined the solution (Gap-Impact Analysis) with key stakeholders resulting in a successful implementation.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "title": "Microsoft Office 365 Cloud",
+            "description": "Project Manager/Lead Analyst - Implemented Microsoft O365 Cloud for the Media & Creative subsidiary of GuideWell Connect to overcome specific obstacles based on significant business use case differences such as collaboration scenarios, information security protocols, and client interaction requirements. Working with 10+ engineers, legal, compliance, and technical consultants from Microsoft and Perficient, the project was finalized and deployed in 7 months.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "title": "Heat of Hydration Regression Modelling",
+            "description": "The objective of the project was to assess the effect of mineralogical composition of cement and mean particle size on the heat of hydration and to develop a regression model capable of predicting heat of hydration based on these parameters. Team member responsible for conducting iterative testing and simulations on regression coefficients for each chemical component to validate the model and inspect regression summaries for each variable.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "title": "Member",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "ACAMS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/acams/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGj1RYBZiC1tw/company-logo_400_400/0/1630482398814/acams_logo?e=1708560000&v=beta&t=xy17PMyAQosn88DslQVtPOgz360SGkb71eox9buFmwc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": null,
+            "title": "Member",
+            "cause": "ENVIRONMENT",
+            "company": "Leaders for Climate Action",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/leaders-for-climate-action/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEeR0ZTtYd_gA/company-logo_400_400/0/1643111606768/leaders_for_climate_action_logo?e=1708560000&v=beta&t=G0KW031s_Os_TCJicc7jNS0Vc6EjhuqrRqnYrV0Kya0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "title": "Volunteer",
+            "cause": "SOCIAL_SERVICES",
+            "company": "vostel volunteering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vostel-volunteering/",
+            "description": "Various activities involving refugees and the homeless",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQBl2XpvH3qA/company-logo_400_400/0/1630654300859/vostel_volunteering_logo?e=1708560000&v=beta&t=XnIqngBk6XaCvTK6CzeccoyoynmL75U3I3cPIJ7rFCo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "title": "Lion",
+            "cause": "SOCIAL_SERVICES",
+            "company": "Lions Clubs International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lions-clubs-international/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF7kypc5epXow/company-logo_400_400/0/1631376341910?e=1708560000&v=beta&t=sI42DS38xDE6A-hRYNAsFZ8z42Bbpemw34lRn_mACks"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "title": "Tutor",
+            "cause": "EDUCATION",
+            "company": "Toplum G\u00f6n\u00fcll\u00fcleri Vakf\u0131 (TOG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tog-vakfi/",
+            "description": "In Turkey, it used to be a common practice for kids to get additional classes from professional private institutions  on the weekends in support of their schoolwork. I helped children, whose families could not afford the private institutions, with their schoolwork every weekend for ages of 8-15.",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGBoV0Pbclp8Q/company-logo_400_400/0/1698570569179/tog_vakfi_logo?e=1708560000&v=beta&t=JhUG1nF0Ae9IDen8qhBroIEpqFbVISuvn7umNbHI4Vk"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Certified Anti-Money Laundering Specialist (CAMS)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "ACAMS",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Service Design",
+            "license_number": null,
+            "display_source": null,
+            "authority": "University of the Arts London",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Startup School Future Founders",
+            "license_number": null,
+            "display_source": "startupschool.org",
+            "authority": "Y Combinator",
+            "url": "https://www.startupschool.org/users/WsULHkBIb/ff-certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Post-Crisis Leadership",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "authority": "University of South Florida Muma College of Business",
+            "url": "https://www.youracclaim.com/badges/151db3fa-fad2-4bdf-bc44-625fbc4445d9"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "FinTech Security and Regulation",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Coursera",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Finance for Non-Financial Professionals",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Coursera",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Data Science Professional Program",
+            "license_number": null,
+            "display_source": "microsoft.com",
+            "authority": "Microsoft",
+            "url": "https://academy.microsoft.com/en-us/certificates/e4ea9950-09bd-413b-a4b0-07004e1a42b1/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Topline KPIs: Sales Waterfall",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Zalando",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Technology Change Management",
+            "license_number": null,
+            "display_source": null,
+            "authority": "University of South Florida",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Total Quality Management (TQM)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "University of South Florida",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

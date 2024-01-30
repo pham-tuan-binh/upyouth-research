@@ -1,0 +1,384 @@
+{
+    "public_identifier": "yih-lin-teh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yih-lin-teh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221331Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7fb056ab8ce164e60e534d6bfb334bf01859420737cf9cac4f98300a02c81524",
+    "background_cover_image_url": null,
+    "first_name": "Yih Lin",
+    "last_name": "Teh",
+    "full_name": "Yih Lin Teh",
+    "follower_count": 2283,
+    "occupation": "Founder & CEO at bipi (YC W22)",
+    "headline": "Founder & CEO at bipi (YC W22) | MIT MBA",
+    "summary": "I\u2019ve built most of my career running around underserved markets figuring out how to empower people through technology. I was humbled to see the impact of this work: transforming the way people learn, consume energy, pursue livelihoods.\n\nI am currently building bipi (www.bipi.id) and I\u2019m proud to lead a team that is committed to solving everyday problems that micro entrepreneurs in Indonesia face through digital solutions.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/y-combinator",
+            "title": "YC W22",
+            "description": null,
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "On Deck",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/beondeck",
+            "title": "Fellow (ODF7)",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFIB4x9n1R9FQ/company-logo_400_400/0/1675897483043/beondeck_logo?e=1712793600&v=beta&t=Jc7hCI7ejlXKMxCRwIwNmvYsOY4ydqSfMdflu0gtu18"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "bipi (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bipi-id",
+            "title": "Founder & CEO",
+            "description": "Building a digitally empowered micro-retailer community.",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHjMNFzyc9YMA/company-logo_400_400/0/1647753292549/axross_logo?e=1712793600&v=beta&t=PS_he6Js6bWgdSa4iuQ9I09XxNXZ1yCMcBOo86eKNd4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Stratiga Consulting",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder & Director",
+            "description": "Providing consulting services for digital and financial solutions in Southeast Asian markets. Expertise in social finance, market feasibility and entry strategy, last-mile digital adoption, and data analytics.",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Massachusetts Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+            "title": "Entrepreneur, MIT Sandbox Innovation Fund",
+            "description": null,
+            "location": "Boston, Massachusetts, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712793600&v=beta&t=FqGJsjhN7ggDrJpgVkcy6BCEcBnji1lwU57pQOQmrvw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Legatum Center for Development and Entrepreneurship at MIT",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mit-legatum-center",
+            "title": "Legatum Fellow",
+            "description": "Selected to be part of a cohort of the most promising 20-25 MIT students who are committed to building and scaling ventures in the developing world.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLYcDwuiYaog/company-logo_400_400/0/1647433591778/mit_legatum_center_logo?e=1712793600&v=beta&t=t591J3TbhEizt0SvN1Il71IOA7cGxDHS66lHfMBzGMg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Capsphere",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/capsphere",
+            "title": "COO",
+            "description": "Malaysia\u2019s first P2P asset-based financing platform licensed by Securities Commission Malaysia.",
+            "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEdSko7Sg7XBA/company-logo_400_400/0/1630589191990/capsphere_logo?e=1712793600&v=beta&t=9DN6FWoChcVoagfM1m2tp7emZPaGOQca3Ax_VAglROI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Modern Electron",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/modern-hydrogen",
+            "title": "Product Manager (MBA intern)",
+            "description": "Developing advanced thermionic converters, a new direct heat-to-electricity technology, that will revolutionize thermal power and enable on-demand distributed generation.",
+            "location": "Seattle, Washington",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQH8PsSjYCsamA/company-logo_400_400/0/1683763977411/modern_hydrogen_logo?e=1712793600&v=beta&t=mA1u_9VEQNHZzBPaZWxO_TrKqoikNh0_Ixn-eHdIUCk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Dalberg",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dalberg-global-development-advisors",
+            "title": "Project Manager",
+            "description": "Selected projects: \n\n-- Designed USAID RISE Technical Assistance Facility for start-ups launching disruptive technologies and business models with applications in agriculture value chains, education, and energy and water access in Southeast Asia\n\n--  Led a funder and investor consortium to establish the first Development Impact Bond fund for Education, facilitating private capital to leading Indian education providers and improving learner outcomes for 300,000 children\n\n-- (Secondment to Volta Capital) Designed DFAT\u2019s first impact investment fund, Emerging Markets Impact Investment Fund (EMIIF), enabling the use of non-grant finance to crowd in private capital and improve access to finance for small and medium enterprises in the Indo-Pacific\n\n-- Conducted a landscape analysis of off-grid solar markets in Africa and Asia and identified financing needs across the valuechain to structure investment products for a $200mn public-private blended finance off-grid solar fund\n\n-- Developed distribution playbook and unit-economics optimization model for a East-African agritech company, supporting the launch of a new solar pump that improves water-usage and increases agricultural yields for smallholder farmers across 10 new markets",
+            "location": "London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHvHz5deg06TA/company-logo_400_400/0/1688493839628/dalberg_global_development_advisors_logo?e=1712793600&v=beta&t=D0HZFBsAG5uxs8eVj-_9281Oqe4ZXL8tBEVgNs--44M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Volta Capital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/volta-capital",
+            "title": "Interim COO of LEAP Fellows",
+            "description": "Established operations for the Lending for Education in Africa Partnership (LEAP) to provide student loans and support services to Kenyan and Tanzanian students at leading universities.",
+            "location": "Nairobi, Kenya & London, UK",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGT4fwPXgNX4g/company-logo_400_400/0/1630617467186/volta_capital_logo?e=1712793600&v=beta&t=Xc_--3J5MkikHOCXokfj0JtGU9rhRJiygeRQFjmpxGs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Strategy&, part of the PwC network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/strategyand",
+            "title": "Senior Associate, Economics and Policy",
+            "description": null,
+            "location": "London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQE4mxE0yPRDyw/company-logo_400_400/0/1698231498845/strategyand_logo?e=1712793600&v=beta&t=K6AD4jzlquXE2VlZp2rgujniDlhHzQoOVwaelme1-1k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2010
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+            "title": "Analyst, Technology Consulting",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303687/accenture_logo?e=1712793600&v=beta&t=JCN1hMcZ-FlvNHRkavoviTAxdcdYbVVS_uFDZ7R0JTE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "MIT Sloan School of Management",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1501/",
+            "description": "- Legatum Fellowship for Entrepreneurship and Development\n- Association of Southeast Asian Nations (ASEAN) Fellowship \n- Co-president of MIT Sloan Southeast Asia Club and MIT Malaysian Students Association \n- Member of MIT Media Lab Digital Currency Initiative \n- Finalist at MIT Fintech Conference Pitch Competition 2020 \n- Finalist at Berkeley Haas Technology Challenge 2018 (Ideation for Smart Cities of the Future for AWS) \n\nSelected coursework: The Analytics Edge; Fintech Shaping Financial Services; Economics, Engineering & Regulation of the Electric Power Sector; Product Management; Blockchain Lab; Entrepreneurial Finance & Venture Capital; Competitive Strategy; Scaling Ventures; Artificial Intelligence for Impact; Impact Ventures",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF-NKQHUG7hUg/company-logo_400_400/0/1631325873804?e=1712793600&v=beta&t=Kac2BsPHNNewk3DvjDJGC8pgu1_DgQJ3YBCSFi-LL1g",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Cross registrant (MIT Sloan)",
+            "school": "Harvard Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4867/",
+            "description": "Coursework:\n- Strategy & Technology \n- Managing & Innovating in Financial Services",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712793600&v=beta&t=u2TdS2m7S6bscmUKiw4QIxoeIprPb1JQ67UsbqKr7Ow",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Master of Science (MS)",
+            "school": "The London School of Economics and Political Science (LSE)",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6544/",
+            "description": "Distinction in Advanced Econometrics \nSpecialization in Development Economics",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1712793600&v=beta&t=gctmdf0LjL_BTXiy-gxLLSTch8OoO4cEkeiPgmTJLrw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Bachelor of Science (BS)",
+            "school": "The London School of Economics and Political Science (LSE)",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6544/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1712793600&v=beta&t=gctmdf0LjL_BTXiy-gxLLSTch8OoO4cEkeiPgmTJLrw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Oundle School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 2142,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/dominicsumarli",
+            "name": "Dominic Sumarli",
+            "summary": "Building Whiz (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hanstella",
+            "name": "Stella Han",
+            "summary": "Co-Founder at Fractional (YC W21) \u2014 We\u2019re Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinhart-hermanus-6a149115",
+            "name": "Reinhart Hermanus",
+            "summary": "Co-Founder & CEO - Finnix (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/david-chew-ab5a5336",
+            "name": "David Chew",
+            "summary": "Co-founder & CTO at bipi (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/towers-wilen-15173622",
+            "name": "Towers Wilen",
+            "summary": "Co-Founder of Sable | Empowering financial equality | Y-Combinator S\u201919 | Columbia MBA",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQEySmc2vjH3Pg/group-logo_image-shrink_400x400/0/1677679534202?e=1705435200&v=beta&t=8fjc39I-rVsj8ik8AmcUagDxSWs4dM73TlN0cUM3X0U",
+            "name": "Entrepreneur Exchange - Entrepreneurs of LI",
+            "url": "https://www.linkedin.com/groups/9297757"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQGeyz-sIj_r4A/group-logo_image-shrink_48x48/0/1631354995741?e=1705435200&v=beta&t=JfCiYReHP815whemvygmaJ36D7NdQ26frs_OARuvaLU",
+            "name": "Market Research Professionals",
+            "url": "https://www.linkedin.com/groups/82105"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,388 @@
+{
+    "public_identifier": "longvtran",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/longvtran/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221548Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b2af0aca715110fe6e656f7b6ec764d83cd105f06c0d3e347574261a322c6be8",
+    "background_cover_image_url": null,
+    "first_name": "Long",
+    "last_name": "Tran",
+    "full_name": "Long Tran",
+    "follower_count": 1857,
+    "occupation": "CEO & Co-founder at Tinai",
+    "headline": "CEO & Co-founder \u00b7 YC S21",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Stanford",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Tinai",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tinai",
+            "title": "CEO & Co-founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFQiBipSf5KrQ/company-logo_400_400-alternative/0/1630668757096?e=1712793600&v=beta&t=Q2O-1-UwA_thjshG_25YQBFwGbS0SSmpgIWBpIRc5eg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "TikTok",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tiktok",
+            "title": "Machine Learning Engineer",
+            "description": null,
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGCdThXIss7UQ/company-logo_400_400/0/1630606162248/tiktok_logo?e=1712793600&v=beta&t=_5SKtOgsk37xEREJxES4QciW6D8TdStdJGn2OmXWdU8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Quora",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/quora",
+            "title": "Machine Learning Engineer",
+            "description": "Build and deploy ranking and recommendation systems at the Ranking and Distribution Team",
+            "location": "Mountain View, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQESjNFCktIidg/company-logo_400_400/0/1637602349203/quora_logo?e=1712793600&v=beta&t=K4P5SRkKWXGCU7GJaXR1tOEZ6beT-WE3uPc9w2NrN14"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "Groupon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/groupon",
+            "title": "Machine Learning Engineer Intern",
+            "description": "Ranking and Relevance Team\n\u2022 Mined user location data, designed travel propensity models to predict Groupon users\u2019 travel behaviors in North America, and incorporated travel propensity into Groupon\u2019s overall ranking algorithms using H2O, Spark, Hadoop, and Scala\n\u2022 Performed evaluation of the models\u2019 performance and constructed visualizations of travel patterns",
+            "location": "Palo Alto, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHGY3um1bs0lg/company-logo_400_400/0/1688371559361/groupon_logo?e=1712793600&v=beta&t=2dcMYPOnvH-2_beQVZR-Wh9G9nuI2vyCxhzo1993hFA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "AB Bernstein",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sanford-c--bernstein",
+            "title": "Associate",
+            "description": "\u2022 Built and maintained stock prediction models for companies across payments, IT Services, and aerospace industries",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEDPxLfyDSP-Q/company-logo_400_400/0/1631310426649?e=1712793600&v=beta&t=4qGmmFghRADY2U9Nre6rRp_JrgfeXyeAENknhe2U-cI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "NERA Economic Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nera-economic-consulting",
+            "title": "Summer Intern",
+            "description": "Environmental Group",
+            "location": "Greater Boston Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEs3FFRyoX8xg/company-logo_400_400/0/1641236243053/nera_economic_consulting_logo?e=1712793600&v=beta&t=qcmRipK0HB9pPTOdMlbCQr5MFS_4qt1WXJi5AxRojmk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Institute for Social and Economic Research and Policy",
+            "company_linkedin_profile_url": null,
+            "title": "Research Assistant",
+            "description": "Electoral reforms",
+            "location": "New York, NY",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Council on Foreign Relations",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/council-on-foreign-relations",
+            "title": "Geoeconomics Intern",
+            "description": "Post-war Europe and the Marshall Plan",
+            "location": "New York, NY",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHoNnf2X2nrMg/company-logo_400_400/0/1641224951741/council_on_foreign_relations_logo?e=1712793600&v=beta&t=FCAKE5-yZNk_MISxJafx6IPYNXHZhn4YqshbyvkAiLA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2013
+            },
+            "company": "Common Cause",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/common-cause",
+            "title": "Research Intern",
+            "description": null,
+            "location": "New York, NY",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGRYqesKqgM3g/company-logo_400_400/0/1666364924970/common_cause_logo?e=1712793600&v=beta&t=hxQLf4qLMSC3j4HE8_E_l_QamErndfR69_1hC6Vaxmw"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Statistics",
+            "degree_name": "Master of Science - MS",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1792/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Phi Beta Kappa, Summa Cum Laude, Statistics & Economics-Political Science",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "Columbia University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2624/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1712793600&v=beta&t=5w7-dH7vEVq_-oJsxtSYpfi5Hj4dY4A9mhpBmVEBqj0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Berkshire School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/67095/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFa6HoC-UIpPg/company-logo_400_400/0/1631324307985?e=1712793600&v=beta&t=6bHoIUrYHfPqOBHmvYLKzUsdTNa_ZxQrVpmRraJ9cfI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Latin"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "org_name": "Vietnam Youth Forum",
+            "title": "Member of the Organizing Board",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2011
+            },
+            "org_name": "US Boarding Talk",
+            "title": "Director & Co-founder",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Advanced Econometrics",
+            "number": "ECON 4412"
+        },
+        {
+            "name": "Central Europe",
+            "number": "HIST 3230"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1774,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/chilanle",
+            "name": "Chi Le",
+            "summary": "CEO @ ZaloPay",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/%F0%9F%94%AD-dzung-dang-1565425",
+            "name": "\ud83d\udd2d Dzung Dang",
+            "summary": "We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hongvuvan142",
+            "name": "Vu Van",
+            "summary": "Co-founder & CEO at ELSA, Corp (we are hiring!!)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/huynhrobert",
+            "name": "Robert Huynh",
+            "summary": "Co-Founder & CEO, Reforged Labs (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lan-hhoang",
+            "name": "Lan Hoang",
+            "summary": "Data Professional | MS Power BI & Tableau Certified | Project & Stakeholder Management",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Andrew Foss\n\n\n\nAs a summer intern at NERA Economic Consulting, Long dove into the technical intricacies of EPA's CO2 regulatory proposal for the power sector and resurfaced with all the important information for our modeling. In fact, Long became so thoroughly immersed in the proposal's many details that I'm sure he knew more about it than almost anyone at EPA (or anyone else in the country for that matter). His memos on the proposal were superbly well-written and invaluable for communicating key findings to the rest of us on the project team. Long also performed numerous excellent analyses on EPA's empirical modeling results and other quantitative tasks for multiple projects. His strong background in political science also showed through during his summer internship in his firm understanding of political contexts and regulatory processes. Long was a wonderful colleague at NERA and a tremendous asset to the project groups."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Long Tran",
+            "link": "https://au.linkedin.com/in/long-tran-35941a5a",
+            "summary": "Director Sparkles Car Wash Pty Ltd",
+            "location": "Greater Brisbane Area"
+        },
+        {
+            "name": "Long Tran",
+            "link": "https://vn.linkedin.com/in/long-tran-0757b222",
+            "summary": "Principal Application Engineer at Cadence Design Systems",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Long Tran",
+            "link": "https://se.linkedin.com/in/long-tran-b4963457",
+            "summary": "Area Sales Manager p\u00e5 Stafsj\u00f6",
+            "location": "Katrineholm"
+        },
+        {
+            "name": "Long Tran",
+            "link": "https://sg.linkedin.com/in/long-tran-39ba80b5",
+            "summary": "Sale Manager at Salesforce",
+            "location": "Singapore"
+        },
+        {
+            "name": "Long Tran",
+            "link": "https://uk.linkedin.com/in/long-phi-tran",
+            "summary": "Graduate in BEng Civil Engineering at London South Bank University",
+            "location": "London"
+        },
+        {
+            "name": "Long Tran",
+            "link": "https://vn.linkedin.com/in/long-tran-7bb319b7",
+            "summary": "Electrical and Automation Sales Manager",
+            "location": "Vietnam"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": null,
+            "name": "iOS Developers",
+            "url": "https://www.linkedin.com/groups/712237"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQGNPwBJGdWKUg/group-logo_image-shrink_400x400/0/1648136039968?e=1705464000&v=beta&t=DOKaTs5Brdb8bAwiLIYy6nlcTyhCxQ2V4bwEpeANY0I",
+            "name": "iOS Swift Programmers",
+            "url": "https://www.linkedin.com/groups/8121430"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,325 @@
+{
+    "public_identifier": "yee-meng-chua-6845a990",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yee-meng-chua-6845a990/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221314Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=16dfd1b20eaed1d9a78125e04364d1b1dc1b7cba36f109a9795bee80aa336292",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yee-meng-chua-6845a990/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221314Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f3271af4f0e334afdcf5ed7d11ad266300a077ce4fd6026376d6d5310a8dd42e",
+    "first_name": "Yee Meng",
+    "last_name": "Chua",
+    "full_name": "Yee Meng Chua",
+    "follower_count": 259,
+    "occupation": "Co-Founder at Power to the Brand (YC W22)",
+    "headline": "Co-Founder at Power to the Brand (YC W22)",
+    "summary": "(31 Jul 2023) Are interested in running groupbuys / group pre-orders for Singapore & Indonesia? Hit me up at founders@powertothebrand.sg!\n\n- - -\nIn 20 years' time, we'll regret the things we didn't do, more than the things we did. I seek a purposeful life \u2013 chasing world's hardest problems and solving for them. \n\nA lawyer by training, an entrepreneur at heart and what Jeff Lawson describes as a \"software person\", I've currently devoted the next 10 years of my life to building infrastructure for shift of global commerce to a seamless online-offline future.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Power to the Brand (YC W22)",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "\u2022 Backed by Y Combinator\n\u2022 We help high value brands simplify local retail distribution across SE Asia. We reduce market entry complexity across SE Asia by building shared infrastructure",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Interstellar Goods",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "\u2022 Grew a niche retail, distribution and corporate orders business from $0 to $350,000 annual revenues as a 1 man business\n\u2022 Turned down two acquisition offers, doubling the business each time after\n\u2022 Acquired by Power to the Brand",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "Colin Ng & Partners",
+            "company_linkedin_profile_url": null,
+            "title": "Associate",
+            "description": "\u2022 Distilled and summarized key clauses in a series of movie production contracts (spanning from financing to cast agreements). \n\u2022 Published an IPO process/requirements summary (covering both Mainboard and Catalist) for a Singapore Business Federation publication article.\n\u2022 Drafted court submissions for a chambers hearing involving a defamation matter.\n\u2022 Drafted financing agreements and client update emails for commercial property financing matters.\n\u2022 Prepared legal research memorandums relating to ad-hoc commercial issues.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "eM By The River",
+            "company_linkedin_profile_url": null,
+            "title": "Bartender's Assistant",
+            "description": "\u2022 Learned to endure hard work for minimum pay \n\u2022 Learned THE optimal way to peel oranges",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "Aaron Wills Pte. Ltd.",
+            "company_linkedin_profile_url": null,
+            "title": "Operations Assistant",
+            "description": "\u2022 Planned and set up events and event venues",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Baker & McKenzie.Wong & Leow",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/baker-mckenzie-wong-leow",
+            "title": "Intern",
+            "description": "\u2022 Distilled MAS Anti-Money Laundering Notices as applicable to different financial institutions into a presentation to key clients\u2019 senior management\n\u2022 Learnt to have the courage to speak up - the managing partner asked a question which I knew the answer to, but I was too timid. That defining moment probably cost me an immediate job offer",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDslWTgw1Q4g/company-logo_400_400/0/1631325721627?e=1712793600&v=beta&t=DnZrQC7QrYPnSf-qJvtzCHXUuOMCKYhmDAR4wL7KunA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "company": "Allen & Gledhill LLP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/allen-&-gledhill",
+            "title": "Intern at Banking Practice",
+            "description": "\u2022 Drafting & proofreading agreements for the a REIT's IPO on the SGX. A LOT of drafting and proofreading.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEXD13v5n5ncA/company-logo_400_400/0/1631416923719?e=1712793600&v=beta&t=i_ueRaqDGZKKuPHZaB2BZp65-DTXvkYlkHdQDKcranU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Singapore Bar",
+            "school_linkedin_profile_url": null,
+            "description": "2 distinctions (Ethics & Cross-border Transactions).\nElectives: Cross-border Transactions and Advanced Corporate Practice",
+            "logo_url": null,
+            "grade": "Ranked joint 4th (679 candidates) at the Bar Exams",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Law",
+            "degree_name": "Bachelor of Laws (LL.B.)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5524/",
+            "description": "Legal Analysis, Writing and Research I & II\nTort Law\nSingapore Legal Systems\nIntroduction to Legal Theory\nCriminal law\nContract Law\nJunior Seminar: Leadership\nCompany Law\nProperty Law\nClimate Change\nTrial Advocacy\nEquity and Trusts (under Prof. Tan Yock Lin)\nPublic Law\nBiomedicine and Singapore\nInternational Business Transactions\nEvidence\nTax Planning and Policy\nComparative Legal Traditions\nCredit and Security\nChinese Corporate & Securities Law\nInternational Law & Asia\nCross Border Mergers\nBeginner French\nLegal Case Studies (Top in level)\nInternational Tax Law\nLaw & Finance\nPersonal Property Law",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": "2nd Class Honours (Upper)",
+            "activities_and_societies": "Law School International Relations Committee \u25cf Tembusu Residence Floorball \u25cf Stage set construction and backstage committees for Law IV, a student production to raise funds for charity"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Mathematics Biology Chemistry Economics English Chinese",
+            "degree_name": "International Baccalaureate",
+            "school": "Anglo-Chinese School (Independent)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": "42 points",
+            "activities_and_societies": "National Cadet Corps (Land)"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "French"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Quistclose trusts \u2013 what they are and how to use them",
+            "publisher": "Singapore Law Watch",
+            "published_on": {
+                "day": 29,
+                "month": 3,
+                "year": 2016
+            },
+            "description": "A broad summary of the potential use of the Quistclose trust in financing transactions and the local state of the law on it.",
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "NUS Kent Ridge (Merit) Scholarship",
+            "issuer": "National University of Singapore",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "description": null
+        },
+        {
+            "title": "SGX Stockwhiz Challenge 2007 (2nd Placing)",
+            "issuer": "Singapore Exchange",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2007
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 245,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/rasmuschow",
+            "name": "Rasmus Chow",
+            "summary": "Co-Founder at Power to the Brand (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melissakwan",
+            "name": "Melissa Kwan",
+            "summary": "3x bootstrapper | Are you tired of doing the same webinar over and over? We help automate demos, onboarding & training to save you from webinar hell \ud83d\udd25 I share stories & lessons from my founder journey weekly.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gracesai",
+            "name": "Grace Sai",
+            "summary": "Unravel Carbon (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/elan-negara-a70860171",
+            "name": "Elan Negara",
+            "summary": "Always learning",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aandrison",
+            "name": "Aswin Andrison",
+            "summary": "AI-powered automation | Co-founder of TazkerAI & Lumina (YC W22) | VC scout | *STILL* HIRING!",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Yee Meng (Daniel) Chua",
+            "link": "https://sg.linkedin.com/in/yee-meng-daniel-chua-97280525b",
+            "summary": "--",
+            "location": "Singapore"
+        },
+        {
+            "name": "MENG YEE CHUA",
+            "link": "https://sg.linkedin.com/in/meng-yee-chua-2119661b0",
+            "summary": "--",
+            "location": "Singapore"
+        },
+        {
+            "name": "Meng Yee Chua",
+            "link": "https://sg.linkedin.com/in/meng-yee-chua-95508aa0",
+            "summary": "Senior Customer Service Representative at Crocs",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHTE20okzB9tg/group-logo_image-shrink_48x48/0/1631361268231?e=1705438800&v=beta&t=tJnLzV_kksVW4YpFT1BNpXdqlrLcOm-tzdm2gz_sOEc",
+            "name": "LAW JOBS NETWORK - #1 Legal Careers Group",
+            "url": "https://www.linkedin.com/groups/2177221"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQE74kfu5MCE7g/group-logo_image-shrink_48x48/0/1631371102197?e=1705438800&v=beta&t=gV0rUGhf1Y0Bv72EzXFEv6N45BmuC2KOswHRY7F9RRI",
+            "name": "Anglo-Chinese School (ACS)",
+            "url": "https://www.linkedin.com/groups/49937"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,547 @@
+{
+    "public_identifier": "ivoverhaegh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ivoverhaegh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221257Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d455234e9314270cdb2c19236862712625072e4fb4ad69e4588c6fe98da55660",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ivoverhaegh/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221257Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e684bab7c9e7996dcbc215c6b2c24cae914777d0787fda362dc7bda15e640e28",
+    "first_name": "Ivo",
+    "last_name": "Verhaegh",
+    "full_name": "Ivo Verhaegh",
+    "follower_count": 5799,
+    "occupation": "Co-Founder & CEO at Powerhouse AI",
+    "headline": "Co-Founder & CEO at Powerhouse AI | \ud83d\udce6 Boosting warehouse productivity",
+    "summary": "Hi there!\n\nI'm Ivo, Co-Founder at Powerhouse AI. At Powerhouse AI we are relentlessly focused on supporting warehouses to become more efficient and more accurate. We use Computer Vision to provide a \u201cthird eye\u201d to warehouse workers and enable them to automatically count and check inventory \u2013 just from a picture! \n\n\ud83d\udce6 Feel free to get in touch if you have challenges with inventory management or accuracy or would like to make your warehouse more efficient. Do you have another challenge not directly related to our solution? I\u2019m more than happy to think along. \n\n\ud83d\udd75\ufe0f\u200d We\u2019re also hiring and looking for multiple people with experience in Computer Vision, Back-End and Android Development. Do you want to work with state-of-the-art technology, have real ownership, and experience the development of a new technology from start to end? Drop me a message! (Please, don\u2019t contact me if you\u2019re an agency.)\n\n\ud83d\udce7 ivo [at] powerhouseai .com\n\ud83d\udcf1 +65 8324 1828",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Learning Loop",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/learningloop/",
+            "title": "Fellow",
+            "description": "Learning Loop is a private peer-to-peer learning and growth accelerator. I learn in public on Learning Loop with other impactful founders worldwide, and we compound each other.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFb5YmEviHOCw/company-logo_400_400/0/1695801164948/learningloop_logo?e=1712793600&v=beta&t=gLAPzDtaodG0t0L2ZtkbMruoFweeJoDiFxx_yA4rKDw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Powerhouse AI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/powerhouse-ai/",
+            "title": "Co-Founder & CEO",
+            "description": "AI Copilot for Warehouse Operators \ud83d\udcf8\n\nPowerhouse AI is redefining warehouse work by automating traditional manual counting and checking tasks, resulting in much faster operations without human error.  With the goal to make warehousing up to 40% faster and eliminate human error.\n\nWe\u2019re doing this with a software that only requires a mobile device. Our application fully digitising core warehouse workflows like inbound or stocktake. We use the power of computer vision (your camera) to automatically count boxes, reads all your logistics documents and identify all your inventory (either if it has a label or not)\n\nWorking with the world's largest companies and 3PL's and backed by investors like Y Combinator and Entrepreneur First.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGm1kUPFWwmhQ/company-logo_400_400/0/1630664020478/powerhouse_ai_logo?e=1712793600&v=beta&t=N_eLs4KSLRc61oo2SIspTu7MmdwnEqUgGZSrZorfNbg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Entrepreneur First",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+            "title": "Founder in Residence",
+            "description": "\"Entrepreneur First brings great people together to build startups from scratch in London, Singapore, Berlin, Toronto, Paris and Bangalore. EF funds individuals and help build co-founding teams, develop ideas, and accelerate through fundraising from the world's best investors.\"",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1712793600&v=beta&t=mTQ21RgtDw3Mgfr1w5ljDZDm1eRPL_Mix9xRzP_POIk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "NIBC Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nibc-bank/",
+            "title": "Senior IT Business Consultant",
+            "description": "Coordinated various organization-wide projects and led teams in a complex environment with a large number of (senior) stakeholders. Project management of 7+ people teams and >1mln budget responsibility.\n\nSelection of projects:\n\u2022 Participant of Dare2Develop: NIBC high potential professionals talent program\n\u2022 Team Lead: Development and implementation of a bank-wide Target Operating Model (TOM) and team for Regulatory Change Management\n\u2022 Strategy consulting: Co-developed a new strategy for the Retail Bank\n\u2022 Team Lead: IT Implementation of the Corporate Bank restructuring \n\u2022 Team Lead: Initiated and led the implementation of Digital Signing \n\u2022 Consulting: Developed User Adoption / Change Management plan for new Core Corporate Banking system\n\u2022 Consulting: Developed a Competency Framework.\n\u2022 Consulting: Team strategy and IT Governance",
+            "location": "The Hague Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEXJhxNGPQjvg/company-logo_400_400/0/1690809096132/nibc_bank_logo?e=1712793600&v=beta&t=RE2xLAN972qOdlNH97Dq_IPIzzdUcyoiF2-rNbCtJ7U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Noblehive",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/noblehive/",
+            "title": "Co-Founder",
+            "description": "\u2022 Co-founded Noblehive.com: an online platform connecting housekeepers and clients in the B2B and B2C sector. \n\u2022 Managed a team of 15+ people\n\u2022 >EUR100k yearly revenue growth in 2 years\n\u2022 Responsible for determining the company's strategic direction, business development, client contact, recruitment, finance and website building.",
+            "location": "Rotterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEGp3mniUJ-sw/company-logo_400_400/0/1630672062140/noblehive_logo?e=1712793600&v=beta&t=ztCKFousWG3SZ_y03gy2l_vrnmJMn_ga_YElGRxrwu0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Erasmus MC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/erasmus-mc/",
+            "title": "Business Incubator Manager",
+            "description": "Manager of the Erasmus MC Business Incubator and financial advisor to the Technology Transfer Office: breeding ground for Erasmus MC spin-offs.\n\n\u2022 Day-to-day management of Incubator: budgeting, event management, facility management\n\u2022 Initiated and co-executed the set-up of a Life Sciences Hub.\n\u2022 Initiated a new pre-seed fund and formulated a strategy (\u20ac1.2 mln)\n\u2022 Initiated and led a successful Salesforce implementation \n\u2022 Provided financial advice, prepared budgets and reported on financial performance of Technology Transfer Office",
+            "location": "Rotterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHXexoG_CK3lQ/company-logo_400_400/0/1680172426043/erasmus_mc_logo?e=1712793600&v=beta&t=wOZPCP9hfWKaZ0awxUzhMVpD2ERbILk7B3_LHMdwZL0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "CBRE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cbre/",
+            "title": "Debt and Structured Finance Analyst (Intern)",
+            "description": "Directly supported the Senior Director with making cash-flow models, real estate management, on-site visits with clients and creating marketing materials, among others. Written my bachelor thesis at CBRE on the attractiveness of investing in Credit Tenant Leases (result: 8.5/10).",
+            "location": "Amsterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHqoFRbZcWFlQ/company-logo_400_400/0/1631703590924/cbre_logo?e=1712793600&v=beta&t=wf7Mq1J9arMjGf7bA4XfE3I2e26O9hWbDsQr8YyurDA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "ABN AMRO Bank N.V.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/abn-amro/",
+            "title": "Change Manager (Intern)",
+            "description": "\u2022 Responsible for the improvement of usage of the Oracle Siebel CRM system in 9 private banking offices throughout the country. I set up an extensive research process and training, formulated a business strategy and executed the action points. I reported to the regional director. \n\u2022 Achieved: turned the negative perception on the CRM system. I created a support base throughout the organization and measurably increased knowledge resulting in a significant improvement in value of the system and increase in usage and understanding of it.",
+            "location": "Utrecht Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_400_400/0/1691390775673/abn_amro_logo?e=1712793600&v=beta&t=HYU5q0AInLxwTFs6wNRMm8v2ln4OGG_KtaPdfoMO8oM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "International Economics",
+            "degree_name": "Master's Degree",
+            "school": "Erasmus University Rotterdam",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1630595251002/erasmus_university_rotterdam_logo?e=1712793600&v=beta&t=V12zCbj46A9v6X9XnjkhMaHN6Ai93062behT2kfkzig",
+            "grade": "A (8,0 in Dutch Grading System)  ",
+            "activities_and_societies": "2 months German language course in Berlin."
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "International Bachelor Economics and Business Economics (IBEB)",
+            "degree_name": "Bachelor's Degree",
+            "school": "Erasmus University Rotterdam",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1630595251002/erasmus_university_rotterdam_logo?e=1712793600&v=beta&t=V12zCbj46A9v6X9XnjkhMaHN6Ai93062behT2kfkzig",
+            "grade": "A (8,1 in Dutch Grading System)  ",
+            "activities_and_societies": "Various committees at EFR \u2022 Delegate for London Model United Nations \u2022 Teaching Assistant \u2022 iBuddy International Students "
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Economics and Management",
+            "degree_name": "Bachelor's Degree",
+            "school": "City University of Hong Kong",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE2tpQDbc_M3w/company-logo_400_400/0/1704157997689/cityu_logo?e=1712793600&v=beta&t=BQKqjI-DtSUumm4tVW4v5vVKxsm-8dylixc6fzm11n8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "Nature & Health + Economics 1&2 + Management & Organisation",
+            "degree_name": "VWO",
+            "school": "Bouwens van der Boije College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF1DOGsLwbNrg/company-logo_400_400/0/1630555190321/bouwens_van_der_boije_college_logo?e=1712793600&v=beta&t=eKOBqTUi2IcvM3ZYWikZNNIr3stmElJkmrnoyk6XVNU",
+            "grade": "7,9 (Dutch Grading System)",
+            "activities_and_societies": "Debate Team \u2022 Group Leader Model European Parliament Limburg \u2022 Main Organizer Prom Committee"
+        }
+    ],
+    "languages": [
+        "Dutch",
+        "English",
+        "French",
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "title": "Volunteer NGO Management Ghana",
+            "cause": "EDUCATION",
+            "company": "Dream Africa Care Foundation",
+            "company_linkedin_profile_url": null,
+            "description": "\u2022 3-week volunteer project for a NGO in Ghana focussing on education. Initiated an improvement procedure to increase the effectiveness of the organization to be able to help more children. \n\u2022 Achievements: wrote a document containing concrete advice to improve the NGO on all areas, from education to housing. Made a start with implementation and digitalized financial administration.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "title": "Field researcher Cameroon",
+            "cause": "HEALTH",
+            "company": "LiveBuild",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/livebuild/",
+            "description": "\u2022 Writing of a business plan for a social enterprise providing clean drinking water in Cameroon. 4 months of desk research and 1 month of field research in Cameroon. \n\u2022 Responsibilities: investigating the technical and logistical aspects of the social enterprise with the help of local organizations, officials and citizens.",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFGDUFUQz7qnQ/company-logo_400_400/0/1631372619206?e=1712793600&v=beta&t=If_G1gfXf2u5GkprA6KYMy2wZSHq8EmVw0HHIV_Ms1I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "title": "Team Leader",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "Enactus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/enactus/",
+            "description": "\u2022 Project to support a local struggling restaurant defining its competitive edge to become successful in business with care for the environment and active involvement in society.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGJi9chtdt_Jg/company-logo_400_400/0/1630613586866/enactus_logo?e=1712793600&v=beta&t=jVchJ308s-4qnKefQ_zRffKipmaxhIncIcR0L6ma9yI"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Business Change Management",
+            "license_number": null,
+            "display_source": null,
+            "authority": "MK Leads",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Agile Scrum Product Owner ",
+            "license_number": "6326399.20789448",
+            "display_source": null,
+            "authority": "EXIN",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Algemene Opleiding Bankbedrijf (General Banking Course)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "NIBE-SVV Opleidingen\u200e",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "IT Essentials",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "ITIL 4 Foundation",
+            "license_number": "GR671062515IV",
+            "display_source": null,
+            "authority": "PeopleCert",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Informal Leadership (Informeel Leiderschap)",
+            "license_number": "DIL185",
+            "display_source": null,
+            "authority": "de Baak",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Leadership and Personal Training Program",
+            "license_number": null,
+            "display_source": null,
+            "authority": "exponentially me",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Core Consulting Skills",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Cass Business School",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Design Thinking Foundation & Facilitation",
+            "license_number": null,
+            "display_source": null,
+            "authority": "DesignThinkers Academy",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Agile Foundation",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Wemanity Group",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Goethe Zertifikat level B2",
+            "license_number": "00012-B2-13-481533",
+            "display_source": null,
+            "authority": "Goethe-Institut e.V.",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sinameraji",
+            "name": "Sina Meraji",
+            "summary": "Building in AI x Learning x Community",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/isaachwtan",
+            "name": "Isaac Heng Wai Tan",
+            "summary": "Co-founder of Supa (Iterative W23)| Building Data Labelling Infrastructure for AI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sudharshan-raman-315923101",
+            "name": "Sudharshan Raman",
+            "summary": "Building Phasio - We are Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/henrikbergsager",
+            "name": "Henrik Bergsager",
+            "summary": "Strategic Partnerships | Operations | Revenue Generation",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sherbondy",
+            "name": "Ethan Sherbondy",
+            "summary": "Co-Founder & CTO at Betafi: the Unified User Research Platform",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kushalpillay",
+            "name": "Kushal Pillay",
+            "summary": "Co-Founder & CTO at Powerhouse AI (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dongwenhao",
+            "name": "Wenhao D.",
+            "summary": "Co-Founder @ Smilie. Exited a small one, building a big one. Transforming how company\u2019s engage at key moments. Follow me and watch us digitalise the billion dollar gifting industry.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/serenalamau",
+            "name": "Serena Lam",
+            "summary": "Founder @ Fuzzy Sequence (Iterative S23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/carin-gan",
+            "name": "Carin Gan",
+            "summary": "Co-Founder at CoffeeSpace | ex-Meta Software Engineer | UPenn/Wharton '20",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tnylee",
+            "name": "Ty Lertwichaiworawit",
+            "summary": "Founder of WeGoWhere - We're Hiring!",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

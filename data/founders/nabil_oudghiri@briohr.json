@@ -1,0 +1,235 @@
+{
+    "public_identifier": "nabil-oudghiri-870372b5",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Nabil",
+    "last_name": "Oudghiri",
+    "full_name": "Nabil Oudghiri",
+    "follower_count": null,
+    "occupation": "Cofounder & CTO at BrioHR",
+    "headline": "Cofounder & CTO at BrioHR (YC W21)",
+    "summary": null,
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "BrioHR",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/briohr/",
+            "title": "Cofounder & CTO",
+            "description": null,
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHrMhXDclqvcQ/company-logo_400_400/0/1579056676157?e=1676505600&v=beta&t=hQShosoOzBW9eHMEXIxMaMTwhmlDp5EgEU_a7LtPbhE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "Upskills",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/upskills/",
+            "title": "Head of integration",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/D560BAQFm6Tcx0wFbXA/company-logo_400_400/0/1667322243620?e=1676505600&v=beta&t=xrbSk5sjGGCAcvjhBppWbLT4LEbnBuoOp8aUEcTDcoc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "Murex",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/murex/",
+            "title": "Senior Functional Consultant",
+            "description": "Product management:\n - Managed the module\u2019s corrective maintenance and significantly diminished the defect backlog in order to meet the company\u2019s service-level objectives: Reviewed correction requests from support teams worldwide and set priorities for the development team.\n - Enhanced the equity derivatives module\u2019s financial product coverage, risk management caculation methods, and throughput performance: Wrote functional specifications and conducted testing and validation campaigns.\n - Built a testing framework used by four major projects as a benchmark against a production use case from our most important client. \n\nClient relationship management:\n - Led a cross-functional team of 5 as the single point of contact of a top tier investment bank. Coordinated support and development requests by analyzing issues and providing long-term solutions or corrective patches.\n - Acquired a deep understanding of clients businesses and a trust relationship with IT teams, both enhancing the quality of the customer service and providing solid input for the module\u2019s development roadmap.\n\nTeam management:\nSupervised 2 junior consultants in client support and internal development missions.\n\nPresales:\n - Carried out pre-sales software demonstrations for a British asset manager and South African investment bank.\n - Conducted workshops for an Italian and a Russian investment bank and demonstrated the benefits of the software\u2019s last versions for their business in preparation for an upgrade project.",
+            "location": "Paris Area, France",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFCoUYJSUIU7A/company-logo_400_400/0/1635171911368?e=1676505600&v=beta&t=a5q65EIzC-f4ssiFDGRRmtXlcS2eFBFsucqnGBuxW9o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Murex",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/murex/",
+            "title": "Functional Consultant",
+            "description": "- Implemented product evolution streams by writing functional specifications, conducting testing campaigns, and supervising the development delivery process. Enhanced the software\u2019s financial product coverage, financial risk measures catalogue, and throughput performance.\n- Took charge of the support of a top tier German investment bank by analyzing issues and delivering numerous corrective patches. \n- Led the design and build phases of a software implementation project for a top tier Swiss private bank. Trained and advised client project teams on complex financial product modeling in the software. \n- Led the front office stream of a 14 month upgrade project for a major German bank. Trained project teams on the new software, delivered corrective patches, and tested and delivered new features.",
+            "location": "Paris Area, France",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFCoUYJSUIU7A/company-logo_400_400/0/1635171911368?e=1676505600&v=beta&t=a5q65EIzC-f4ssiFDGRRmtXlcS2eFBFsucqnGBuxW9o"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1593585120945?e=1676505600&v=beta&t=wheKoZQedxpV3um6lvPr33KJdJU0PHhBEgS_wogtqM4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Quantitative finance",
+            "degree_name": "Master's Degree",
+            "school": "Ecole centrale de Lyon",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGntBsLEn0n8w/company-logo_400_400/0/1519856409322?e=1676505600&v=beta&t=a9JiyKnDnQKjUStP95bwv10dPBtZRrc7-ixsa44I_lg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": null,
+            "degree_name": "Engineer's degree",
+            "school": "Ecole centrale de Nantes",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHpQnT6vHWAFw/company-logo_400_400/0/1519922092663?e=1676505600&v=beta&t=D2et948oxUNVFaphCzANg1jFhHXJoNpGSB5UrJ4fLPg",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/benjamin-croc-93669426",
+            "name": "Benjamin Croc",
+            "summary": "Cofounder & CEO at BrioHR (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/texierjm",
+            "name": "Jim Texier",
+            "summary": "Partner at FRAMEWORK",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akmalakhpah",
+            "name": "Akmal Akhpah",
+            "summary": "Founder of Flowyteam & Pandai (YC S21) - We\u2019re hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/georg-chmiel-b579aa2",
+            "name": "Georg Chmiel",
+            "summary": "Co-Founder and Chair at Juwai-IQI / Company Director and Advisor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kc-cheong",
+            "name": "KC Cheong",
+            "summary": "Client Success Specialist at BrioHR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wayne-low-cheon-ying-93b73482",
+            "name": "Wayne Low Cheon Ying",
+            "summary": "Software Engineer at BrioHR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/idris-a-689a2617b",
+            "name": "Idris A.",
+            "summary": "Product Manager at BrioHR | HRMS | Payroll | Statutory | UX",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chunwei-edison-tan-767200107",
+            "name": "ChunWei, Edison Tan",
+            "summary": "Client Success Executive at BrioHR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/diyana-kaseharom-2a5590141",
+            "name": "Diyana Kaseharom",
+            "summary": "Client Success Specialist at BrioHR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/weieelee",
+            "name": "Wei Ee Lee",
+            "summary": "Automate all your HR processes, focus on what matters the most, your people!",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

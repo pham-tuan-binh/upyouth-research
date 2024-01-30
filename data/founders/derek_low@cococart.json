@@ -1,0 +1,202 @@
+{
+    "public_identifier": "dereklmy",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dereklmy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221559Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=409aec9aae44a467ea36176aaec540054134bfbe5c17d9d1601ace20d42e1552",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dereklmy/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221559Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1063ecd5cf2ece1d8daf0e86eecd1ea3f7cf6ff0082e42a47c176489baa1a486",
+    "first_name": "Derek",
+    "last_name": "Low",
+    "full_name": "Derek Low",
+    "follower_count": 1311,
+    "occupation": "Co-Founder & CEO at Cococart",
+    "headline": "Co-Founder & CEO at Cococart | YC S21",
+    "summary": "Derek Low is an entrepreneur and world traveler. He's the founder of Cococart, a venture-backed e-commerce startup empowering local businesses. He has been featured in TIME, Forbes, CNN, The Guardian and TechCrunch. He knows how stupid writing a third-person bio of himself can be.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Cococart",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cococart-co",
+            "title": "Co-Founder & CEO",
+            "description": "We empower independent businesses to sell online. We are a company passionate about transforming local businesses and enabling new ways of selling online. Since 2020, our 20,000+ merchants have earned over $15 million.",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEMapGUEBZr7A/company-logo_400_400/0/1667808076901/cococart_co_logo?e=1712188800&v=beta&t=AqfRSibkRE4QK9R3mUM0bVB7p0kXDIGzzNqCsyO5tiE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Basecamp Bali",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/basecampbali",
+            "title": "Owner",
+            "description": "An award-winning sustainable hotel located in the heart of a UNESCO Global Geopark and the first luxury bubble hotel in Bali. We achieved a 100% occupancy rate with perfect ratings on Booking.com and Airbnb.",
+            "location": "Bali, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF0qWC5I8YDQQ/company-logo_400_400/0/1630640713375/basecampbali_logo?e=1712188800&v=beta&t=p4qFLIZ2suJtVugBmpTP3HH5uedB0BqLsz9gJl4UQzQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Learnyard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/learnyard",
+            "title": "Founder & CEO",
+            "description": "Learnyard is an online marketplace for people to list, discover, and book unique lessons in their city. People can offer offline lessons to others of any kind, from riding unicycles to building a website. Learnyard offers people the possibility to monetize their skills by teaching it to the world.",
+            "location": "Berkeley, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHfOeQBn8Xa3Q/company-logo_400_400/0/1631345204476?e=1712188800&v=beta&t=GaFrXo0VeIF9AO-2wGKH_ubld3gutPYOJK-BqX46fT4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Batch S21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712188800&v=beta&t=EgLxewxI_BDrlASGfsfLrqJBxsMda6-ggIQPdbJ7pks",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": "Electrical Engineering & Computer Science",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712188800&v=beta&t=o35HOCTfsV36CKuhNReGYb_pTkQVWzeU6DvE9v4OsXw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Divemaster",
+            "license_number": null,
+            "display_source": null,
+            "authority": "PADI",
+            "url": null
+        }
+    ],
+    "connections": 1114,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/trina-ritchie",
+            "name": "Trina Ritchie",
+            "summary": "Operations Executive @ Cococart (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yeechia",
+            "name": "Yee Hui Chia",
+            "summary": "Art x Tech | Thoth.ai \u2014 AI visual summaries",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zhiconglim",
+            "name": "Zhicong L.",
+            "summary": "CTO & Co-founder at Cococart \u00b7 YC S21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicktommarello",
+            "name": "Nicholas Tommarello",
+            "summary": "Founder & CEO at Wefunder",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mariane-pontejos-operations",
+            "name": "Mariane P.",
+            "summary": "Head of Operations @ Cococart (YC S21) | Product Operations",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Derek Low",
+            "link": "https://my.linkedin.com/in/derek-low",
+            "summary": "Head of Outplay & Director of Integration",
+            "location": "Petaling Jaya"
+        },
+        {
+            "name": "Derek Low",
+            "link": "https://sg.linkedin.com/in/derek-low-peng-han",
+            "summary": "Final Year Student at National University of Singapore",
+            "location": "Singapore"
+        },
+        {
+            "name": "Derek Low",
+            "link": "https://se.linkedin.com/in/dereklowsweden",
+            "summary": "IT Service Delivery Manager, Business Continuity, Disaster Recovery, ISO 22301",
+            "location": "Stockholm"
+        },
+        {
+            "name": "Derek Low",
+            "link": "https://au.linkedin.com/in/derek-low-b8758a21",
+            "summary": "Strategic Advisor, Environment and Sustainability at Arup",
+            "location": "Greater Sydney Area"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

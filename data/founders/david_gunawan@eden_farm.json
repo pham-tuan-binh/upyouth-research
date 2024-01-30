@@ -1,0 +1,373 @@
+{
+    "public_identifier": "dgunawan1",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dgunawan1/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221659Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d1bad53b14c6d02d565cb94b7ad93b68a34c153204de67430a13592adf692356",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dgunawan1/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221659Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d618ce73c72cc36fbe82196d1ac175b8d28b84e7053933fe7c5a9eb012e982a3",
+    "first_name": "David",
+    "last_name": "Gunawan",
+    "full_name": "David Gunawan",
+    "follower_count": null,
+    "occupation": "Head of Planning at Youtap Indonesia",
+    "headline": "Planning & Strategic",
+    "summary": "Having a main role as a Finance & Business Partner, an accountant who work closely with a particular business unit creating a real and active partnership with both operations and management. Providing a 'real time' support and analysis, to be a trusted adviser and to add value that will assisted in decision making. It is a mix of analytical, commercial and communication skills which driven a successful business.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Youtap Indonesia",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/youtap-indonesia",
+            "title": "Head of Planning",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQHRM0uk2E-obw/company-logo_100_100/0/1560311429813?e=1645660800&v=beta&t=tV32p4hkPmEIWVANx7JkkRg4QnV7jiun3neEANA69Bw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "company": "Tokopedia",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/pt--tokopedia",
+            "title": "Business Finance Lead",
+            "description": "\u2022\tControl the flow of business to be in line with the financial result.\u2022\tInfluence day to day decisions, shaping strategy and the direction of the business and product team.\u2022\tIn dept analyzed revenue and expenses, and make improvement regarding from operational flow.\u2022\tMonitoring compliance with controls and systems, and developing new commercial and strategies processes to be more automated, effective and efficient.\u2022\tIdentify and drive process business improvement from audit, accounting, and tax standpoint.\u2022\tDeveloped and automated the business processes in terms of business to financial recording\u2022\tAnalyzed new business ideas, make analytical judgement, and operational data strategies.",
+            "location": "Indonesia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFMBlhfxZjCFg/company-logo_100_100/0/1615804646493?e=1645660800&v=beta&t=ViPyXlvXkSJZrRPyBUCgIii6EzvdFFHmBDkzqOh7znY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "KPMG",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/kpmg",
+            "title": "Senior Financial Auditor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHv3GPy6doWKg/company-logo_100_100/0/1635784975015?e=1645660800&v=beta&t=dC2XmqjM_c57GSc7B7Y-MPSTfGsu3hB2udEbNKyTH0I"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Business and Financial Management Services",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Prasetiya Mulya Business School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_100_100/0/1567486096706?e=1645660800&v=beta&t=mMywi5tvcOnjFiJYrjpTgkk6EZNrpTqXSktThyJY6xM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Economic Accounting",
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "Universitas Katolik Parahyangan (UNPAR)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFc-DCdvdHAYw/company-logo_100_100/0/1567529159513?e=1645660800&v=beta&t=nGFu5RSu2Mq20xq49VKx97u_zF_ZMrOtiNn-uvEtoE0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "org_name": "Idecraft",
+            "title": "Deputy of Finance Division",
+            "description": "- Responsible for overall inflow and outflow cash management- Constructed and evaluated budget planning cost"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "org_name": "Management Society",
+            "title": "Finance Head",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Semi Finalist Bangkok Business Challenges",
+            "issuer": "Sasin Graduate Institute of Business Administration",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "title": "Consultant",
+            "cause": "Pemberdayaan Ekonomi",
+            "company": "Prasetiya Mulya Business School",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/prasmul",
+            "description": "Joining Community Service Center to provide a business consultant services by connecting and building a Small Medium Enterprises in Pagedangan district with local communities.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_100_100/0/1567486096706?e=1645660800&v=beta&t=mMywi5tvcOnjFiJYrjpTgkk6EZNrpTqXSktThyJY6xM"
+        }
+    ],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/eva-dwi-jayanti-a4a057121",
+            "name": "Eva Dwi Jayanti",
+            "summary": "Accounting, Finance & Tax Support at Youtap Indonesia",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/iqbal-maulana-herdadi-9bb5a11b0",
+            "name": "Iqbal Maulana Herdadi",
+            "summary": "Account Lead di Youtap Indonesia",
+            "location": "Tasikmalaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-syaiful-anam-5957a340",
+            "name": "muhammad syaiful anam",
+            "summary": "Digital Financial Services Enthusiast & Business Strategist",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dede-sulaeman-392358211",
+            "name": "Dede Sulaeman",
+            "summary": "Account Manager di Youtap Indonesia",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ika-cahyaningsih-soebagio-735396a3",
+            "name": "Ika Cahyaningsih Soebagio",
+            "summary": "Experience in Financial Planning, Auditing and Accounting",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/edwin-leonardo-9658811a6",
+            "name": "Edwin Leonardo",
+            "summary": "Creative Worker",
+            "location": "Semarang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/andra-hernanto-17b7a41a4",
+            "name": "Andra Hernanto",
+            "summary": "Teritory supervisor kediri raya di Youtap Indonesia",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nadyadafina",
+            "name": "Nadya Sarah Dafina",
+            "summary": "Partnership Lead Specialist at Youtap Indonesia",
+            "location": "Kota Tangerang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/reginaldo-ramadhan-b66b4514a",
+            "name": "Reginaldo Ramadhan",
+            "summary": "Account Executive",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/siti-maisyaroh-719814212",
+            "name": "Siti Maisyaroh",
+            "summary": "Account Executive di Youtap Indonesia",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/yan-erikson-tambunan-b176a61b3",
+            "name": "Yan Erikson Tambunan",
+            "summary": "Bekerja Pintar Dan Benar",
+            "location": "Sumatera Utara, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/diffa-enolla-wahyudi-a24687130",
+            "name": "Diffa Enolla Wahyudi",
+            "summary": "Account Leader Coordinator of Blitar-Tulungagung East Java at Youtap Indonesia",
+            "location": "Jawa Timur, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/deni-hendarto-934b4482",
+            "name": "Deni Hendarto",
+            "summary": "Head of Area Development at Youtap Indonesia",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/alfa-tirza-aprilia-033360192",
+            "name": "Alfa Tirza Aprilia",
+            "summary": "Creative Copywriter at Youtap Indonesia",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/lusiana-melawati-1424a91b8",
+            "name": "lusiana Melawati",
+            "summary": "MEO di Youtap Indonesia",
+            "location": "Surabaya"
+        },
+        {
+            "link": "https://id.linkedin.com/in/galuhpaloe",
+            "name": "Galuh Paloe",
+            "summary": "Merchant Support Lead at Youtap Indonesia",
+            "location": "Banten, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/dio-angga-rizki-b85719144",
+            "name": "Dio Angga Rizki",
+            "summary": "TechOps Lead at Youtap Indonesia",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/vita-sabrina-24186997",
+            "name": "Vita Sabrina",
+            "summary": "Group Head Marketing and Research at Youtap Indonesia",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/armytha-maharani-18930159",
+            "name": "Armytha Maharani",
+            "summary": "Financial Planning Analysis | Ex Gojek",
+            "location": "Jakarta"
+        },
+        {
+            "link": "https://id.linkedin.com/in/martha-kostarin-9b68299a",
+            "name": "Martha Kostarin",
+            "summary": "Business Planning Dept Head at Sampoerna Financial Group",
+            "location": "Jawa Barat, Indonesia"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Have you ever worked or are currently working for an organization where people are afraid to ask any questions, give their feedback, or voice any\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh David Gunawan"
+        },
+        {
+            "title": "Exciting news! Ula has secured an additional US$23.1 million in funding from Tiger Global Management and Flipkart Co-founder Binny Bansal to close\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh David Gunawan"
+        },
+        {
+            "title": "inspiring \ud83d\udc95\ud83d\udc95\ud83d\ude4f\ud83c\udffb",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh David Gunawan"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "David Gunawan",
+            "link": "https://id.linkedin.com/in/david-gunawan-aa333260",
+            "summary": "COO at North Venture",
+            "location": "Jakarta"
+        },
+        {
+            "name": "David Gunawan",
+            "link": "https://id.linkedin.com/in/david-gunawan-gnt",
+            "summary": "E-commerce Officer at PT Kalbe Farma, Tbk",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "name": "david gunawan",
+            "link": "https://id.linkedin.com/in/david-gunawan-967761b2",
+            "summary": "Hard work",
+            "location": "Indonesia"
+        },
+        {
+            "name": "David Gunawan",
+            "link": "https://id.linkedin.com/in/david-gunawan-90496476",
+            "summary": "Enterprise Partnership Manager",
+            "location": "Indonesia"
+        },
+        {
+            "name": "David Gunawan",
+            "link": "https://ca.linkedin.com/in/david-gunawan-79b55970",
+            "summary": "Project Manager at Ubuntu Canteen",
+            "location": "Vancouver, BC"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5607AQEb9mM2rcERmA/group-logo_image-shrink_200x200/0/1631402762474?e=1637661600&v=beta&t=yxorwnER2aFT85EZBUW8LKrmWWYyEs6zvLqt6M4hrwc",
+            "name": "KPMG Indonesia Alumni & Current Professionals",
+            "url": "https://www.linkedin.com/groups/6545968"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQHJRAxtTCanDg/group-logo_image-shrink_92x92/0/1630996587114?e=1637661600&v=beta&t=gyXny-uaK-oDIN2QBICmGtCAAmRCN5sX4GmeSa4pynY",
+            "name": "Finance Business Partner Forum",
+            "url": "https://www.linkedin.com/groups/8475765"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQH8BbEhjzhTSg/group-logo_image-shrink_92x92/0/1631007966018?e=1637661600&v=beta&t=PlowIhtu3WIs3nuGHbNhuMFhgBw72YxqTBvsJT4sRXI",
+            "name": "MatchKerja - Group (Job Portal & Professional Career Services)",
+            "url": "https://www.linkedin.com/groups/6961071"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,375 @@
+{
+    "public_identifier": "wafataftazani",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/wafataftazani/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221323Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a8b104f635bf333130f16f15e8dc6a317dc53b36e5c82237c8836c3a54fddbe5",
+    "background_cover_image_url": null,
+    "first_name": "Wafa",
+    "last_name": "Taftazani",
+    "full_name": "Wafa Taftazani",
+    "follower_count": 35227,
+    "occupation": "Founder & CEO at UpBanx (YC W22)",
+    "headline": "Founder at UpBanx (YC W22), VCGamers, ModalRakyat. Board Member at RANS Ventures, BebasInvestasi, Indonesian Youth Diplomacy. Lecturer at the University of Indonesia.",
+    "summary": "Entrepreneur and investor with 10+ years of experience across technology, digital entertainment, corporate finance, public policy, and international relations.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Bebasinvestasi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bebasinvestasi/",
+            "title": "Advisor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE0gSQCEnm4Ow/company-logo_400_400/0/1689319285441/bebasinvestasi_logo?e=1712793600&v=beta&t=i7TJsxORtJBo3yAwn67Q_9SLgwpwIwxj376AnOF2lDQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Indonesian Youth Diplomacy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/indonesian-youth-diplomacy/",
+            "title": "Board Member, former Chairman & Y20 Delegate",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGOdmIGHsdgBQ/company-logo_400_400/0/1672887345073/indonesian_youth_diplomacy_logo?e=1712793600&v=beta&t=xg8uPbfMpW615HUkRWZg1pz333Cva4HY16vLj2WUbjA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Modal Rakyat",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/modal-rakyat/",
+            "title": "Co-Founder & President Commissioner",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEChI6Dww9q8Q/company-logo_400_400/0/1702895824847/modal_rakyat_logo?e=1712793600&v=beta&t=_03mDP4SiZ3vLhR2rymtgu46DkaKLpFl5zz7fDoAXZU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "RANS Ventures",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rans-ventures/",
+            "title": "Director",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHJ40e6BDeeZg/company-logo_400_400/0/1651318220754?e=1712793600&v=beta&t=J16RSVSLEnxPYHxgIVAJEkirRfj7LM4qcz7EKghzQH4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "UpBanx (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/upbanx/",
+            "title": "Founder & CEO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHmEXiB1RtyZg/company-logo_400_400/0/1661916762129/upbanx_logo?e=1712793600&v=beta&t=Ko94u-yeaXfhhkItBOOTqvPvfK1fzOYAiPsyV5Fes_8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "VCGamers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vcgamers/",
+            "title": "Co-Founder & Chairman",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFXi-ftPWEsMA/company-logo_400_400/0/1630653299056/vcgamers_logo?e=1712793600&v=beta&t=AA3mphVrmfQCYI52BZPzM6Tz7vzcK5JDpA3S9yXRRBY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "VCGamers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vcgamers/",
+            "title": "Angel Investor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFXi-ftPWEsMA/company-logo_400_400/0/1630653299056/vcgamers_logo?e=1712793600&v=beta&t=AA3mphVrmfQCYI52BZPzM6Tz7vzcK5JDpA3S9yXRRBY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Universitas Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-indonesia/",
+            "title": "Lecturer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_400_400/0/1631366982263?e=1712793600&v=beta&t=P4HmYV261MzzWDyKoX71ShWzKs5X0pAcTxcWsOHYdgw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Lead, Asia-Pacific Partnerships",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Lead, Strategic Partnerships (YouTube)",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2019
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "Manager, Strategic Partnerships (YouTube)",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "YouTube",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/youtube/",
+            "title": "Lead, Strategic Partnerships",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_400_400/0/1631053379845/youtube_logo?e=1712793600&v=beta&t=2J-FeKhhqmnEkApUdUawlBS47QMszlV3Welg5lH25Nk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2019
+            },
+            "company": "YouTube",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/youtube/",
+            "title": "Manager, Strategic Partnerships",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_400_400/0/1631053379845/youtube_logo?e=1712793600&v=beta&t=2J-FeKhhqmnEkApUdUawlBS47QMszlV3Welg5lH25Nk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "AGRINAS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/agrinas/",
+            "title": "Advisor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEo9ZaupqF6sg/company-logo_400_400/0/1630576566269?e=1712793600&v=beta&t=ZMJh1pmH965gqrMfzSthfUn3GFjMJzXY2pI2U9NkqCA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Strategy & Finance",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "University of Cambridge",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833279033/university_of_cambridge_logo?e=1712793600&v=beta&t=YPH31faaqR0Y9VJWJ-l7_xjU0xoaEtgFcH8nUm5P8M4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Political Science & International Relations",
+            "degree_name": "Bachelor of Arts - BA",
+            "school": "Universitas Katolik Parahyangan (UNPAR)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFc-DCdvdHAYw/company-logo_400_400/0/1630598585598?e=1712793600&v=beta&t=6nCGjbxDrQ2Vy3baVfaVKyAiNQdCFkKpLeGAhhJE9X8",
+            "grade": "Cum Laude",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/kaluwi",
+            "name": "Kevin Aluwi",
+            "summary": "Co-founder at Gojek",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/williamtanuwijaya",
+            "name": "William Tanuwijaya",
+            "summary": "Co-founder & Co-Chairman at GoTo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stanislaus-tandelilin",
+            "name": "Stanislaus Tandelilin",
+            "summary": "Building PrimaKu Health-tech ~ Darden ~ Bain",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stevan-sampeako-1a8550159",
+            "name": "Stevan Sampeako",
+            "summary": "Senior Talent Acquisition RANS Entertaiment Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/issubrata",
+            "name": "Sony Subrata",
+            "summary": "CEO & Co-Founder at VCGamers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hartantolee",
+            "name": "Hartanto Lee",
+            "summary": "VCGamers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melvinhade",
+            "name": "Melvin Hade",
+            "summary": "Managing Director, Venture at Northstar Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andhikasudarman",
+            "name": "Andhika Sudarman",
+            "summary": "CEO at Dealls \u2013 Jobs & Mentoring (YC W22) // \ud83c\udfeb Ex-Harvard // \ud83d\udd06 Building Dealls to revolutionize how Indonesian talents land their next career",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hendra-kwik-4a291242",
+            "name": "Hendra Kwik",
+            "summary": "Building FAZZ (YCS17) | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fahmylemonz",
+            "name": "Mohamad Fahmi Salim (Lemon)",
+            "summary": "GM Marketing and Partnership at RANS Entertainment",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,320 @@
+{
+    "public_identifier": "manish-r-chachada",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/manish-r-chachada/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221619Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dc7c264fe007ea0d457d22bea45c38d4479808a196f03da5f8b43034116ae486",
+    "background_cover_image_url": null,
+    "first_name": "Manish",
+    "last_name": "Chachada (Cyble'r)",
+    "full_name": "Manish Chachada (Cyble'r)",
+    "follower_count": 5212,
+    "occupation": "Investor at Sweetspot (YC S23)",
+    "headline": "Co-Founder/COO at Cyble (YC W'21), Forbes Global Top 20 Cyber Startup | Ivy League MBA | Member of Forbes Business Council|Investor",
+    "summary": "Multifaceted, an executive with 15+ years of progressive international experience in finance and operations. Proven track record of managing multi-department functions to deliver exemplary results. Stellar ratings in developing and implementing financial controls and processes to support change management and improve efficiency. Worked on International assignments and possess strong knowledge of international accounting, tax, and business laws. Experienced in many aspects of capital raising at a global level.\n\n\nCore Competencies: Treasury & Tax Management, Financial Planning & Reporting, Process re-\n                                 engineering.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Alpharetta",
+    "state": "Georgia",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": null,
+            "company": "Multiple Companies",
+            "company_linkedin_profile_url": null,
+            "title": "Senior Finance Executive",
+            "description": null,
+            "location": "Atlanta, Georgia, United States",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Cyble",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cyble-global",
+            "title": "Co-Founder & COO",
+            "description": null,
+            "location": "Atlanta, Georgia, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQHVf8H6Flzghw/company-logo_400_400/0/1699972841818/cyble_global_logo?e=1708560000&v=beta&t=qMvT4fR4XjVvoEFH-mdq4rDlHXHmZEkMn-sYVqjVX2Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Forbes Business Council",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/forbes-business-council",
+            "title": "Official Member",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGzIFeqCnvmfA/company-logo_400_400/0/1659410660179/forbes_business_council_logo?e=1708560000&v=beta&t=vv7xysdWDoccdX6f2KUWSgFdrrOs9qM2oZx6NG0QNcE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Raven (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ravenappdev",
+            "title": "Investor",
+            "description": "Santa Clara, California, United States\nRaven (YC S22) is Segment for product notifications. They provide a single API to manage notifications across SMS, Email, WhatsApp, Push, Slack, Voice and more.\n\nWeb: http://ravenapp.dev/",
+            "location": "Santa Clara, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHNMJ9vJvPtlw/company-logo_400_400/0/1649427118082/ravenappdev_logo?e=1708560000&v=beta&t=NYcmtf58-MK3Np2Xtqxxtv1nx8UOc217VMb4NG5NfSE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Velt (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/veltjs",
+            "title": "Investor",
+            "description": "With Velt APIs, developers can make their apps multiplayer & collaborative, just like Figma. Today, 99% of all online tools we use are siloed & not collaborative. They are not built collaboration-first. With Velt, we will fix this. We are defining and setting standards for the future of every shared experience on the web like working together, booking trips together, watching content, shopping, playing, learning together etc. We imagine a future where you can collaborate with anyone from anywhere like they were there. Snippyly will make the world more collaborative & enable everyone to build more great things together. We\u2019re a team of ex-Googlers. We've launched products like Augmented Reality in Google Search & Maps, Google Local Services. Come join us in this exciting journey ahead \ud83d\ude80\n\nw: velt.dev",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEodeSNusrzBA/company-logo_400_400/0/1698704807122/veltjs_logo?e=1708560000&v=beta&t=hCBG4tQN6wFOm4ESwb2uk0dqrmVUVnIX3vfgI5ChWa8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Landeed (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/landeed",
+            "title": "Investor",
+            "description": "Landeed is building India's (then for the rest of the world) fastest and most comprehensive property title search engine. More than 84% of Indian household wealth is stored in real estate, property and land. However, with 2/3rds of all court cases in India dealing with land-related disputes, it is essential that people have accessible public records to both protect themselves against litigation and provide appropriate documentation for facilitating transactions.",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG6ccaURe1qfg/company-logo_400_400/0/1692036573781?e=1708560000&v=beta&t=9kQz-SvR0QP9D5k3w-xwYZPKTs5VQeaguXsiFtO39lM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Proglix",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/proglixindonesia",
+            "title": "Investor",
+            "description": "Industrial B2B commerce for raw materials\n\nProglix is Indonesia's first B2B e-commerce that focuses to simplify the raw material procurement process. The all-in-one procurement platform for small and medium sized enterprise in the infrastructure and industrial sector.\n\nw: proglix.com",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFxtvXV9_zZVQ/company-logo_400_400/0/1660276813791?e=1708560000&v=beta&t=PQ22Hu1yf13Jj-W0GT-wsXhv8_cohuWmJEW7G6zR5Ec"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "DailyPe (YC W23)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dailype",
+            "title": "Investor",
+            "description": "Marketplace for business loans that are repaid daily. \n\nSmall shop owners earn daily unlike salaried people but when it comes to loan repayment both are asked to pay monthly. For these shop owners it is difficult to calculate how much to save daily so that they will have the required installment amount at the end of the month and also at the time of repayment they have a big hole in their working capital. Therefore, when you earn daily why not pay daily and get away from the stress of huge one-time installments. Every day a small amount of $X is deducted from your digital wallet which is on the auto-debit mandate and you don't need to worry about keeping your balance of $XXXX. You never default and also good credit scores are created.\n\nW: DailyPe.in",
+            "location": "Bengaluru, Karnataka, India",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHWxn_zhL16pw/company-logo_400_400/0/1692788404984/dailype_logo?e=1708560000&v=beta&t=jTWjy-4Y-SK0YNX_2FURYX2m8q6QxSaKJO7Z-XnOGkc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "SuperAPI (YC W23)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/super-api",
+            "title": "Investor",
+            "description": "SuperAPI is an API gateway that makes APIs cacheable.\n\nw: trysuperapi.com",
+            "location": "Bengaluru, Karnataka, India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGz7wMWWqM3sQ/company-logo_400_400/0/1678855240462/super_api_logo?e=1708560000&v=beta&t=skmgwjDmfy_GCKl2dEkjbpJkSBb9EblcPq6_dWe-63g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "iNRI",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goinri",
+            "title": "Investor",
+            "description": "Inri is an investment platform for Indian Expats to diversify capital.\n\nw: goinri.com",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE8t0UN2poWpg/company-logo_400_400/0/1697952339005/goinri_logo?e=1708560000&v=beta&t=AkqJDtvCbEqmhJ-aIaA7A-Q0BhPYexhatePAYFxRYcU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Sweetspot (YC S23)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/sweetspothq",
+            "title": "Investor",
+            "description": "Sweetspot is a search engine for businesses that bid on government contracts. With Sweetspot, businesses get matched with relevant contracts faster based on what they query, what services they offer, and the past contracts they've bid on.\n\nw: sweetspot.so",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGhB65rA6dqag/company-logo_400_400/0/1685566678429?e=1708560000&v=beta&t=njrpRj-mC6xrRMi6m1zUl4jjuE-WZJaDKUpG5hCndog"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Accounting and Finance",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "Columbia Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2625/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFuv0h5ca1E_g/company-logo_400_400/0/1630639656847/columbia_business_school_logo?e=1708560000&v=beta&t=BgC4QUPetuOg-QX1S1Y_2boSSxfISC68GQS3vEzE-fc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Accounting and Finance",
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "London Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5954/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEqDlcBJVq7_A/company-logo_400_400/0/1688382214897/london_business_school_logo?e=1708560000&v=beta&t=VQ7lQ1QlQF0AyZhRo0bU_ai2ZK3EGr_Etvvv6EwvfUc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Accounting and Finance",
+            "degree_name": "Chartered Accountant (A.C.A)",
+            "school": "The Institute of Chartered Accountants of India",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1968486/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFljZdjEpk3Rg/company-logo_400_400/0/1692158139222/theicai_logo?e=1708560000&v=beta&t=bK6hPVV0OuI35oHy5onPzMmBMgFijc67Ym9UOLRnCVA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Accounting and Finance",
+            "degree_name": "Bachelors of Commerce and Accounting (B.Com)",
+            "school": "University of Mumbai",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15093732/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGsu_DimiqUow/company-logo_400_400/0/1631357817785?e=1708560000&v=beta&t=bQfP_j6d4YmlSevb2JdvKYVDMTxRd2MDWjTHezfJcLg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "St Lawrence High School - Santacruz",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/zjlin",
+            "name": "ZJ Lin",
+            "summary": "Cofounder at Landeed (We are hiring across all EPD positions in India and US! DM me)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/beenu-arora-b5068412",
+            "name": "Beenu Arora",
+            "summary": "CEO @ Cyble Inc. | AI-powered Cyber Threat Intelligence",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maheshvc",
+            "name": "Mahesh VC",
+            "summary": "Sr Exec Product Eng Leader, Ex Sr Eng Leader Apple, CTO-BookMyShow, VP Eng Disney-Hotstar, VP Sr Eng Mgr BofA, 5+Yrs Head of Technology, 20+Yrs Distributed System Architecture, Cloud Evangelist and Startup Scaling",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sanjay-mandava-%F0%9F%A6%88-2066aa24",
+            "name": "Sanjay Mandava \ud83e\udd88",
+            "summary": "Founder & CEO at Landeed (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jonnylin13",
+            "name": "Jonathan Lin",
+            "summary": "Founding Frontend \ud83d\udc35 @Snippyly (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Michel Farah\n\n\n\nIt\u2019s rare that you come across standout talent like Manish. \nManish expertly filled the role of  coordinator for my company\u2019s strategic alliance with a major Indian partner.\nI was particularly impressed by Manish\u2019s ability to handle even the toughest creases in a new relationship\u2014effortlessly. That skill often takes years to develop as a service professional, but it seemed to come perfectly naturally to him. \nManish made sure to bridge the gap between East and West, and tried hard to explain the rules of cricket to the rest of our team.\nAs president of Mitchell Group Manish earns my highest recommendation. "
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQEdizaDUIq2xQ/group-logo_image-shrink_400x400/0/1659369123978?e=1701342000&v=beta&t=FeuePzCcVo4T3RlnJjv7FCjGa5DWZSHGyHa5n0OyoYw",
+            "name": "CS2AI-Atlanta Chapter",
+            "url": "https://www.linkedin.com/groups/7066369"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQFtOMOLi_BrJg/group-logo_image-shrink_48x48/0/1631371360201?e=1701342000&v=beta&t=IVihpH2HizTtOHGejTHJOtzIGpsflP0evHb1Wuo4Yjk",
+            "name": "Largest Atlanta-based Cyber/Information Security Professionals Networking Group",
+            "url": "https://www.linkedin.com/groups/6744215"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

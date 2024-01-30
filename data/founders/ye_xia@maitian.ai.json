@@ -1,0 +1,212 @@
+{
+    "public_identifier": "ye-xia-340803135",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "ye",
+    "last_name": "xia",
+    "full_name": "ye xia",
+    "follower_count": null,
+    "occupation": "co-founder and chief executive officer",
+    "headline": null,
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "maitian.ai",
+            "company_linkedin_profile_url": null,
+            "title": "co-founder and chief executive officer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "cloudwings.io",
+            "company_linkedin_profile_url": null,
+            "title": "co-founder",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "muhen e-commerce",
+            "company_linkedin_profile_url": null,
+            "title": "founder and chief executive officer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "procter & gamble",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/agile-pursuits",
+            "title": "apac regional assistant brand manager",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "procter & gamble",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/agile-pursuits",
+            "title": "associate brand manager, e-commerce",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "y combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "bachelor of engineering,bachelors,bachelor of arts",
+            "school": "nanyang technological university",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "mcgill university",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/mcconnell-engineering",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "singapore management university",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 526,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

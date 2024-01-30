@@ -1,0 +1,484 @@
+{
+    "public_identifier": "moseslo",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/moseslo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221147Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f7877b9de35ad655043405831229cc259700d343eeb755f37e28231e03ff7fb6",
+    "background_cover_image_url": null,
+    "first_name": "Moses",
+    "last_name": "Lo",
+    "full_name": "Moses Lo",
+    "follower_count": 4077,
+    "occupation": "Founder and CEO at Xendit",
+    "headline": "Founder and CEO at Xendit | Forbes 30 under 30",
+    "summary": "I'm currently changing the way financial services are provided in South East Asia.  Find me in Silicon Valley, Jakarta or somewhere in between.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Xendit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xendit",
+            "title": "Founder and CEO",
+            "description": "We're building payments infrastructure for South East Asia:\n- Processing >500m USD annually\n- Growing 20% month on month for last 2 years\n- Featured in: Techcrunch, Forbes, e27,\n- YC S15 company\n- Forbes 30 under 30 (Asia, Finance & VC)\n\nAnything that needs doing.  At any time that could be product management, customer acquisition and/or business development. Or just taking the bins out.  ",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_400_400/0/1630456612741/xendit_logo?e=1714003200&v=beta&t=h_RNU5v0RxbW0b6V-mw40fnjsR6lvfa29L-MH7au4gI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Amazon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+            "title": "Retail Leadership Development",
+            "description": "Marketing: Increased revenues per email by 600% by developing new marketing strategy - built personalized marketing campaigns based on shopping history via SQL\n\nBusiness development: Designed B2B go-to-market strategy to enter $110b market \u2013 included first ever discussions with B2B customers to understand needs vs Amazon\u2019s current value proposition\n\nPartner M&A: Built investment thesis to acquire strategic partners and accelerate market entry",
+            "location": "Seattle",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1714003200&v=beta&t=Le_yZI4C-P7RC-jVQ6zTbG9G_z8_dV7G3m7Ui8mYukw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Barker Bespoke",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/barker-bespoke",
+            "title": "Founder",
+            "description": "We are on a mission to rid society of ill fitted suits.  Check us out at barkebespoke.com",
+            "location": "Sydney, Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "skinnytie",
+            "company_linkedin_profile_url": null,
+            "title": "Founder",
+            "description": "We selling amazing, dapper skinny ties.  Check us out at www.skinnytie.com.au",
+            "location": "Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2008
+            },
+            "company": "Habitat for Humanity Global Village (Mongolia)",
+            "company_linkedin_profile_url": null,
+            "title": "Team Leader",
+            "description": "- Led a group of 23 university students to assist in housing development in a disadvantaged community\n- Facilitated team meetings and discussion regarding important decisions\n- Generated $30,000 in sponsorship and controlled a $100,000 budget\n- Attracted the largest team participation in the university program's history",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2013
+            },
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Senior Associate",
+            "description": "Execution acceleration: Implemented project accelerators to reduce call volumes in major Australian telecom provider.  Initiative that had been in progress for two years was executed within 4 weeks of our engagement.  Project management methodology was so successful that it is being rolled out across entire organization.   \n\nSourcing strategy: Designed and optimized IT sourcing bundles for major healthcare service provider.  Helped client understand true cost of IT and develop better go to market approaches to identify ~10% savings across IT infrastructure spend.\n\nOther positions: Associate Cohort Chair, BCG Charity Chair, High School Mentor, Consulting Skills Training",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714003200&v=beta&t=Ku1qxcQrWVAXInV-kQpm90IYzeSkfFCJVAl81kOz-kQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Associate",
+            "description": "Innovative leadership: Developed integrated remote operations center to fundamentally change how 13,000 people execute operations for global mining conglomerate.  Project won multiple internal awards for impact and innovation\n\nFinancial optimization: Identified $100m of savings in large Australian government organization\n\nOrganization strategy: Redesigned marketing organization for major Australian media company",
+            "location": "Australia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714003200&v=beta&t=Ku1qxcQrWVAXInV-kQpm90IYzeSkfFCJVAl81kOz-kQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "FGI Finance",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fgiww",
+            "title": "Junior Underwriter",
+            "description": "Performed analysis on the financial health of potential clients of the asset based lending products\n  Participated in the complete underwriting process for potential customers",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHPs_r8ipz4Ow/company-logo_400_400/0/1688379820785/fgiww_logo?e=1714003200&v=beta&t=yJUBjR-nxSEoP4fTNrEZ1MvIhqLKMKyIYADbk2unqqw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "NSW Department of Finance & Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nswcustomerservice",
+            "title": "Business Analyst",
+            "description": "Assessed quality of the existing Enterprise Architecture for the department\n  Created the architecture for a new Technical Library for the entire business unit",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE7xsUEhWWNaQ/company-logo_400_400/0/1678420124788/nswcustomerservice_logo?e=1714003200&v=beta&t=L2Vqgw6GKnXgp-DBs7DyRpG7Z_tq8zLLIYw1FBu0UW8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "Deloitte Australia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte",
+            "title": "Analyst",
+            "description": "Industrial Training Placement for six months working in Risk Services.\n- External Audits\n- Internal Audits",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120928214/deloitte_logo?e=1714003200&v=beta&t=o6wOHb_0Eag5aSp9lH820lZnTnHQa2ZbvDh0fJ3gLhc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Startups",
+            "degree_name": "S15",
+            "school": "YCombinator",
+            "school_linkedin_profile_url": null,
+            "description": "- Batch YC S15 of the world's best startup accelerator\n- First, Indonesian focused startup to make it in",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "University of California, Berkeley, Haas School of Business",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2519/",
+            "description": "- Co-chair of Berkeley's startup competition: led 10 person team, biggest competition to date\n- Jack Larson Scholar\n- Won Bay Area Bitcoin Hackathon by Andreessen Horowitz and Coinbase",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEc1EFtLIThEw/company-logo_400_400/0/1631312193135?e=1714003200&v=beta&t=0DbAlMhFFowhga23ts-UhHZZSrmLtTs2h7NMWq4Wxl4",
+            "grade": null,
+            "activities_and_societies": "Haas Technology Club, Digital Media and Entertainment Club, Haas Soccer Club, PE Club"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Finance, Information Systems Management",
+            "degree_name": "Honours in",
+            "school": "UNSW",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6096/",
+            "description": "Major thesis in how IT stock market announcements affected stock prices during nervous market environment",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk",
+            "grade": "First Class Honours",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Finance",
+            "degree_name": "Bachelor of Commerce (BCom)",
+            "school": "NYU Stern School of Business",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3157/",
+            "description": "Scholarship to attend exchange program at NYU",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/0/1631317988803?e=1714003200&v=beta&t=HaVxdaUrNwKHf2YesNfv5iAeqhBBXpVXWrO2Pc-6cOk",
+            "grade": "Dean's List (Top 5%)",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Information Systems Management and Finance",
+            "degree_name": "Bachelor of Commerce",
+            "school": "UNSW",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6096/",
+            "description": "- Full scholarship: for academic and leadership abilities \n- Dean's list (Top 5%)\n- Dux of Information Systems (Top Student)\n- Presented undergraduate thesis at international conference: Stock market reactions to technology investment announcements during the bubble\u2019s bust in 2000",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETThvyGVbqQQ/company-logo_400_400/0/1697409336054/unsw_logo?e=1714003200&v=beta&t=Uy5MtWTDm1rod3EJW9cBDLfoNvitLWS20jZJeWUSOgk",
+            "grade": "High Distinction (Top 5%)",
+            "activities_and_societies": "Co-op Students Society, Co-op Scholars Charitable Society, Business and Information Technology Students Association, Habitat Society, Oaktree Society, New College, Yellowshirts"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "The impact of IT investment announcements about Y2K compliance on the firm's market value",
+            "publisher": "ICIS 2010 Proceedings",
+            "published_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "description": "Do IT investments add value to firms? Famously, Carr (2003) argued \u201cNo\u201d. Increasingly, the evidence is a resounding \u201cYes\u201d (Dehning et al. 2003). However, under what conditions do these investments make an impact? This underpins the research aim of this paper to improve the understanding of how IT investment announcements affect the value of firms. To achieve this aim, this study will answer this research question \u201cHow do IT investment announcements regarding Y2K compliance affect the market value of companies?\u201d The study will examine and extend current knowledge by proposing an enriched research model. It will then use the event study methodology to test this model assuming a semi-strong market hypothesis. Through the observed abnormal returns, causal relationships will be able to be seen between the variables and their respective market reaction. This will provide conclusions on the variables that influence investor interpretation of a signal, and therefore market reaction.",
+            "url": "http://aisel.aisnet.org/icis2010_submissions/211/"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Forbes 30 under 30 (Asia, Finance & VC)",
+            "issuer": "Forbes 30 under 30",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2016
+            },
+            "description": "\"Influencing how money flows in the global economy.\"\n\nhttp://www.forbes.com/30-under-30-asia-2016/finance-venture-capital/#5403dfb07ce9"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": null,
+            "title": "Board Fellow",
+            "cause": "Education",
+            "company": "100 Black Men of the Bay Area Community School",
+            "company_linkedin_profile_url": null,
+            "description": "Articulating a clear 2 year strategy and business plan ",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "title": "Charity Chair",
+            "cause": "Economic Empowerment",
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/1784/",
+            "description": "Received BCG Values award for service to the community",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714003200&v=beta&t=Ku1qxcQrWVAXInV-kQpm90IYzeSkfFCJVAl81kOz-kQ"
+        }
+    ],
+    "certifications": [],
+    "connections": 3186,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/dvdhsu",
+            "name": "David Hsu",
+            "summary": "Founder, CEO @ Retool",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/eddychan",
+            "name": "Eddy Chan",
+            "summary": "Founding Partner at \u201cIndonesia-only\u201d Intudo Ventures, the only VC investing exclusively in Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shorihijikata",
+            "name": "Shori Hijikata",
+            "summary": "Chief of Staff at Xendit \u2022 Founder at Shirts of Startups \u2022 WEF Global Shaper",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yang-yang-zhang-06105053",
+            "name": "Yang Yang Zhang",
+            "summary": "Building digital infrastructure for Southeast Asia @ Xendit ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tessawij",
+            "name": "Tessa W.",
+            "summary": "Co-Founder and COO Xendit ",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Paije Penley\n\n\n\nWorking with Moses at Xendit in Jakarta has been one of the most exciting roles of my career.\r\nXendit is a seriously fast-paced start-up, and Moses has done an amazing job of building a team that emanates his drive, passion, work ethic and sense of fun! Moses knows that his people are core to success and prioritises them through regular on-on-one coaching sessions, challenging everyone to excel & be their best self. \r\nMoses isn't all hard work though - Table Tennis, Guitar Hero, Birthday pranks, and futsal matches make regular appearances! Never a dull moment, that's for sure! I'd be lucky to find another team as vibrant, enjoyable, ingenious and inspirational.",
+        "Tim Wheeler\n\n\n\nMoses was an outstanding colleague when we worked together on a menswear startup. I cannot commend him enough for his dedication, work ethic and analytical skills. "
+    ],
+    "activities": [
+        {
+            "title": "Xendit, in collaboration with the Ministry of Tourism and Creative Industry, recently launched the \u201cIndonesia Venture Capital Database 2023.\u201dThis\u2026",
+            "link": "https://www.linkedin.com/posts/moseslo_startups-venturecapital-funding-activity-7045925516872192000-fVb8",
+            "activity_status": "Shared by Moses Lo"
+        },
+        {
+            "title": "[Collaboration with Krimsus Polda DIY] A bit late post from last year activity, but this is one of my proudest moment during my years at Xendit\u2026",
+            "link": "https://www.linkedin.com/posts/collaboration-with-krimsus-polda-diy-activity-7028615139163574272-GS89",
+            "activity_status": "Liked by Moses Lo"
+        },
+        {
+            "title": "Are you ready to Meet the CEO? Join the UNSW Business School Meet the CEO Livestream from 6:30 tomorrow night. Head to the link to register and take\u2026",
+            "link": "https://www.linkedin.com/posts/unswbusiness_meet-the-ceo-livestream-moses-lo-activity-6959667971296280576-lN_4",
+            "activity_status": "Liked by Moses Lo"
+        },
+        {
+            "title": "Spend it, send it, lend it with Xendit. \ud83d\udcb8 Xendit is a leading payments gateway for Indonesia, the Philippines and Southeast Asia with a single\u2026",
+            "link": "https://www.linkedin.com/posts/partech_spend-it-send-it-lend-it-with-xendit-activity-6946017633351696384-pWek",
+            "activity_status": "Liked by Moses Lo"
+        },
+        {
+            "title": "Hi everyone, this is my second article about titles. I believe you can maximize your value by unconditioning from thinking primarily in terms of\u2026",
+            "link": "https://www.linkedin.com/posts/bochen303_office-hours-2you-are-not-your-hat-activity-6945443721328959489-juDd",
+            "activity_status": "Liked by Moses Lo"
+        },
+        {
+            "title": "How it all began and the journey of Xendit through ups and downs. Really worth a read, check the link below!",
+            "link": "https://www.linkedin.com/posts/fransiskus-xaverius-evan_two-cofounders-of-xendit-on-pioneering-fintech-activity-6942743965263626240-17qD",
+            "activity_status": "Liked by Moses Lo"
+        },
+        {
+            "title": "Shinhan (\uc2e0\ud55c) Future's Lab Indonesia is delighted to congratulate our main partner in XcaleUp Acceleration Program, Xendit, who bagged $300 million in\u2026",
+            "link": "https://www.linkedin.com/posts/shinhanfutureslabid_shinhanfutureslabindonesia-xendit-unicorn-activity-6934335532713791488-1kop",
+            "activity_status": "Liked by Moses Lo"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Moses Lo",
+            "link": "https://ca.linkedin.com/in/moses-lo-1990393a",
+            "summary": "Dentist at Dr. Moses Lo Inc.",
+            "location": "Vancouver, BC"
+        },
+        {
+            "name": "Moses Lo",
+            "link": "https://ca.linkedin.com/in/moses-lo-78aaa364",
+            "summary": "Project Accountant at Simon Fraser University",
+            "location": "Vancouver, BC"
+        },
+        {
+            "name": "Moses Lo",
+            "link": "https://hk.linkedin.com/in/moses-lo-b3a224b1",
+            "summary": "Vice President",
+            "location": "Hong Kong SAR"
+        },
+        {
+            "name": "Moses Lo",
+            "link": "https://www.linkedin.com/in/moses-lo-22504417",
+            "summary": "Sr. Art Director at Evoke Health",
+            "location": "Glen Rock, NJ"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHnWifH8P7hfg/group-logo_image-shrink_400x400/0/1631003595384?e=1706752800&v=beta&t=RDTNRMY-clsP4p9ZOfLLzxMBu8rrG-GwlYXJRV7pEEE",
+            "name": "Berkeley Haas Alumni Network: Dallas-Fort Worth",
+            "url": "https://www.linkedin.com/groups/14006023"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHDSK0Pqoxczg/group-logo_image-shrink_48x48/0/1631427236206?e=1706752800&v=beta&t=gm6X59M2CfK5ZwRZ8fTYM8TSMhiAZbJ6ApAajk0Emzg",
+            "name": "UNSW ASB Graduate Student Association",
+            "url": "https://www.linkedin.com/groups/683017"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

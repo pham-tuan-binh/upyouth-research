@@ -1,0 +1,284 @@
+{
+    "public_identifier": "williswee",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Willis",
+    "last_name": "Wee",
+    "full_name": "Willis Wee",
+    "follower_count": 9561,
+    "occupation": "CEO and founder at Tech in Asia",
+    "headline": "Hiring some positions \ud83d\udc49 techin.asia/joinus",
+    "summary": "We are hiring! Check out open positions: https://www.techinasia.com/companies/tech-in-asia",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2010
+            },
+            "ends_at": null,
+            "company": "Tech in Asia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tech-in-asia/",
+            "title": "CEO and founder",
+            "description": "Tech in Asia (YC W15) is the largest English-language technology media company that focuses on Asia. From the latest news to the hottest trends and the boldest startups to the strongest titans, we cover everything tech in the region. Our goal is to build and serve Asia\u2019s tech and startup community.\n\nApart from producing and delivering quality editorial content, we connect brands with early adopters via Studios, our advertising agency unit. We organize tech conferences and events across Asia, and we operate the region\u2019s go-to startup and technology jobs marketplace.\n\nTech in Asia counts East Ventures, Fenox Venture, Hanwha, Softbank, Walden International, Y Combinator, and Facebook co-founder Eduardo Saverin among its list of investors.",
+            "location": "Singapore & APAC",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFFDwSfDiQ8nw/company-logo_400_400/0/1663902499086/tech_in_asia_logo?e=1704326400&v=beta&t=X_stkdE0OIOysdWSDo1lyPw28bLnlwcFOP6aLaHOiwM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "DDB Worldwide",
+            "company_linkedin_profile_url": null,
+            "title": "Account Servicing Intern",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "Bain & Mercer Group",
+            "company_linkedin_profile_url": null,
+            "title": "Business Development Executive",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2009
+            },
+            "company": "Friends! Learning Centre",
+            "company_linkedin_profile_url": null,
+            "title": "Co-founder",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2006
+            },
+            "company": "LGM Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Sales Executive",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2003
+            },
+            "company": "Lux Singapore Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Sales Executive",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Marketing",
+            "degree_name": "Bachelor's degree",
+            "school": "Singapore Management University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1568284211628/singapore_management_university_logo?e=1704326400&v=beta&t=PZDDlSrJ3GNbsHNMPZSwPZZBGCsJ0TP_ZI1lp1Au30w",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Theoretical and Mathematical Physics",
+            "degree_name": "A level certification",
+            "school": "NYJC",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": "Dragonboat and canoeing"
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "org_name": "Y Combinator",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Business Management",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jeffreytiong",
+            "name": "Jeffrey T.",
+            "summary": "Founder & CEO at PatSnap | We are hiring patsnap.com/careers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mariasli",
+            "name": "Maria Li",
+            "summary": "Chief Operating Officer at Tech in Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ferry-unardi-1306344a",
+            "name": "Ferry Unardi",
+            "summary": "Building Traveloka",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/julianhosp",
+            "name": "Dr. Julian Hosp",
+            "summary": "CEO of Cake Group | Blockchain & Bitcoin expert for the EU | 5x Bestselling Author | Washington Bureau Keynote Speaker",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kenneth-lou",
+            "name": "Kenneth Lou",
+            "summary": "Co-Founder & CEO at Mito Health | Co-Founder at Seedly",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kristian-frits-harris-sinaulan-04610744",
+            "name": "Kristian Frits Harris Sinaulan",
+            "summary": "Founder & CTO, Jutsoo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeremyau",
+            "name": "Jeremy Au \u533a\u6c49\u8f89",
+            "summary": "VC, Monk's Hill Ventures. Founder, Angel & Harvard MBA. BRAVE Southeast Asia Tech Podcast (30,000+ Listeners) bravesea.com",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melissa-goh",
+            "name": "Melissa Goh",
+            "summary": "Journalist at Tech in Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/martyn-terpilowski-66aba850",
+            "name": "Martyn Terpilowski",
+            "summary": "Building Asia's Fastest Growing Location Intelligence, Big Data and Mapping Company #Always Hiring",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khailee",
+            "name": "Khailee Ng",
+            "summary": "Managing Partner & Board Member, 500 Global",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Willis Wee",
+            "link": "https://www.linkedin.com/in/willis-wee-757a58250",
+            "summary": "Senior Project Manager at Dongguan Bidisco Electric CO.,LTD",
+            "location": "Washington DC-Baltimore Area"
+        },
+        {
+            "name": "Willis Jordan Wee Ebol",
+            "link": "https://ph.linkedin.com/in/willis-jordan-wee-ebol-a80830130",
+            "summary": "Registered Mechanical Engineer",
+            "location": "Philippines"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,271 @@
+{
+    "public_identifier": "isaac-donnelly-126744109",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/isaac-donnelly-126744109/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d266a0f6676682f39254be84c99081767979cbf951d9be1e0bb2af9d85ac92bd",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/isaac-donnelly-126744109/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8f6fc3ce8421e701e42a56a68e064805640166e353b8f7af8fad6ef07aba146f",
+    "first_name": "Isaac",
+    "last_name": "Donnelly",
+    "full_name": "Isaac Donnelly",
+    "follower_count": null,
+    "occupation": "CEO & Co-founder at Cherry Recommends",
+    "headline": "Sweeten the lifetime value of every customer relationship with Cherry Recommends",
+    "summary": "I lead Cherry Recommends. Cherry Recommends is an AI product and promotion recommender platform. It naturally recommends the best products and promotions, for your customers. It is perfect for subscription box and SaaS companies.Cherry helps subscription companies increase loyalty, longevity, and free-to-paid signup rates using perfectly personalized recommendations. Prior to co-founding Cherry, I was an Engagement Manager at McKinsey specialising in AI strategy and execution. I have a Ph.D. in Applied Mathematics from UNSW and was a Fulbright Scholar.",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": "Brisbane",
+    "state": "Queensland",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Cherry Recommends",
+            "company_linkedin_profile_url": "https://au.linkedin.com/company/cherryrecommends",
+            "title": "CEO & Co-founder",
+            "description": null,
+            "location": "Brisbane, Queensland, Australia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQExkQtMS-q5Ig/company-logo_100_100/0/1638422912550?e=1649289600&v=beta&t=cEQFBfiD-eGItQ9mEYZIB5SjBBdiCfgSTxIXEdpJFhc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Amphora Data",
+            "company_linkedin_profile_url": "https://au.linkedin.com/company/amphora-data",
+            "title": "Managing Director and Co-Founder",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQETl6JlAdJpUg/company-logo_100_100/0/1566957055420?e=1649289600&v=beta&t=BFUmlKkj7K7uSyLra3n8kPVZXNsZ1LBNrlUv2k-IgeA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "          McKinsey & Company        ",
+            "company_linkedin_profile_url": "https://au.linkedin.com/company/mckinsey",
+            "title": "Engagement Manager",
+            "description": null,
+            "location": "Sydney, Australia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGwfpy4SZTEUg/company-logo_100_100/0/1625167182161?e=1649289600&v=beta&t=QbP4vQGOPPGU_j4jwEtr5XjaKht3w_HmavxVC7HoGgQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "          McKinsey & Company        ",
+            "company_linkedin_profile_url": "https://au.linkedin.com/company/mckinsey",
+            "title": "Associate",
+            "description": null,
+            "location": "Sydney, Australia",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGwfpy4SZTEUg/company-logo_100_100/0/1625167182161?e=1649289600&v=beta&t=QbP4vQGOPPGU_j4jwEtr5XjaKht3w_HmavxVC7HoGgQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Center for Complex Network Research",
+            "company_linkedin_profile_url": null,
+            "title": "Visiting Research Scholar",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "UNSW School of Psychology",
+            "company_linkedin_profile_url": null,
+            "title": "Research Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2014
+            },
+            "company": "UNSW School of Mathematics and Statistics",
+            "company_linkedin_profile_url": null,
+            "title": "Statistics tutor",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "Australian Center for Commercial Mathematics",
+            "company_linkedin_profile_url": null,
+            "title": "Research Consultant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "UNSW Australia",
+            "school_linkedin_profile_url": "https://au.linkedin.com/school/unsw/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE2_hj8C0bMAA/company-logo_100_100/0/1637191355085?e=1649289600&v=beta&t=Hbfm0DbvmCXeKsNRRRbpBz9B9qK25EOucAftZnn6yxA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "2015 Australian Fulbright Postgraduate Scholar",
+            "school": "Northeastern University",
+            "school_linkedin_profile_url": "https://au.linkedin.com/school/northeastern-university/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGwTPCvlTQlvw/company-logo_100_100/0/1597690746891?e=1649289600&v=beta&t=PhiqWB3LZB9BQkhNe1cl1JmnhoUIFnojTmRe0L4dV9A",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor\u2019s Degree",
+            "school": "UNSW Australia",
+            "school_linkedin_profile_url": "https://au.linkedin.com/school/unsw/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE2_hj8C0bMAA/company-logo_100_100/0/1637191355085?e=1649289600&v=beta&t=Hbfm0DbvmCXeKsNRRRbpBz9B9qK25EOucAftZnn6yxA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Isaac Donnelly",
+            "link": "https://uk.linkedin.com/in/isaac-donnelly-a62208199",
+            "summary": "Shift Technician at Allied Bakeries | part of Associated British Foods plc",
+            "location": "Greater Blackburn with Darwen Area"
+        },
+        {
+            "name": "Isaac Donnelly",
+            "link": "https://www.linkedin.com/in/isaac-j-donnelly",
+            "summary": "Associate in the Housing & Decor/Seasonal department",
+            "location": "Auburn, WA"
+        },
+        {
+            "name": "Isaac Donnelly",
+            "link": "https://ro.linkedin.com/in/isaac-donnelly-ab31aaa1",
+            "summary": "Real Estate Agent at Prudential Connecticut Realty The Hoye Team",
+            "location": "Romania"
+        },
+        {
+            "name": "Isaac Donnelly",
+            "link": "https://www.linkedin.com/in/isaac-donnelly-511b05214",
+            "summary": "Park maintenance Technician at El Paso County, Colorado, USA",
+            "location": "Colorado Springs, CO"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,389 @@
+{
+    "public_identifier": "victorliewjiahao",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/victorliewjiahao/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221703Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=59a94c8559106711adab2544442a808cf597d44959d9b397dd10536e9f1913bb",
+    "background_cover_image_url": null,
+    "first_name": "Victor",
+    "last_name": "Liew Jia Hao",
+    "full_name": "Victor Liew Jia Hao",
+    "follower_count": 1394,
+    "occupation": "Co-Founder / Solidity Engineer at StraitsX",
+    "headline": "We are hiring! | Co founder StraitsX (Fazz Financial Group) | YCombinator S15 | Forbes 30 Under 30",
+    "summary": "\u25cfExtremely honored to be in Forbes Magazine's 30 under 30 Asia 2017 list, which annually selects 30 of the top entrepreneurs, innovators and game changers under the age of 30.    #ForbesU30Asia \n\n\u25cf eFounder fellow at Alibaba Group\n\n\u25cf My reflections on software development: http://victorliew.quora.com/\n\n\u25cf https://www.xfers.com/sg-blog/xfers-raises-usd-30m-from-payfazz-and-jointly-forms-fazz-financial-group \n\n\u25cf (We\u2019re hiring!)  https://jobs.lever.co/xfers,",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Alibaba Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/alibaba-group/",
+            "title": "eFounder Fellow",
+            "description": "eFounders Fellowship Course is a highly-selective program where participants are handpicked by Alibaba Business School and the United Nations Conference on Trade and Development. \n\neFounders fellow gets to learn directly from Jack, his co-founders and senior management team on entrepreneurship, leadership and management from an Eastern perspective.",
+            "location": "Hangzhou, Zhejiang, China",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFm7hV8es67ZQ/company-logo_400_400/0/1662629305153?e=1703721600&v=beta&t=hCfHXKqQMaH7gTwPOhfna2LKxeKT3ob-K-rUJxSAQOo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "FAZZ Financial Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fazz-financial/",
+            "title": "Co-Founder",
+            "description": "Engineering management > 250 engineers, Security, and Infrastructure.\n\nEngineering process, Engineering maturity model, Infra architecture \n\nBuilding Stablecoin infrastructure, stable coin use case, Defi liquidity, Crypto treasury, structured products, and distribution. \n\nEngineering recruitment and hiring",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEYWB0HXsXsuQ/company-logo_400_400/0/1692592136082?e=1703721600&v=beta&t=gNLfFtQ5uthvPywsIEcWwT3vZhnQP9c3iYRM32-_Svk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "StraitsX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/straitsx/",
+            "title": "Co-Founder / Solidity Engineer",
+            "description": "Co-authored https://www.mas.gov.sg/news/media-releases/2023/mas-proposes-standards-for-digital-money \n\nCo-Authored https://www.mas.gov.sg/schemes-and-initiatives/project-orchid \n\nWrote the specification https://github.com/PurposeBoundMoney/PBM as the base foundation for an EIP proposal\n\nPilot the use of PBM with Grab, Amazon, F1 Singapore, and Docomo.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQENcWl8GrsUzA/company-logo_400_400/0/1633877173030?e=1703721600&v=beta&t=SZJPrfrCZqYUTjJAUdwvuiLPoghpmtLCOidtjMGD6h0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Xfers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xfers/",
+            "title": "Co-Founder / CTO",
+            "description": "Engineering projects that we are working on include AML, transaction monitoring, compliance and regulatory technology, ledger systems, credit card BIN code issuance, open banking architecture, legacy banking infrastructure connectivity, automated accounting and auditing, stablecoins, blockchain and cryptocurrency,",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE45j_txHIusw/company-logo_400_400/0/1598946119422?e=1703721600&v=beta&t=37u3HXsRO0jUlZ_6YxQEMpEH7nb2dydp4LG8xuUuyq0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Xfers",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/xfers/",
+            "title": "Co-Founder",
+            "description": "Xfers (YCombinator S15) is the best way to collect and make payments programmatically in Asia. \n\nWe provide payments license expertise, kyc, compliance, aml, and wallet technology for fintechs in South East Asia. \n\nWe are the only private company alongside 4 other state own entities to be granted a WASVF (e-money) license in Singapore: http://www.mas.gov.sg/Singapore-Financial-Centre/Payment-and-Settlement-Systems/Payment-Media/Stored-Value-Facilities.aspx \n\n\nWe are hiring! https://jobs.lever.co/xfers",
+            "location": "California / Singapore / Jakarta",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE45j_txHIusw/company-logo_400_400/0/1598946119422?e=1703721600&v=beta&t=37u3HXsRO0jUlZ_6YxQEMpEH7nb2dydp4LG8xuUuyq0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Quora",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/quora/",
+            "title": "Software Engineer",
+            "description": "Rewrote Quora's web + mobile view \nWrote web frameworks and software abstraction tools to speed up developmental work.\nFramework optimisation and python code reflection tools",
+            "location": "mountain view, california",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQESjNFCktIidg/company-logo_400_400/0/1637602348739?e=1703721600&v=beta&t=wFxJszFZog2bsVPRysyvyJKROg67vh3NB7vh-9Y-iTE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2014
+            },
+            "company": "Credit Suisse",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credit-suisse/",
+            "title": "Technical Analyst",
+            "description": "Fixed Income Derivatives Rates and FX technology\n\nTokyo / APAC FID Trading Desk, bond pricing calculation / strategy / automations",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHszQ7sfR8SEw/company-logo_400_400/0/1653986123175?e=1703721600&v=beta&t=EAsFZ4939NK2Y4OhepSmsLRMwA19PgoGo4Fin87adKQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "Credit Suisse",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credit-suisse/",
+            "title": "Technical Analyst",
+            "description": "Technology Infrastructure Services team \n\nData warehouse engineering / DevOps\n\n\u25cf Strategic reporting interfaces that are used by management for monitoring purposes.\n\n\u25cf Built an in-house data collection engine with real-time pipelining capabilities. Unified and normalized various data sources within APAC infrastructures and establishing a unified data warehouse as part of a Green Belt Project.\n\n\u25cf Maintained a data warehouse that allows for various reporting and querying to be done by various infrastructure platform teams.\n\n\u25cf Developed migration and connectivity tools in the migration from legacy ITSM to ServiceNow ITIL change management system.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHszQ7sfR8SEw/company-logo_400_400/0/1653986123175?e=1703721600&v=beta&t=EAsFZ4939NK2Y4OhepSmsLRMwA19PgoGo4Fin87adKQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Credit Suisse",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credit-suisse/",
+            "title": "Summer Analyst",
+            "description": "Built RPA solutions for private banking operations team.",
+            "location": "Singapore Changi Business Park, The Signature",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHszQ7sfR8SEw/company-logo_400_400/0/1653986123175?e=1703721600&v=beta&t=EAsFZ4939NK2Y4OhepSmsLRMwA19PgoGo4Fin87adKQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "National University of Singapore (NUS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/nus-business-school/",
+            "title": "Teaching Assistant",
+            "description": "Teaching Assistant for Programming Methodology in C\n\nProfessor Tung Kum Hoe Anthony (2011/2012, Semester 2)\nProfessor Joxan Jaffar (2011/2012, Semester 1)\nProfessor Chia Wai Kit, Henry (2010/2011, Semester 2)",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEASftETp1haQ/company-logo_400_400/0/1545275379602?e=1703721600&v=beta&t=M1Ljzje3JEYGhA8o-ETtMTc6WSB7D4APcotEnueRNEI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "National University of Singapore",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/national-university-of-singapore/",
+            "title": "Junior Research Assistant",
+            "description": "\u25cf  Programmer in a peer to peer massively multiplayer online game as part of a Computer Network research project (HYDRA) in Java\n\n\u25cf  Developed a modified version of HYDRA for students to use in their project in an Introduction to Artificial Intelligence course at NUS\n\n\u25cf  Rendered assistance to other communications lab occupants in various software application needs and administrative matters\n\n\u25cf  Datacenter networking and hardware set up",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1519856127538?e=1703721600&v=beta&t=Jpl7MRJzaQlDUKmOWU0DOBe_MeY51gFs8wu_4AAdO8k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "Ministry Of Foreign Affairs (Singapore)",
+            "company_linkedin_profile_url": null,
+            "title": "Intern",
+            "description": "\u25cf\tIT assets accounting and auditing\n\u25cf\tAddressed any technical questions by posed by end users",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": "Communications and Media, Interactive Systems",
+            "degree_name": "Bachelor of Computing (Honours)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1519856127538?e=1703721600&v=beta&t=Jpl7MRJzaQlDUKmOWU0DOBe_MeY51gFs8wu_4AAdO8k",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "field_of_study": "Computing, Math, Physics and Chemistry",
+            "degree_name": "GCE 'A' Levels",
+            "school": "Anglo-Chinese Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHKddeRLy3Oeg/company-logo_400_400/0/1519367924438?e=1703721600&v=beta&t=OzU03uJAj5kwcufZ2Lk191CQF-IAJL8ZombjrTxdKdU",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "St. Joseph\u2019s Institution International",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEnSbW4UbSBQg/company-logo_400_400/0/1594869291537?e=1703721600&v=beta&t=HaGS2UwUTOW2bUcLycX6AgcuqcKLaGToZ_92OqhYMPM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "title": "A-Star learner",
+            "description": "An interactive Microsoft Kinect educational software for autistic children. We aim to help children with autistic spectrum disorder to learn and develop various social and functional motor skills. Click on the above link to learn more about the project",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "NICF Consulting Skills and Technique",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/tianyao",
+            "name": "Tianyao Liu",
+            "summary": "Co-founder, Business Development at Xfers",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ricky-winata-75735458",
+            "name": "Ricky Winata",
+            "summary": "Building FAZZ | Co-Founder of FAZZ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gwenda-soh-bb0b5677",
+            "name": "Gwenda Soh",
+            "summary": "Product Strategist @ Huros & Product Operations @ Fazz, StraitsX | Top 1% Performer in Fazz for 2023 | Interests: Fintech, RWA, Web 3, Payments, Operations | Self-starter | Singapore",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/moon-seokmin",
+            "name": "Seokmin Moon",
+            "summary": "Backend Engineer at Xfers / FAZZ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ryan-chen-594838119",
+            "name": "Ryan Chen",
+            "summary": "Engineering Manager at Fazz",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bintangpamungkas",
+            "name": "Bintang Pamungkas",
+            "summary": "Group Product Manager at FAZZ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/taykahhong",
+            "name": "Kah Hong Tay",
+            "summary": "Head of Product at Fazz Financial Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/batk0904",
+            "name": "Benson A.",
+            "summary": "FinTech | Digital Payments & Financing | FX cross-border | Strategic Partnerships | Business Development | APAC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samsonleosg",
+            "name": "Samson Leo",
+            "summary": "Co-founder, Chief Legal Officer at Xfers & Fazz Financial Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/angus-kong",
+            "name": "Angus (Sheng-yi) Kong",
+            "summary": "AI / Engineering / People",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

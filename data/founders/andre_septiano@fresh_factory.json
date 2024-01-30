@@ -1,0 +1,253 @@
+{
+    "public_identifier": "andre-septiano-b69a40114",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andre-septiano-b69a40114/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221246Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bacbaadd7da47979a5395bc075383119809269d5049c4adcd0b372d1db23770a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andre-septiano-b69a40114/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221246Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=448c2c333601e46eb297b5bf51e3ed179d14b8013ab89f1c47bceb8414f75d59",
+    "first_name": "Andre",
+    "last_name": "Septiano",
+    "full_name": "Andre Septiano",
+    "follower_count": 2094,
+    "occupation": "Co-Founder & CFO at Fresh Factory",
+    "headline": "Co-founders & CFO at Fresh Factory | YC W22 | Forbes 30 under 30 Indonesia & Asia",
+    "summary": "Like sharing that can be shared, happy to inspire others.\nFeeling blessed and have faith to do something Great. \nMarketing Enthusiast, Bussiness Development learner, and Sharing is caring.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Endeavor Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorindonesia/",
+            "title": "ScaleUp Growth Program Batch #3",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFPRzSsR2N2kA/company-logo_400_400/0/1630667943668/endeavorindonesia_logo?e=1712793600&v=beta&t=TdZR8qsqQ337Rwme0m_sE98M9-PgAmzKNJhETBo1-6E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Fresh Factory",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/freshfactoryid/",
+            "title": "Co-Founder & CFO",
+            "description": "Fresh Factory is start up company that introduce the cold chain fulfillment service for SME or Corporate to leverage their distribution channel",
+            "location": "Kebayoran Lama, Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHSiPJEItqZxA/company-logo_400_400/0/1635476677276?e=1712793600&v=beta&t=iVNiERvJNNzDhX8G8BBSEbYaj9CZl4YZ7qyJ_n1hRvQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "The Greatax Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-greatax-consulting/",
+            "title": "Partner - Commissioner",
+            "description": "The GreaTax is consultant company that have expertise team inside which have concern in financial issue for company especially start up company",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEXzg2B4MmRnw/company-logo_400_400/0/1630646566513?e=1712793600&v=beta&t=TluTmWRU95dpowxx-eApXnhZtaD2d_p6nV3vkTje24Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "PT Harsono Hermanto Strategic Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-harsono-hermanto-strategic-consulting/",
+            "title": "Senior Tax Consultant",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH6oEzFbyAYQw/company-logo_400_400/0/1631416330505/pt_harsono_hermanto_strategic_consulting_logo?e=1712793600&v=beta&t=WjMV9wIIAGWDNaINOar0pewOACweFO7LIx2AzKnHnFQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "PT. Mayora Indah Tbk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt.-mayora-indah-tbk/",
+            "title": "Internal Auditor",
+            "description": null,
+            "location": "head office daan mogot",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGUKYMPKZis5g/company-logo_400_400/0/1631309373514?e=1712793600&v=beta&t=e5QBcQ6aVTOwSdKtLWUs1Cb-6A1Sa4W3TX8B5E-JZv0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Winter 2022",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Accounting",
+            "degree_name": "S.E",
+            "school": "Universitas Tarumanagara",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFZgw9zfF7UPg/company-logo_400_400/0/1657886058318/universitas_tarumanagarajkt_logo?e=1712793600&v=beta&t=D5UHsGW0K2vsLeLIM8CuuKnVtzkqdxk_6xFXLmTgOkE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Certified Tax Consultant",
+            "license_number": null,
+            "display_source": null,
+            "authority": null,
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/yoshua-albert-398850257",
+            "name": "Yoshua Albert",
+            "summary": "Business Development & Partnership | Assistant Manager at Fresh Factory (YC W22) & Master of Laws (LLM) Student at University of Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ayu-oktavia",
+            "name": "Ayu Oktavia",
+            "summary": "Talent Acquisition at Fresh Factory | Human Capital | Bachelor of Business Administration from Universitas Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yennita-sinaga-5b8667a6",
+            "name": "Yennita Sinaga",
+            "summary": "Manager Corporate Finance Analyst at Fresh Factory | ex-Crowe Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/widijastoro-nugroho-7b686b",
+            "name": "Widijastoro Nugroho",
+            "summary": "Co-Founder & Chief Commercial Officer ( YC W22 ) of Fresh Factory",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/teddytee",
+            "name": "Teddy Tee",
+            "summary": "Founder and CEO - URUZ ; CTPO - Fresh Factory (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/larry-ridwan-22671228",
+            "name": "Larry Ridwan",
+            "summary": "Founder & CEO at Fresh Factory (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/danny-ramintang-0308b718b",
+            "name": "Danny Ramintang",
+            "summary": "CEO, CFO, and VP",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/asha-priliani-7b57b265",
+            "name": "Asha Priliani",
+            "summary": "Fresh Factory (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shakina-ashary-349747169",
+            "name": "Shakina Ashary",
+            "summary": "Tech Project Specialist (Project Manager) at Fresh Factory (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mayersamosir",
+            "name": "Mayer Nugroho Utama Samosir",
+            "summary": "Finance Leader @ Fresh Factory | Budgeting, Cost Control",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Andre Septiano",
+            "link": "https://id.linkedin.com/in/andre-septiano-508361194",
+            "summary": "Teaching Assistant of Calculus 2 at University of Indonesia",
+            "location": "Bukittinggi"
+        },
+        {
+            "name": "Andre Septiano",
+            "link": "https://id.linkedin.com/in/andre-septiano",
+            "summary": "Junior CS Student | Teaching Assistant at Universitas Indonesia",
+            "location": "Bukittinggi"
+        },
+        {
+            "name": "Andre Septiano",
+            "link": "https://id.linkedin.com/in/andre-septiano-3a4a0a225",
+            "summary": "--",
+            "location": "Kota Medan"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

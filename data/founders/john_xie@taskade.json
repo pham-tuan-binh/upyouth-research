@@ -1,0 +1,236 @@
+{
+    "public_identifier": "johnxie",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/johnxie/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221638Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ed11816e25e25afd1768c5106ce4919c3abee45c916847ace7d4edb263ea257",
+    "background_cover_image_url": null,
+    "first_name": "John",
+    "last_name": "Xie",
+    "full_name": "John Xie",
+    "follower_count": 21542,
+    "occupation": "Co-Founder and CEO at Taskade",
+    "headline": "Co-founder, CEO @ Taskade",
+    "summary": "Simplicity is the key to brilliance. \ud83c\udf31",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Startups",
+            "company_linkedin_profile_url": null,
+            "title": "Angel Investor",
+            "description": "DEV.to (Seed)\nWritesonic (Seed)\nGitStart (Seed)\nStacked (Seed)\nLaserfocus (Seed)\nKnowtex (Seed)",
+            "location": "San Francisco, New York",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Cirtex Corp, CirtexHosting, HostV (Acquired by Endurance International Group)",
+            "company_linkedin_profile_url": null,
+            "title": "Founder and CEO",
+            "description": "John Xie is the founder and CEO of Cirtex Corp, a leading web hosting service provider hosting more than 100,000 websites internationally, specializing in video and social media hosting solutions. Cirtex Corp has flourished in a hyper-competitive, commoditized industry by delivering affordable, scalable and professional web hosting solutions that meet the needs of a variety of clientele.\n\nAs one of the first web hosting providers to develop an all-in-one web hosting solution for online video sharing websites, Cirtex Corp enables new clients to sign up and have a website online within minutes \u2013 whether it\u2019s a video sharing website, online gallery, social media website, blog, social networking website, or an online business presence. Brands under Cirtex Corp included www.hostv.com and cirtexhosting.com. \n\nCirtex Corp has been featured in Bloomberg, INC Magazine, Entrepreneur Magazine, BusinessWeek and more.\n\nNotable clients included Dota Allstars, Garry's Mod, phpBB, and more. \n\n\u2022 https://www.entrepreneur.com/article/222646",
+            "location": "Greater New York City Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Taskade",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/taskade",
+            "title": "Co-Founder and CEO",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH2F1neTXqogA/company-logo_400_400/0/1630587390272/taskade_logo?e=1714003200&v=beta&t=I7dVcj0pzJFzngr0mh0nEVmL8AS9Ko9hbBXXMuclbpM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2016
+            },
+            "company": "Bytedance Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bytedance",
+            "title": "Senior Director of i18n",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGA-1ynUGnhlA/company-logo_400_400/0/1630658803864/bytedance_logo?e=1714003200&v=beta&t=SPVjN8WiiM9xvpv-kK3dAFQBajOZPwZcac2FDuvcWns"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "MeowChat",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meowchat",
+            "title": "Co-Founder",
+            "description": "MeowChat (Acquired by Razer Inc.) is a social discovery platform on iOS and Android with over 25 millions installs and users around the world. The app connects users with penpals and made it fun to chat and meet new friends. MeowChat reached #1 App Store ranking in over 20 countries.  \n\n\u2022 http://blogs.wsj.com/venturecapital/2014/11/05/messaging-app-meowchat-hunts-down-8-million-on-prowl-for-more/",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHqFS3wFQQZOg/company-logo_400_400/0/1631341612995?e=1714003200&v=beta&t=z3wWMfSBmgB-EFbUiYgF-VVlfEMxk_kpzUj0cn1jn8U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "Minus Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/minus-inc.",
+            "title": "Co-Founder",
+            "description": "Minus is a minimalist photo sharing platform that simplified the way users share files to just drag-n-drop and sharing a link. Minus sets itself apart with its simplicity and dedicated apps for nearly every platform (Win, Mac, Chrome, iOS, Android) in addition to the browser accessible web app.  \n\nMinus has been featured in numerous publications including The Wall Street Journal, TechCrunch, Mashable, The Guardian, The Telegraph, Gizmodo, Lifehacker, PCWorld, Mirror, CNET, Yahoo, Independent, TheNextWeb, Fortune Magazine, Entrepreneur Magazine and more.\n\n\u2022 https://techcrunch.com/2011/08/02/minus-raises-1-million-from-idg-capital-to-simplify-file-sharing/\n\u2022 https://techcrunch.com/2010/11/23/minus/\n\u2022 http://lifehacker.com/5833186/minus-is-a-drag-and-drop-file-sharing-service \n\u2022 https://thenextweb.com/apps/2010/11/03/try-this-minus-wonderfully-minimalist-drag-and-drop-photo-sharing/\n\u2022 https://www.wsj.com/video/minus-image-gallery-sharing-service-demo/2C9E08B4-A180-4FD7-A6C2-3CCBFEC4ED5B.html",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFj_crLQEQtlw/company-logo_400_400/0/1631301636719?e=1714003200&v=beta&t=TYbsjKTvbcPIpZ4SwCr068DKEApqe8RtjIRbzwkzNrg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The Bronx High School of Science",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/11497971/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHP0Gi0RFX8Fg/company-logo_400_400/0/1630608029719?e=1714003200&v=beta&t=HazlArbbFEtJcfTn9Xt24SPmp9Ra1LgT8ZSJ19mLcis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Babson College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6716/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG9uoVqHj4dSg/company-logo_400_400/0/1630613547672/babson_college_logo?e=1714003200&v=beta&t=5RG3dkDIZePc-sMXz6udFZAGTpRm6iSE38roeYu5xoQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Rhode Island School of Design",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/14891/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE2ecVB7W2S6A/company-logo_400_400/0/1664308977323/risd1877_logo?e=1714003200&v=beta&t=tR0sEqIYkdc6-CCf8fdaXMfpJKYGYeCyR6rJLkEA4fA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 19925,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Nam Nguyen\n\n\n\nI've spent the last 2 years working with John, helping Minus users make their photos more* beautiful with Aviary. To me, John is the reason why Minus is as successful as it is today. He's a thought leader and is always one step ahead of the curve. The product speaks for itself.",
+        "Phill Slaughter\n\n\n\nJohn always seems to put his customers first. Working hard to ensure customer satisfaction and prevent downtime whenever possible. He always has an idea for the next step to take and communicates this very well."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "John Xie",
+            "link": "https://www.linkedin.com/in/john-xie-9898919",
+            "summary": "Publisher at USA Sino News \u7f8e\u4e2d\u4fe1\u4f7f\u62a5 / Houston Chinese Yearboolk \u4f11\u65af\u987f\u534e\u4eba\u5e74\u9274",
+            "location": "Pearland, TX"
+        },
+        {
+            "name": "John XIE",
+            "link": "https://www.linkedin.com/in/john-xie-03637b28",
+            "summary": "Senior Software Engineer at Weatherford; Senior R&D Electrical Engineer; Alexander von Humboldt Fellow; Cherry Logan Emerson Fellow",
+            "location": "Houston, TX"
+        },
+        {
+            "name": "John Xie",
+            "link": "https://www.linkedin.com/in/john-xie-143a7779",
+            "summary": "slaes at Great World dba GWL Corp.",
+            "location": "San Francisco, CA"
+        },
+        {
+            "name": "John Xie",
+            "link": "https://www.linkedin.com/in/johnxie2010",
+            "summary": "Camera Module Integration at Apple",
+            "location": "Fremont, CA"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQG_6q34jt7EiA/group-logo_image-shrink_48x48/0/1633680610716?e=1706752800&v=beta&t=dVpCS8WRoJow8nhF02d1iHCy2m_E3lAbL2pejS6AuFs",
+            "name": "Producthunt User community members ",
+            "url": "https://www.linkedin.com/groups/14009305"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQHlcgIUz4ohbw/group-logo_image-shrink_400x400/0/1653559197046?e=1706752800&v=beta&t=EaEa292tZ05WG66X3g0yaa3Y95nkcjfveNs2_Ehz024",
+            "name": "Product Hunt Armenia",
+            "url": "https://www.linkedin.com/groups/9153860"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

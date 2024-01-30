@@ -1,0 +1,375 @@
+{
+    "public_identifier": "steven-walentino",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/steven-walentino/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221230Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=99a8ff60aa2413c67e39749b7da50994d99e3a02a453759d62a640da823d842f",
+    "background_cover_image_url": null,
+    "first_name": "Steven",
+    "last_name": "Walentino",
+    "full_name": "Steven Walentino",
+    "follower_count": 1360,
+    "occupation": "Co-Founder at Materee (YC S22)",
+    "headline": "Co-Founder at Materee",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Materee (YC S22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/materee-ycs22",
+            "title": "Co-Founder",
+            "description": "We are hiring! Contact us at career@materee.id",
+            "location": "Jakarta Metropolitan Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE8hg7JyYUo0w/company-logo_400_400/0/1656561477038?e=1712793600&v=beta&t=Jetb49qXqMFYVo9y0tQer6lLrwIZ6dox2W3pSn4s-Zs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "Software Engineer",
+            "description": "- Google Nest Cloud and Machine Learning Platform\n- Tech Lead - various large scale infrastructure projects for smart home devices",
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1712793600&v=beta&t=RyTcXf6lN7Ms4j3QU6nVhQcpwUy2go95hOD0ZnJfRnE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Yahoo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yahoo",
+            "title": "Software Engineer",
+            "description": "- Yahoo Mail Platform\n- Worked on scalable next-generation email platform\n- Served 225 millions monthly active users\n- Involved in the creation of new create mailbox API that enables users to create email account using the regular method, phone number, non-yahoo email account, as well as enabling mailbox creation for business account\n- Developed and maintained REST API to implement business logic to support Yahoo mail users, such as listing user's emails, setting user vacation preferences, etc",
+            "location": "Sunnyvale, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE8SlwfLWJuDg/company-logo_400_400/0/1663278242829/yahoo_logo?e=1712793600&v=beta&t=G1er3HXcmT8bfiEKb4WKBuTy0sRWa8Mx9dzKt2gFzCQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Zillow Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zillow",
+            "title": "Associate Software Engineer",
+            "description": "- Personalization Platform\n- Focused on summarizing user actions using Map-Reduce technique\n- Followed customer behavior and pulled insights to personalize user experience\n- Developed daily scalding jobs to generate 500M user trait data from multiple event types",
+            "location": "San Francisco, California, United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_400_400/0/1664994833759/zillow_logo?e=1712793600&v=beta&t=N9rI5Dggy14oUWLdIKqbIknxyWGzOjDc020EqHN0iWs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "UC Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uc-berkeley",
+            "title": "Undergraduate Research Apprentice",
+            "description": "\u2022\tFacilitated Prof. Heather Haveman\n\u2022\tDeveloped code in order to collect and analyze data for a variety of research projects. \n\u2022\tScraped product data from publicly available websites and mine large corpora of text to test hypotheses on the emergence and maturation of markets and product categories\n\u2022\tAnalyzed the discourse surrounding these markets as found in electronic forums visited by market participants and articles published in the mainstream and specialized press\n\u2022\tUsed machine learning packages for text analysis and write machine learning algorithms to help analyze the millions of observations collected via our web scrapers",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "UC Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uc-berkeley",
+            "title": "Undergraduate Research Assistant",
+            "description": "\u2022\tFacilitated Prof. Armando Fox\n\u2022\tMOOCchat is a SaaS app, framed around model-view-controller (MVC) and Ruby on Rails, that integrates peer learning with Massive Open Online Course (MOOC) through the use of real-time chatting that is used by over 70,000 students in Australia\n\u2022\tDeveloped user interface using CSS, HTML and JavaScript and tested the apps functionality using RSpec and Capybara\n\u2022\tDesigned relational database with the project team for activity schemas, chats, conditions, questions, tasks, and templates",
+            "location": "Berkeley, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "UC Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uc-berkeley",
+            "title": "Undergraduate Research Apprentice",
+            "description": "\u2022\tFacilitated Prof. Henry Chesbrough\n\u2022\tInvestigated how the California Cuisine Ecosystem has evolved and sustained over time, thus correlating how open innovation explains this phenomenon. \n\u2022\tDeveloped social network data visualization for California Cuisine Ecosystem application using JavaScript library",
+            "location": "Berkeley, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "UC Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uc-berkeley",
+            "title": "CS61A Lab Assistant",
+            "description": "\u2022\tAssisted students during lab sessions and helped with HW, lab, project, and coding problems",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Green River Community College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/green-river-community-college",
+            "title": "Peer Mentor",
+            "description": "\u2022\tHelped increase the percentage of international students passing their classes\n\u2022\tMentored new international students both academically and socially",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFES50IBKXPLA/company-logo_400_400/0/1631319645601?e=1712793600&v=beta&t=WNZB93RJtcNttJ7yWVjIF6objxl0ZSIAKo69aYwZmSY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Green River Community College",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/green-river-community-college",
+            "title": "Math tutor",
+            "description": "\u2022\tTutor for Algebra, Calculus, Linear Algebra, and Differential Equation\n\u2022\tAssisted students to solve homework problems and helped to understand the material",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFES50IBKXPLA/company-logo_400_400/0/1631319645601?e=1712793600&v=beta&t=WNZB93RJtcNttJ7yWVjIF6objxl0ZSIAKo69aYwZmSY"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/uc-berkeley",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1712793600&v=beta&t=Y97MdLusKsFaY0TwBDXa2bK_0EBRelEjkMlu1hZ0KHM",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "UC Berkeley Alumni",
+            "title": "Jun 2015 - Present",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Data Structures",
+            "number": "CS 61B"
+        },
+        {
+            "name": "Discrete Math and Probability",
+            "number": "CS 70"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "title": "Scheme Interpreter",
+            "description": "Implemented an interpreter of Scheme programming language by using Python.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2013
+            },
+            "title": "Ants vs Bees",
+            "description": "\u2022\tImplemented the algorithm for a tower defense game in Python that is inspired by Plants Vs. Zombies\u00ae\n\u2022\tUsed the concept of inheritance, maximized object-oriented paradigms, and created 13 types of inherited \u201cAnts\u201d classes \n",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1320,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/graceilaputri",
+            "name": "Graceila Putri",
+            "summary": "Co-Founder & COO at Juragan Material | Hiring for Product & Tech roles!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/albertsahala",
+            "name": "Albert Sahala Theodore",
+            "summary": "Co-Founder at Payable (YC S22) | Helping businesses scale finance ops",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ffahleraz",
+            "name": "Faza Fahleraz",
+            "summary": "Co-Founder at Payable (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fransisca-susan-32a634b1",
+            "name": "Fransisca Susan",
+            "summary": "PhD Candidate at MIT | Co-Founder at Sribuu (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina (YC W22) | Forbes 30 Under 30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tikadiagnestya",
+            "name": "Tika Diagnestya",
+            "summary": "Sustainability | Consulting | People-enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/frw",
+            "name": "Frederick Widjaja",
+            "summary": "Building Whiz - We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fillarrysusanto",
+            "name": "Fillarry Susanto",
+            "summary": "Building Products",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/selinaprasetyo",
+            "name": "Selina Prasetyo",
+            "summary": "Data Scientist at Coinbase",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/raymond-christopher",
+            "name": "Raymond Christopher Sitorus",
+            "summary": "Co-Founder and Chief Data Officer at Delman | Forbes 30 under 30 Indonesia & Asia 2021",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gerynugraha",
+            "name": "Gery N.",
+            "summary": "Co-Founder @ Payable (YC S22)",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Robert Erick Hernandez\n\n\n\nSteven is very detail-oriented to the extent that he makes deadlines and follows up with them. Even from day one, he already made meetings to meet up with me to catch up on the current project, establish goals and organized task through Trello, and was always on time. He is a great person to work with and always is eager to learn more. Expect great things from Steven~"
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQEySmc2vjH3Pg/group-logo_image-shrink_400x400/0/1677679534202?e=1705435200&v=beta&t=8fjc39I-rVsj8ik8AmcUagDxSWs4dM73TlN0cUM3X0U",
+            "name": "Entrepreneur Exchange - Entrepreneurs of LI",
+            "url": "https://www.linkedin.com/groups/9297757"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQEco-amUn59eA/group-logo_image-shrink_48x48/0/1631428805644?e=1705435200&v=beta&t=lfzB-C5zh-9tE5oPiHwpji8pQpeKwSi9xG-DsD1PIos",
+            "name": "Berkeley Club of Indonesia",
+            "url": "https://www.linkedin.com/groups/6796805"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

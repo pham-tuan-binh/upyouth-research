@@ -1,0 +1,585 @@
+{
+    "public_identifier": "anitasadasivan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/anitasadasivan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221546Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=38f95233db9e048eb6b205722a853a97e9d0ea96fc1dcc011049c076b497704a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/anitasadasivan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221546Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=31480c68ed256b2d41acc0713f41d3cb4cc883266923ed3b8afba7360d86b787",
+    "first_name": "Anita Jiawen",
+    "last_name": "Sadasivan",
+    "full_name": "Anita Jiawen Sadasivan",
+    "follower_count": null,
+    "occupation": "Co-Founder & Chief Wellbeing Officer at MindFi",
+    "headline": "Co-Founder & Chief Wellbeing Officer at MindFi (YC S21)",
+    "summary": "Wellbeing Expert with a background in Psychology & Counselling and a track record of empowering individuals and building positive communities.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "The Brass Barre",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "I oversee the company finances and am involved with strategy, culture and creative direction.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "The Brass Barre",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "Co-founded a dance school and grew it to its current size of 4 studios and a retail space in the heart of Singapore. Managed all company finances including payments, salaries, CPF, tax filings, communications with accountant and negotiations with landlords. Managed all buying, pricing, merchandising and visual merchandising of inventory in our retail space. Hired, trained and managed staff with a focus on customer experience and client relations. Built a community with inclusivity, confidence and empowerment as its core values. Organised events such as student competitions, anniversary parties and a concert at Victoria Theatre where international artistes were invited to perform as well as conduct workshops at a dance camp we organised in conjunction with the event. \n\nLed the company through the Covid-19 pandemic by moving to an online platform during the Circuit Breaker, taking cost-cutting measures, negotiating with the landlord on rental concerns as well as ensuring that the business adopted all safe distancing guidelines and Covid-19 precautions. \n\nFeatured in interviews on Class 95 FM, Kiss 92 FM and 987 FM as well as on Suria, Rice Media and in The Straits Times.",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "MindFi",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/mindfi.co",
+            "title": "Co-Founder & Chief Wellbeing Officer",
+            "description": "Creating, designing and curating content about wellness!",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQE1BUIJZktY5g/company-logo_100_100/0/1519876003265?e=1655337600&v=beta&t=As0wI8Wr6ycsLe4LYNyfJCBtr3zVh4eInBVDy9ZDEp8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "The Banyan Tree",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/the-banyan-tree",
+            "title": "Therapist | Project-T",
+            "description": "Banyan Tree is Asia's premiere luxury hospitality group. \n\nProject - T is the Banyan Tree Group's initiative to provide mental health support to their employees. \n\nI provide teletherapy in both English and Chinese (Mandarin) to Banyan Tree employees worldwide with a focus on goal-setting, habit formation, mindfulness and relaxation techniques.",
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFAYeTz17GDvw/company-logo_100_100/0/1519861355268?e=1655337600&v=beta&t=mQjXbrzKqxBYowwRP8nCuOFCAptAqoukYidh5z4D8uc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Bettr Group",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/bettr-group",
+            "title": "Program Head, Emotional Training",
+            "description": "The Bettr Group is an award-winning social enterprise start-up that trains Marginalised Individuals to become baristas and provides employment support. \n\nDesigned and managed 5 intakes of a 12-week Program teaching participants data-driven, therapy based methods to create healthy habits, improve resilience and self-esteem, enhance communication skills, and effectively set and work towards goals. Provided counselling where necessary for program attendees and graduates. Arranged for external vendors to run workshops on topics such as financial planning and mindfulness. Analysed program effectiveness and identified areas of improvement using a weekly participant survey. Worked closely with coffee trainers and other program heads to ensure coherence through all aspects of the social program.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEwZlJWIBKgDA/company-logo_100_100/0/1571895632893?e=1655337600&v=beta&t=BVER2GCvd7q1ujeHStlAh0eODFUAb9iaJ5WApYLHy4o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "Raffles Medical Group",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/raffles-medical-group",
+            "title": "Psychologist & Counsellor | Raffles Counselling Centre | Raffles Hospital",
+            "description": "Raffles Hospital is the flagship of Raffles Medical Group - Asia's leading medical provider. \n\nI provided counselling for both in-patient and out-patient clients on a variety of issues including work stress, depression, domestic abuse, failed suicide attempts and diagnosis of terminal illness. Led group therapy after emergency/traumatic events (e.g. suicide clean-up teams) with high-sensitivity and support. Assessed, wrote mental health reports and provided counselling for medico-legal cases such as kleptomania, embezzlement, molest and assault. Managed and did all reporting for a client account where we assessed security personnel for suitability to carry firearms. Conducted external trainings on basic counselling skills.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFt0KroPM2oug/company-logo_100_100/0/1557215695765?e=1655337600&v=beta&t=O9CeOCgloQ6hIFnGYpncdvP0H0FsKT0-kfl7zQPGgng"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Raffles Medical Group",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/raffles-medical-group",
+            "title": "Psychology & Counselling Intern | Raffles Counselling Centre | Raffles Hospital",
+            "description": "Completed a 6 month internship and supervision as part of my Master's in Counselling program. \n\nCounselled clients with depression, anxiety and work stress using predominantly CBT (Cognitive Behaviour Therapy) and SFBT (Solution Focused Brief Therapy).",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFt0KroPM2oug/company-logo_100_100/0/1557215695765?e=1655337600&v=beta&t=O9CeOCgloQ6hIFnGYpncdvP0H0FsKT0-kfl7zQPGgng"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "ANZ",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/anz",
+            "title": "Assistant Relationship Manager | NRI Team | ANZ Private Bank",
+            "description": "CACS I, CACS II\nCMFAS M1B, M5, M9\nFPAS M1, M2, M3, M4, M5\n\nProvided premium client servicing for ultra-high net worth individuals across different countries and timezones. This included liaising with clients, processing of trades, updating of portfolios, preparation of credit memorandums and opening of accounts (including all anti-money laundering and KYC checks). \n\nAs an active member of the ANZ Staff Social Club, I was involved in organising events such as ANZ Family Day, blood donation drives and fitness activities.",
+            "location": "Singapore",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFzOBvs42yLdQ/company-logo_100_100/0/1631072570001?e=1655337600&v=beta&t=Wts2LAQJc4Q__Fd0UQQhTkRrDTOLUAiSpluz_Z95NVg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2010
+            },
+            "company": "University of Michigan",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/university-of-michigan",
+            "title": "Program Support | MPortfolio",
+            "description": "MPortfolio is the University of Michigan\u2019s very own e-Portfolio program. \n\nRan the \u2018MPortfolio Lab\u2019 where I assisted other University of Michigan students with creation of their ePortfolios through facilitating discussion on how to structure, storyline and create coherence through their ePortfolio.",
+            "location": "United States",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_100_100/0/1519856309184?e=1655337600&v=beta&t=MuHPnCb6J0em8wpf3wzhWPmFr9xm1LSJy7aAIbFmGvw"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Psychology",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "University of Michigan",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/university-of-michigan/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_100_100/0/1519856309184?e=1655337600&v=beta&t=MuHPnCb6J0em8wpf3wzhWPmFr9xm1LSJy7aAIbFmGvw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Counselling",
+            "degree_name": "Master's degree",
+            "school": "Monash University",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/monash-university/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_100_100/0/1640136483646?e=1655337600&v=beta&t=djUao5s_WCH2ea39MXj6CFigfK-eEZpCdj-Fbtu9AHg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "S21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/y-combinator/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFI1hNkZU9xaQ/company-logo_100_100/0/1519894128493?e=1655337600&v=beta&t=ahxaUWFHfKpSSt9VP8BoITfPcpIZa-e-5OQFj7iSb_I",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Raffles Institution",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/raffles-institution/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFwtPNL-8C-EA/company-logo_100_100/0/1519872674400?e=1655337600&v=beta&t=hWFPfoZvPrkhxcq2AwIbk8WBwZApSuCLjk44fcbt74s",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2004
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Raffles Girls'\u200b School",
+            "school_linkedin_profile_url": "https://sg.linkedin.com/school/rgsalumnae/",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQED4d97Jb_42w/company-logo_100_100/0/1519890113069?e=1655337600&v=beta&t=n7Pdk-bfpi_Q_RXN5PrS7rnVKxnLvRogk2568us5IuE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese",
+        "French",
+        "Spanish",
+        "Russian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "title": "English Teacher",
+            "cause": "Education",
+            "company": "Singapore International Foundation",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/singapore-international-foundation",
+            "description": "Prepared English language learning materials for children aged 8 - 10 and travelled to the outskirts of Ho Chi Minh city, Vietnam, to teach English at various local schools.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQHeAHj-I21Hrw/company-logo_100_100/0/1568623279281?e=1655337600&v=beta&t=gNHQGIdVTKAHcJkiJGcneccPXabSYlJvC2aivz3u4p4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2007
+            },
+            "title": "English Teacher",
+            "cause": "Education",
+            "company": "Singapore International Foundation",
+            "company_linkedin_profile_url": "https://sg.linkedin.com/company/singapore-international-foundation",
+            "description": "Volunteer English teacher at an orphanage and school for disabled children in Malang, Indonesia.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQHeAHj-I21Hrw/company-logo_100_100/0/1568623279281?e=1655337600&v=beta&t=gNHQGIdVTKAHcJkiJGcneccPXabSYlJvC2aivz3u4p4"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Gottman Method Couples Therapy - Level 1",
+            "license_number": null,
+            "display_source": null,
+            "authority": "The Gottman Institute",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Positive Psychology: Applications and Interventions",
+            "license_number": "HB3QNDWXKBRC",
+            "display_source": "www.coursera.org",
+            "authority": "University of Pennsylvania",
+            "url": "http://www.coursera.org/account/accomplishments/certificate/HB3QNDWXKBRC"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "DELF French Diploma, Level A1",
+            "license_number": "065000-008787",
+            "display_source": null,
+            "authority": "France \u00c9ducation international",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Positive Psychology: Martin E. P. Seligman\u2019s Visionary Science",
+            "license_number": "UFRS85UV5YE2",
+            "display_source": "www.coursera.org",
+            "authority": "University of Pennsylvania",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/UFRS85UV5YE2"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "The Science of Well-Being",
+            "license_number": "VHSXWPV5LS6B",
+            "display_source": "www.coursera.org",
+            "authority": "Yale University",
+            "url": "http://www.coursera.org/account/accomplishments/certificate/VHSXWPV5LS6B"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "DELE Spanish Diploma, Level A1",
+            "license_number": "190501702001020005",
+            "display_source": null,
+            "authority": "Instituto Cervantes",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Teaching Character and Creating Positive Classrooms",
+            "license_number": "LCFJZZNM5E",
+            "display_source": "www.coursera.org",
+            "authority": "Relay Graduate School of Education",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/LCFJZZNM5E"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://sg.linkedin.com/in/gangeshwark",
+            "name": "Gangeshwar Krishnamurthy",
+            "summary": "Co-Founder & CTO at MindFi (YC S21) | We're hiring SWEs/Tech Lead",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/leonck",
+            "name": "Leon C.K. Leong",
+            "summary": "Chief Revenue Officer, MindFi (YC S21)",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/sabrinaooi",
+            "name": "Sabrina Ooi",
+            "summary": "Co-founder & CEO at Calm Collective Asia | Mental Health | Human being \ud83c\udf31",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/dr-maleena-suppiah-cavert-6aa83820",
+            "name": "Dr. Maleena Suppiah Cavert",
+            "summary": "Chief Wellbeing Officer, NUHS",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/joanne-chua-su-ann",
+            "name": "Joanne Chua",
+            "summary": "Clinical Psychologist | Educator | Mental Health Consultant | Mindfulness Facilitator",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/risha-malhotra",
+            "name": "Risha Malhotra",
+            "summary": "Bringing Mental Wellbeing to Companies | Success Coach | HEC Paris Alumni",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://my.linkedin.com/in/andrea-clark-24bbb0149",
+            "name": "Andrea Clark",
+            "summary": "Clinical Psychologist at Relate",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/gwendaloh",
+            "name": "Gwendalynne Loh",
+            "summary": "Designer at MindFi (YC S21)",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://my.linkedin.com/in/riithra-vee-14163a14b",
+            "name": "Riithra Vee",
+            "summary": "Counselling Psychologist | Addiction Specialist | Lecturer in Counselling & Psychology",
+            "location": "Petaling Jaya"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/theodoricchew",
+            "name": "Theodoric Chew",
+            "summary": "CEO at Intellect (YC S21) | Modern-day Mental Healthcare for Asia-Pacific",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/karl-desouza-listeningearclinic",
+            "name": "Karl DeSouza",
+            "summary": "Psychotherapist | Life Coach | Mediator | Trauma Specialist | Wellness Counsellor  | Ferryman  (Accompanying, Witnessing, Helping others Navigate Life)",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/julyn-ng-167bb82b",
+            "name": "Julyn Ng",
+            "summary": "Psychologist",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/mohanbelani",
+            "name": "Mohan Belani",
+            "summary": "Co-Founder and CEO at e27 | Early stage investor in startups and funds | Active connector of startups, investors and corporates in SEA",
+            "location": "Hougang"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/aakriti-paul-5ba6221b7",
+            "name": "Aakriti Paul",
+            "summary": "Counselling Psychologist | Addiction Specialist",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/juliana-poh",
+            "name": "Juliana Poh",
+            "summary": "Counsellor | Mental Health Advocate | Human Empowerment | Preventive Counselling",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://ph.linkedin.com/in/trizha-ripalda-6b3a53166",
+            "name": "Trizha Ripalda",
+            "summary": "Customer Success at MindFi (YC S21)",
+            "location": "Metro Manila"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/shi-min-liew-45008b66",
+            "name": "Shi Min Liew",
+            "summary": "Certified Group Psychotherapist |                           Clinical Psychologist at Singapore General Hospital",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/sylvia-tan-574887202",
+            "name": "Sylvia Tan",
+            "summary": "Director, Principal Counselling Psychologist  at Sylvia Tan Psychology Consultancy",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/drjameswong",
+            "name": "James Wong",
+            "summary": "Founder at WhatsDoc | We are hiring!",
+            "location": "Singapore"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "One of the things Michael Lints always looks for in his founders is FOCUS. It\u2019s a lesson he learned in the early stages of his investment journey:",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Anita Jiawen Sadasivan"
+        },
+        {
+            "title": "It can be easy to see the situations we find ourselves in from a fixed point of view. We all get stuck at times.Next time you have a frustrating\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Anita Jiawen Sadasivan"
+        },
+        {
+            "title": "Have you ever seen this Venn diagram linked to #ikigai?If so, did you know that some people don't consider it \"true\" ikigai?(Yeah, I was\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Anita Jiawen Sadasivan"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQFnTPeIeDDh0w/group-logo_image-shrink_200x200/0/1631363609284?e=1647212400&v=beta&t=YERSDuPPPqGHbkpHBF7d1vYbVLMYsLNkS7TvGjnK3Os",
+            "name": "Wolverine Networking",
+            "url": "https://www.linkedin.com/groups/79680"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQFn0MkPBwBmOw/group-logo_image-shrink_92x92/0/1631008357459?e=1647212400&v=beta&t=1k_j2f1mO0P8bloHekV3d_40H3kGCJ646S3Sq9sgZFE",
+            "name": "Mental Health and Private Practice Marketing and Management",
+            "url": "https://www.linkedin.com/groups/1903663"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5107AQH92cAprwUeYQ/group-logo_image-shrink_92x92/0/1561602415827?e=1647212400&v=beta&t=5aB85qd8BJ-E87nV8HpO2ztTX3pdN82eIWv5kdauJIQ",
+            "name": "Singapore : content marketing people",
+            "url": "https://www.linkedin.com/groups/10468988"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQH518ClxkPTzQ/group-logo_image-shrink_92x92/0/1631007965598?e=1647212400&v=beta&t=CtIAmYM6wrZJ28wYWVab-0rDbErYbNSS33Gpboxw1Vg",
+            "name": "Resources for Mental Health Professionals (MHPs)",
+            "url": "https://www.linkedin.com/groups/12416248"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5607AQGKksRW9b79Cg/group-logo_image-shrink_92x92/0/1631001840692?e=1647212400&v=beta&t=MhkM3RDaLFsh5VcTh6OwOU6y9nFSX54t8Hl7bDC87a0",
+            "name": "Positive Psychology Coaching",
+            "url": "https://www.linkedin.com/groups/3189061"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQEeghd2ZOOoYA/group-logo_image-shrink_92x92/0/1631009032123?e=1647212400&v=beta&t=0HWoPeWjtk047RM21ZAiHYtXex3xeE2kfM43IDI_vyw",
+            "name": "The International Coaching Federation",
+            "url": "https://www.linkedin.com/groups/87212"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

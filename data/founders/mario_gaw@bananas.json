@@ -1,0 +1,309 @@
+{
+    "public_identifier": "mariogaw",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mariogaw/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221247Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d00383c4ac55c1b3adac5286efa0860f9db90e736a853699dc6b7a57b4fef184",
+    "background_cover_image_url": null,
+    "first_name": "Mario",
+    "last_name": "Gaw",
+    "full_name": "Mario Gaw",
+    "follower_count": 4999,
+    "occupation": "Founder & CEO at Jutsoo",
+    "headline": "Founder & CEO, Jutsoo",
+    "summary": "Experienced Chief Executive Officer and Venture Builder with a demonstrated history of working in the Financial Technology (Payments) & E-commerce industry in the last 9 years. \n\nSkilled in Venture Building, Product Management, Strategy, Business Process Design, Mobile Applications, and Competitive Intelligence. \n\nBuilt several payment companies from zero to one and growing the team to 160 strong in less than 2 years. Acquired and grew a merchant network covering 20,000 outlets in the short span of 2 years. \n\nA strong business and tech development & management professional with a BSc. focused in Computing Science and Business Administration from Simon Fraser University. ",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta Metropolitan Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Jutsoo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jutsoo/",
+            "title": "Founder & CEO",
+            "description": "Jutsoo helps Indonesian B2B businesses streamline their order-to-cash process to save time and money.\n\nCarefully designed and built for next-generation B2B businesses looking to save time and money with our easy-to-use and blazingly fast platform that allows you to manage orders, invoices, and reconcile payments automatically.",
+            "location": "Jakarta Metropolitan Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGKEWB2kVPcFQ/company-logo_400_400/0/1671588535926?e=1712793600&v=beta&t=XDIYPZsGJUByZaIfCq4nKnilCefFngKIRWdo9UdQa04"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Startup Studio Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/startupstudioid/",
+            "title": "Startup Mentor",
+            "description": "Official program by the Indonesian Ministry of Communication and Informatics, which scouts Indonesian early stage startups to support with strategy, fundraising, marketing, growth hacking and people & culture related coaching to strengthen the Indonesian startup and tech ecosystem.\n\nPrimarily involved in mentoring sessions with 2-3 startups per batch in topics related to Product Management, Strategy, Pricing and others. Have been involved in Batch 1 and 2. Currently, invited to mentor in Batch 3 as well.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGlSd_DJeLjew/company-logo_400_400/0/1630651848366/startupstudioid_logo?e=1712793600&v=beta&t=rOHJ4N7OC-oDGugNFUeY-19RnHzla9pPok6kaPuG32I"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Bananas (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bananasid/",
+            "title": "Founder & CEO",
+            "description": "Building the future of groceries today! You never have to go to the supermarket ever again. We will deliver your groceries including fresh fruits and vegetables in organic quality directly to your home. Within 10 minutes and at supermarket prices. Changing how you spend your time on living better.",
+            "location": "Jakarta Metropolitan Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFHjPf6H8sJhA/company-logo_400_400/0/1644257008895/bananasid_logo?e=1712793600&v=beta&t=HbacHx5EVs0kYRGEXXZHTBOZKOi9APyIml8-6J_YoZo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "Tiket.com (PT. Global Tiket Network)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-global-tiket-network/",
+            "title": "Chief Product Officer",
+            "description": "- Managing and leading the whole tiket.com Product department of more than 90 employees covering Product Management, Product Design, as well as Growth teams.\n\n- Designed and standardized product development processes in order for people to focus on what they do best while allowing better visibility on product roadmaps.\n\n- At the moment, working with the exec team optimistically in defining a new product vision and strategy for the company in order to navigate uncharted waters during this COVID-19 global pandemic and be well-positioned for a strong rebound during recovery.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFN5mZsxgIpwQ/company-logo_400_400/0/1631340861726?e=1712793600&v=beta&t=QrmX3AtQr7WUbaiKrPWREuNeSBODrnrwP_Ni-PyuPic"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Cashbac",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cashbac/",
+            "title": "Co-Founder & CEO",
+            "description": "Cashbac is an instant rewards mobile app platform that allows consumers to earn instant cashbacks by simply linking their favorite payment method/card into our secure app and making transactions as part of their day-to-day life.\n\n- Built the business from zero to one and scaled it to 160 personnel strong within 2 years while leading a multi-disciplinary team of professionals that spanned across from Sales, Marketing, Customer Service, Operations, Product, Engineering as well as Finance, Legal and HR.\n\n- Built the product and tech from scratch and launched an MVP within 3 months from starting out.\n\n- Acquired and built strong partnerships with key anchor merchants such as McDonald's Indonesia, Alfamart, CGV Cinemas, and many more, covering thousands of brands with more than 20,000 merchant outlets across Indonesia.\n\n- Partnered with strategic financial institutions across Indonesia including VISA and Mastercard as well as top banks within the country such as BCA, BRI, Mandiri, UOB and many more. \n\n- Grew the business' top line into hitting 7-digits (US$) monthly in less than 2 years.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEJ0lS8d7m4RQ/company-logo_400_400/0/1630606555337/cashbac_logo?e=1712793600&v=beta&t=MzU7kuzIw1Q971iy1f_Flr988Pm39pI6zh6039mnoCs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "PT Smartfren Telecom",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/smartfren-telecom/",
+            "title": "Director of UANGKU",
+            "description": "Responsible for managing and growing UANGKU e-money business with strategic partners such as Dimo, helloPay as well as GlobalPay and Traveloka.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHrMexZYteoYA/company-logo_400_400/0/1674549809217?e=1712793600&v=beta&t=007k_r_2Pnfmd_L3kjJ98KUo0UrfhOGLqJovhQfMRnQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "Dimo Pay Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dimopay/",
+            "title": "CEO",
+            "description": "Dimo is a mobile enabler platform that works with various financial institutions on enabling their mobile (banking or emoney) applications to process mobile payments via its merchant acceptance network. \n\nOn the other side, Dimo also works with merchants as a merchant aggregator and acquirer to equip both online and offline merchants in accepting mobile payments from its issuing partners.\n\n- Managed the company as CEO in transforming the team in order to take it to greater heights. \n- Successfully launched McDonald's Indonesia as a national anchor merchant that accepts mobile payments from Dimo's issuing partners.\n- Onboarded more than a handful of new issuers to take advantage of Dimo's growing merchant network.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuzKYJFqAnMw/company-logo_400_400/0/1631326962354?e=1712793600&v=beta&t=N2KKTE9WF-qb25utgvzfbnqwU20Wbhdd160Y2TQbsww"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "company": "Global Pay Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "CEO",
+            "description": "Global Pay is a local FinTech startup that is incubated by Digital Money Group and SMDV that focuses on building a robust payments platform by integrating with multiple issuers and partners in order to best service consumers' daily transaction needs.\n\nWe are currently partnering with UANGKU to help accelerate their user growth in double-digits month-on-month by adding new use cases that solve a specific consumer pain point and deliver tremendous value by using our solution.\n\nTogether, we grew UANGKU 10X over the last 12 months and have plans to grow another 10X in the next 12 months. Transactions grew proportionally as well, following user growth.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "helloPay Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "CEO",
+            "description": "Part of the founding team for helloPay Indonesia and launched to market within 3 months of company being set-up.\n\nhelloPay is Southeast Asia\u2019s latest payments solution. We are revolutionizing the way payments and money transfers are made, both online and offline. We provide a secure payment platform, created by an international team that is bringing together their extensive knowledge and experience in global payments to make sending and receiving money easier, both for personal and commercial use.\n\nAs a FinTech startup, incubated by Lazada Group, we have investments from Temasek, Tesco, J.P. Morgan, Verlinvest, Investment AB Kinnevik and Rocket Internet. We are present in Singapore, Philippines, Indonesia, Vietnam and are set to expand rapidly across South\u2010East Asia and Africa.\n\n- Signed, integrated, and went live with MayBank as our credit card acquiring bank and Bank Sinarmas as our default Virtual Account for Bank Transfer transactions in less than 3 months from inception.\n\n- Integrated and went live with Indomaret, one of the largest chains of convenience stores in the country to contribute more than 80% of our payment volume mix.\n\n- Went live with Pos Indonesia, the national postal office in the country, to offer cash payments within their 40,000 points across the country.\n\n- Went live with Bank Negara Indonesia (BNI) and signed a few more large national banks to integrate their solutions to our platform.\n\n- Grew payment volume from zero to more than high 6-digits USD monthly in less than 12 months. \n\n- Managed to sign more than 80 online e-commerce merchants in 2 months before the acquisition of Lazada by Alibaba.\n\n- Successfully managed a lean team of 35 professionals that built a solid foundation for payment gateway business with multiple funding sources in less than a year before shifting priorities to another payment product as part of a international corporate restructure.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "The iProperty Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rea-group/",
+            "title": "General Manager, Indonesia (Rumah123.com)",
+            "description": "Worked for iProperty Group, managing their Indonesian business (Rumah123.com) in turning it into the #1 leading property portal in Indonesia with the largest number of agents, listings, developers and leads.\n\n- Managed the whole Indonesian business with a team of more than 120 employees under more than 9 departments in total.\n\n- Analyzed and worked on defining a long-term business vision and strategy for the Indonesian entity to pursue which provided clarity on where we want to be in the next 3-5 years.\n\n- Removed previous toxic unproductive company culture and transformed it into a happier, stronger, results-oriented, teamwork-focused, positive company culture that helped drove real business results.\n\n- Rebuilt more than 75% of the local leadership team and managed poor staff performance out the company which helped foster greater accountability and ownership on both individual and team targets and KPIs.\n\n- Drove Agent Sales Team to reach a new milestone for the whole Group of achieving 10,000 paying agents by end of 2014 via more than 30% growth y-o-y with depth product revenues seeing more than 150% growth.\n\n- Launched the first exclusive Coffee Table Book product titled \"Indonesia Top Property Developers 2014/2015\" which generated more than IDR 1 billion in revenues and distributed nation-wide via national bookstores and other distribution channels.\n\n- Led a massive UX/UI revamp effort as part of an initiative to modernize our aging technology, product and consumer experience which resulted in significant increase in traffic engagement metrics such as time on site, bounce rate, and page views.\n\n- Worked closely with the Product and Technology team in building the 1st Agent Android Mobile app and 1st Agent iOS Mobile app and launched it to market. Completed design & prototype for next-gen Consumer Android and iOS Mobile app as part of a larger mobile strategy for the business.\n\n- Founded the concept of the first annual Jakarta Property Week expo/show.",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEA8N_DSsRn0Q/company-logo_400_400/0/1636331627220/rea_group_logo?e=1712793600&v=beta&t=C-asmisiq_9agZtFAAELOAovHrv31_m9bikfukALfXg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": "Computing Science and Business Administration",
+            "degree_name": "Bachelor of Science; BSc.",
+            "school": "Simon Fraser University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1712793600&v=beta&t=0TLTFFjytp8MhHUaUOTEm_o6TkwWGAGQqrOqno8rsm8",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jonathan-sudharta-60a8658",
+            "name": "Jonathan Sudharta",
+            "summary": "\u2022CEO/ Co Founder Halodoc",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lwastuargo",
+            "name": "Listiarso Wastuargo",
+            "summary": "Cheerleader | ex-Top 1% DoTA Player | Offlane",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kristian-frits-harris-sinaulan-04610744",
+            "name": "Kristian Frits Harris Sinaulan",
+            "summary": "Founder & CTO, Jutsoo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/williamtanuwijaya",
+            "name": "William Tanuwijaya",
+            "summary": "Co-founder & Co-Chairman at GoTo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/biancahasiandra",
+            "name": "Bianca H.",
+            "summary": "Expansion Lead at Via Work",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ckirpalani",
+            "name": "Chiragh Kirpalani",
+            "summary": "Founder & COO at Ayoconnect \u2014 Powering the Indonesian API Economy | Angel Investor | Startup Advisor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jakobrost",
+            "name": "Jakob Rost",
+            "summary": "Building SEA's Open Finance Ecosystem",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/prasetya-setiawan-8658b084",
+            "name": "Prasetya Setiawan",
+            "summary": "To provide our CUSTOMER the MOST AFFORDABLE and TRUSTABLE gaming needs",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Mario Gaw",
+            "link": "https://hk.linkedin.com/in/mario-gaw-1387b745",
+            "summary": "--",
+            "location": "Hong Kong-Cina"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

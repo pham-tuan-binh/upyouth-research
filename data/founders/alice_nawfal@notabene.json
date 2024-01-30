@@ -1,0 +1,465 @@
+{
+    "public_identifier": "alicenawfal",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/alicenawfal/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221622Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9d3ae8b6e3ab0ea5d52e725bafe9933726c6f442f004745792f297965a1e9837",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/alicenawfal/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221622Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b9d75541c1d777860c7b1a14d1de2c670601d98210a0944278c29cd993445653",
+    "first_name": "Alice",
+    "last_name": "Nawfal",
+    "full_name": "Alice Nawfal",
+    "follower_count": 4797,
+    "occupation": "Chief Operating Officer at Notabene",
+    "headline": "Co-Founder & COO at Notabene (YCS20). We are hiring!",
+    "summary": "Deeply passionate about the future of identity, fintech and decentralized technologies | Experienced  operator in early stage fintech & blockchain start-ups, with a strategy consulting background | Public policy background (Harvard MPA), Wharton MBA, MIT Undergrad (Math and Economics)",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Notabene",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/notabene-id/",
+            "title": "Chief Operating Officer",
+            "description": "Notabene is a crypto pre-transaction decision making platform. We help companies identify and stop high-risk transactions before they settle, as well as comply with strict requirements like the travel rule and counterparty sanctions screening. Using real-time data and smart rules engine, companies can now allow safe transactions with crypto and grow who they transact with. Check us out at Notabene.id!",
+            "location": "New York, United States",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFjA2_JR3GX7A/company-logo_400_400/0/1630462390910/notabene_id_logo?e=1714608000&v=beta&t=xNN7wRu7WM3O3vO6-TEdIMX9oG1Zym2_-oUsNbSQIDw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "ConsenSys",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/consensys-software-inc/",
+            "title": "Director Of Business Operations",
+            "description": "Leading strategy and operations at uPort, Consensys' digital identity solution (www.uport.me)",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE3hYT2QCBRzw/company-logo_400_400/0/1687864720039/consensys_software_inc_logo?e=1714608000&v=beta&t=wENW6DwWpu1lsGMZ7phZanJJXg-ClIpnNSputtn2eE8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "uPort",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uport/",
+            "title": "Chief Operating Officer",
+            "description": "Decentralized identity infrastructure and user-centric data, anchored on the Ethereum blockchain",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEUo7DsJTPEpw/company-logo_400_400/0/1630570189330/uport_logo?e=1714608000&v=beta&t=oVFEWnpfbBJMxl5nqMczE5B2RN6Ir16Pxwhgki0LyFs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            },
+            "company": "norbloc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/norbloc/",
+            "title": "MBA Intern",
+            "description": "KYC Blockchain platform",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEyvWab16dqYg/company-logo_400_400/0/1630645207359/norbloc_logo?e=1714608000&v=beta&t=6xsCxfH13sxlBkIKdhXTV3IbJyrE2FdmdBdxICYSMrs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Prodigy Finance",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/prodigy-finance/",
+            "title": "MBA Summer Intern",
+            "description": "Built market entry strategy/implementation plan for a new product. Also, developed models to forecast current student loan market size across schools and programs for international students.",
+            "location": "New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHvXyZukQyPDg/company-logo_400_400/0/1673430381609/prodigy_finance_logo?e=1714608000&v=beta&t=mbSmGZoZZXUOdz2mXRJIylP9yl0a615WSEpoSGPUrpE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "The Economist",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-economist/",
+            "title": "Associate",
+            "description": "Conducted high-impact, data-driven analysis in public policy at the Economist Intelligence Unit\n \nExpertise: gender, unemployment, youth, and future or work / labor",
+            "location": "Greater New York City Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGDT-4-61kkkg/company-logo_400_400/0/1631357330768?e=1714608000&v=beta&t=4POs7UR4Y0Ik5UpiZuXX8jiJ4Es65rNzRVMK5aznI3Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Bain & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bain-and-company/",
+            "title": "Associate Consultant",
+            "description": "Industries covered: media and tech, consumer goods, healthcare",
+            "location": "Manhattan, Boston",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF-f0ob5Mu0lQ/company-logo_400_400/0/1688168545058/bain_and_company_logo?e=1714608000&v=beta&t=CUfX48453W_3V_NJtCTuSzBf-F9dvhVB0Yt83ngLEv0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "Bain & Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bain-and-company/",
+            "title": "Associate Consultant Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF-f0ob5Mu0lQ/company-logo_400_400/0/1688168545058/bain_and_company_logo?e=1714608000&v=beta&t=CUfX48453W_3V_NJtCTuSzBf-F9dvhVB0Yt83ngLEv0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2011
+            },
+            "company": "MIT",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/mit/",
+            "title": "Research Assistant - Development Economics",
+            "description": "Research with Professor Dave Donaldson",
+            "location": "Greater Boston Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1714608000&v=beta&t=5lYeDfFp-kNSEi1xLk5lAw-_PUlGbHcCwBK6m_lCgv0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "Al Majmoua - The Lebanese Association for Development",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/almajmoua/",
+            "title": "Research Analyst",
+            "description": "Market research for Microfinance products in different regions of Lebanon",
+            "location": "Lebanon",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE-KUlSSdK81Q/company-logo_400_400/0/1630494647212/almajmoua_logo?e=1714608000&v=beta&t=cbhE26QUPCq4u7yrDNjCHsS2hplK0Les_mQS88LZ4Rs"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Mathematics and Economics",
+            "degree_name": "Bachelor of Science",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1714608000&v=beta&t=5lYeDfFp-kNSEi1xLk5lAw-_PUlGbHcCwBK6m_lCgv0",
+            "grade": null,
+            "activities_and_societies": "International Student Association Co-president; Lebanese Club at MIT, Treasurer and Secretary; Number 6; 100K Competition; Ideas Competition; Economics Department Grader"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Public Administration (MPA)",
+            "school": "Harvard Kennedy School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGz7JtcRoH-Hg/company-logo_400_400/0/1631329665234?e=1714608000&v=beta&t=KLdBafl3SNRalhMWcgEGsfZEKsJ-E42b3bLopLV6Gbg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Finance and Entrepreneurial Management",
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "The Wharton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1714608000&v=beta&t=-1i7qWSTmR9Ck4D_nBunnhRxO4d-f9tKwgcoQReBKkE",
+            "grade": null,
+            "activities_and_societies": "Alumni Relations Director of Entrepreneurship Club\nCultural and Communications Chair of MENA Club\nActive member of the Private Equity and Venture Capital Club and Fintech Club"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": null,
+            "degree_name": "International Baccalaureate Diploma",
+            "school": "Sagesse High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Bulgarian",
+        "French",
+        "Spanish"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Tech Governance: The Future of Digital Identity",
+            "publisher": "World Legal Summit",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "http://www.lbwwls2020.legalbusinesslibrary.com/index-h5.html?page=1#page=86"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Lebanese International Finance Executives (LIFE) Scholar",
+            "issuer": "LIFE Lebanon",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2016
+            },
+            "description": null
+        },
+        {
+            "title": "Emirates Leadership Initiative Fellow",
+            "issuer": "Government of the United Arab Emirates, Center for Public Leadership, and the Middle East Inititiative",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "title": "\"Enabling Trade - Valuing Growth Opportunities\"\u200b with Bain, the World Bank, and the WEF",
+            "description": "A case study launched by Bain & Company, in conjunction with the World Bank and the World Economic Forum to be presented in January 2013 in Davos. \u201cEnabling Trade: Valuing Growth Opportunities\u201d finds that reducing supply chain barriers can increase global GDP up to 6 times more than removing all import tariffs.  Such large increases in GDP would be associated with positive effects on unemployment, potentially adding millions of jobs to the global workforce.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "title": "\"No Ceilings: The Full Participation Project\"\u200b with the Economist, the Clinton Foundation and the Gates Foundation",
+            "description": "Marking the 20th anniversary since Secretary Clinton gave a historic speech in support of women rights in Beijing, we launched together with the Clinton and Gates Foundations' a data-driven approach to gender quality.\n\nNo Ceilings aims to measure the gains and gaps that women and girls have achieved across more than 190 countries over the past two decades. We collected more than 850K datapoints covering different areas important for progress (e.g. health, economic opportunity, education, political participation), and have presented our findings in \"The Full Participation Report\" (See http://noceilings.org/report/report.pdf). ",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "title": "Project Leader",
+            "cause": "EDUCATION",
+            "company": "Inspire Nonprofit Consulting",
+            "company_linkedin_profile_url": null,
+            "description": "- Developed an online expansion strategy for a non-profit that provides supplemental educational materials\n- Developed donor and funding strategy for an educational non-profit that seeks to provide better quality of education to students in Africa",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            },
+            "title": "Board Member",
+            "cause": "HEALTH",
+            "company": "TAMTAM (Together Against Malaria)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tamtam-together-against-malaria-/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFv1J2RcRlVIA/company-logo_400_400/0/1630607385146/tamtam_together_against_malaria__logo?e=1714608000&v=beta&t=HI7OIKN_9ZebTnZqFfvy3BUj8iTdwKLLNZD9zQjSu7U"
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/ajunge",
+            "name": "Andres Junge",
+            "summary": "Co-Founder and CTO at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pelleb",
+            "name": "Pelle Br\u00e6ndgaard",
+            "summary": "CEO of Notabene (YC S20) - hiring in tech and ops. 20 years of Crypto/ID/Fintech. Co-founded uPort and Kipochi. Ex. ConsenSys, Doximity, and AltaVista.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ania-lipinska",
+            "name": "Ania Lipinska",
+            "summary": "Co-founder & Chief Product Officer at Notabene (YCS20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lchnichols",
+            "name": "Lauren Nichols",
+            "summary": "Global Head of Business Development",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/cbdcfluency",
+            "name": "Inga M.",
+            "summary": "\ud83c\udde8\ud83c\uddedDavos '24 WEF Technology Pioneer I CEO @ Fluency I Digital Euro MAG @ European Central Bank I CBDC Technology Workgroup @ Bank of England I UK FinTech of the Year '23",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/calvinkwon1",
+            "name": "CaIvin K.",
+            "summary": "Head of People at Notabene",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/paulinagrnarova",
+            "name": "Paulina Grnarova",
+            "summary": "Co-Founder & CEO at DeepJudge | PhD ETH in AI | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khushboo-jha-wharton",
+            "name": "Khushboo Jha",
+            "summary": "Founder & CEO, BuyProperly | Ex-Amazon | Wharton MBA | IIT Kharagpur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anna-kirk-b86525123",
+            "name": "Anna Kirk",
+            "summary": "Investor at Fin Capital",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/derekdzhao",
+            "name": "Derek D. Zhao",
+            "summary": "Director of Finance & Operations at Notabene",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

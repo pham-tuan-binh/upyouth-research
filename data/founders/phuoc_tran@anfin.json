@@ -1,0 +1,313 @@
+{
+    "public_identifier": "phuoc-tran-b9979611",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/phuoc-tran-b9979611/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221314Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=74a0994388f20d0fa06c98489d66c0a0bf8c45c9013f235549b93136f6af46b0",
+    "background_cover_image_url": null,
+    "first_name": "Phuoc",
+    "last_name": "Tran",
+    "full_name": "Phuoc Tran",
+    "follower_count": 2117,
+    "occupation": "Co-Founder & CEO at Anfin (YC W22)",
+    "headline": "Co-Founder & CEO at Anfin (YC W22)",
+    "summary": null,
+    "country": "VN",
+    "country_full_name": "Vietnam",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Anfin (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/anfin-vn/",
+            "title": "Co-Founder & CEO",
+            "description": "AnFin is a venture-backed fintech company building the most innovative products in the wealth management and brokerage space. We strongly believe in the power of the stock market to transform developing economies. Therefore, we want to democratize access to stocks, bonds, and structured investment products. By leveraging scalable technology and strategic partnerships, AnFin plans to build an ecosystem of products that connect stakeholders in a seamless way.",
+            "location": "Ho Chi Minh City, Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQETd0dQdJI4-Q/company-logo_400_400/0/1681446328750?e=1707955200&v=beta&t=yxoU7hkU7Jlya-ARviaKHQqt46Zd-7RCfORDC8e8Gek"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "VRED",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vred-com/",
+            "title": "Co-founder & CEO",
+            "description": "VRED is a large sales-agent-platform with 500,000+ registered agents throughout 63 provinces of Vietnam. It works with corporate clients such as banks, finance companies, insurance companies, brands, and e-commerce companies to innovatively distribute their goods and services to provincial areas effectively at lower cost. VRED platform enabled micro-entrepreneurs in provincial areas to earn additional income and improve their lives. Through VRED distribution network, VRED creates easy access to high quality goods and services at competitive price, especially financial products, in many Vietnamese communities",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFapLHWl35s2Q/company-logo_400_400/0/1630588566055/vred_com_logo?e=1707955200&v=beta&t=bnBIEfdI5pGhd-cM82vo1CZYj0Egj-ogq9UTsQM-YoE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Ahamove",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ahamove/",
+            "title": "Co Founder",
+            "description": "Ahamove is one of the largest on-demand delivery platforms in Vietnam. Ahamove platform connects suppliers and merchants, capitalizing on excess capacity in the economy to create value for suppliers and help merchants grow their business",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQE0vtQGw5q_4A/company-logo_400_400/0/1698923149844/ahamove_logo?e=1707955200&v=beta&t=ArUFS61ptXSr7Qn7JUCGrVD8wYIIFoDISQ2oV0X-I8c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Giaohangnhanh.vn",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/giaohangnhanh/",
+            "title": "Project Head - Gi\u00e1m \u0110\u1ed1c D\u1ef1 \u00c1n",
+            "description": null,
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFK4oWqhGj_uw/company-logo_400_400/0/1683278482622/giaohangnhanh_logo?e=1707955200&v=beta&t=KVlpHimJZOpqT10nb55BCuqYLZzJa95lP1Qpnk_zkSU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Mekong Communications Corp",
+            "company_linkedin_profile_url": null,
+            "title": "Online Research Manager - comScore Sales Manager",
+            "description": "\u2022\tWorked with Publishers, Agencies and Brands to develop market strategy and lead sales effort for comScore products in Vietnam.\n\u2022\tConducted training sessions for clients on how to optimize comScore research data for business & marketing strategy and media planning.",
+            "location": "Vietnam",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "company": "Metrica Inc.",
+            "company_linkedin_profile_url": null,
+            "title": "Logistics Specialist",
+            "description": "Metrica is a federal subcontractor. It manages several health initiative contracts in multiple African and Asian countries.\n\u2022\tManaged health initiative project in Zambia and Unganda\n\u2022\tOrganized workflow and processed administrative duties to ensure continuing operations\n\u2022\tCommunicated and monitored subcontractors\u2019 activities and spending to meet client\u2019s expectation",
+            "location": "United States",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "company": "DHA Group",
+            "company_linkedin_profile_url": null,
+            "title": "Contracts Intern",
+            "description": "\u2022\tContributed to streamline monthly reporting streamlined process\n\u2022\tRe-organized company\u2019s database, centralizing the data into a sharable database that improved searchability and access\n\u2022\tAudited financial inconsistencies and corrected the records\n\u2022\tProcessed Purchasing Orders from Government and drafted Task Orders for Project Managers/Sub-contractors.",
+            "location": "United States",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Easy Taxi",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/easy-taxi/",
+            "title": "Entrepreneur in Residence/Operations Manager",
+            "description": "Easy Taxi was a Rocket Internet backed venture. It pioneered ride-hailing services in Vietnam. It connected the fragmented taxi drivers to provide a standardized and high-quality service to customers in Ho Chi Minh city and Hanoi.\n\n\u2022\tResearched the taxi market and developed strategies to achieve key KPIs\n\u2022\tImproved operational processes to acquire, onboard and manage taxi drivers\n\u2022\tSet up data structure to monitor key performances for strategy pivots and improvements\n\u2022\tLed operations to scale growth",
+            "location": "Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHQqcPmiECsSw/company-logo_400_400/0/1631320762369?e=1707955200&v=beta&t=zf_nS2kLlUlkCsmaJkUXqdIuQvpWaggG-0Mp7lWqVb8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Deltek",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deltek/",
+            "title": "Associate Research Analyst",
+            "description": "Deltek is a software and solutions company with locations across multiple countries. It has many different products, among them is GovWin IQ. GovWin IQ is a government contracting intelligence platform that enables businesses to manage public sector opportunities, pursue deals faster, and plan strategically to get ahead of the competition\n\n\u2022\tEvaluated RFPs/RFQs/RFIs to find match opportunities for clients\n\u2022\tAnalyzed spending reports across agencies to forecast out the trends and advise clients on their acquisition strategy\n\u2022\tEngaged with government officials and commercial clients to see out opportunities and provide research support\n\u2022\tRepresented Deltek at industry events and conferences to report on public policy and market trends\n\u2022\tPresented Deltek\u2019s products to prospective client\u2019s executives",
+            "location": "Herndon, US",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4aZ6_zAe6MQ/company-logo_400_400/0/1677100273595/deltek_logo?e=1707955200&v=beta&t=oS_yah9BBKWcNo-lriF138uxhdsfqywImmk8dNZ75FE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "International Studies; International Business                         01",
+            "degree_name": "B.A",
+            "school": "American University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH7mDPifbpz7Q/company-logo_400_400/0/1631307101917?e=1707955200&v=beta&t=6ZwYVSs_h6Uwt-AwOyFdu2ZN6OFMtl9-lX2Fo_4D8YA",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/hiepnt3012",
+            "name": "Hiep Nguyen",
+            "summary": "Co-founder at AnFin Vietnam",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joshua-hong-72ba916a",
+            "name": "Joshua Hong",
+            "summary": "Co-Founder & Chief Business Officer at 1LONG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lou850",
+            "name": "Louis T. Nguyen",
+            "summary": "Chairman and CEO at Saigon Asset Management (SAM)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/truong-nguyen-bomi-3273b05a",
+            "name": "Truong  Nguyen (Bomi)",
+            "summary": "Co-founder/ CEO @ Rootopia \ud83e\udef6\ud83c\udffc Looking for talents who being inspired to build up assets for the next gens",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jameslvuong",
+            "name": "James Vuong",
+            "summary": "Founder & CEO of Infina.vn (YC S21), serial founder and former VC",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/quannguyen89",
+            "name": "Quan Nguyen",
+            "summary": "CEO & Founder @GIMO (YC W22) | We're hiring",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michaeldo710",
+            "name": "Michael Do",
+            "summary": "1LONG: Responsible Investment Solutions for Vietnam's Rising Affluent",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aliciachipham",
+            "name": "Chi Pham",
+            "summary": "Fintech | Product | Operations",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/quang-mai",
+            "name": "Quang Mai",
+            "summary": "BUM @Anfin (YC W22) | ex-Hewlett Packard",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/thuy-nguyen-372b51220",
+            "name": "Thuy Nguyen",
+            "summary": "Chief Accountant - CPA",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Phuoc Tran",
+            "link": "https://www.linkedin.com/in/phuoc-tran-72b854a",
+            "summary": "CTO",
+            "location": "Dublin, CA"
+        },
+        {
+            "name": "Phuoc Tran",
+            "link": "https://vn.linkedin.com/in/tranquiphuoc",
+            "summary": "Project Manager at Viet Han Petroleum Industrial Gas Joints Stock Company",
+            "location": "Vietnam"
+        },
+        {
+            "name": "Phuoc Tran",
+            "link": "https://vn.linkedin.com/in/phuoc-tran-065913aa",
+            "summary": "Project manager- Architect Electrical/Electronic Products",
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        {
+            "name": "Phuoc Tran",
+            "link": "https://vn.linkedin.com/in/phuoc-tran-7baa46163",
+            "summary": "Software Engineer",
+            "location": "Ho Chi Minh City, Vietnam"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

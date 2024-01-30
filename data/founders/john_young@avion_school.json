@@ -1,0 +1,318 @@
+{
+    "public_identifier": "work-john-young",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/work-john-young/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221610Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d66fb20d52a9c9649d359af7713b2cf4811484b1689e40d6ab69d698b96323ad",
+    "background_cover_image_url": null,
+    "first_name": "John",
+    "last_name": "Young",
+    "full_name": "John Young",
+    "follower_count": null,
+    "occupation": "Co-founder & COO at Avion School",
+    "headline": "Co-founder & COO at Avion School (YC W21)",
+    "summary": "Bridging the gap between untapped talent in Southeast Asia and software engineering opportunities in Silicon Valley.",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": "Metro Manila",
+    "state": "National Capital Region",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Avion School",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/avionschool/",
+            "title": "Co-founder & COO",
+            "description": null,
+            "location": "National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8MSdT-ccODw/company-logo_400_400/0/1613496805705?e=1687392000&v=beta&t=d8NORQ9mz-g7FVUs91PBKMRnrujgZVmTcQBmXgRMx9M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "On Deck",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/beondeck/",
+            "title": "Course Creator Fellow (ODCC1)",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFIB4x9n1R9FQ/company-logo_400_400/0/1675897482617?e=1687392000&v=beta&t=856F1YLqR61-L0xzB6LBSC0qJVUxqalB7twcIUHb7xU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "PDAX | Philippine Digital Asset Exchange",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pdaxph/",
+            "title": "Product",
+            "description": "The Philippine Digital Asset Exchange (PDAX) is a centralized order-book exchange enabling Filipinos to buy and sell digital assets directly with Philippine Peso (PHP).\n\nMy time in PDAX was focused on helping build, test, and launch the exchange. I held positions from research, to design, then spent the last run of my stint there in growth.",
+            "location": "NCR - National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFA5QXLuzzfpw/company-logo_400_400/0/1671500755602?e=1687392000&v=beta&t=MiHjDcCeSgowm2H4hglBHTFxVf5vmVWbD8Lmr0RJ9GQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "PDAX | Philippine Digital Asset Exchange",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pdaxph/",
+            "title": "Growth",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFA5QXLuzzfpw/company-logo_400_400/0/1671500755602?e=1687392000&v=beta&t=MiHjDcCeSgowm2H4hglBHTFxVf5vmVWbD8Lmr0RJ9GQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "company": "PDAX | Philippine Digital Asset Exchange",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pdaxph/",
+            "title": "Product Design",
+            "description": "Partnered with Product Design Lead & Business Development Manager to oversee 2-month long open beta testing, tracking user flows, discovering bottlenecks, and documenting consistent user behavior--all of which led to strategic decisions in designing our exchange.\n\n\u2022 Designed initial wireframes for an updated version of our landing page based on beta-user feedback and internal testing (https://pdax.ph/)\n\u2022 Analyzed existing information architecture to propose a new content flow of administrative tools.\n\u2022 Applied initial user feedback on a proposed design for sign up and KYC flows to reduce drop-off points.\n\u2022 Conducted usability tests with 10 closed-beta users and drafted a report including impeding user flows, corresponding design solutions, and feature requests. (Our final study indicated that the product was ready for launch and will be met positively by our target market)\n\u2022 Tools Used: Hotjar, Adobe XD",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFA5QXLuzzfpw/company-logo_400_400/0/1671500755602?e=1687392000&v=beta&t=MiHjDcCeSgowm2H4hglBHTFxVf5vmVWbD8Lmr0RJ9GQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "PDAX | Philippine Digital Asset Exchange",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pdaxph/",
+            "title": "UX Research",
+            "description": "\u2022 Conducted and managed mass user research survey/email marketing campaigns to over 6000+ users.\n\u2022 Performed a/b tests on email marketing study using click-through rate (CTR), open rate, and intentional design choices as testing variables.\n\u2022 Increased open-beta applications by 40% in over two months by proposing new email templates.\n\u2022 Created manuals that informed internals of current user personas and market segments for the main exchange.\n\u2022 Tools Used: Drip, Adobe XD.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFA5QXLuzzfpw/company-logo_400_400/0/1671500755602?e=1687392000&v=beta&t=MiHjDcCeSgowm2H4hglBHTFxVf5vmVWbD8Lmr0RJ9GQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "MedGrocer",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/medgrocer/",
+            "title": "Product",
+            "description": "MedGrocer's ePharmacy eliminates the inefficient processes brought upon the traditional infrastructure of drugstores through its digital platform. Customers can order online and have their medicine delivered to their doorstep.\n\nAlongside MedGrocer's online pharmacy is its corporate health services which enable BPOs to optimize medicine expenses, reduce administrative burden, and generate data-driven decisions moving forward.\n\n\u2022 Worked with Product Manager to initiate the latest growth strategy of entering clinic management services.\n\u2022 Researched legal compliance (DOLE, OSH Standards), and acquired permits for market expansion.\n\u2022 Designed corporate medicine benefit programs (i.e proactive nursing treatment, quarterly checkups, lifestyle management interventions) aimed to reduce BPOs most prominent illnesses and HMO costs.\n\u2022 Launched partnership with local NGO Red Ribbon to partake in distributing HIV test kits to communities in need of assistance.\n\u2022 Contributed medical research to the internal repository for diseases that serve as the backbone for designing corporate interventions.",
+            "location": "NCR - National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFjkcx3yECxSQ/company-logo_400_400/0/1581469505276?e=1687392000&v=beta&t=gO_RMuHH4CFfQczvkeoSWXQyYy1TNFamsyTC1YOVSYU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W21 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1687392000&v=beta&t=8jZzXfJpHtWEQS3jIxtpPBowMrnpiWXyWsqXWE65xVA",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Bachelor of Science in Management Information Systems",
+            "school": "Ateneo de Manila University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE-u2zCop0Eig/company-logo_400_400/0/1627748006583?e=1687392000&v=beta&t=RF-xDVN4eE5WGR_1hEo0K1rCVjf8qwTkjxSRD2Nrloc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "High School Diploma",
+            "school": "Xavier School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF2-lOGyGGfBg/company-logo_400_400/0/1519867592173?e=1687392000&v=beta&t=iWC9pagiC31LgbGXS94HBh0PVRtaJkJupkZWHNqp1HE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Filipino",
+        "Mandarin"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Finalist, Paradigm: Business Case Competition 2019",
+            "issuer": "Ateneo Management Association, PhilamLife",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "description": null
+        },
+        {
+            "title": "National Champion & Best Speaker for Entrepreneurship, National Youth Business Conference (NYBC) 2018: Entrepreneur Case Competition",
+            "issuer": "UP Business Administration Council, Launchgarage",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "\u00b7 Ranked 1st place out of 10 teams from around the Philippines.\n\u00b7 Pitched \"Bibli,\" a B2C E-Commerce marketplace for retail bookstores to partners from Launchgarage."
+        },
+        {
+            "title": "Philippines Representative & People's Choice Award, University of Technology Sydney (UTS): International Technology Innovation Competition 2017 (Kuala Lumpur)",
+            "issuer": "University of Technology Sydney",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "description": "\u00b7 Placed in the final 3 out of 100+ teams in South East Asia.\n\u00b7 Pitched \"N-Light,\" a Li-Fi integrated smart city that impacts communication, education, and privacy.\n\u00b7 Flown to Kuala Lumpur to give a 15-minute presentation on smart cities in front of a panel of international judges.\n\nRead more here: https://lifestyle.inquirer.net/265232/xavier-school-students-bag-double-awards-intl-technology-innovation-tilt/?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Certificate, AI For Everyone",
+            "license_number": "SBAAFPWCKCAN",
+            "display_source": "coursera.org",
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/verify/SBAAFPWCKCAN"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/victorjosephrivera",
+            "name": "Victor Rivera",
+            "summary": "CEO at Avion School",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/germainekaw",
+            "name": "Germaine Erika Kaw",
+            "summary": "MedGrocer Co-Founder & COO | Ex-Bain | ADMU",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/luis-sia-356877148",
+            "name": "Luis Sia",
+            "summary": "Co-Founder @ PayMongo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jaimesiy",
+            "name": "Jaime Siy",
+            "summary": "Co-founder at Instahomes | Bain & Co.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wesleydelacruz",
+            "name": "Wesley Dela Cruz",
+            "summary": "Looking for early stage startups in PH to invest in",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gablooblue",
+            "name": "Gabriel Henry Lopez",
+            "summary": "Building the Philippine Medical Supply Ecosystem -- CEO @ MedHyve \ud83d\udce6\ud83c\udfe5. Dropout UP Diliman ComSci",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kimberlyyao",
+            "name": "Kimberly Yao",
+            "summary": "Co-Founder and CEO at CloudEats",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andoramos",
+            "name": "Fernando Ramos",
+            "summary": "ODD CEO | Iterative W22 | Empowering entrepreneurs who extra income from empty spaces",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dayvough",
+            "name": "David Marquez",
+            "summary": "CTO @ Shipmates (YC S22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hosh-domingo-7713b1183",
+            "name": "Hosh Domingo",
+            "summary": "Software Engineer at HCL Technologies",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

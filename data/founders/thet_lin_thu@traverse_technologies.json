@@ -1,0 +1,242 @@
+{
+    "public_identifier": "thetlinthu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thetlinthu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221701Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=43808eac767046c474c077a911b1408f1c3afde5a19a6280e91c4d57f7f60a3a",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thetlinthu/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221701Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=314bc3e50d455d8b19cea2cfd881f59b1609ed514346ec84dd0d03545d881027",
+    "first_name": "Thet",
+    "last_name": "Lin Thu",
+    "full_name": "Thet Lin Thu",
+    "follower_count": 7861,
+    "occupation": "Chief Digital Officer at General Language",
+    "headline": "CDO at General Language and Hire Digital, YCombinator Alum, ex Private Equity in Renewables and Infrastructure",
+    "summary": "I am the co-founder and CEO of traverse.ai. Traverse is automating the process of feasibility assessments of large and complex capital infrastructure projects using AI and automation. We start from fundamentals in civil/mechanical/electrical and geospatial engineering which then leads to full project finance commercial modelling. Our workflow automation exhausts all possible permutations to find the best pool of projects in terms of risk, financial performance and environmental considerations. We have applied our platform to Wind and Hydropower and have worked on 10GW of projects globally (~$2B in constructed asset value). Traverse is funded by Silicon Valley investors including Y Combinator and Lowercarbon Capital. https://www.traverse.ai",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Traverse Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traverse-ai",
+            "title": "CEO & Co-Founder",
+            "description": "Traverse is automating the process of feasibility assessments of large and complex capital infrastructure projects using AI and automation. We start from fundamentals in civil/mechanical/electrical and geospatial engineering which then leads to full project finance commercial modelling. Our workflow automation exhausts all possible permutations to find the best pool of projects in terms of risk, financial performance and environmental considerations. \n\nWe have applied our platform to Wind and Hydropower and have worked on 10GW of projects globally (~$2B in constructed asset value). Traverse is a multidisciplinary team made of private equity professionals, computer scientists and civil/mechanical/electrical engineers. \n\nTraverse is funded by Silicon Valley investors including Y Combinator and Lowercarbon Capital (one of the first investors in Uber and Instagram). https://www.traverse.ai",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8dGggGyizeA/company-logo_400_400/0/1630640037312/traverse_ai_logo?e=1709769600&v=beta&t=dOr2uM7-Koe2MGeTL-BKQzu1taxFgxmkDhHIDdJnjAc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Hire Digital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hiredigitalco",
+            "title": "Chief Digital Officer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEwIBWF3uhgLA/company-logo_400_400/0/1630586386145/hiredigitalco_logo?e=1709769600&v=beta&t=Fdpwm_2kg3Ggqe-NuvO11Ybb3C3sxqBENo6f4lwmEFQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "General Language",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/avie-ai",
+            "title": "Chief Digital Officer",
+            "description": "General Language helps organizations build customized Generative AI capabilities for internal and external use \u2014 without compromising on accuracy, safety and data privacy. General Language is the Generative AI arm of Poly Studios. Poly, headquartered in Singapore and New York, serves Fortune 500 clients such as Unilever, 3M, Citi, Samsung, Expedia, eBay and Amazon with engineering and marketing solutions.\nhttps://www.generallanguage.ai/\nhttps://wearepolystudios.com/",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEHu6Kq-ycXkQ/company-logo_400_400/0/1699422815818/generallanguage_logo?e=1709769600&v=beta&t=mD2p9M4dKh43eW7D1bLKenBCf8ZPwkK8AAeB86bd10U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Armstrong Asset Management Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/armstrong-asset-management-pte-ltd",
+            "title": "Private Equity",
+            "description": "Armstrong Asset Management is a private equity fund manager that invests in renewable energy and resource efficiency platforms in Asia.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHwc2rnKNw_UQ/company-logo_400_400/0/1630664677947/armstrong_asset_management_pte_ltd_logo?e=1709769600&v=beta&t=I4UT9_08lF-pCVJyzIE8fWMAMiymQd_01zJ-XzW9_c0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "KfW",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kfw",
+            "title": "Carbon Finance Consultant (120MW Gas CCGT)",
+            "description": "Consulting for a 120MW gas CCGT conversion and 12MW gas heat recovery project in Indonesia achieve Clean Development Mechanism credits.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHr_pu3C9jmGg/company-logo_400_400/0/1630573524423/kfw_logo?e=1709769600&v=beta&t=naQcBG_fn09PEeo6VN9iFmykyq7Tq_P1-opHIyhQs0A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "E.ON",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/e-on",
+            "title": "Carbon Finance Consultant (40MW Hydropower)",
+            "description": "Consulting for the Hasang 40MW hydropower in Indonesia achieve Clean Development Mechanism credits.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF7fed0Gm-rYg/company-logo_400_400/0/1630556586072/e_on_logo?e=1709769600&v=beta&t=kL0OQpulf3I98Joc3fQUpxevNAVLaMaNtr9tkWw0hXY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "Biosphere Capital",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/biosphere-capital",
+            "title": "Carbon Finance",
+            "description": "Biosphere Capital is a clean energy consultancy and advisory based in Singapore.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQHBaFXmUQpkJA/company-logo_400_400/0/1631352289379?e=1709769600&v=beta&t=6lMtWbfXHeTlcHYq0whM0f3KQvxcKOuddV3jcqJSogM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "Cortus Energy AB (CE)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cortus-energy-ab-ce-",
+            "title": "Biomass Gasification",
+            "description": "Cortus Energy provides heat and power generation solutions for process industries (e.g. cement).",
+            "location": "Stockholm",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDRg0SUp54LQ/company-logo_400_400/0/1631348546470?e=1709769600&v=beta&t=Q8CALb3Kz1qhAICTaZMSUKpW-l0eJ92vYaV6s1HTnBg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": "YCW19 Batch",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1709769600&v=beta&t=3PhmNs5xyjB8ojWrGW-pvFjrKYBMSmRW6vQG_vd_kX8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor of Engineering",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5524/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1709769600&v=beta&t=92vjTYnCW40odgsd2bu64czzhial1as-6TcGCHFRQYw",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Burmese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Fumi Harahap-Bromander, Ph.D.\n\n\n\nThet is a young, bright consultant. I know Thet since August 2011. He supports me in two development of energy projects i.e hydropower and energy efficiency in power plant. I am very impressed with his capability to analyze and present technical, commercial, environmental, and sustainability aspects of the projects and transfer them to an integrated document. Not to mention his expertise in financial analysis. His intelligence allows him to comprehend many financial elements of energy project and able to evaluate different financial models in a relatively short time. He always provides accurate and precise recommendations to mitigate risks at early stage.     \r\n\r\nIt is a pleasure for me to have him in a team. Personally I wish Thet the best luck in his endeavors and I am pretty sure he will reach every milestone he pursues in his professional life.",
+        "Cynthia Hendrayani\n\n\n\nThet is a pleasure to work with. He is dependable, adheres to plan, while at the same time consultative, and adaptive to change. \r\n\r\nI am  very happy with the way he worked in my project: well planned, anticipative, pays attention to detail. Most valuable: he is willing to go all the way to get result. I would not hesitate to re-hire him again when the next opportunity arise."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "THET LIN THU",
+            "link": "https://mm.linkedin.com/in/thet-lin-thu-7bb27776",
+            "summary": "Data Center Project Manager at MPT",
+            "location": "Myanmar"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHjE0iucpcjGA/group-logo_image-shrink_48x48/0/1525133052168?e=1702051200&v=beta&t=bzidluUYr0BBMwQyYw1XwmJsODZojcNXvGIY_UKutpw",
+            "name": "Ecommerce Experts.  #1 Group for Ecommerce Best Practices.",
+            "url": "https://www.linkedin.com/groups/73825"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQEB7lu_jlh5dA/group-logo_image-shrink_48x48/0/1631817570678?e=1702051200&v=beta&t=7-sz80pyECb64MrXTQjZ_qPyVx4hi4WLNVJZAY40WJI",
+            "name": "Marketing Executive Network- CMO Strategy, Digital Marketing, Social Media, Mobile, Email, Analytics",
+            "url": "https://www.linkedin.com/groups/2088419"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

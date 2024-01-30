@@ -1,0 +1,616 @@
+{
+    "public_identifier": "kristian-frits-harris-sinaulan-04610744",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/kristian-frits-harris-sinaulan-04610744/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221247Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0edc71d70efc9e004b060e56a641b7ebf81d57fd07b5c24021ce9ba846f5a46a",
+    "background_cover_image_url": null,
+    "first_name": "Kristian Frits Harris",
+    "last_name": "Sinaulan",
+    "full_name": "Kristian Frits Harris Sinaulan",
+    "follower_count": 2913,
+    "occupation": "Founder & CTO at Jutsoo",
+    "headline": "Founder & CTO, Jutsoo",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": "West Java",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Jutsoo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jutsoo/",
+            "title": "Founder & CTO",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGKEWB2kVPcFQ/company-logo_400_400/0/1671588535926?e=1712793600&v=beta&t=XDIYPZsGJUByZaIfCq4nKnilCefFngKIRWdo9UdQa04"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "Bananas (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bananasid/",
+            "title": "Founder & CTO",
+            "description": "Building the future of groceries today! You never have to go to the supermarket ever again. We will deliver your groceries including fresh fruits and vegetables in organic quality directly to your home. Within 10 minutes and at supermarket prices. Changing how you spend your time on living better.\n\nWe are hiring Product, Engineering, and Marketing roles. If you or someone you know thinks that they would be perfect for the roles, please send me a DM.",
+            "location": "Jakarta Metropolitan Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFHjPf6H8sJhA/company-logo_400_400/0/1644257008895/bananasid_logo?e=1712793600&v=beta&t=HbacHx5EVs0kYRGEXXZHTBOZKOi9APyIml8-6J_YoZo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2021
+            },
+            "company": "Global Pay Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "Interim Chief Technology Officer",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "Global Pay Indonesia",
+            "company_linkedin_profile_url": null,
+            "title": "VP of Engineering",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "PT. TELEAKSES SOLUSINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Senior Project Manager",
+            "description": "My responsibilities are supervising several project managers on ongoing projects, managing developers on products development tasks, help presale activities such as  producing technical proposal and proof of concept activities.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2011
+            },
+            "company": "PT. TELEAKSES SOLUSINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Project Manager",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2009
+            },
+            "company": "PT. TELEAKSES SOLUSINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Senior System Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "PT. TELEAKSES SOLUSINDO",
+            "company_linkedin_profile_url": null,
+            "title": "Junior System Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2021
+            },
+            "company": "Cashbac",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cashbac/",
+            "title": "Interim Chief Technology Officer",
+            "description": null,
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEJ0lS8d7m4RQ/company-logo_400_400/0/1630606555337/cashbac_logo?e=1712793600&v=beta&t=MzU7kuzIw1Q971iy1f_Flr988Pm39pI6zh6039mnoCs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "Dimo Pay Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dimopay/",
+            "title": "VP of Engineering",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuzKYJFqAnMw/company-logo_400_400/0/1631326962354?e=1712793600&v=beta&t=N2KKTE9WF-qb25utgvzfbnqwU20Wbhdd160Y2TQbsww"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2018
+            },
+            "company": "DMG",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dmgcorp/",
+            "title": "VP of Engineering",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQG9wC1eJIgOOA/company-logo_400_400/0/1631392699275?e=1712793600&v=beta&t=4t0i0ybo59AY4aCmrcPSEPDpi8TXfqTRB-mIrEMcl_Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Rumah123.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rumah123/",
+            "title": "Head of Technology",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEJ5u-zdDPndA/company-logo_400_400/0/1650448193940/rumah123_logo?e=1712793600&v=beta&t=XAmoujsCi9o7M0EUwhv9ZHQxXQ0vbc73Bv1b7CxwwxY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "company": "Lazada Indonesia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lazada/",
+            "title": "Core Development Leader",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFLWq6zwV6npw/company-logo_400_400/0/1630661897909/lazada_logo?e=1712793600&v=beta&t=4dHIqaep-B1vcatDOSd1MviNDtOoILuTaZzg0n4Hlgk"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": "Informatics",
+            "degree_name": "Bachelor of Science (BSc)",
+            "school": "Universitas Pelita Harapan",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH7iq9AWKFmaQ/company-logo_400_400/0/1631308673383?e=1712793600&v=beta&t=I_3yEpTia8iSR6qbuZEB5tbJaWhpx9AH4O4i_dDYCBo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Regina Pacis Bogor High School (SMU)",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": null,
+            "title": "Rumah123.com Pro (iOS Apps)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Rumah123.com Pro (Android Apps)",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Rumah123.com",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "title": "XL Web2SMS Enhancement",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Bakrie Telecom IVR for Auto Outbound Balance Reminder capacity upgrade",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Bakrie Telecom IVR for Auto Outbound Balance Reminder features enchancements",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Bakrie Telecom USSD-like",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "IVR Notifications for Indosat as Ericsson Indonesia subcon",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Mobile Geolocation Application for BlackBerry and Android",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "title": "Mobile Tuitmine Application (Twitter Voice) for Android",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "title": "Bakrie Telecom IVR for Auto Outbound Balance Reminder capacity upgrade",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "title": "Bank Ganesha Call Centre",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "title": "PT. Serasi Autoraya (TRAC) Call Centre",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "title": "Bakrie Telecom IVR for Auto Outbound Balance Reminder capacity upgrade",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "title": "VXML IVR Call Flow for Indosat as Ericsson Indonesia subcon",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "title": "Bakrie Telecom IVR for Auto Outbound Balance Reminder",
+            "description": null,
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2008
+            },
+            "title": "Garuda Indonesia SMS Schedulling System as XL subcon",
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/mariogaw",
+            "name": "Mario Gaw",
+            "summary": "Founder & CEO, Jutsoo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ariawan",
+            "name": "Ari Awan",
+            "summary": "Managing Director/CTO at SMDV",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chandni-chainani",
+            "name": "Chandni Chainani",
+            "summary": "Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nugrakinzana",
+            "name": "Mahanugra Kinzana",
+            "summary": "A Marketer & Entrepreneur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/triahmadirfan",
+            "name": "Tri Ahmad Irfan",
+            "summary": "Co-founder & CTO at Lumina | Forbes 30 under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kendysusantho",
+            "name": "Kendy Susantho",
+            "summary": "VP of Engineering at Horego",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/prajogo-atmaja",
+            "name": "Prajogo Atmaja",
+            "summary": "Product Analyst at Jutsoo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chairunnisa21",
+            "name": "Chairun Nisa",
+            "summary": "QA Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nia-dini-oktavia",
+            "name": "Nia Dini Oktavia",
+            "summary": "QA Engineer at Jutsoo",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

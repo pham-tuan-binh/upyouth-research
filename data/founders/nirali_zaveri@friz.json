@@ -1,0 +1,497 @@
+{
+    "public_identifier": "niralizaveri",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/niralizaveri/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221611Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=74c1eb38211ef5429258c0df2282760c6526cfb60907e64b19ea8c6093846761",
+    "background_cover_image_url": null,
+    "first_name": "Nirali",
+    "last_name": "Zaveri",
+    "full_name": "Nirali Zaveri",
+    "follower_count": 8361,
+    "occupation": "CEO and Cofounder at Friz",
+    "headline": "CEO and Cofounder at Friz (YC W21)  |  Iterative Venture Partner | Sequoia Spark Fellow  |  Mastercard",
+    "summary": "I thrive in diverse and fast paced team based work environments and love growing through new challenges in my career. I am constantly in a process of learning and unlearning and enjoy the fintech industry for the same reason.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Iterative",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/iterativevc",
+            "title": "Iterative Venture Partner",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE8kVcekG6NdA/company-logo_400_400/0/1630588508797/iterative_capital_logo?e=1713398400&v=beta&t=ufJ5mKJP6K-6jvHIAW3-jORtMPQE_HJP4aT-NqpXGj0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Friz",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/usefriz",
+            "title": "CEO and Cofounder",
+            "description": "Built a neobank for freelancers, learnt valuable lessons and now building an AI copilot for content and performance marketing",
+            "location": "Singapore \u00b7 Remote",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQESISW6LAE1xA/company-logo_400_400/0/1630543629684/usefriz_logo?e=1713398400&v=beta&t=lDM6hlFYweG6q5x1PNLeS8ckfONWO9KhTT1u9loXMRI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Advisory Mentorship",
+            "company_linkedin_profile_url": null,
+            "title": "Youth Mentor",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "Housing and Development Board",
+            "company_linkedin_profile_url": null,
+            "title": "Research Intern",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "Ingenious Faces",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ingeniousfaces",
+            "title": "Mentor",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFeBlnaK7SByQ/company-logo_400_400/0/1668493613642/ingeniousfaces_logo?e=1713398400&v=beta&t=Ya2gPL-pRFLPwF8AwxDpQO1OIp8cZQdfqjY01KLgaHg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "Mastercard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mastercard",
+            "title": "Product Management Specialist - Digital Solutions",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGOW4NIyYRRqQ/company-logo_400_400/0/1631340300330?e=1713398400&v=beta&t=d2S8WOFE0kGVhpgiI8xNd7_L9-ySowIaasQLv8XX7RQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Mastercard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mastercard",
+            "title": "Associate Analyst - Commercial Payments Solutions",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGOW4NIyYRRqQ/company-logo_400_400/0/1631340300330?e=1713398400&v=beta&t=d2S8WOFE0kGVhpgiI8xNd7_L9-ySowIaasQLv8XX7RQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Mastercard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mastercard",
+            "title": "Associate Analyst - Digital Payments and Labs",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGOW4NIyYRRqQ/company-logo_400_400/0/1631340300330?e=1713398400&v=beta&t=d2S8WOFE0kGVhpgiI8xNd7_L9-ySowIaasQLv8XX7RQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "MasterCard",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mastercard",
+            "title": "Intern - Digital Payments and Labs",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGOW4NIyYRRqQ/company-logo_400_400/0/1631340300330?e=1713398400&v=beta&t=d2S8WOFE0kGVhpgiI8xNd7_L9-ySowIaasQLv8XX7RQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "SurePark",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/innovation-of-thingz-pte-ltd",
+            "title": "Finance Specialist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGtF862l_d2Cg/company-logo_400_400/0/1630613309345/innovation_of_thingz_pte_ltd_logo?e=1713398400&v=beta&t=fXabD6Wu4v10UjqMfT_nWBglz3UhQQx-wqb7ud6fd-0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "SMU - Singapore Management University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/singapore-management-university",
+            "title": "Teaching Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1630585940673/singapore_management_university_logo?e=1713398400&v=beta&t=simDzToB-eCJmKfRp6RZPvZam3u4Z58GnNiAOPpHrgg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1713398400&v=beta&t=9Iaf0MFJYwgxwsyVyDdKi3iLsMdrTVvBsSnuxgp8AJs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Double Major in Economics and Finance (Wealth Management Track) ",
+            "degree_name": "Bachelor of Science (Economics)",
+            "school": "Singapore Management University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/singapore-management-university",
+            "description": "Education at SMU has taught me to appreciate the need for constantly learning and unlearning to adapt and take control in any situation. ",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHz-TKrwq2GFA/company-logo_400_400/0/1630585940673/singapore_management_university_logo?e=1713398400&v=beta&t=simDzToB-eCJmKfRp6RZPvZam3u4Z58GnNiAOPpHrgg",
+            "grade": "Summa Cum Laude",
+            "activities_and_societies": "SMU Fintech, EYE investment Club, Rotaract Club, SMU Indian Diaspora"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Economics, Business, Maths",
+            "degree_name": "International Baccaluareate ",
+            "school": "Global Indian International School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Gujarati"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "org_name": "Iterative",
+            "title": "Portfolio Company",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "org_name": "Y Combinator",
+            "title": "W21 Batch - Founder",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Sequoia Spark Fellowship",
+            "issuer": "Sequoia India",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "description": "Sequoia Capital India chose 15 startups for Sequoia Spark Fellowship, a prestigious program for female founders in Southeast Asia and India."
+        },
+        {
+            "title": "Riser",
+            "issuer": "Gen E",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "description": "Top young entrepreneurs in Singapore recognised every batch"
+        }
+    ],
+    "accomplishment_patents": [
+        {
+            "title": "Computer system and computer-implemented method for authenticating a card-not-present payment transaction initiated using a user electronic device",
+            "issuer": "SG",
+            "issued_on": {
+                "day": 24,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "application_number": "10202001470P",
+            "patent_number": "10202001470P",
+            "url": null
+        },
+        {
+            "title": "Electronic system and computerised method for facilitating credit profiling of consumers based on merchant transaction data",
+            "issuer": "SG",
+            "issued_on": {
+                "day": 19,
+                "month": 1,
+                "year": 2018
+            },
+            "description": "Credit scoring algorithm for unbanked to boost issuer customer acquisition ",
+            "application_number": "SG8063-10201806187Y",
+            "patent_number": "SG8063-10201806187Y",
+            "url": null
+        }
+    ],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "title": "Secretary/Volunteer",
+            "cause": null,
+            "company": "Rotaract Club of Singapore Management University",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "title": "Probono Consultant",
+            "cause": "Economic Empowerment",
+            "company": "Angels of Impact",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/12954072/",
+            "description": "Partnered with a social enterprise in Indonesia to provide pro-bono strategy consulting and help them seek funding.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHYsVzk6yhP1w/company-logo_400_400/0/1631343151270?e=1713398400&v=beta&t=v5ccaFtbF8y3W5k6VQZQwJ7nS5zUJrZsJ7oWPTv9OX4"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Bachelor of Science  (Economics) - Summa Cum Laude",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Singapore Management University",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "IGCSE O' Levels",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Cambridge International Education",
+            "url": null
+        }
+    ],
+    "connections": 7975,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/hsukenooi",
+            "name": "Hsu Ken Ooi",
+            "summary": "Co-Founder and Managing Partner at Iterative",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/liyen-tan",
+            "name": "Liyen Tan",
+            "summary": "Founder & Chief Eating Officer @ Hawkr (Iterative S21) | Venture Partner at Iterative",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yinsylvia",
+            "name": "Sylvia Y.",
+            "summary": "VC | Supporting Founders | Customer Success",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chinmaychauhan",
+            "name": "Chinmay Chauhan",
+            "summary": "Startup Advisor & Investor | Co-Founder at BukuWarung (YC S20) | Forbes 30U30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/imanaqas",
+            "name": "Iman Aqas",
+            "summary": "CEO at Bueno.money - Get paid upfront, while your B2B customers pay on a flexible schedule",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Nirali Zaveri",
+            "link": "https://in.linkedin.com/in/nirali-zaveri-353b43170",
+            "summary": "Decoration at Private Company",
+            "location": "Mandvi"
+        },
+        {
+            "name": "Nirali Zaveri",
+            "link": "https://in.linkedin.com/in/nirali-zaveri-a25a925",
+            "summary": "Independent Fine Art Professional",
+            "location": "Surat"
+        },
+        {
+            "name": "Nirali Zaveri",
+            "link": "https://in.linkedin.com/in/nirali-zaveri-65936b266",
+            "summary": "--",
+            "location": "Ahmedabad"
+        },
+        {
+            "name": "dr nirali thakkcar dr nirali j zaveri",
+            "link": "https://in.linkedin.com/in/dr-nirali-thakkar1",
+            "summary": "Senior Physiotherapist at ira phhysio clinic",
+            "location": "Gujarat, India"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQEjkmlbO6wg4w/group-logo_image-shrink_48x48/0/1525125386486?e=1706115600&v=beta&t=h9vSKw48hXaq1dHm-z5CG09l8qSNp5isukaxAtwvKEE",
+            "name": "CXO (CEO, COO, CKO, CFO, CIO, CPO, CMO, CAO, CVO, CDO, CRO, CLO, CSO & CTO) Community",
+            "url": "https://www.linkedin.com/groups/50556"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQG5Kzj7kMuO0g/group-logo_image-shrink_400x400/0/1686051656974?e=1706115600&v=beta&t=JgKtGr7F32bHUCKU86Jpm3ckJv1nicmClx44WfFv0YM",
+            "name": "Spark by Peak XV Partners",
+            "url": "https://www.linkedin.com/groups/13988779"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

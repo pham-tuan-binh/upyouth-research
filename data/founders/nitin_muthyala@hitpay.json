@@ -1,0 +1,297 @@
+{
+    "public_identifier": "nitinmuthyala",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nitinmuthyala/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221537Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=89ad95f1e02f5bb68e2c126a7d3e6126c515d979240c9b4de4a87b0324ba7816",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nitinmuthyala/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221537Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ca6664fa7f7b260d194d0fda36f04bcbfa0eb7e6e4b1197a92615c57f648e0a5",
+    "first_name": "Nitin",
+    "last_name": "Muthyala",
+    "full_name": "Nitin Muthyala",
+    "follower_count": 1477,
+    "occupation": "Co-Founder and CTO at HitPay ",
+    "headline": "Co-Founder and CTO @ HitPay (YC S21)",
+    "summary": null,
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "HitPay ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hit-pay/",
+            "title": "Co-Founder and CTO",
+            "description": "Head of Product and Engineering at HitPay",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHaBcE-NPgv1w/company-logo_400_400/0/1631335340645?e=1712793600&v=beta&t=QvZPD1coGxtwFdGaLiV2EsjPNUmx_etnPI4-4No1rB4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "DBS Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dbs-bank/",
+            "title": "Senior Associate",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGR_4ugVU6t4Q/company-logo_400_400/0/1662951257963/dbs_bank_logo?e=1712793600&v=beta&t=gR2hgUP3e2Mgk60ICnyJd6TGY4NRevBKG6BzJ3yPZNc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "DBS Bank",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dbs-bank/",
+            "title": "Associate",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGR_4ugVU6t4Q/company-logo_400_400/0/1662951257963/dbs_bank_logo?e=1712793600&v=beta&t=gR2hgUP3e2Mgk60ICnyJd6TGY4NRevBKG6BzJ3yPZNc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Ohanae",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ohanae/",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFm9La4ouyTzw/company-logo_400_400/0/1631416679143/ohanae_logo?e=1712793600&v=beta&t=8KMLxf6iwmvi5TiR87yYebWofLuPT_6Dr_haqioAgLg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "IFIS Asia Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Intern - Android Developer",
+            "description": "Android and Java Developer",
+            "location": "Singapore",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": "Summer 2021",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "System analysis",
+            "degree_name": "Master's Degree",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "school": "Vellore Institute of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_400_400/0/1631346260383?e=1712793600&v=beta&t=Sfag4Alb9ZniZs4QSAPAsu16GhbxT-P6zM7n5Amudac",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": null,
+            "degree_name": "high school",
+            "school": "Andhra Mahila Sabha P Obul Reddy Public School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFFxKVGFKm9Rw/company-logo_400_400/0/1630669501574/andhra_mahila_sabha_p_obul_reddy_public_school_logo?e=1712793600&v=beta&t=5gNmWkqpiye8hWxM7f2LYjF5F85oeHVIMWyDC7z1zGE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": null,
+            "title": "Founder",
+            "cause": "SOCIAL_SERVICES",
+            "company": "SCAPS",
+            "company_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/adityaharipurkar",
+            "name": "Aditya Haripurkar",
+            "summary": "Co-Founder and CEO, HitPay (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/brandon-chye",
+            "name": "Brandon Chye",
+            "summary": "Head of Regulatory Affairs at HitPay | CTMA - ACAMS",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bankorh",
+            "name": "Ban Korh Wong",
+            "summary": "A designer, system designer.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gabriel-llanto-8a14a4145",
+            "name": "Gabriel Llanto",
+            "summary": "Sales & Growth Executive, HitPay | Fintech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/niralizaveri",
+            "name": "Nirali Zaveri",
+            "summary": "CEO and Cofounder at Friz (YC W21) | Iterative Venture Partner | Sequoia Spark Fellow | Mastercard",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ash-rhazaly-402533209",
+            "name": "Ash Rhazaly",
+            "summary": "Co-Founder & CTO at Friz (YC W21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sebastianroervig",
+            "name": "Sebastian Roervig",
+            "summary": "Co-Founder @ Arrow",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/huy-nguyen-461375102",
+            "name": "HUY Nguy\u00ea\u0303n",
+            "summary": "Technical Support Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/muhamad-fadli-63375419b",
+            "name": "Muhamad Fadli",
+            "summary": "Senior UX Designer at Visionboarder | Educator | Webflow Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leavoo",
+            "name": "Lea Zhimei Voo",
+            "summary": "Sales & Growth",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "NITIN RAJ MUTHYALA",
+            "link": "https://www.linkedin.com/in/nitin-raj-muthyala-9a683070",
+            "summary": "Talent Acquisition Specialist - Email : nmuthyala@nsight-inc.com",
+            "location": "Montclair, NJ"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

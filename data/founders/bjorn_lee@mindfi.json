@@ -1,0 +1,408 @@
+{
+    "public_identifier": "bjornlee",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bjornlee/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221543Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0933233877c3acd80abf81d445a344e7a67037038ae8c45029c1ba531e4a2695",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bjornlee/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221543Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b4066101e8d708f493ebfac2bc4e27d2c457363a71c1418508b131a84e1c4425",
+    "first_name": "Bjorn",
+    "last_name": "Lee",
+    "full_name": "Bjorn Lee",
+    "follower_count": 4161,
+    "occupation": "Founder at MindFi.co",
+    "headline": "CEO of MindFi (YC S21) | B2B2C Mental Health & Wellbeing | We're hiring!",
+    "summary": "I'm a serial entrepreneur and technology executive with experience in Asia and Silicon Valley. Prior to founding MindFi, I served as Head of Product Innovation at Zopim ($ZEN).\n\nMindFi's mission is transform the narrative around mental health in Asia and empower everyone to proactively manage all aspects of their wellbeing: physical, emotional, mental, spiritual, and social.",
+    "country": "AU",
+    "country_full_name": "Australia",
+    "city": "Melbourne",
+    "state": "Victoria",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "MindFi.co",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mindfi.co/",
+            "title": "Founder",
+            "description": "MindFi is a data-driven mindfulness platform, designed for companies and individual users alike. Our all-in-one app offers 24/7 self- and community-care services, intelligent matching with diverse therapists and coaches, and personalized wellbeing tools. \n\nAre you an employer looking to bring your company's wellbeing or productivity programs to the next level? With MindFi, you can create leadership, innovation, resilience and other mental training workshops for your workforce, or access anonymized insights to gauge your organisation's wellbeing.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE1BUIJZktY5g/company-logo_400_400/0/1631324695865?e=1712793600&v=beta&t=6AxXcZN_2Jr2PwEH0peR8y_F-0z4M0564wKt4HBGY-M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "WeWork",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wework/",
+            "title": "Entrepreneur In Residence",
+            "description": "A part-time role mentoring early-stage startups in product management, marketing and culture/ wellness",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGvcgAszRyYNg/company-logo_400_400/0/1686147967889/wework_logo?e=1712793600&v=beta&t=IWMRpwJb7Yxp2Lwrxf7YagRzdwTV0zJ1A7mFa52O9qI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "Zendesk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zendesk/",
+            "title": "Product Manager, Zendesk-Zopim Integration",
+            "description": "Product lead for Zopim's product integration with Zendesk SF and global teams.",
+            "location": "Singapore, San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQH_bC13eyDqjw/company-logo_400_400/0/1684356295421/zendesk_logo?e=1712793600&v=beta&t=VV3lky4re4X2pnHZAyc7LJcWX7pwVFi94Z2TiB0bG7o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "company": "Zendesk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zendesk/",
+            "title": "Head of Product Innovation",
+            "description": "Worked directly with founders. 10X users GetKudos (customer reviews). Acquired by Zendesk in 2014.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQH_bC13eyDqjw/company-logo_400_400/0/1684356295421/zendesk_logo?e=1712793600&v=beta&t=VV3lky4re4X2pnHZAyc7LJcWX7pwVFi94Z2TiB0bG7o"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "Stickery",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/appyzoo-stickery-/",
+            "title": "Co-founder and Chief Product",
+            "description": "Funded by Google Ventures, 500Startups. Incubated by AngelPad. Acquired in 2013.",
+            "location": "San Francisco & Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFzgG2FvsZY8A/company-logo_400_400/0/1631353459118?e=1712793600&v=beta&t=CtTOpWNEstBJdrMr8nZ_hjfs2dlXWBo7yfQ0ol7ciAg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "e27 (Optimatic)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/e27-optimatic-/",
+            "title": "Director/ Early founder",
+            "description": "-  \"TechCrunch of Southeast Asia\". Drove community outreach with Amazon, Facebook, Google etc",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGL4deoqWsp7A/company-logo_400_400/0/1630635020450/e27_optimatic__logo?e=1712793600&v=beta&t=y0KvY-SM410_WHac2vXu0fTCdeCmsaAlhy_lm4z5fbk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Jabfish",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jabfish/",
+            "title": "Co-founder",
+            "description": "\"Elance for Ad Agencies\". $1M revenue, profitable in 9 months. Unscalable and pivoted to Stickery",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEvLYmh-Lh9_w/company-logo_400_400/0/1631306890471?e=1712793600&v=beta&t=Mbyd5r7e7NQtfJcslrPqOqBH6-ZkvYOz8FhCCSx_NnI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2008
+            },
+            "company": "HiPiHi",
+            "company_linkedin_profile_url": null,
+            "title": "Head of International Business Development",
+            "description": "\"Second Life of China\". Adviser to CEO for fundraising and international business development. Drove first revenue deals with IBM and Intel.",
+            "location": "Beijing/ San Francisco/ London",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "company": "Alpha Innotech Corporation",
+            "company_linkedin_profile_url": null,
+            "title": "Intern, Business Development (New Products)",
+            "description": "Biotech hardware startup. Assisted VP Business Devt with new product launches. Acquired 2009 by Cell BioSciences for US$22M.",
+            "location": "San Leandro, California",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2007
+            },
+            "company": "OgilvyOne",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ogilvy/",
+            "title": "Strategy Consulting",
+            "description": "Evangelized earned/ social media in old-school environment. Worked with clients Cisco, IBM.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGadtPmS-HVYQ/company-logo_400_400/0/1695299999446/ogilvy_logo?e=1712793600&v=beta&t=waRnzZAv75kmbs9NxXkRpQG034GXYVeXAxqandg9YSI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2007
+            },
+            "company": "DFJ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/draper-fisher-jurvetson/",
+            "title": "Analyst (Graduate Intern)",
+            "description": "New Vietnam branch of DFJ. Organized first & largest Web 2.0 startup conference in Vietnam",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF75_jJUFXDOw/company-logo_400_400/0/1631341750329?e=1712793600&v=beta&t=gN0GxFxKvQMr2hMJYRmjJAHNO3wh0XfXXITk2Ewg1UM"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2006
+            },
+            "field_of_study": null,
+            "degree_name": "Business Administration (Honors)",
+            "school": "National University of Singapore",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/0/1631313842677?e=1712793600&v=beta&t=4iL8Ke5tIyFF0KUmyIXPaoJlwLPPLb-FSAEGTgNBVis",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2005
+            },
+            "field_of_study": "Management Science & Engineering, Technology Entrepreneurship",
+            "degree_name": "Business",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1999
+            },
+            "field_of_study": "Physics and Math Specialties.",
+            "degree_name": "High School",
+            "school": "Hwa Chong Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1997
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Dunman High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/tsuyi",
+            "name": "Tsu Yi",
+            "summary": "I help corporate executives \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb live a well-integrated \u2696\ufe0f life with full of zest!\u26a1",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joan-low-thoughtfull",
+            "name": "Joan Low",
+            "summary": "CEO at ThoughtFull | Banker to Digital Mental Health | We're Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dereklmy",
+            "name": "Derek Low",
+            "summary": "Co-Founder & CEO at Cococart | YC S21",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gangeshwark",
+            "name": "Gangeshwar Krishnamurthy",
+            "summary": "Co-Founder & CTO at MindFi (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/utkarshbahadur",
+            "name": "Utkarsh Bahadur",
+            "summary": "Global Head of GTM, Strategy and Operations | Executive Vice President at SAP",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/leonck",
+            "name": "Leon C.K. Leong",
+            "summary": "Chief Revenue Officer, MindFi (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anitasadasivan",
+            "name": "Anita Jiawen Sadasivan",
+            "summary": "Co-Founder & Chief Wellbeing Officer at MindFi | B2B Mental Health & Wellbeing Solutions",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabhmandar",
+            "name": "Saurabh Mandar",
+            "summary": "Strategy & Planning",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/theodoricchew",
+            "name": "Theodoric Chew",
+            "summary": "CEO at Intellect | Modern-day Mental Healthcare for Asia-Pacific | Forbes 30u30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/melbravely",
+            "name": "Melissa Ng",
+            "summary": "CEO @ Bravely - Tech for therapists \u00b7 Seen on Forbes, Economist, Straits Times \u00b7 LinkedIn Top Voice for Mental Health",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Bjorn Lee",
+            "link": "https://in.linkedin.com/in/bjorn-lee",
+            "summary": "Senior Consultant | Sales Readiness & Enablement | Customer Experience Management",
+            "location": "Pune"
+        },
+        {
+            "name": "Bj\u00f6rn Lee",
+            "link": "https://de.linkedin.com/in/bj%C3%B6rn-lee-212b864b",
+            "summary": "Vertriebspartner",
+            "location": "Hannover-Braunschweig-G\u00f6ttingen-Wolfsburg Region"
+        },
+        {
+            "name": "Bjorn Lee",
+            "link": "https://sg.linkedin.com/in/bjorn-lee-hh",
+            "summary": "Client Solutions Manager at TikTok",
+            "location": "Singapore"
+        },
+        {
+            "name": "Bjorn Lee",
+            "link": "https://sg.linkedin.com/in/bjorn-lee-9b488b1b1",
+            "summary": "Financial Advisor at Prudential Assurance Company Singapore",
+            "location": "Singapore"
+        },
+        {
+            "name": "Bj\u00f6rn Lee",
+            "link": "https://de.linkedin.com/in/bjoern-lee",
+            "summary": "Head of Sales | B2B Account Manager | Manager Operation",
+            "location": "Hannover-Braunschweig-G\u00f6ttingen-Wolfsburg Region"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

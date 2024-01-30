@@ -1,0 +1,740 @@
+{
+    "public_identifier": "geoffreysee",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/geoffreysee/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221250Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2d1efd4d98b30ed5f30518be73ec0f4c03daaaf8ca96bea2a48b39ea33980cd3",
+    "background_cover_image_url": null,
+    "first_name": "Geoffrey",
+    "last_name": "See",
+    "full_name": "Geoffrey See",
+    "follower_count": 5369,
+    "occupation": "Builder (AI) at Stealth",
+    "headline": "AI Product Management/Skilling | YC Founder | Schmidt Futures Fellow (AI) | World Economic Forum GFC/YGL | Kauffman Fellow (VC)",
+    "summary": "Product background in AI and fintech with significant expertise with emerging tech regulation. Used neutral networks and telco data to credit score 1B+ profiles in emerging markets. Worked on Samsung's big data and AI/ML strategy. Was part of first big data and AI/ML client engagement at Bain. Digital Currency taskforce member and consumer protection report author at World Economic Forum Global Council for Digital Currency Governance and and ex-Ethereum Foundation Fellow and Schmidt Futures Fellow. CSO/CPO and founding team for a US$3B protocol. Co-founded a social enterprise that created the largest program for training female entrepreneurs in frontier economies. Profiled in a Harvard Business School case study for my work, and glad to have the opportunity to teach the case to 2nd Year MBAs. Nearly died twice in the course of work! Fortunate to be alive.\n\nY Combinator W22 batch. I am a World Economic Forum Council member, a Kauffman Fellow - a leadership program for venture capitalists. At Bain & Co., I worked on projects in private equity, technology, retail and consumer products. \n\nAt university, I researched ethnomusicology in Latin America, and published on business ethics and regulation at state-owned enterprises in China.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Stealth",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/warmstealth/",
+            "title": "Builder (AI)",
+            "description": "Building something in AI",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGEIyhghfgwQ/company-logo_400_400/0/1689624249740/warmstealth_logo?e=1712793600&v=beta&t=aBvm_4CMfRp45FJUYdIJZ2YFm8ZnvBL9l-Zzfb5tGFM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2023
+            },
+            "company": "Poko",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pokoapp/",
+            "title": "CEO and Co-Founder (YC W22; Acquired)",
+            "description": "Y Combinator startup connecting traditional payments infrastructure with blockchain infrastructure. Hit profitability 5 months after Direct Checkout launch and saw 9x, 4.3x and 4.1x MoM growth over 3 month period prior to acquisition. Payment product acquired by leading web3 wallet provider and customer.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFrze8nFxQQow/company-logo_400_400/0/1665035532581/pokofund_logo?e=1712793600&v=beta&t=TAiyZM2mg_abjvK-0jj5mHkZhsfvMpv4-qpWEOpwJ2g"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2023
+            },
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Young Global Leader",
+            "description": "Nominated by George Yeo (ex-Foreign Minister) and Dominic Barton (McKinsey) for 5-year journey advocating path forward for Korean Peninsula, and learning/sharing about AI/data.",
+            "location": "Geneva Area, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1712793600&v=beta&t=1XT901u8dTU5_urahLUY3v2xs6gm3NFYsfmpbvhtQX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Council Member, Global Future Council",
+            "description": "Joined Council chaired by Special Advisor on National Security, Foreign Affairs and Unification to the President of Korea and ex-UN Undersecretary to shape the global agenda on Korea",
+            "location": "Geneva",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1712793600&v=beta&t=1XT901u8dTU5_urahLUY3v2xs6gm3NFYsfmpbvhtQX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Digital Currency Governance Consortium Taskforce Member",
+            "description": "Co-authoring digital currency consumer protection and regulatory recommendations under task force established by BOE Chair Mark Carney and MAS Chair Tharman Shanmugaratnam",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1712793600&v=beta&t=1XT901u8dTU5_urahLUY3v2xs6gm3NFYsfmpbvhtQX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2020
+            },
+            "company": "World Economic Forum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/world-economic-forum/",
+            "title": "Digital ASEAN Project - Task Force Member on Data Policy & Payments",
+            "description": "Co-authored WEF report on cross-border payments",
+            "location": "Southeast Asia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGC4kBIvoArDQ/company-logo_400_400/0/1631366543607/world_economic_forum_logo?e=1712793600&v=beta&t=1XT901u8dTU5_urahLUY3v2xs6gm3NFYsfmpbvhtQX8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "Trusting Social",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/trustingsocial/",
+            "title": "General Manager (AI-driven credit)",
+            "description": "Built Digital Identity product on neural network AI stack and scaled from zero to 20M+ users across two markets, enabling financial access for the financially excluded. Scored 1B+ credit profiles across India and Southeast Asia on telco x social data with 60% of consumer credit loans in Vietnam using our credit score.",
+            "location": "Vietnam, India, Philippines and Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGhxaEbVP5NDQ/company-logo_400_400/0/1630626369858/trustingsocial_logo?e=1712793600&v=beta&t=upWAcx6TJeaGechJGdjWP-OYrqxqKzKuz-4VPDeprPA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Policy Advisory & Board Positions",
+            "company_linkedin_profile_url": null,
+            "title": "Gaesong Industrial District Foundation, Primary Advisor",
+            "description": "Advisor to the President on groundbreaking inter-Korean Special Economic Zone on SEZ value chain upgrading (Seoul, South Korea)",
+            "location": "China, Korea, Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Policy Advisory & Board Positions",
+            "company_linkedin_profile_url": null,
+            "title": "Singapore Sichuan Trade and Investment Council Member",
+            "description": "Appointed as a Council Member for Singapore-China government to government trade and investment committee. (Chengdu, Singapore)",
+            "location": "China and Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Policy Advisory & Board Positions",
+            "company_linkedin_profile_url": null,
+            "title": "Board Member",
+            "description": "- HBOil (MSE: HBoil): Listed oil recycling company in Mongolia. Advised hedge fund on listing and cross-border acquisition (2013-2016)\n- Botstar: Angel investor in innovative chatbot visual editor and platform in Vietnam and Australia (2017-Present)\n- Enovision: Independent board member for a solar lamp company (2014-2016)",
+            "location": "Mongolia, Korea",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2019
+            },
+            "company": "Anquan",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/anquan-capital/",
+            "title": "Chief Strategy Officer and HgX founding team",
+            "description": "Drove launch and go-to-market strategy for our public blockchain (Zilliqa) creating a $2.4B high-throughput public blockchain infrastructure. Led founding of HgX, a licensed exchange built on our protocol. HgX was partially exited to Binance in 2021. Led our technical implementation for Phase III of Project Ubin, Singapore's Central Bank (MAS) experiment with cross-border blockchain payments (2018).",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFHF_T6mYQRVQ/company-logo_400_400/0/1631322926019?e=1712793600&v=beta&t=2z275kaO0BQeNihoZWC-HK--TmpiJyOgGfYag2QH-rU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2018
+            },
+            "company": "Harvard Business School",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school/",
+            "title": "Harvard Case Protagonist and Lecturer",
+            "description": "Case study written on my education work which I help teach once/twice a year to 2nd year MBAs at Harvard's Globalization & Capitalism Class.",
+            "location": "Boston",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1712793600&v=beta&t=u2TdS2m7S6bscmUKiw4QIxoeIprPb1JQ67UsbqKr7Ow"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Choson Exchange",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/choson-exchange/",
+            "title": "Founder",
+            "description": "Thousands of female entrepreneurs trained through our Women in Business program leading to new ideas, new businesses and new economic policies. Our work has been profiled over 400 times in publications such as the Economist, Financial Times, Washington Post, Forbes, BBC and Straits Times (see https://en.wikipedia.org/wiki/Geoffrey_See), and has been written up as a Harvard Business School case study (N2-717-05).",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEe7Jjm5RoQyQ/company-logo_400_400/0/1631337231351?e=1712793600&v=beta&t=ObzqTlGEpuT348fAPz3j72GGkP_4GN4yQka-pQ9Byy4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Bain",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bain-and-company/",
+            "title": "Associate Consultant",
+            "description": "Was part of Bain's first ever big data/AI/ML client engagement.",
+            "location": "Boston",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF-f0ob5Mu0lQ/company-logo_400_400/0/1688168545058/bain_and_company_logo?e=1712793600&v=beta&t=gmH4_gGicJNMHlIJjUozJxU8PjhH1j-jhgGl40LQE20"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2006
+            },
+            "company": "Centennial Group International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/centennial-group-inc/",
+            "title": "Research Analyst",
+            "description": "Conducted political and economic research on banking and economic issues in Asia region for Economist Manu Bhaskaran post-military service and pre-university",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGXDGyIYOvOOQ/company-logo_400_400/0/1631338153583?e=1712793600&v=beta&t=IwpzbCHlscI08t9vi0N1Gtc9zlCEV9JO_Y_BQkh4LY0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "East Asia Studies (focused on statistics and political science)",
+            "degree_name": "M.A. (University Fellowship)",
+            "school": "Yale University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGGJUjGgSYcWQ/company-logo_400_400/0/1631385636084?e=1712793600&v=beta&t=dTkyKN2umzA8PRo_oRod0H0flBtJn-1rjNnOe5HqaxQ",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Economics (Summa Cum Laude)",
+            "degree_name": "B.Sc.",
+            "school": "The Wharton School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1712793600&v=beta&t=xwc_xNDcOIZJ5wr4wrF4Va9xXz3JZGpAX5n3nCSJD3o",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "field_of_study": "Sustainability Studies & Systems Thinking",
+            "degree_name": "Executive Education Program",
+            "school": "Stanford University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1712793600&v=beta&t=4m-bW2Oa7CG5-MR2ARPQnpepjXYIPiaQPzwKryhe-tg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Chinese Language and Literature",
+            "degree_name": null,
+            "school": "Tsinghua University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_400_400/0/1631309794782?e=1712793600&v=beta&t=QpcyrakSOYc42L3eTebnc9DF8_qKX26n406eRWK3leI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Venture Capital",
+            "degree_name": null,
+            "school": "Kauffman Fellow",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": "Affiliate Researcher",
+            "school": "Massachusetts Institute of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1712793600&v=beta&t=FqGJsjhN7ggDrJpgVkcy6BCEcBnji1lwU57pQOQmrvw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Fellow",
+            "school": "Ethereum Foundation",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English",
+        "Korean",
+        "Vietnamese"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "org_name": "On Deck Fellow (ODF6)",
+            "title": "Fellow",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "org_name": "Tatler Gen.T Leader of Tomorrow 2020",
+            "title": null,
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "org_name": "Y20 (G20 Youth Track)",
+            "title": "Delegate for Singapore",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": null,
+            "org_name": "Asia Society ",
+            "title": "Asia 21 Fellow",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2007
+            },
+            "ends_at": null,
+            "org_name": "St Gallen Symposium",
+            "title": "Donor and Partner",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "org_name": "Harvard Business School",
+            "title": null,
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "org_name": "University of Pennsylvania Alumni Club (Singapore)",
+            "title": "Interviewer for Penn admissions",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "org_name": "Massachusetts Institute of Technology",
+            "title": "Research Fellow",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "org_name": "Singapore-MIT Alliance for Research & Technology",
+            "title": "Advisor (Catalyst)",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "org_name": "MIT",
+            "title": "Affiliate Researcher, Center for International Studies",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "org_name": "MIT",
+            "title": "Affiliate Researcher, Center for International Studies",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Digital Currency Consumer Protection Risk Mapping",
+            "publisher": "World Economic Forum",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "description": null,
+            "url": "https://www3.weforum.org/docs/WEF_Digital_Currency_Consumer_Protection_2021.pdf"
+        },
+        {
+            "name": "Birthday Book 2020 (Celebrating Singapore's 55th Birthday)",
+            "publisher": "Birthday Collective",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "https://thebirthdaycollective.com/store/product/the-birthday-book-2020-seeing-clearly/"
+        },
+        {
+            "name": "Connecting Digital Economies: Policy Recommendations for Cross-Border Payments",
+            "publisher": "World Economic Forum",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "https://www.weforum.org/reports/connecting-digital-economies-policy-recommendations-for-cross-border-payments"
+        },
+        {
+            "name": "Going Rogue: Choson Exchange in North Korea",
+            "publisher": "Harvard Business School",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": null,
+            "url": "http://www.hbs.edu/faculty/Pages/item.aspx?num=51812"
+        },
+        {
+            "name": "The ABCs of North Korea's SEZs",
+            "publisher": "John Hopkins University",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null,
+            "url": "https://www.uskoreainstitute.org/wp-content/uploads/pdf/Abrahamian-SEZs-14-1118-HQ-Print.pdf"
+        },
+        {
+            "name": "Harmonious Society and Chinese CSR: Is There Really a Link?",
+            "publisher": "Journal of Business Ethics",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "description": null,
+            "url": "http://link.springer.com/article/10.1007%2Fs10551-008-9981-z"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Speaker",
+            "description": "Summit@Sea, Slush, Korea Herald CEO Summit, Asia Society Asia 21, St Gallen Symposium, TED@NYC, Harvard Business School Globalization & Capitalism class, SURF Danang and others...",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Hanwha Open Innovation Center",
+            "description": "Advised South Korean conglomerate on establishing an Open Innovation Center in Vietnam",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": null,
+            "title": "Angel Investor",
+            "description": "Invested in Botstar, a chatbot platform from Danang, CirCO, a co-working/real estate business in Ho Chi Minh City. Through Truebridge, private investments in Slack and Wish.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            },
+            "title": "Asian Development Bank - Consultant",
+            "description": "Developed business model for innovation infrastructure in Danang, Vietnam in form of a private-public partnership incubator",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Jeff See",
+            "link": "https://www.linkedin.com/in/jeffrey-see-weston",
+            "summary": "Transition Success Manager | CCSM | Relationship Champion | Member of #socialsaturdaysquad | BBQ Enthusiast \ud83c\udf56",
+            "location": "Schofield, WI"
+        },
+        {
+            "name": "Jeff See",
+            "link": "https://fr.linkedin.com/in/jeff-see-5a1a4253",
+            "summary": "Auxiliaire de vie/soignant chez ASSOCIATION MAINTENIR",
+            "location": "Greater Lyon Area"
+        },
+        {
+            "name": "Jeff Seeberger",
+            "link": "https://www.linkedin.com/in/jeffseeberger",
+            "summary": "Franchising, Development and Operations Executive",
+            "location": "Dana Point, CA"
+        },
+        {
+            "name": "Jeff Seeburger",
+            "link": "https://www.linkedin.com/in/jeff-seeburger-792b6213",
+            "summary": "Positively Impacting Lives Forever",
+            "location": "Chesterfield, MO"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

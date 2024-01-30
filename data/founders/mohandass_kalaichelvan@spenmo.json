@@ -1,0 +1,327 @@
+{
+    "public_identifier": "mohandasskalaichelvan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mohandasskalaichelvan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221208Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d9b19c61544e14b2bc0994c39748544388d68a8c24ac3e2e6da5b5adcb600b54",
+    "background_cover_image_url": null,
+    "first_name": "Mohandass",
+    "last_name": "Kalaichelvan",
+    "full_name": "Mohandass Kalaichelvan",
+    "follower_count": null,
+    "occupation": "CEO & Founder at Spenmo",
+    "headline": "CEO & Founder @ Spenmo",
+    "summary": "Spenmo is the market-leading payments software for growing businesses that brings spend management, corporate cards, automated bill payments, approval workflows and accounting reconciliation into an integrated view.\n\nWe have raised over US$36M in venture capital with support from top-tier investors: Y Combinator, Insight Partners, Addition, Salesforce Ventures, Alpha JWC, Global Founders\u2019 Capital, Broadhaven, Operator Partners and Commerce Ventures.\n\nReach me at mohandass@spenmo.com",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Pre-Seed to Series B",
+            "company_linkedin_profile_url": null,
+            "title": "Investor",
+            "description": "Decentro \nArketa\nSnazzy\nZepto \nZoko \nTelivy \nSwipe \nCardless\nUnit.co\nBolt\nSalarybook\nAnfin\nAcadarena\nShipmates\nVault\nCreditbook\nChatGenie\nRider\nUpBanx\nHoneydu\nAeon Charging\nRekord\nAvalon\nEvolut\nPathao\nFinblox\nDuplo\nCoLeap\nAemi\nand many more ....",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Spenmo",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/spenmo/",
+            "title": "CEO & Founder",
+            "description": "Spenmo is the market-leading payments software for growing businesses that brings spend management, corporate cards, automated bill payments, approval workflows and accounting reconciliation into an integrated view.\n\nWe have raised over US$36M in venture capital with support from top-tier investors: Y Combinator, Insight Partners, Addition, Salesforce Ventures, Alpha JWC, Global Founders\u2019 Capital, Broadhaven, Operator Partners and Commerce Ventures.\n\nwww.spenmo.com",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGTMwpMN63fDQ/company-logo_400_400/0/1663224389082?e=1693440000&v=beta&t=Olguu8w1bAF5QynJF55xfB-_nWTh3zq7ZNEekjyU0VA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Grab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grabapp/",
+            "title": "Corporate Strategy",
+            "description": "Responsible for Grab's regional SEA strategy across Transport, Payments, Financial Services, Ads, Food, Logistics & Rewards",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_400_400/0/1586755776220?e=1693440000&v=beta&t=QAh8IG8BRNa-omK8zevywpKbngCbZp1JffsTrtsQAZk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "The Kraft Heinz Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-kraft-heinz-company/",
+            "title": "Revenue Management & Finance ",
+            "description": "Head Revenue Management for Emerging Asia, Middle East & Africa within Kraft Heinz's AMEA HQ",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGL-X0OaAkbTg/company-logo_400_400/0/1657812466852?e=1693440000&v=beta&t=k8qQpqZXtYd4JGWJCpIJWG8LoMpcc6jJkPr64MIIVfQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "The Boston Consulting Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group/",
+            "title": "Management Consultant",
+            "description": "Extensive consulting experience across Industrial Goods, TMT, Consumer & Public Sector clients in South-East Asia",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHLnWUtP4w1Tw/company-logo_400_400/0/1679064356893?e=1693440000&v=beta&t=HY5ihKgNEC9PaOik3STEiC-0hbVKzfglnozDcUFIRG4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Morgan Stanley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/morgan-stanley/",
+            "title": "Investment Banking Summer Analyst",
+            "description": "Mergers & Acquisitions, SEA Coverage",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778127603?e=1693440000&v=beta&t=EB0oHQm2f-G3zO0rZTslqwWMpM8Yc9mtmnqdyN_GIoo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Public Service Division",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/public-service-division/",
+            "title": "Strategist @ Prime Minister's Office",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF_v-Llg85MAg/company-logo_400_400/0/1519867366229?e=1693440000&v=beta&t=5Vq5KzhF3O3Ic3PuHFEle6QWTStjcY2ip_QZb35pmjk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "company": "Singapore Police Force",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/singapore-police-force/",
+            "title": "Operations Officer",
+            "description": "Commissioned as an Inspector (Lieutenant)",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHi071FSi7txg/company-logo_400_400/0/1670988889523?e=1693440000&v=beta&t=nfsUx_-NaDJpC0ECAz7-r-1kdSnV8E3NSmvsZPOvl9A"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Economics and Government",
+            "degree_name": "Bachelor of Arts (BA)",
+            "school": "Dartmouth College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQELVZKDzlGDzA/company-logo_400_400/0/1519952137042?e=1693440000&v=beta&t=ZhvBJtoW71WLyyaNW5_nAmeXb1iFCt1SIkO-hslLOGo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "field_of_study": "Summer 2020 Batch",
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1693440000&v=beta&t=eQZD2eWKY--6q-9tkxxl5twePN2X4xhmJI7IEv4FHjs",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Raffles Institution",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFwtPNL-8C-EA/company-logo_400_400/0/1519872674400?e=1693440000&v=beta&t=hmvjTcni7aBNS06Sf1q0k3WquVZWXzntUmyApCASrng",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "org_name": "Dartmouth Finance Society",
+            "title": "Founder & President",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "A Critical Evaluation of the Significance of Round Numbers in European Equity Markets in Light of the Predictions from Benford's Law",
+            "publisher": "International Research Journal of Finance and Economics, Volume 95, pp 196-210",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null,
+            "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2130456"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/isaqahmed",
+            "name": "Isaq Ahmed",
+            "summary": "CTO and Founder @ Spenmo (YC S20) | Manage your company spending efficiently",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/annabeltiong",
+            "name": "Annabel Tiong",
+            "summary": "Spenmo (YCS20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ruddy-wang",
+            "name": "Ruddy Wang",
+            "summary": "COO at Spenmo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/samantjain",
+            "name": "Samant Jain",
+            "summary": "Product Management and Strategy | Fintech, Payments (Digital / Consumer / B2B) | Visa, Mastercard, Barclaycard, McKinsey | Global & Local Roles | Singapore PR",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kelvinleungkaifung",
+            "name": "Kelvin Leung",
+            "summary": "Corporate Development @ Spenmo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jasonhanwj",
+            "name": "Jason Han",
+            "summary": "Product | Strategy | FinTech | ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lilygaomt",
+            "name": "Lily Gao",
+            "summary": "Product @ Spenmo (YC S20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rajiths",
+            "name": "Rajith Shaji ",
+            "summary": "Co-founder & CEO at Volopay",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joann-chung",
+            "name": "Jo-ann Chung",
+            "summary": "Chief Product Officer at Spenmo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/georgepadin",
+            "name": "George Padin",
+            "summary": "Building magical payables experience for businesses in SEA \ud83e\udd84",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

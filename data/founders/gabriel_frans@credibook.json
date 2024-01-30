@@ -1,0 +1,278 @@
+{
+    "public_identifier": "gbyfrans",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/gbyfrans/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221242Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=72c36f7647a68fe7bb528f964428e2ca284dfe546fabb89ac7e30419d972dc50",
+    "first_name": "Gabriel",
+    "last_name": "Frans",
+    "full_name": "Gabriel Frans",
+    "follower_count": 1346,
+    "occupation": "Co-Founder & CEO at CrediBook (YC W22)",
+    "headline": "Building CrediBook",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "CrediBook (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/credibook/",
+            "title": "Co-Founder & CEO",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFqG7KmANBCNg/company-logo_400_400/0/1664512238550/credibook_logo?e=1712793600&v=beta&t=-cMnAXI3_Wssr4ucAI45K7HfbHEfQ96ENQLWJzHprBM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "Traveloka",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/traveloka/",
+            "title": "Product Manager, Expansion",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_400_400/0/1700635813325/traveloka_logo?e=1712793600&v=beta&t=uMnSTR8Wpy2Z3SlvBYZeu8EHfHV_hKAIA4MaiKYq5gU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "BAMMS (PT Teknologi Optimal Prima)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bamms/",
+            "title": "Product Manager",
+            "description": "Led a product team comprising of full-stack developers, mobile developers, UI/UX\ndesigners, and QA engineers to achieve specific quarterly targets\n\u2022 Designed company initial product for the first client through intensive usability testing\nand research\n\u2022 Improved and developed product using scrum methods and set the foundation of\nsoftware release process\n\u2022 Defined product roadmap by conducting user and market research to support\ncompany\u2019s long term goal",
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE-Q2DImU3ovQ/company-logo_400_400/0/1630593206390/bamms_logo?e=1712793600&v=beta&t=NHuLUpr4-Hdki8aOe6fMrwj25lC-iKyzw4OzRG1Qs2A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            },
+            "company": "PT Kudo Teknologi Indonesia (KUDO)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kudo/",
+            "title": "Associate Product Manager",
+            "description": "Managed the entire product line life cycle from ideation to tactical activities, from leading\nthe ideation of new ideas and validating hypotheses to defining and executing go-to-\nmarket strategy\n\u2022 Developed strategic planning for product to enhance user satisfaction through market\nresearch\n\u2022 Managed relationship with third parties, evaluating current partners and integrate new\npartners\n\u2022 Grew product P&L, including plan, forecast, and analyze product sales\n\u2022 Developed & executed go-to-market strategy, coordinate with marketing, channel,\noperation, and finance team for product launch",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFJkt30QtLJWQ/company-logo_400_400/0/1631412831387?e=1712793600&v=beta&t=0nfd-S1mktEduq-Oj_mv2h3b9yzGFYouJnSpUJezQzU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Sarjana teknik",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1630672186443/itb_logo?e=1712793600&v=beta&t=9Sz46AzRikNOYKWsA0EwrYNnjgdoMUhw-dAK4nnsgko",
+            "grade": "Cum Laude",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Establishment of Wi-Fi Display Session between Source and Sink Device in Wireless Android Screencasting",
+            "publisher": "Institute of Electrical and Electronics Engineers",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Big Ideas Competition for Asia Urban Issues Using Data Innovation 2015 SIlver Winner",
+            "issuer": "Pulse Lab Jakarta, under UN Global Pulse",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "description": "\u2022 Chosen from over 200 proposals by high school, undergraduate and postgraduate students across Asia.\n\u2022 Proposed to improve public transportation using big data and integration to smartphone\u2019s software."
+        },
+        {
+            "title": "Best Design Electric Car Urban Concept",
+            "issuer": "Indonesia Energy Marathon Challenge 2014",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "description": "Competed with other 80 cars from around Indonesia."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Academic Writing",
+            "number": null
+        },
+        {
+            "name": "Jazz Piano",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "title": "Asuransi Astra's Insurance Challenge",
+            "description": "This project is basically made for Asuransi Astra's employee branding. We decided to make it as an insurance challenge competition based on our survey and brainstorming. In total, 88 participant, from all majority in ITB, sending their work about insurance in their own majority.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "title": "Knowledge Uplifting Project",
+            "description": "A group of six Young Leaders of Indonesia recipients, endorsed by the McKinsey & Company, is assigned to work on this project for Koperasi Kasih Indonesia, a growing high-profile social enterprise company based in Jakarta. The objective is to devise a knowledge management and support system to help the company in scaling-up its business venture sustainably.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/dekha-anggareska-5a27374b",
+            "name": "Dekha Anggareska",
+            "summary": "Building CrediBook",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reginavenska",
+            "name": "Regina Venska Ardiana",
+            "summary": "Lead Product Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/charleslee5",
+            "name": "Charles Lee",
+            "summary": "Co-Founder at CoderSchool",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wilson-yanaprasetya-357a055",
+            "name": "Wilson Yanaprasetya",
+            "summary": "Digitizing Tier 3 & Rural Indonesia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christlie",
+            "name": "Christian Lie",
+            "summary": "Building CrediBook | We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/taniaandini",
+            "name": "Tania Andini",
+            "summary": "Creative Strategist | Copywriter | Storyteller",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roolin-njotosetiadi",
+            "name": "Roolin Njotosetiadi",
+            "summary": "CEO & Co-Founder at Logisly",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roselinda15",
+            "name": "Rose Linda",
+            "summary": "General Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jan-sebastian-52b275112",
+            "name": "Jan Sebastian",
+            "summary": "VP (Finance, People, and Corporate Support) | Building CrediBook | Accountant | Business Strategist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/christian-dotulong-522a4248",
+            "name": "Christian Dotulong",
+            "summary": "AVP of Marketing at CrediBook",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Gabriel Sunich Frans",
+            "link": "https://cl.linkedin.com/in/gabriel-sunich-frans-8abb54100",
+            "summary": "Gerente en Aguavida",
+            "location": "Chili"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

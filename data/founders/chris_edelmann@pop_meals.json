@@ -1,0 +1,355 @@
+{
+    "public_identifier": "christian-edelmann-we-are-hiring-27166531",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/christian-edelmann-we-are-hiring-27166531/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221629Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3ca257003ea6b35fc11961b7ece556b9667d614b837744381b0268fb490121aa",
+    "background_cover_image_url": null,
+    "first_name": "Christian",
+    "last_name": "Edelmann (We are hiring)",
+    "full_name": "Christian Edelmann (We are hiring)",
+    "follower_count": 8250,
+    "occupation": "Co Founder & CTO at Pop Meals",
+    "headline": "Co Founder & CTO at Pop; Y Combinator S17",
+    "summary": "Applying technology to solve problems.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Pioneer Fund",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pioneerfund/",
+            "title": "Venture Partner",
+            "description": null,
+            "location": "San Francisco, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHi9VKZZ3eYKQ/company-logo_400_400/0/1602302074283?e=1703116800&v=beta&t=wvpIaqYGVtVjdRDHL4FFj-omW7VoMT9fBSdE2HMXqWY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "Pop Meals",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/popmeals/",
+            "title": "Co Founder & CTO",
+            "description": "Building the leading food-tech company in Southeast Asia.",
+            "location": "Kuala Lumpur, Malaysia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFpVn1QFYYrGQ/company-logo_400_400/0/1625558240962?e=1703116800&v=beta&t=KV835Ywf62oHihEur52TnmCHDD9aNtDITNgHXmR1g4E"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Zenyum",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zenyum/",
+            "title": "Investor",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQE07p4n0cmByA/company-logo_400_400/0/1694400273828?e=1703116800&v=beta&t=R_PCDLEtqiIC8dcaKlH4JM7DjPszxa5YJPc_A72O8j8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Y Combinator",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/y-combinator/",
+            "title": "YC S17",
+            "description": null,
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1703116800&v=beta&t=WLuMjL_oD6Gy6Y197u72fULDOBDNeebGaTFp4vGFvLg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Reforge",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/reforge/",
+            "title": "Growth & Retention Series 2018/19",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFyuulckDgQ3w/company-logo_400_400/0/1672953318581?e=1703116800&v=beta&t=ghfyf0fA7pQh33QPHqeMHcnYQUdvfCEjezguUgihTPc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "company": "Allianz X",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/allianzx/",
+            "title": "Freelance Software Engineer and Product Manager",
+            "description": "Software Engineer and Product Manager for Allianz X, Allianz, F24, NextMunich and others.\n\n- experienced in all phases of product development: ideation, research, product design,\nprototyping and business modeling\n- deliverables ranged from product strategy and roadmap, engineering of MVP or prototype,\ntechnology stack and architecture, interim product management and team building, business\nmodel design and pricing strategy to execution of market entry",
+            "location": "Munich Area, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGmASslpWbPDA/company-logo_400_400/0/1658142426244?e=1703116800&v=beta&t=z9XYgZ2AI5gyvcydtjR5TsN9v5XnaEPoGwQXK0Go2e8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Openmind / Entourage",
+            "company_linkedin_profile_url": null,
+            "title": "Co Founder",
+            "description": "Openmind developed a location-based social networking app for iOS and Android\nfocusing on the discovery of local happenings, helping you to dive into social scenes around you and feel like a local in foreign places. In January 2014, the second application \u201cEntourage\u201d - a happening-based group messenger for iOS and Android - was launched.",
+            "location": "Munich Area, Germany",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "company": "Capgemini Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/capgemini-invent/",
+            "title": "Business Model Innovation",
+            "description": "Business Model Innovation",
+            "location": "Amsterdam Area, Netherlands",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFVUYBtaPbwFQ/company-logo_400_400/0/1688535773489?e=1703116800&v=beta&t=RO-D8jWernd95GeeYaDH2KPsXl73rntTlQ9KhrOWe4Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "company": "Capgemini",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/capgemini/",
+            "title": "Software Development Project Management",
+            "description": null,
+            "location": "Munich Area, Germany",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_400_400/0/1688232761552?e=1703116800&v=beta&t=MQgPr-iz5J4vtbkuLadIPFLx1WnCagerli90vTiIrNE"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1703116800&v=beta&t=WLuMjL_oD6Gy6Y197u72fULDOBDNeebGaTFp4vGFvLg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Computer Science and Business (Wirtschaftsinformatik)",
+            "degree_name": "Master's Degree",
+            "school": "Technical University of Munich",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEyP6R-fPElYg/company-logo_400_400/0/1575562167047?e=1703116800&v=beta&t=tQv_YmLm-wExpNzWxoNrRB1uk8bSyU5D-ef9aPUH_QY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "The Hong Kong University of Science and Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH4YoQ1L_piMg/company-logo_400_400/0/1624249048793?e=1703116800&v=beta&t=iWUVjDF6iLdi5ocy1awE3dTwJF8AxwsTXSJyGdeuIeM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Computer Science and Business (Wirtschaftsinformatik)",
+            "degree_name": "Bachelor's Degree",
+            "school": "Technical University of Munich",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEyP6R-fPElYg/company-logo_400_400/0/1575562167047?e=1703116800&v=beta&t=tQv_YmLm-wExpNzWxoNrRB1uk8bSyU5D-ef9aPUH_QY",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "IT Carve Out Success Factors in the Ideal Type Model",
+            "publisher": "Prof. Dr. Krcmar, Faculty of computer science and mathematics, Technical University Munich",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "1st Place, Youth Software Award (awarded by SAP founder Dr. Klaus Tschira)",
+            "issuer": null,
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jessicaykli",
+            "name": "Jessica Li",
+            "summary": "Co-founder & COO (Pop Meals), Y Combinator S17",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/geoffralston",
+            "name": "Geoff Ralston",
+            "summary": "President at Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/daltoncaldwell",
+            "name": "Dalton Caldwell",
+            "summary": "Managing Director at Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yfaber",
+            "name": "Yonathan Yuri Faber",
+            "summary": "Founder at Pantore Pay - (YC W22) - We are hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/michong",
+            "name": "Michael Chong",
+            "summary": "Y Combinator S16 & CEO at Seerslab Inc.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wannhhwoz",
+            "name": "WANN WOZ",
+            "summary": "Redefining Dynamics @ RPG Commerce: Orchestrating Events, Optimizing Operations, and Catalyzing New Projects! \ud83d\ude80\ud83c\udf08",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akmalm",
+            "name": "Akmal Makmor",
+            "summary": "Strategy & Operations Manager at Pop Meals (Y Combinator S17)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/derrick-dass-1475a628",
+            "name": "Derrick Dass",
+            "summary": "Head of People at Pop Meals",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mwseibel",
+            "name": "Michael Seibel",
+            "summary": "Managing Director and Group Partner at Y Combinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nathan-somasundaram-1ab94a188",
+            "name": "Nathan Somasundaram",
+            "summary": "Food Safety Expert",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

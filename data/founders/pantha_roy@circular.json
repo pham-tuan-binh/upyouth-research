@@ -1,0 +1,491 @@
+{
+    "public_identifier": "pantharoy",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/pantharoy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221256Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6d4269cde37274d537bb437278771911174568e2857249e4a906556edca299d1",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/pantharoy/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221256Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3543ff7b5d55d4a4859b5a69fba65bdaf50ff8d9e4862aa51086c682b2139e83",
+    "first_name": "Pantha",
+    "last_name": "Roy",
+    "full_name": "Pantha Roy",
+    "follower_count": 3723,
+    "occupation": "Founder and CPO at Circular (YC W22)",
+    "headline": "Founder & CPO @ Circular (YC W22)",
+    "summary": "Currently building Circular.\n\nIn my past life:\n- Engineer + MBA by training; quant/trader turned technology product builder\n- Built teams and products at a range of organisations: from seed stage start-up and scale-up (Series A+) to late stage PE funded startup and large corporate\n- Worked on a range of products - fintech/insurtech, Telco, travel and consumer: B2C, B2B and B2B2C\n- Owned commercials and large PnL \n- Lived in 5 countries - managed and worked with people from around the world\n- Love dogs, nature and spicy food :)",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "ends_at": null,
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs",
+            "title": "Equity Cash Trading Technology (Internship)",
+            "description": "- Full-time summer internship\n- At the the end of the internship, was offered a full-time position to be taken up after graduation",
+            "location": "London, England, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1710979200&v=beta&t=zdIUizluADwvA-TJQeZc6u0c9VFMM5Nh6xBoItXEqF4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs",
+            "title": "FX Options Trader",
+            "description": "- Traded G10 currency and precious metals options\n- Consistently ranked within one of the top 3 FX/PM options trading teams globally",
+            "location": "Z\u00fcrich Area, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1710979200&v=beta&t=zdIUizluADwvA-TJQeZc6u0c9VFMM5Nh6xBoItXEqF4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs",
+            "title": "FX Structurer",
+            "description": "Set up and led the exotic FX derivatives structuring business for European institutional clients",
+            "location": "Z\u00fcrich Area, Switzerland",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1710979200&v=beta&t=zdIUizluADwvA-TJQeZc6u0c9VFMM5Nh6xBoItXEqF4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs",
+            "title": "FX Quant Strategist",
+            "description": "FX based (non High Frequency) strategy creation and management \n- Coded in Java, C++, MATLAB and Mathematica to enable math models \n- Product Management: Owned and managed delta one index platform. Worked with technology, market risk and operational risk teams to create and deliver this web-based platform for global usage.\n\nResult:\n- Our award winning strategy indices were traded and outperformed industry peers/benchmarks during the financial crisis and its aftermath. \n- The strategies business grew from just a few million USD of assets under management to over 1.4 billion USD at the peak",
+            "location": "Zurich",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1710979200&v=beta&t=zdIUizluADwvA-TJQeZc6u0c9VFMM5Nh6xBoItXEqF4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "UBS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ubs",
+            "title": "Graduate Trainee",
+            "description": "VWAP (Volume Weighted Average Price) analysis for equity cash trading.",
+            "location": "London, United Kingdom",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEshkSDzwMJ4g/company-logo_400_400/0/1630584313976/ubs_logo?e=1710979200&v=beta&t=zdIUizluADwvA-TJQeZc6u0c9VFMM5Nh6xBoItXEqF4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Circles.Life",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/circles1",
+            "title": "Head of Product & Data",
+            "description": "Circles Life is a Telco technology company funded by Sequoia Capital, Founders Fund and Warburg Pincus. \n\nI lead 2 departments at Circles: \n- Product (Platform) - A team of 8 (same responsibilities carried forward)\n- Data - A team of around 30 (data analyst/scientist/engineers)\n\nI took over the data team early 2021 and restructured it to align with our business lines. My team also initiated re-architecting our data infrastructure to execute on our long term vision.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE66pFvLAVb9g/company-logo_400_400/0/1630616506341/circleslife_logo?e=1710979200&v=beta&t=XqPPH8In0PjMeC2eLCs77_0eg030XypIB2tRhu-fIEE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Circles.Life",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/circles1",
+            "title": "Head of Product (Platform)",
+            "description": "My team of 8 product managers has 3 broad pillars of responsibilities:\n- Launching new countries (e.g. Japan and Indonesia) \n- Making our platform configurable so that our new product launches can be accelerated \n- Optimising our operations and owning key revenue assurance metrics once a country is launched (e.g. suspensions, collections and MDR) \n\nIn addition to the above, my team: \n- Owns Circles' Fintech product (Sphere) and all things payments - from negotiating commercials to driving product implementation \n- Jointly owns platform engineering KPIs like availability and reliability\n\nI set hiring guidelines and actively recruited to (more than) double the team as compared to when I started. As a part of growing the team, guided and enabled my team members to mature to become managers themselves.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQE66pFvLAVb9g/company-logo_400_400/0/1630616506341/circleslife_logo?e=1710979200&v=beta&t=XqPPH8In0PjMeC2eLCs77_0eg030XypIB2tRhu-fIEE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Circular (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nowcircular",
+            "title": "Founder and CPO",
+            "description": "Circular is accelerating the adoption of the circular economy by making subscriptions the best way to access and experience tech.\n\nOur customers get their hands on the best tech through low-cost, convenient subscriptions. They can pay monthly, keep it as long as they want, and if they love it, buy it. If they return it, we carefully refurbish it and pass it on to the next loving owner - radically extending its useful life.\n\nCircular is backed by YCombinator and other renowned investors.",
+            "location": "Singapore, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGXLY7F9X91Q/company-logo_400_400/0/1691481063701?e=1710979200&v=beta&t=efiDcpgwR38Kpkxbf6lpOmDmpNoiPf28gJ-q7vh-3zw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Igloo (formerly Axinan)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/iglooinsure",
+            "title": "VP of Product",
+            "description": "Igloo (formerly Axinan) is an insurtech startup backed by SingTel, Cathay Innovation and Partech among other investors.\n\nIgloo was selected to be a part of Paypal's accelerator and Google's Launchpad Studio program (one of the 2 entrants from South East Asia with GoJek).\n\n- Joined Igloo at seed stage to establish and lead the product organisation. Built a team of 8 based out of Singapore, Chengdu (China) and Taiwan\n- My team launched B2C, B2B and B2B2C products from scratch in many countries around APAC (and Australia)\n- Our products brought Igloo from a pre-revenue stage (in 2018) to generating millions of policies a month by Q4 2019\n- We closed Series A+ round of funding in Q1 2020. I left Igloo after the completion of our fund raising round.\n\nA select set of news coverage below:",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGpbklrWy29NA/company-logo_400_400/0/1630631407005/iglooinsure_logo?e=1710979200&v=beta&t=Fth-584I_5nwayBkGPOKcGpNRpAdC2Bx3rLPnvtLPxA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "honestbee",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/honestbee",
+            "title": "VP of Product",
+            "description": "honestbee is the leading grocery and food delivery company in SEA. \n\nI led the 12 member consumer product management team that is based out of Singapore, Taiwan and India. I also directly managed about 20 engineers in our India product development centre as we looked to hire a site lead.\n\n- Headed product management at honestbee as the company expanded X times and in 8 countries across APAC\n- Launched 2 new product lines ground-up \n- Created structures and new hiring processes for honestbee's product organisation. Doubled the size product teams in Taiwan and Singapore\n- Started honestbee\u2019s product/technology development arm in India. Hired strategic product management candidates \n- As a part of the seniors bench and management team, helped steer strategic direction of the company",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG3vFJlU3yG6g/company-logo_400_400/0/1631340340025?e=1710979200&v=beta&t=OTri_Cew1tGlkKVrFTw5YO96C5rJuBQhDIWtfK8DGyk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Roomorama.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/roomorama.com",
+            "title": "VP of Product",
+            "description": "Roomorama.com was a short-term and vacation rental platform. The company offered tens of thousands of professionally-managed accommodation worldwide. Bridge Rentals was the B2B arm of Roomorama.\n\nMy core product responsibilities included:\n- Owning the B2C product - Roomorama.com website (competing with the likes of AirBnB). This included SEO, SEM to admin pages and the main e-commerce site itself\n- Owning the B2B product - API connectivities  with partners like CTrip, Expedia and Tujia\n- Managing the supply-side API connectivities\n\nRrecruited and managed a team of 13 around APAC. Unfortunately we could not raise enough funds in spite of the best efforts of an amazing team. I, personally, learnt a lot from this failure.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDdTEnjpkUBg/company-logo_400_400/0/1631330528244?e=1710979200&v=beta&t=cfn4xTI0AkFx-_AUDntm0b6kORiMXnr7NQ0oHg52v-Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Roomorama.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/roomorama.com",
+            "title": "Product Lead",
+            "description": " I owned all aspects of the B2C product - Roomorama.com website.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGDdTEnjpkUBg/company-logo_400_400/0/1631330528244?e=1710979200&v=beta&t=cfn4xTI0AkFx-_AUDntm0b6kORiMXnr7NQ0oHg52v-Y"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "INSEAD",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5176/",
+            "description": "- Full time MBA program (15J)\n- Started in France, finished in Singapore\n- Made lifelong friends\n\nInternship at Ascenda/Kaligo.com - Partnership management, digital marketing, customer lifecycle analysis and product management/launches.",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1710979200&v=beta&t=z8gVKjekbucY6xGKhuy_RQ-nwtpeCr4dI7Md_ilAoCk",
+            "grade": null,
+            "activities_and_societies": "Social Representative"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "Technology Policy",
+            "degree_name": "Master of Philosophy (MPhil)",
+            "school": "University of Cambridge",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4522/",
+            "description": "Advised governments, consulted technology companies and formulated go-to-market strategy for patents. Started a company - Synced.to ",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833279033/university_of_cambridge_logo?e=1710979200&v=beta&t=A1p_rpfpRNy1IvnFS1Xw3u04xa-cB9wddU1qYBd-5EI",
+            "grade": "First Class",
+            "activities_and_societies": "Member of Gonville and Caius College, Cambridge"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "field_of_study": "Electrical Engineering/Computer Science",
+            "degree_name": "MEng",
+            "school": "Imperial College London",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5106/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFIhkSnjV0YNg/company-logo_400_400/0/1688215735026?e=1710979200&v=beta&t=AuRa8vKW68PfaSVYgKimnx1_cM0na8OOa45DE3V0OAs",
+            "grade": "First Class Honours",
+            "activities_and_societies": "Departmental Representative (2003-2004)"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "W22 Founder",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": "Founder @ Circular - YCombinator Batch W22",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710979200&v=beta&t=M5k3ZHiWvTqvhnpin66S078u1hOzcvDqOUhGA0fzyWI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bengali",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Analysis of biped gait patterns generated by van der Pol and Rayleigh oscillators under feedback",
+            "publisher": "AMAM 2005",
+            "published_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            },
+            "description": null,
+            "url": "https://www.researchgate.net/profile/Yiannis_Demiris/publication/267997650_Analysis_of_biped_gait_patterns_generated_by_van_der_Pol_and_Rayleigh_oscillators_under_feedback/links/546dda8e0cf2193b94c5d330.pdf"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Head of Department's Prize",
+            "issuer": "Imperial College London",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "description": "Best final year project of the course"
+        },
+        {
+            "title": "IBM Prize",
+            "issuer": "IBM and Imperial College London",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            },
+            "description": "Top student of the course"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GMAT",
+            "score": "730",
+            "date_on": null,
+            "description": null
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "title": "Entrepreneur In Residence",
+            "cause": "Science and Technology",
+            "company": "INSEAD",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/5176/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/0/1630650117382/insead_logo?e=1710979200&v=beta&t=z8gVKjekbucY6xGKhuy_RQ-nwtpeCr4dI7Md_ilAoCk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "title": "Instructor",
+            "cause": "Science and Technology",
+            "company": "General Assembly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/2408664/",
+            "description": "Profile: https://generalassemb.ly/instructors/pantha-roy/17751",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEwAxD22k-HBw/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1710979200&v=beta&t=YmiXK3MptIRTICnv1UKsatDlvQHNCVY3AkZjPSC7iRo"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Advanced Open Water Diver",
+            "license_number": null,
+            "display_source": null,
+            "authority": "PADI",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Certified Scrum Product Owner",
+            "license_number": "934355",
+            "display_source": null,
+            "authority": "Scrum Alliance",
+            "url": null
+        }
+    ],
+    "connections": 3666,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/george-oliver-81139754",
+            "name": "George Oliver",
+            "summary": "Founder & Head of Ops @ Circular (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ybernstein",
+            "name": "\ud83e\udd16 Yaniv Bernstein",
+            "summary": "Founder @ Circular | Host @ The Startup Podcast | I breathe oxygen. No way, you do too? Let's connect!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nicolasramsay",
+            "name": "Nick Ramsay",
+            "summary": "CEO & founder at Circular | Making subscriptions the best way to access and experience tech | Angel Investor | Advisor | Entrepreneur",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/belinda-ong",
+            "name": "Belinda O.",
+            "summary": "Tech Strategy and Operations | Building Machine Learning models | Ex-McKinsey",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Page Deng\n\n\n\nPantha is the best boss which I ever had in my career. \nWith strong communication skills and admirable management ability, he is the role model that makes me want to stay in the team and learn from him. I also admire Pantha's foresight, he can always give me advice and guidance from a higher-level perspective.\n\nEvery colleague who has worked closely with Pantha will feel happy at work, he also gave us a lot of space to play freely. He is the person I want to learn at work, and it is also the goal I want to become in my career. Amazing person and boss!",
+        "Chen(Charles) LU\n\n\n\nPantha is an awesome boss and manager. He has very strong communication skills and management skills. He is able to manage all-level stakeholders effectively. As a boss, he clearly tells where and how your should improve yourself and paves the future career path for you. He patiently explains to you why this task should be prioritized, what is the long-term goal of this task. He never asks you to do anything without explaining. Having Pantha as your boss makes your day-to-day work energetic, hopeful and fun! I wish I could work with Pantha again in the future!"
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Pantha Roy",
+            "link": "https://in.linkedin.com/in/pantha-roy-393a59127",
+            "summary": "English Language Teacher | Cambridge CELTA certified | ESL | TEFL | TESOL | IELTS Expert | E-learning Enthusiast",
+            "location": "Kolkata"
+        },
+        {
+            "name": "Pantha Roy",
+            "link": "https://in.linkedin.com/in/pantha-roy-bb4617ba",
+            "summary": "BSc, BLIS ,MLIS, DCA",
+            "location": "Guwahati"
+        },
+        {
+            "name": "Pantha Pratim Roy",
+            "link": "https://in.linkedin.com/in/pantha-pratim-roy-b21842184",
+            "summary": "Freelance at Self Emplyoed",
+            "location": "Haora"
+        },
+        {
+            "name": "Pantha Roy",
+            "link": "https://bd.linkedin.com/in/pantha-roy-119017139",
+            "summary": "Student at leading university",
+            "location": "Bangladesh"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQF9sg_ttJpY0g/group-logo_image-shrink_48x48/0/1521154593613?e=1703764800&v=beta&t=v1F6AzH0XXmzJZJAJE8zC8bsGd0_2MjDTOT7wAqlV7Y",
+            "name": "Circular Economy Community \u2013 Ellen MacArthur Foundation",
+            "url": "https://www.linkedin.com/groups/4163409"
+        },
+        {
+            "profile_pic_url": null,
+            "name": "INSEAD FinTech",
+            "url": "https://www.linkedin.com/groups/8571654"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

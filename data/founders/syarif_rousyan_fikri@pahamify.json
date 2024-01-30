@@ -1,0 +1,432 @@
+{
+    "public_identifier": "syarif-rousyan-fikri-4b223851",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/syarif-rousyan-fikri-4b223851/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221635Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f94282dff8c2c0ba2081d5f9cb9c9f84c345eb1afe53a1d9372b548ef9e44e1",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/syarif-rousyan-fikri-4b223851/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221635Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec8109b310b7c0742e5440d8bafb7895e05d5c5c337085b1f36cd182aaf66181",
+    "first_name": "Syarif Rousyan",
+    "last_name": "Fikri",
+    "full_name": "Syarif Rousyan Fikri",
+    "follower_count": 2235,
+    "occupation": "PhD Candidate at Nanyang Technological University",
+    "headline": "-",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Nanyang Technological University",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/ntusg",
+            "title": "PhD Candidate",
+            "description": "I was assigned in Information Systems Research Laboratory. I was conducting a research study in the field of array signal processing. I was working on the development of MUSIC-like algorithm to offer a complete solution in radar signal processing without estimating the number of sources.\n\nI was also assigned to become teaching assistant in two courses:\n1. EE4718 Enterprise Network Design (2 semesters)\nI taught hands-on session of the class where the students learned to configure a network: setting up firewall, implement IPv6 tunnelling, etc.\n2. EE3014 Digital Signal Processing (1 semester)\nI was assigned in the flipped classroom session. Therefore, I designed the online activities and quizzes.\n\n\n            \n\n    \n    \n\n    \n        Lihat lebih sedikit",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_100_100/0/1656682215525?e=2147483647&v=beta&t=s5bSjXjFBBDwoe76ecEH8QLYxp7UmPR5NKo_YIKEwgg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2012
+            },
+            "company": "IBM",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/ibm",
+            "title": "Apprentice",
+            "description": "In Business Unit Attachment, I was assigned to join BP (Business Partners) Geo-expansion team. In this team, we're trying to develop IBM BPs in Geo-city (e.g. Balikpapan and Bandung).",
+            "location": "Jabodetabek , Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=2147483647&v=beta&t=OvnDsTtL4wGdQcdLO0AI77r33IVRgXvv9-JfyCa9cvM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "company": "Institut Teknologi Bandung",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/itb",
+            "title": "Student Representative - Board of Trustees (Majelis Wali Amanat)",
+            "description": "ITB Board of Trustees consists of Central Government (Ministry of Education) Representative, Local Government (West Java Province) Representative, Community Representatives, Academic Senate Representatives, Rector, and Student Representative. As the Student Representative, I was delivering the aspiration of the students to the board. I also delivered strategic policies of ITB to ITB students. In my period, ITB was in the middle of transition period due to changing of its legal status.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_100_100/0/1616576004373?e=2147483647&v=beta&t=uCDJ03MXNcuoIrjkol8O9Gb2XrAZGI88nJ9RVQRGwLE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "PT. Len Industri",
+            "company_linkedin_profile_url": "https://id.linkedin.com/company/pt.-len-industri",
+            "title": "Intern",
+            "description": "I was assigned in Control and Defence System Business Unit to conduct a study of military radio. I was studying 4-PAM Modem and was conducting some experiments in MATLAB. I also designed the User Interface for the radio.",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Electrical Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": "I was the youngest (15 years old) student to get admitted in my batch. I was also the youngest member of the Board of Trustees.",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "Nanyang Technological University",
+            "school_linkedin_profile_url": "https://id.linkedin.com/school/ntusg/",
+            "description": "I did not need a 1st class honour, GRE, and IELTS test to get admitted with full scholarship while I was still 20 years old. I resigned from my study at the end of 9th semester. But, it does not mean I am not smarter than those who graduate.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE9ISNDKYUaAw/company-logo_100_100/0/1656682215525?e=2147483647&v=beta&t=s5bSjXjFBBDwoe76ecEH8QLYxp7UmPR5NKo_YIKEwgg",
+            "grade": "(Not Finished)",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Bahasa Indonesia"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "org_name": "Keluarga Mahasiswa (Student Union) ITB",
+            "title": "PJS MWA WM (Caretaker of MWA Student-Representative Member)",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "org_name": "Unit Aktivitas Tenis Meja",
+            "title": "-",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2011
+            },
+            "org_name": "Incubator of Ideas and Innovations (Inkubator Ide dan Inovasi Mahasiswa)",
+            "title": "President",
+            "description": "In this organization, we were trying to build a conducive environment for student collaboration and innovation. Because of our wonderful teamwork (I3M and Ganesha TV), we succeeded to launch three Presenticcon (Idea Showcase) events, and two of them can be watched on youtube (keyword: Presenticcon). We also succeeded to set up the 1st event of TEDxBandung."
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "Himpunan Mahasiswa Elektroteknik",
+            "title": "Anggota Luar Biasa",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Belajar Cara Belajar",
+            "publisher": "Kepustakaan Populer Gramedia",
+            "published_on": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "description": "Belajar Cara Belajar (Learning How to Learn) is a quick-reference book adapted from the (Google-sponsored) Learning How to Learn Courses in Hujan Tanda Tanya. It provides a framework on how to develop your own learning system (metalearning).\n\nhttps://www.youtube.com/watch?v=bv7IBHh1w-A&list=PLk57zHLKlnT8EY7E5D_j-7HciTdbnF3tR",
+            "url": "https://books.google.co.id/books/about/Belajar_Cara_Belajar.html?id=XhXhDwAAQBAJ&redir_esc=y"
+        },
+        {
+            "name": "Mengenal Sistem Pendidikan Singapura",
+            "publisher": "Penerbit Nuansa Cendekia",
+            "published_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "description": "In English: Introduction to Singapore Education System. I took part in writing an overview of Singapore education system as one of the programs of the Education Attache of the Embassy of the Republic of Indonesia, Singapore.",
+            "url": "https://www.yumpu.com/id/document/view/51876922/2014-10-13-03-31-44mengenal-sistem-pendidikan-singapura"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "YC 2018 Startup School Grant Award",
+            "issuer": "Y Combinator",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "description": "Only 100 fast-growing startups from YC Startup School batch 2018 (15,442 founders registered,\n5,065 graduated) received the award."
+        },
+        {
+            "title": "Winner of YouTube NextUp Indonesia 2017",
+            "issuer": "YouTube",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "description": "12 YouTube channels from Indonesia were selected to win the 1st YouTube NextUp Indonesia. As rising creators we received the opportunities to get equipment voucher, workshop at Creator Camp, and account management by the YouTube partnership team."
+        },
+        {
+            "title": "Runner-Up in Special Category of Public Complaints, Hackathon Merdeka 3.0",
+            "issuer": "Code4Nation, DKI Jakarta Government",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "description": "We built a working prototype of an apps that offers a guided experience for public service sector. The apps is called Angkringan (https://www.youtube.com/watch?v=HmPae6Q-_0c). My presentation can be watched here: https://www.youtube.com/watch?v=ysFiKEtkWjA."
+        },
+        {
+            "title": "NTU Research Scholarship",
+            "issuer": "NTU",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "description": null
+        },
+        {
+            "title": "Excellence Scholarship for Researcher",
+            "issuer": "Ministry of Education and Culture Republic of Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": "http://beasiswaunggulan.kemdiknas.go.id/pengumuman/detail/88"
+        },
+        {
+            "title": "Nominator in category of Student Digital Interactive Media - INAICTA 2011",
+            "issuer": "Ministry of Communication and Informatics Republic of Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "description": "I was collaborating with Faikar Izzani from Visual Communication Design Department to develop a multi-touch table-top application for Mandala Wangsit Siliwangi Museum. We were trying to bring technological touch to the gloomy museum. A part of our work can be seen in this video http://www.youtube.com/watch?v=XbGloiRoxUs"
+        },
+        {
+            "title": "Best Creativity - Indonesian Rocketry Contest: Komurindo 2011",
+            "issuer": "Directorate General of Higher Education, Ministry of Education, Indonesia",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "description": "Komurindo (Kompetisi Muatan Roket Indonesia) is a national competition to design and implement payload for Attitude Monitoring and Surveillance Rocket."
+        },
+        {
+            "title": "5th Winner - National PLC Programming Contest",
+            "issuer": "Faculty of Industrial Technology ITB",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": "Amril Hidayat and I teamed up in this competition to solve given problems by programming the PLC."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Portee Goods Website",
+            "description": "Back-end Development",
+            "url": "http://porteegoods.com"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/mohammad-ikhsan-2a861a30",
+            "name": "Mohammad Ikhsan",
+            "summary": "Co-Founder of Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/edria-albert-38223341",
+            "name": "Edria Albert",
+            "summary": "Pahamify (YC W20) Helping the youth in Indonesia discover the authentic joy in learning",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/iqberenska",
+            "name": "Iqberenska Ernawan",
+            "summary": "Head of Human Resources & General Affair",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gina-ghassari-9a3778170",
+            "name": "Gina Ghassari",
+            "summary": "Head of Math at Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jason-rusli-a83736a6",
+            "name": "Jason Rusli",
+            "summary": "CFO at Pahamify (YC W20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arkanmis",
+            "name": "Arkan Muhammad Irsyad",
+            "summary": "Full Stack Engineer @ Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/oktafianangga",
+            "name": "Oktafian Angga Nugraha",
+            "summary": "Creative Designer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reza-63475189",
+            "name": "Reza .",
+            "summary": "Business development and Partnership at Pahamify (YC W20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bhandoko",
+            "name": "Budi Handoko",
+            "summary": "Building Shipper (YC W19). Hiring Leaders and Engineers.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sabda-ps-40bb1383",
+            "name": "Sabda PS",
+            "summary": "Founder & Chief Education Officer at Zenius",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "kebiasaan kita pada umumnya adalah menunggu mood ketika kita ingin mengerjakan sesuatu hal baik itu tentang perkuliahan ataupun pekerjaan\u2026",
+            "link": "https://www.linkedin.com/posts/mudzakirabdulhafizh_kebiasaan-kita-pada-umumnya-adalah-menunggu-activity-7040359308059967488-C5wf",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "I don\u2019t think I\u2019ll ever be a CEO again. You might think CEOs get all the glory (and to some extent they do) but the road is paved with shards of\u2026",
+            "link": "https://www.linkedin.com/posts/byosko_i-dont-think-ill-ever-be-a-ceo-again-you-activity-7018930380787367936-OoL8",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "Ini iklan pertama Pahamify, sekaligus awal babak saya memasuki dunia periklanan yang seru dan menyenangkan, waktu itu gak sengaja pulang malam dan\u2026",
+            "link": "https://www.linkedin.com/posts/dicco_job-editing-ads-activity-6972782788903129088-m-G-",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "I've been in a retail industry for a while and I want to share about the inventory treatment. After a business\u2019s product is sold, the product cost is\u2026",
+            "link": "https://www.linkedin.com/posts/david-marganti-b24a0396_business-accounting-retail-activity-6930018258666352640-ZaW3",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "Glad to work in here which we know making the impact for education. Appreciate for all of your hard work mas Syarif Rousyan Fikri, Thank you for your\u2026",
+            "link": "https://www.linkedin.com/posts/david-marganti-b24a0396_belajarjadiseru-edtech-pahamify-activity-6915162950357962752-LqsB",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "We are honored to share that our CEO, Syarif Rousyan Fikri, has been recognized as Forbes 30 under 30 Indonesia, class of 2022. \ud83c\udfc6This achievement\u2026",
+            "link": "https://www.linkedin.com/posts/syarif-rousyan-fikri-4b223851_pahamifren-activity-6910006521317785600-lEiN",
+            "activity_status": "Dibagikan oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "Education Has No Age LimitAnything which make you realize that you need to grow and move on in life is time. Everyone and everything in this world\u2026",
+            "link": "https://www.linkedin.com/posts/david-marganti-b24a0396_gojek-gojek-staycurious-activity-6871001027001364480-BbhW",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        },
+        {
+            "title": "Nowadays it\u2019s common for people to find themselves living stress-ridden and hectic lives. We often find ourselves in a hurry to do and achieve so\u2026",
+            "link": "https://www.linkedin.com/posts/david-marganti-b24a0396_stayhappy-stayhealthy-balancedlifestyle-activity-6869495474349592576-xJta",
+            "activity_status": "Disukai oleh Syarif Rousyan Fikri"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

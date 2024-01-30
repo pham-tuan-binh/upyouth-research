@@ -1,0 +1,227 @@
+{
+    "public_identifier": "ammarroslizar",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ammarroslizar/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221329Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f9e8c87eac3350a76c0b33f4af6a771189d68d6c815195703508007111b0a581",
+    "first_name": "Ammar",
+    "last_name": "Roslizar",
+    "full_name": "Ammar Roslizar",
+    "follower_count": 2390,
+    "occupation": "CEO at Yezza",
+    "headline": "CEO Yezza \u2022 Forbes U30 \u2022 Y Combinator",
+    "summary": "I'm building Yezza, a tech startup to help entrepreneurs earn money & save time.",
+    "country": "MY",
+    "country_full_name": "Malaysia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Yezza",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yezza",
+            "title": "CEO",
+            "description": "We are building technologies for entrepreneurs to earn money & save time.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHJaoWlozyLIg/company-logo_400_400/0/1630672121967?e=1712793600&v=beta&t=uson4rZ-smT_ObtFshZEzKTtjzb6ysSEcFgCNwcL2pg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "ARBA Travel",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/arba-travel",
+            "title": "CEO",
+            "description": "Bootstrapped this travel company to $12m revenue, in 4 countries.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQH8VEc1vF1WaQ/company-logo_400_400/0/1630612703625/arba_travel_logo?e=1712793600&v=beta&t=BOqPWdsPTJirUHsYbn4ZXkya1KOwLtcZUGlVBkT6XNo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Batch W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Political Economy",
+            "degree_name": "Master's Degree",
+            "school": "University of Sydney",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/166676/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHbPUZaDAMT6g/company-logo_400_400/0/1646696237577/university_of_sydney_logo?e=1712793600&v=beta&t=ydnHnfyVFkrLtxdz3FSdhlNHlLWACMolndEfljpUqI4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Economics and Actuarial Science",
+            "degree_name": "Bachelor of Science (BSc)",
+            "school": "University of Southampton",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": null,
+            "degree_name": "International Baccalaureate (IB) Diploma",
+            "school": "Kolej MARA Banting",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": null,
+            "degree_name": "SPM",
+            "school": "MRSM Taiping",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Malay"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Patron",
+            "cause": null,
+            "company": "ARBA Foundation",
+            "company_linkedin_profile_url": null,
+            "description": "Enable philanthropist through data & tech.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": 1700,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/khairul-anwar-mohamad-zaki",
+            "name": "Khairul Anwar Mohamad Zaki",
+            "summary": "Founder & CEO of Pandai (YC S21) |\nEntrepreneurship \ud83d\udd39 Education \ud83d\udd39 Startup \ud83d\udd39 Data Science \ud83d\udd39 Edtech Evangelist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/syahmi-kaberi-a4b77a12a",
+            "name": "Syahmi Kaberi",
+            "summary": "Head Of Product & Local Partners at ARBA Travel",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/azizi-adil-391a44a5",
+            "name": "Azizi Adil",
+            "summary": "Product Owner at Yezza (YC W22)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amiruddin86",
+            "name": "Amir Hamidun",
+            "summary": "15 years experience in Digital Marketing.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lindarasip",
+            "name": "Ts. Haslinda Rasip",
+            "summary": "CTO & Co-Founder at Borong (Y Combinator W20) | We're HIRING Product Manager, Data Eng, Data Analyst: Visit borong.com/career or DM me.",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

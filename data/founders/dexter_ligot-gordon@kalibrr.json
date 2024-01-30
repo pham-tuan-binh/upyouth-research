@@ -1,0 +1,433 @@
+{
+    "public_identifier": "ligotgordon",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ligotgordon/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221705Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6a410565f0c37e5b8c16f8c6cdd5f1684f4d4cfaf9a39512fb241d7b24f8b716",
+    "background_cover_image_url": null,
+    "first_name": "Dexter",
+    "last_name": "Ligot-Gordon",
+    "full_name": "Dexter Ligot-Gordon",
+    "follower_count": 5611,
+    "occupation": "Co-founder and CEO at Swarm",
+    "headline": "ODF11, YC W13, 2x Founder, Communities, Future of Work",
+    "summary": "I am a problem solver.  I have a background in product leadership, program and policy design, specifically in education, workforce development and public systems.  I am an effective strategist in several contexts- operational, political, relational, and economic.  I can build strong and diverse teams, incubate projects from scratch, and achieve objectives in ambiguous circumstances.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Swarm",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/swarmnow/",
+            "title": "Co-founder and CEO",
+            "description": "Swarm is a global platform where product builders team up with and build technology for startup and small business founders.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHfIzyGBN8Jmg/company-logo_400_400/0/1632300337987/swarmnow_logo?e=1709769600&v=beta&t=fmfxTEJ9_HzhLzrrCnrSh5oySzB6OvPzzNVNwCfaZUs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "company": "Kalibrr",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kalibrr-technology-ventures/",
+            "title": "Co-Founder and Chief Product Officer (YC W13)",
+            "description": "Driving Kalibrr's innovation pipeline from vision to execution, leading Product Management, Engineering, Design, and AI/R&D teams, to achieve it. Kalibrr is a B2B2C SaaS-enabled marketplace that provides tools to employers to discover, assess, engage, and manage candidates for their roles.  Built a product and engineering culture centered on learning, propelling Kalibrr's reputation as one of the best tech companies to work for in the Philippines. Kalibrr's job search App is the highest rated in Southeast Asia.",
+            "location": "Makati, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGCKXJa7FhyuQ/company-logo_400_400/0/1633449669041/kalibrr_technology_ventures_logo?e=1709769600&v=beta&t=TvQyKTUF4j2wpN-L6RBljk_T33KGIGuijAFPzZiFxMg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "Ituro Consulting",
+            "company_linkedin_profile_url": null,
+            "title": "Principal",
+            "description": "Design strategic planning processes, training and workforce programming, policy, and market development strategies for local government and learning technology start-up companies in the United States and the Philippines.",
+            "location": "San Francisco",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2003
+            },
+            "company": "Filipinos Against Prop 54",
+            "company_linkedin_profile_url": null,
+            "title": "Campaign Manager",
+            "description": "Developed campaign strategy, raised campaign fund & supervised staff to conduct an electoral grassroots campaign within a 6-week timeframe. Brought together over 30 community based organization to form a coalition against the ballot initiative. Collaborated with several other No on 54 campaign entities to coordinate efforts and improve coverage.",
+            "location": "Oakland, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "City and County of San Francisco",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/city-and-county-of-san-francisco/",
+            "title": "Principal Analyst, Mayor's Office of Economic and Workforce Development",
+            "description": "Designed and oversaw signature City workforce programs.  Managed San Francisco\u2019s Workforce Development strategic plan, principally authoring final report.  Designed and managed signature programs including GoSolarSF workforce initiative, Chinatown Workforce Service Center, and the Sector Academies. Coordinated projects with multiple community partners and stakeholders.",
+            "location": "San Francisco",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQF2US5mwqcmvw/company-logo_400_400/0/1630624337202/city_and_county_of_san_francisco_logo?e=1709769600&v=beta&t=voJFtk_HW7HgxFLnbJwAY0SM-4n2TNzdpBlcVDcm5XM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2008
+            },
+            "company": "Insight Center for Community Economic Development",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/national-economic-development-&-law-center/",
+            "title": "Program Manager",
+            "description": "Workforce policy specialist for the National Network of Sector Partners, a division of the Center.  Consultant for governors on employment and training policy utilizing industry specific workforce development strategies.  Analysis of the political context and devised strategies for policy change including constituency building and advocacy.  Managed state projects in Ohio and Arkansas and provided staff support to policy efforts in five other states in addition to the National Governors Association.",
+            "location": "Oakland",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGdA72UpB8R7A/company-logo_400_400/0/1631322791092?e=1709769600&v=beta&t=q4wmQQ8PnpbTEFxjb-xZf88xySbesOlN4WsRd8LwNWM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "company": "University of California",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-california/",
+            "title": "Regent",
+            "description": "Voting member of UC\u2019s Governing Board with oversight responsibility of the 10 campuses and 3 National Laboratories.  Highly visible advocate for racial diversity, admissions equity, and diversity in curriculum. High-level decision-maker with responsibility to vote on all system-wide policy, including administrative, financial and educational policy.  Engaged the administrative, academic, community and political constituents to develop and advocate for a balanced and change oriented agenda.  \n\nKey Campaigns: Established and expanded Filipino Studies on 5 UC campuses; successfully secured a resolution against Proposition 54, an initiative to eliminate statistics on race; established a green building and sustainable energy policy; protected funding for outreach to underprivileged high school students; prevented in-state tuition hikes.\n\nCommittee on Grounds and Buildings:  Proposed and effectively established a Green Buildings Policy and Clean Energy standard, making the UC the first university system to implement such a policy. Oversight of $40 billion in capital projects. \n\nCommittee on Finance: Worked actively with UC administration and students and engaged political in Sacramento actors to oversee the University\u2019s $17 billion operational budget. Successfully secured from Legislature and Governor the protection of $20+ million in outreach funding.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGvmADfk7z7EQ/company-logo_400_400/0/1698083820038/university_of_california_logo?e=1709769600&v=beta&t=R4cAcE2BUqZJocNA8ymGpl5UK63PHsl8xz36O_D1bxk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2001
+            },
+            "company": "University of California, Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/uc-berkeley/",
+            "title": "Administrative Analyst- Web Development, Statewide Database-Institute for Governmental Studies",
+            "description": "Managed website in addition to analyzing demographic and political data. The Statewide Database manages the political and demographic dataset used for drawing Congressional, Senate and Assembly boundaries in California.",
+            "location": "Berkeley, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1709769600&v=beta&t=XEsaDi_vumzwIdqlzBz0Uqv5Y4Q5b--21ibdSh0b1ic"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2003
+            },
+            "field_of_study": "Political Economy",
+            "degree_name": "Bachelor's degree",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1709769600&v=beta&t=XEsaDi_vumzwIdqlzBz0Uqv5Y4Q5b--21ibdSh0b1ic",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Co-founder W13",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1709769600&v=beta&t=3PhmNs5xyjB8ojWrGW-pvFjrKYBMSmRW6vQG_vd_kX8",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Supporting Sector Strategies in the South",
+            "publisher": "Southern Growth Policies Board",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "description": null,
+            "url": "http://www.insightcced.org/uploads/Supporting%20Sector%20Strategies%20in%20the%20South%20NNSP-SGPB.pdf"
+        },
+        {
+            "name": "Sector Snapshots; A Profile of Sector Initiatives in 2007",
+            "publisher": "Insight Center for Community Economic Development",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "description": null,
+            "url": "http://www.insightcced.org/uploads/publications/wd/2007SectorSnapshot.pdf"
+        },
+        {
+            "name": "State Sector Strategies: Regional Solutions to Worker and Employer Needs",
+            "publisher": "National Governors' Association",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "description": null,
+            "url": "http://www.nga.org/files/live/sites/NGA/files/pdf/06STATESECREG.PDF;jsessionid=38535ABFD6C5040B3C486877EF1B4334"
+        },
+        {
+            "name": "From Processing Food to Fabricating Metal, A Profile of Manufacturing Sector Initiatives Across America",
+            "publisher": "National Association of Manufacturers & the National Economic Development and Law Center",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "description": null,
+            "url": "http://www.policyarchive.org/handle/10207/bitstreams/5757.pdf"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2003
+            },
+            "title": "Regent",
+            "cause": "EDUCATION",
+            "company": "University of California",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-california/",
+            "description": "Voting member of UC\u2019s Governing Board with oversight responsibility of the 10 campuses and 3 National Laboratories.  High-level decision-maker with responsibility to approve all system-wide policy, including administrative, financial and educational policy.  Engaged the administrative, academic, community and political constituents to develop and advocate for a balanced and change oriented agenda.  \n\nCommittee on Grounds and Buildings:  Proposed and effectively secured a Green Buildings Policy and Clean Energy standard, making the UC the first university system to implement such a policy. Oversight of $40 billion in capital projects. \n\nCommittee on Finance: Worked actively with UC administration and students and engaged political in Sacramento actors to oversee the University\u2019s $17 billion operational budget. Successfully secured from Legislature and Governor the protection of $20+ million in outreach funding. ",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGvmADfk7z7EQ/company-logo_400_400/0/1698083820038/university_of_california_logo?e=1709769600&v=beta&t=R4cAcE2BUqZJocNA8ymGpl5UK63PHsl8xz36O_D1bxk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2001
+            },
+            "title": "Member, Committee on Admissions, Enrollment, and Preparatory Education, UC Berkeley",
+            "cause": "EDUCATION",
+            "company": "University of California, Berkeley",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/uc-berkeley/",
+            "description": "Review and approve admissions policy to UC Berkeley.  Deliberated on major changes to admissions framework to incorporate a holistic review of student's accomplishments and socio-economic factors.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1709769600&v=beta&t=XEsaDi_vumzwIdqlzBz0Uqv5Y4Q5b--21ibdSh0b1ic"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "title": "Founding Chair",
+            "cause": "POLITICS",
+            "company": "KAYA: Filipino Americans for Progress",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kaya-filipino-americans-for-progress/",
+            "description": "\t\tFounded and led the largest national Filipino American progressive public service and electoral grassroots organization.  Devised organizational strategy, and institutional development.  Designed and oversaw national policy and political campaigns.  Worked with and managed steering committee members to manage fundraising, organizing, advocacy and program work.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2008
+            },
+            "title": "Vice Chair and Political Director",
+            "cause": "POLITICS",
+            "company": "Filipinos for Obama",
+            "company_linkedin_profile_url": null,
+            "description": "Designed campaign strategy and campaign infrastructure.  Oversaw field program and coalition building.  Raised funds.  Setting campaign targets and cultivating the human and \nfinancial resources to implement campaign strategy.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2009
+            },
+            "title": "Trustee",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "Chinese for Affirmative Action",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/caasf/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG0lRCHXDTXEg/company-logo_400_400/0/1630525318563/caasf_logo?e=1709769600&v=beta&t=pcTGxNxsUeZjYFplL_iRYPiq5jyrwG3pkEP3AmfZXNI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2008
+            },
+            "title": "Vice President-Community Affairs",
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": "Young Filipino Professionals Association",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/young-filipino-professionals-association/",
+            "description": "Lead organization\u2019s community infrastructure building efforts including developing strategic partnerships, community service opportunities, and philanthropy.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sammy-sidhu",
+            "name": "Sammy Sidhu",
+            "summary": "Co-Founder, CEO at Eventual | YC W22",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jr-calanoc-3842324b",
+            "name": "JR Calanoc",
+            "summary": "CEO at Dynamico Space | CEO at Panalo",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/carlodelantar",
+            "name": "Carlo Chen-Delantar",
+            "summary": "Head of ESG & Circular Economy | Founding Partner | Harnessing venture capital for a brighter and responsible future",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/steph-naval-980a70200",
+            "name": "Steph Naval",
+            "summary": "CEO & Founder of Empath | Mental Health Advocate | Aspiring Community Psychologist",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mohanarjun",
+            "name": "Arjun Mohan",
+            "summary": "Founder & CEO at Tenderd (YC S18)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/inteluckevin",
+            "name": "Kevin Zhang",
+            "summary": "Inteluck - Founder & CEO",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jiawentang",
+            "name": "Jiawen Tang",
+            "summary": "President & Co-Founder @ Hive Health | Stanford MBA | Harvard MPA/ID",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/david-mokos",
+            "name": "David Mokos",
+            "summary": "Co-founder at Stealth | YC W22",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hindyrossignol",
+            "name": "Hindy Rossignol",
+            "summary": "Student & Founder | Mathematics, Data Sciences, AI, Physics, Economics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/trishabantigue",
+            "name": "Trisha Bantigue",
+            "summary": "CEO of Queenly - Forbes 30U30 2022",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

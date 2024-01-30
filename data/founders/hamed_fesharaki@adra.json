@@ -1,0 +1,266 @@
+{
+    "public_identifier": "hamedfesharaki",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hamedfesharaki/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221528Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=134cce8943c8d873efc4e9b7a8702c6a327b73c4ab8a08e3252b7ea3c7489e73",
+    "background_cover_image_url": null,
+    "first_name": "Hamed",
+    "last_name": "Fesharaki",
+    "full_name": "Hamed Fesharaki",
+    "follower_count": 1852,
+    "occupation": "Chief Executive Officer at Adra",
+    "headline": "CEO and Co-Founder at Adra (YC S21)",
+    "summary": null,
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "One White & Co. Dental Care",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/white-&-co.-dental-care",
+            "title": "Board Member",
+            "description": null,
+            "location": "South East, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQF6U5VqNdd07Q/company-logo_400_400/0/1631359345784?e=1713398400&v=beta&t=JKcfwGAt6SAiiZHbvwQQGRM0UMPuC-8YfBvFPD4mbXs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Crystal Dental Care Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/crystal-dental-care-pte-ltd",
+            "title": "Board Member",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGjNMkpOg6eXA/company-logo_400_400/0/1630632525165/crystal_dental_care_pte_ltd_logo?e=1713398400&v=beta&t=C0kSwStBpS1WyZBkbyXT86fyWMHYeKmrYcPgMCrlLHA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Adra",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/adra-ai",
+            "title": "Chief Executive Officer",
+            "description": null,
+            "location": "United States",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEr2h1mJwVbOg/company-logo_400_400/0/1664542063187/adra_ai_logo?e=1713398400&v=beta&t=4tWI2KunjVQCQnuSEnslWjkoUTcmwo7cTLjB5pq9gPg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Q & M Dental Group Limied",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/q-&-m-dental-group-limied",
+            "title": "Associate dental surgeon",
+            "description": null,
+            "location": "Clementi",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEDZ8CXD0WaMQ/company-logo_400_400/0/1644479455511/q__m_dental_group_limied_logo?e=1713398400&v=beta&t=6jjjdIIEPxrweSqjXQv-nIdKl8HehBZqAeyMESxo3ns"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Dentistry",
+            "degree_name": "Bachelor of Dental Science",
+            "school": "Trinity College Dublin",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/6679/",
+            "description": "Scholar",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFZhYD42d5d5g/company-logo_400_400/0/1631307102733?e=1713398400&v=beta&t=boCRevw9zDywVmocva-ms4OD-AgNpA3Jft2OYtWUUMg",
+            "grade": "Honors",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Bachelor's Degree",
+            "school": "The University of British Columbia",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4373/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH415qlDBkj8Q/company-logo_400_400/0/1630608877834/universityofbc_logo?e=1713398400&v=beta&t=JUTqH97uH1vIUPAFIYH2ez0c2lnxGpCNmm5TbuZMUBw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Bachelor's Degree",
+            "school": "Douglas College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3784/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFVUtlqqwc-4Q/company-logo_400_400/0/1656956424312/douglas_college_logo?e=1713398400&v=beta&t=xFjKoukuZEkT5F_cMpYo7X1zGJJmxzsU4e_xQtRSPqU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2012
+            },
+            "ends_at": null,
+            "org_name": "singapore dental association",
+            "title": "member",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "an introduction to single implant abutments",
+            "publisher": "Dental Update",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Book prize",
+            "issuer": "Trinity College Dublin",
+            "issued_on": null,
+            "description": null
+        },
+        {
+            "title": "Trinity college foundation scholarship",
+            "issuer": "Trinity College Dublin",
+            "issued_on": null,
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "3rd asia pacific CAD/CAM digital dentistry 2015",
+            "number": ""
+        },
+        {
+            "name": "Advanced full mouth rehabilitation (live surgery)",
+            "number": ""
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Crown",
+            "description": null,
+            "url": "https://prezi.com/7-tcmstfeuri/do-i-need-a-crown/"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "oral health",
+            "description": null,
+            "url": "https://prezi.com/4g4rbsrd4xin/oral-health/"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2007
+            },
+            "title": "patient support",
+            "cause": null,
+            "company": "evergreen house",
+            "company_linkedin_profile_url": null,
+            "description": "support patients, clients and residents in communities across the North Shore, Powell River, Richmond, Sea-to-Sky, Sunshine Coast and Vancouver.",
+            "logo_url": null
+        }
+    ],
+    "certifications": [],
+    "connections": 1810,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/daniel-gomez-86954a58",
+            "name": "Daniel G\u00f3mez",
+            "summary": "Co-Founder, CPO at Milio (YC W23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yahya-syed",
+            "name": "Yahya Syed",
+            "summary": "Co-Founder, CEO at Potion (YC S21)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/drsebrinaabdulmalik",
+            "name": "Dr. Sebrina Abdul Malik",
+            "summary": "Director and founder of Azure Dental Singapore",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/urvin-soneta-b77925146",
+            "name": "Urvin Soneta",
+            "summary": "Co-Founder at Infer.so (YC S21) | AI voice bots executing tasks like humans",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aaronsalbert",
+            "name": "Aaron Albert",
+            "summary": "Co-Founder & CEO at Felt (Techstars \u201821)| At the intersection of product and marketing | Former child actor | Forbes Next 1000",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQH9UTIHce-jyA/group-logo_image-shrink_48x48/0/1631436746690?e=1706097600&v=beta&t=tNMmatr5lbb4PgBR_40fGRaM8Lobytz8mzEDVEoXUtY",
+            "name": "American Dentist Network",
+            "url": "https://www.linkedin.com/groups/8229188"
+        },
+        {
+            "profile_pic_url": null,
+            "name": "Global Investment Network - Investors, VC, Startup Angel Funding",
+            "url": "https://www.linkedin.com/groups/2019943"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

@@ -1,0 +1,416 @@
+{
+    "public_identifier": "aldricht",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aldricht/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221608Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0daa6f8a904876d3b470ec5a38c860914b36cdd31748a4186f35fc761661b12d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aldricht/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221608Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0d6529b571be29c8d1fc087a76f8686e19cb69ea5665105a5f783cb0d4ed4ce4",
+    "first_name": "Aldrich",
+    "last_name": "Tan",
+    "full_name": "Aldrich Tan",
+    "follower_count": 4936,
+    "occupation": "CXO, Co-founder at NextPay",
+    "headline": "CXO & Co-Founder @NextPay.ph (YC W21). Design and Startup Mentor @ ADPList.",
+    "summary": "Aldrich is the CXO (Chief Experience Officer) and Co-founder of NextPay.ph, the best business banking platform for growing businesses and entrepreneurs in the Philippines, as well as the Managing Director UXPH, the largest non-profit design organization and community aimed at levelling up practices and education all over the Philippines.\n\nHe is an Experience Architect/Service Designer and Design Leader who has led initiatives and teams in some of the most successful tech companies throughout the US, Canada, and the Philippines such as BlackBerry, Getty Images, Artefact, and Remitly.\n\nBeing a huge advocate for collaboration, design learning, and startups, he helps companies and entrepreneurs weave design and creative culture into their ethos through consultations, educational programs, and mentorship, while helping champion the cause to raise the standards of design practices throughout the Filipino tech community.",
+    "country": "PH",
+    "country_full_name": "Philippines",
+    "city": "Metro Manila",
+    "state": "National Capital Region",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2007
+            },
+            "ends_at": null,
+            "company": "Self-employed",
+            "company_linkedin_profile_url": null,
+            "title": "Service Design and Organizational Design Consultant",
+            "description": "I work closely with companies to develop and build the ideal brand and digital product experience that resonates with the needs of their customers. My roles include researching the trends of a company's target audience, identifying areas of development within their product, creating internal design processes and systems for product teams, implementing and rolling out their ideas to the general public, and tracking product performance post-launch.\n\nThis not only helps increase the adoptability and scalability of their product, but also nurtures and grows a company's brand, and ultimately, their business.",
+            "location": "Remote",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "One Big Movement",
+            "company_linkedin_profile_url": null,
+            "title": "Creative Director",
+            "description": "One Big Movement (OBM) is a not-for-profit organization based in British Columbia that strives to create a positive and lasting impact in the lives of low-income children in the local community through the organization of program initiatives. As the Creative Director, I designed and enforced all aspects of the organization's brand onto their marketing collateral. My designs varied from project logos for their programs to print designs, video promotions and website assets.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "Free Vancity",
+            "company_linkedin_profile_url": null,
+            "title": "Lead Designer",
+            "description": "Free Vancity is a company dedicated to hashing out the latest and greatest news regarding FREE events, giveaways, tips, and gatherings in Vancouver. It is a fun and lively company that helps represent what Vancouver and its citizens are all about. I was responsible for creating and managing the company's visual identity, including all marketing and promotion materials ranging from printed designs, video promotions and website assets.",
+            "location": "Vancouver,BC",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "UX Philippines",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uxph",
+            "title": "Managing Director",
+            "description": "Managing Director for UXPH, a non-profit organization for Designers and enthusiasts in the Philippines. We organize community events and conferences to bring the design community together.",
+            "location": "Manila, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFV-npvwPio6Q/company-logo_400_400/0/1631343130798?e=1713398400&v=beta&t=lNgG_O8dfbcrpIR158mwUA2AoWyht3a7Refqe9LQCSM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "NextPay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nextpayph",
+            "title": "CXO, Co-founder",
+            "description": "NextPay is the best banking platform for growing businesses, entrepreneurs, and freelancers in the Philippines. Collect payments easily online via digital invoices and reusable payment links, track your company\u2019s cash flow, and pay your employees, contractors, or suppliers in batches seamlessly to any bank or eWallet in the Philippines all in one platform. This is the best way to stay organized and efficient so you can focus on other important business matters, without all the steep requirements of traditional banks.\n\nLowering the barriers for growing businesses, NextPay operates on a pay-per-use model and does not require any set-up fees, maintaining balances, or ridiculously steep requirements. Get in touch to see if NextPay can help you.",
+            "location": "NCR - National Capital Region, Philippines",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEJsC5CDngSow/company-logo_400_400/0/1630585855002/nextpayph_logo?e=1713398400&v=beta&t=X9pjETpIUy3Ts7Br84QKI1zXwAxXkBIMGM6mpOSBmIY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Vessel Innovation Design Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/11833456/",
+            "title": "CXO,  Brand Consultant, Co-Founder",
+            "description": "Founded in 2018, Vessel is an Innovation Design firm that was created to help established companies solve a problem which they are simply not equipped to solve - disruptive competition from the future. \n\nThrough its proprietary Innovation Design framework, Vessel is fully-equipped to assess, execute, and beat disruption to the punch.",
+            "location": "NCR - National Capital Region, Philippines",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "Remitly",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/remitly",
+            "title": "Sr. Product / UX Designer",
+            "description": "Remitly is a mobile payments service that enables consumers to conveniently make person-to-person international money transfers from the United States, Canada, and the United Kingdom. \n\nI worked on improving the interface and experience on all fronts (Android and iOS native apps, Website, Web App, and Mobile Web App) of the product. This included creating wireframes, user flows, UI tool kits, asset libraries, interactive prototypes, user research, information architecture, QA, usability studies, and a good sprinkle of visual design to help reinforce the company brand throughout.",
+            "location": "Seattle",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE560oBld6YEg/company-logo_400_400/0/1679672891280/remitly_logo?e=1713398400&v=beta&t=4aJf-1Dx1UYdJq8gSW6zlOXU4Lo9C0_Mj2UybNB7l8A"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Allovus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/allovus-design-inc-",
+            "title": "UX / Interaction Designer",
+            "description": "Interaction and User Experience Design Consultant for medium and large scale clients including Artefact Design Group, Getty Images, Bill & Melinda Gates Foundation, BMC Software, and T-Mobile.",
+            "location": "Seattle, WA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE02aIAX7GKBg/company-logo_400_400/0/1630608021771/allovus_design_inc__logo?e=1713398400&v=beta&t=sa1aTqy_QSldToTXn5g3IcObt4Z_paBwQD75WbHHVnI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Artefact",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/artefact",
+            "title": "UX / Interaction Designer",
+            "description": "Interaction Designer for multiple large-scale Artefact projects and clients including T-Mobile, The Bill & Melinda Gates Foundation, and BMC Software.",
+            "location": "Greater Seattle Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFzRSeyeldSyA/company-logo_400_400/0/1630625371132/artefact_logo?e=1713398400&v=beta&t=Rr4oWwsIaeay-YyW8c6KIAYA0Llxz3AdoUcL7w8MENg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "IMS Health",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ims-health",
+            "title": "UX Designer",
+            "description": "Appature is one of many companies acquired by IMS Health in 2013. The company has since been a part of a huge ongoing brand and operations alignment initiative. The software made by Appature is a platform that aggregates sales and marketing data in order to enable marketing with simple tools to easily mine data, launch campaigns, and get actionable insight. \n\nI implemented a more structured design-first process, more streamlined user flows, interfaces, and experiences within the software. I aided in developing a new, more meaningful and structured brand identity for IMS Health.",
+            "location": "Seattle, Wa",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHw3OuDHFBAtg/company-logo_400_400/0/1631329732274?e=1713398400&v=beta&t=S-sKwFO0BhIBkrCi1gvfGVzClRWvSssGc8bDk7t2Hzs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "Enactus SFU",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/enactussfu",
+            "title": "Advisor / Creative Director",
+            "description": "Enactus, formerly known as \"SIFE\", is a worldwide community of student, academic and business leaders committed to using the power of entrepreneurial action to transform lives and shape a better more sustainable world.\n\nADVISOR (2012 - 2013) ...\nI provide advice and feedback to the current Creative Director and his team to help guide and build the progress and operations of the organization within the creative realm.\n\nCREATIVE DIRECTOR (2010 - 2012) ...\nI worked with the Simon Fraser University team to effectively execute community projects to instigate positive change. I designed and managed the overall branding of the organization and directed all of the design and multimedia projects taken on by the team. The branding work I created was used from early 2009 up until the worldwide rebrand of \"SIFE\" to \"Enactus\" in August 2012.",
+            "location": "Vancouver, BC",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEj2qtJsw92Gg/company-logo_400_400/0/1695779117190?e=1713398400&v=beta&t=1vZXo19FB3XDAHvwGVf9f3L9F2qS2_lAb0qKLBTPD9k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "Simon Fraser University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/simon-fraser-university",
+            "title": "Teaching Assistant",
+            "description": "My passion for Design led me to take on Teaching Assistant roles for various Information and Graphic Design courses at the School of Interactive Arts & Technology and the Publishing Program at Simon Fraser University. I assisted in delivering course content and mentored young students, giving them more critical and constructive feedback to enrich their projects and design thinking.",
+            "location": "Surrey, BC",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1713398400&v=beta&t=K-86uJVZyp4SUIZTRmhIhY55xLLuKX1sM9XALB1Hx78"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2010
+            },
+            "company": "SFU WIL",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/simon-fraser-university",
+            "title": "Marketing & Promotions Assistant (Co-op)",
+            "description": "Simon Fraser University (SFU) grows some of the best and most innovative minds in the industry. Its Co-op program is a well known and established part of the University, having strong ties with some of the biggest companies out there. \n\nI worked as the Marketing & Promotions Assistant for SFU's School of Interactive Arts & Technology and Computing Science Co-op Office. I was responsible for creating marketing collateral for student recruitment campaigns, as well as coordinating information sessions to help students gain co-op placements to begin to make their mark within the industry.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1713398400&v=beta&t=K-86uJVZyp4SUIZTRmhIhY55xLLuKX1sM9XALB1Hx78"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "BlackBerry",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/blackberry",
+            "title": "UX & Video Designer",
+            "description": "Research In Motion, now simply BlackBerry, is one of the world leaders in technology, and is the creator of BlackBerry Smart Phone and BlackBerry PlayBook Tablet. I worked with the Video Design team of the User Experience Design Department, creating innovative solutions to ongoing User Experience problems. I also created motion graphics and video animations for the BlackBerry PlayBook Tablet and BlackBerry smart phones.",
+            "location": "Waterloo, Ontario",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEHnvbvfKCsDg/company-logo_400_400/0/1630575741184/blackberry_logo?e=1713398400&v=beta&t=dtF7MzALFtMqdSBU1Bjsa0xSLuLyP8xlXIg2Nh5r6_8"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Design and Applied Arts",
+            "degree_name": "Bachelor of Arts",
+            "school": "Simon Fraser University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/simon-fraser-university",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFMCjZRnpf4Yg/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1713398400&v=beta&t=K-86uJVZyp4SUIZTRmhIhY55xLLuKX1sM9XALB1Hx78",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese (Fujian / Hokkien)",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "LogoLounge Volume 8",
+            "publisher": "LogoLounge / Rockport Books",
+            "published_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "description": "Three (3) of my logos will be published in the Eighth Volume of LogoLounge. This book features some of the world's best and most innovative logos by some of the most talented designers. This volume had over 35,000 entries curated by a panel of renowned judges.",
+            "url": null
+        },
+        {
+            "name": "LogoNest Season 3",
+            "publisher": "LogoNest",
+            "published_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "description": "Three (3) of my logos were published in the Second Season of LogoNest. Works by designers are curated and handpicked by established designers overseeing the production of the book. Selected works are published annually.",
+            "url": "http://www.logonest.com"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "title": "SIAT Portfolio Workshop Series",
+            "description": "Our small team of passionate designers created the Portfolio Workshop Series for our fellow students to help inform them of the importance of a portfolio and inspire them to pursue design as a career.\n\nThe workshops had a discussion-group type format to help ensure each student is able to learn within their own interests. The workshops receive a large turn out each time it is hosted and has expanded to include industry professionals as guest speakers for extra valuable insight on industry practices and knowledge.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": null,
+            "title": "Design Mentor",
+            "cause": "Education",
+            "company": "adplist.org",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/42779272/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFn12vCP64RgQ/company-logo_400_400/0/1652400736174/adplist_logo?e=1713398400&v=beta&t=ETkav45mioUcoi45V02Hp8CsnFJm_ttpAE4L-Lx7sk0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "Managing Director, Community Organizer, Volunteer",
+            "cause": "Science and Technology",
+            "company": "UX Philippines",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/13624909/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFV-npvwPio6Q/company-logo_400_400/0/1631343130798?e=1713398400&v=beta&t=lNgG_O8dfbcrpIR158mwUA2AoWyht3a7Refqe9LQCSM"
+        }
+    ],
+    "certifications": [],
+    "connections": 4711,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Lisa Tran\n\n\n\nAldrich and I worked closely together at our overlapping time at Remitly. Aldrich's positive and can do attitude always lent itself well to being welcome to new ideas and new ways of thinking about our product design. As a PM he worked with, it was fun to collaborate with Aldrich. I would start with general requirements about a feature, and Aldrich would take the time/effort to understand the customer's problem and the product goals in order to create potential design ideas. When he had designs to share, he was very open to feedback and questions. And finally, Aldrich always made sure to finalize his work and package it up well so there was an easy handoff/kickoff with devs and others. I appreciated his attention to detail and engagement through the entire design process!  ",
+        "Rick Steele\n\n\n\nI had an amazing time working alongside Aldrich as Product Designers. Of his many competencies, two stood out: Organization and Empathy.\n\nIn a world of scatterbrained designer types, Aldrich's conscientiousness and attention to detail were exceptional. Simple things like sharing files, organizing meetings, and keeping projects on track went smoother for his having touched them. He did a great job exploring tons of variations on a product, all the crazy states they could get into, and then presented that depth in a way that was still manageable despite its size.\n\nOn the empathy side, Aldrich was invaluable in our user testing operations. He could speak to our test candidates in their language, put himself in their shoes, and did a fantastic job helping our customers feel confident enough to speak frankly with us about their financial habits, and the accompanying pains -- not an easy thing to do.\n\nThe result was a series of awesome products that both the business and our customers could feel great about. If you're looking for someone to develop or improve your product experience, Aldrich is a great find."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Aldrich Tan",
+            "link": "https://sg.linkedin.com/in/aldrichtxh",
+            "summary": "Senior Engineer at Keppel Shipyard Ltd., Singapore",
+            "location": "Singapore"
+        },
+        {
+            "name": "Aldrich Tan",
+            "link": "https://www.linkedin.com/in/aldrich-tan-41526952",
+            "summary": "Laboratory Operations Manager at Nelson Labs",
+            "location": "Sandy, UT"
+        },
+        {
+            "name": "Aldrich Tan",
+            "link": "https://my.linkedin.com/in/aldrich-tan-b7104634",
+            "summary": "Head, Investment Strategy at Sime Darby Property",
+            "location": "Kuala Lumpur"
+        },
+        {
+            "name": "Aldrich Tan",
+            "link": "https://au.linkedin.com/in/aldrich-tan-a90000167",
+            "summary": "Graduate of Architecture",
+            "location": "Greater Sydney Area"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHIDI7UVj2rxQ/group-logo_image-shrink_400x400/0/1631009134101?e=1706094000&v=beta&t=-glP3sA1SrYLJZwhM3QfViqDm6VJM-IUgYTFnv6iP58",
+            "name": "ADPList Community",
+            "url": "https://www.linkedin.com/groups/13977578"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQHrEAF9RKj-9g/group-logo_image-shrink_48x48/0/1631366839024?e=1706094000&v=beta&t=LZDle4JAJKCHa0iFYEFJLqMj-jmBJDhtQ-mCPyQ_pX0",
+            "name": "Payments; Fintech, Blockchain, Cryptocurrency, MPOS, Mobile Banking",
+            "url": "https://www.linkedin.com/groups/123922"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

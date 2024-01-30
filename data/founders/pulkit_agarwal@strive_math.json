@@ -1,0 +1,423 @@
+{
+    "public_identifier": "agarwalpulkit",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/agarwalpulkit/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221554Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=acee82de458c56a972fc39a303f74b8f2573cf7b220a30f79bcef2b943c72a6d",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/agarwalpulkit/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221554Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=24d31dde911d745c9182bf13bfb28ccd0381ff5c1e11a1c6fad426d536604351",
+    "first_name": "Pulkit",
+    "last_name": "Agarwal",
+    "full_name": "Pulkit Agarwal",
+    "follower_count": 3181,
+    "occupation": "Co-Founder at Strive Math (YC S21)",
+    "headline": "MBA Stanford | Co-Founder at Strive Math (YC S21)",
+    "summary": "I guess I should have known all along that I love education. What a nerd right!? So here it is: I'm finally going to do it as my profession. \n\nThere is a lot to be fixed in education: low teacher salaries, low access to education, education being behind industry, high student suicide rates, high student depression rate and high cost of education... So the question simply remains: \"Can I make an impact here?\" I've been blessed to have received high quality education throughout my life, so I see it as my responsibility to do my part. \n\nFeel free to reach out to me if this resonates with you :) ",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Strive Math (YC S21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/strivemath",
+            "title": "Co-Founder",
+            "description": "Exciting updates coming soon! Visit our website at https://www.strivemath.com to learn more! \n\nStrive teaches math through code. We take a fundamentally different approach to coding and math education by combining the two worlds into 90-minute long classes packed with fun projects brain teasers and real-world math and code applications. Strive exists to make math education more meaningful and applicable to the real world. To equip students with the tools they need to lead meaningful and happy lives.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGnprflblphyw/company-logo_400_400/0/1678428289965/strivemath_logo?e=1713398400&v=beta&t=JaXwd-HITp0qL8OWCSvV1YxpUY_puZKvuM_NhHVr5QQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "BlockHire",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/blockhire",
+            "title": "Co-Founder",
+            "description": "www.blockhire.io\n\nA premier specialized recruiting company for the blockchain industry. BlockHire connects the most elite blockchain professionals with the only most disruptive Blockchain companies. ",
+            "location": "Greater New York City Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "Lightspeed Venture Partners",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lightspeed-venture-partners",
+            "title": "Summer Accelerator Portfolio Company Co-Founder",
+            "description": "Built a tool that let non technical users build an internal company tool (e.g. employee feedback, dashboards, AI tagging...) using a drag and drop user interface.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFQbDa92Gsfiw/company-logo_400_400/0/1690205232307/lightspeed_venture_partners_logo?e=1713398400&v=beta&t=K1-Iv1VlrfnQzFXmJszwYpb-mv0yNFM9bcEzFHMg0lw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "company": "Palantir Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/palantir-technologies",
+            "title": "Deployment Strategist",
+            "description": "Confidential",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGxa0XGCRty6A/company-logo_400_400/0/1644957302590/palantir_technologies_logo?e=1713398400&v=beta&t=Ft0X8AGRcnyT8Ae9AzXIKDKWaSwSi4G1ZmUkPEtTOLU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Punchh, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/punchh",
+            "title": "Implementation Manager",
+            "description": "The Punchh platform drives customer engagement through our industry leading loyalty suite. This includes traditional programs such as visit-based, point-based, and tiered membership, as well as Surprise & Delight, Sweepstakes/Gaming, and Targeted Offers.\n\nWe have ~10 people in the US and a 70+ people dev team in India. Our Client List boasts more than 50+ brands with new ones being added faster than ever! Check us out at punchh.com\n\nMy role is to work with our clients to customize our extensive solution set to their needs. This ranges from Requirements Gathering, to working with the Developer Team to ensure timely delivery of necessary features. One of the major aspects of the role is to streamline the Implementation Process and increase implementation efficiency by 2 fold. \n",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFZvtj6cjtBGg/company-logo_400_400/0/1694532689372/punchh_logo?e=1713398400&v=beta&t=ubiUNcdMufdqIiuaNiHSvlVKly5oerbqh1liHaQKXdM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2016
+            },
+            "company": "PwC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc",
+            "title": "Consulting - Associate",
+            "description": "\u2022 Created a business case for a Fortune 100 IT client to move to the cloud\n\u2022 Organized and led an ERP selection process for an Entertainment Client\n\u2022 Represented PwC in Sweden and Collaborated with 6 companies to select the ideal ERP Vendor\n\u2022 Mapped end to end booking process for a large Casino in Vegas, and suggested automation methodologies\n\u2022 Spearheaded the formation of a new PwC Competency specialized in Vendor Selection",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQH3qXh7nyImoQ/company-logo_400_400/0/1697100791441/pwc_logo?e=1713398400&v=beta&t=2UWYINML7DtFiMtjOzRCfnxxdAq4H87rBraO7l4wzNg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "PwC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc",
+            "title": "Advisory Intern",
+            "description": "Aligned to the \"Technology, Industry, Communications and Entertainments\" Vertical with a competency in \"Business Analysis\". \nTraveling to Philadelphia every week for Client work",
+            "location": "Atlanta",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQH3qXh7nyImoQ/company-logo_400_400/0/1697100791441/pwc_logo?e=1713398400&v=beta&t=2UWYINML7DtFiMtjOzRCfnxxdAq4H87rBraO7l4wzNg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "BMW",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/18297468/",
+            "title": "Future Planning Intern",
+            "description": "\u2022 Initiated impulse project by researching new technologies to integrate on the manufacturing line\n\u2022 Coded and implemented a java tool to identify new potential research projects at three partner Universities, condensing weeks of work into a few minutes\n\u2022 Centralized the departments outreach contacts by synchronizing it with the cloud\n\u2022 Actively learning German to effectively communicate with my colleagues while adapting to the German culture",
+            "location": "Munich Area, Germany",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2014
+            },
+            "company": "Georgia Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+            "title": "Resident Advisor",
+            "description": "Student Employee September 2012 \u2013 Current\n\u2022 Lead a floor of 36 residents towards academic and social growth\n\u2022 Built sports teams, and captained them to assist team growth\n\u2022 Co-ordinate events aimed towards developing community and academic enrichment",
+            "location": "Atlanta, GA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1713398400&v=beta&t=S-kY9itJDq1xF_NHuvdbJOpCi_PPOiby03gA_PTjc0Q"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": null,
+            "degree_name": "MBA",
+            "school": "Stanford University Graduate School of Business",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1791/",
+            "description": "Currently attending Stanford Graduate School of Business",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1713398400&v=beta&t=1OOPkSLIdJGAqMr5GBhVZraeWEOGdl20cvAXKFZNSAM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Mechanical Engineering",
+            "degree_name": "Bachelor of Science",
+            "school": "Georgia Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1713398400&v=beta&t=S-kY9itJDq1xF_NHuvdbJOpCi_PPOiby03gA_PTjc0Q",
+            "grade": "GPA 4.0",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": null,
+            "degree_name": "International Baccalaureate (IB) Diploma",
+            "school": "BRITISH INTERNATIONAL SCHOOL SHANGHAI",
+            "school_linkedin_profile_url": null,
+            "description": "Head Boy of the School;\nPrefect;\nSecretary General of the Model United Nations",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "Pi Tau Sigma Honor Society",
+            "title": "Member",
+            "description": "Invitation extended only to top 25% of the Mechanical Engineering students in their 3rd year at Georgia Tech. "
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": null,
+            "org_name": "Tau Beta Pi",
+            "title": "Member",
+            "description": "Invitation extended only to top 12.5% of the all 3rd year students in any Engineering field at Georgia Tech."
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Graduated Top of the Class - Recognition",
+            "issuer": "Georgia Institute of Technology",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "description": "\"Pulkit is ranked in the Top 1 out of 5,794 senior students. This rank is based upon being in good standing with a GPA of 4.0 at the end of Spring Semester 2015\""
+        },
+        {
+            "title": "Outstanding Mechanical Engineering Award",
+            "issuer": "George W. Woodruff School of Mechanical Engineering at Georgia Tech",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "description": "Awarded to the top 3 Mechanical Engineering Graduates, for excellence in academics, service to the school and leadership on campus."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Career Planning Course",
+            "number": "GT 4801"
+        },
+        {
+            "name": "Industrial Design- Drawing",
+            "number": "ID 2401"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1918,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/chisomokpala",
+            "name": "Chisom Okpala",
+            "summary": "Strategy & Operations Manager at Google",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sriyam",
+            "name": "Sriya M.",
+            "summary": "Co-Founder at Persana AI (YCombinator W23) | Generative AI | Ex: LinkedIn",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/justin-leder",
+            "name": "Justin Leder",
+            "summary": "Co-Founder at Turntable (YC 23)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jessicalandzberg",
+            "name": "Jessica Landzberg",
+            "summary": "Co-Founder at Pareto",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/itracey",
+            "name": "Ian Tracey",
+            "summary": "Co-Founder at Turntable (YC W23)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/agpulkit",
+            "summary": "Owner at PULKIT AGARWAL AND ASSOCIATES",
+            "location": "Assam, India"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/pulkit-agarwal-9b3a51204",
+            "summary": "Data Science Intern at Innomatics Research Labs",
+            "location": "Pune"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/pulkit-agarwal-aa4916aa",
+            "summary": "Proprietor at M/s. Century Chemical",
+            "location": "Kolkata"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/mrpulkit",
+            "summary": "Programmer Analyst at Cognizant || M.Tech in Data and Computational Sciences from IIT Jodhpur",
+            "location": "Bareilly"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://uk.linkedin.com/in/pulkitagarwal1",
+            "summary": "SWE-SRE at Google",
+            "location": "United Kingdom"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://fr.linkedin.com/in/pulkitagarwal01",
+            "summary": "MBA Candidate at HEC Paris | Operations & Product Management| IIT Madras",
+            "location": "Greater Paris Metropolitan Region"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/impulkit",
+            "summary": "Amazon | IIM Kozhikode",
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/pulkit-agarwal-6015b136",
+            "summary": "Partner at P.A. Agarwal & Co.",
+            "location": "Hajo"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://www.linkedin.com/in/pulkitvistas",
+            "summary": "Technical Talent Acquisition Specialist at PeopleNTech, LLC",
+            "location": "New Brunswick, NJ"
+        },
+        {
+            "name": "Pulkit Agarwal",
+            "link": "https://in.linkedin.com/in/pulkit-agarwal-450b6a8b",
+            "summary": "Manufacturer & Exporter | Home D\u00e9cor & Garden D\u00e9cor | Business Development Manager | Exotic India",
+            "location": "Moradabad"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQE-iG2GdYgpTg/group-logo_image-shrink_48x48/0/1647941311950?e=1706130000&v=beta&t=UYN9Fw7QFPTq8SeM2Q3ul32dOjHdATEt0kBOKpRiCbA",
+            "name": "Stanford Alumni Group in Singapore ",
+            "url": "https://www.linkedin.com/groups/14068201"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQHFxAwYHMW5Nw/group-logo_image-shrink_48x48/0/1631425978619?e=1706130000&v=beta&t=zjQVAhQStZndUtpAsKu9ojdMI09G8FqTYJ3Sz4TvHic",
+            "name": "STEM Education Strategies for Parents and Educators",
+            "url": "https://www.linkedin.com/groups/699207"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

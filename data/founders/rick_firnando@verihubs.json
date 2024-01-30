@@ -1,0 +1,328 @@
+{
+    "public_identifier": "rickfirnando",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rickfirnando/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221549Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85e7829e0ec601a6ef28ea01d884d6587c4a2e46926244d9283cc89264ec6487",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rickfirnando/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221549Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9574a788d9b38df0d0c2522e3d7cf02368deb60a313476b810756656553ac73f",
+    "first_name": "Rick",
+    "last_name": "Firnando",
+    "full_name": "Rick Firnando",
+    "follower_count": 2790,
+    "occupation": "Co-Founder & CEO at VERIHUBS (YCS21)",
+    "headline": "Co-Founder & CEO at VERIHUBS | YCS21 | Forbes 30 Under 30 Asia",
+    "summary": "Psyched to grow and move forward by swimming upstream.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "VERIHUBS (YCS21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/verihubs/",
+            "title": "Co-Founder & CEO",
+            "description": "Verihubs is an identity and risk decision platform. We provide an end-to-end verification solution, mainly focused on KYC and 2FA, and have been trusted by 260+ companies ranging from the largest private bank in Indonesia - BCA and the whole group, Commonwealth Bank, Maybank, ULA, Fazz, Bukalapak, Nanovest, Astra Pay, Kemenaker, Mekari, and many others. \n\nOur core tech - Face Recognition is ranked #1 in Indonesia and Top 3 in Southeast Asia based on NIST in terms of performance and accuracy rate and Liveness detection is ranked #6 in the world (global).",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0Ei0ygfkrzg/company-logo_400_400/0/1647600639352/verihubs_logo?e=1712793600&v=beta&t=E6G8L1UoFEm5RnDp5XiWfFGg3tsP15z7Bud-V6xGbuY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "company": "DartMedia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dartmedia.biz/",
+            "title": "Business Development Manager",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQESwxjq0RENwA/company-logo_400_400/0/1631313901400?e=1712793600&v=beta&t=3WGq0W4Ygsl0UcutvBdfzljiV54DkhFKy5aBuXQSBYA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Weston Energy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/weston-energy/",
+            "title": "Green Project Manager",
+            "description": null,
+            "location": "Greater Jakarta Area, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHg10X43ia0QQ/company-logo_400_400/0/1630628977926?e=1712793600&v=beta&t=j2W36sCAQz1RBo0juKXHe37dhQ7LY_NrF3RdmiYDo_0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Serial Entrepreneur",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "For over 6 years, built and ran several businesses:\n- Workspace for Startups\n- Palm Oil Trading Company (B2B)\n- Pharmaceutical Company (B2B)",
+            "location": "Jakarta, Indonesia",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "field_of_study": null,
+            "degree_name": "Marketing",
+            "school": "Universitas Prasetiya Mulya",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEQgnL6VAgAlw/company-logo_400_400/0/1630589925254/prasetiya_mulya_business_school_logo?e=1712793600&v=beta&t=WtCvosouxtJMW1YvwcIO9ApFSc8al7pIPvijAYX0spI",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Tatler GenT 2022",
+            "issuer": "Tatler Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Forbes Asia 100 To Watch 2022",
+            "issuer": "Forbes Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Forbes 30 Under 30 Asia",
+            "issuer": "Forbes Asia",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Forbes 30 Under 30 Indonesia",
+            "issuer": "Forbes Indonesi",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Crucial Paths to Become a Startup Founder",
+            "issuer": "Prasetiya Mulya Business School",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "description": null
+        },
+        {
+            "title": "Green Jobs 4.0 : The Future of Energy Wants You",
+            "issuer": "@america (ICED) &  Coaction",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "description": "The demand for green job professionals is growing exponentially in Indonesia. I was one of the speaker with an objective to push green jobs movement forward."
+        },
+        {
+            "title": "Career Talk : How to Jump Higher than Others",
+            "issuer": "i3L",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "description": "Event Description : You will know the steps you can take to jumpstart your professional career path, so you're living the life you desire early on and beyond (as a speaker)"
+        },
+        {
+            "title": "Orang Muda, Energi Terbarukan, and Green Jobs",
+            "issuer": "Coaction",
+            "issued_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "description": "The event was held in ITB Bandung, as one of the speaker, I shared to millennials more about green jobs. Not only the great of joining it but also what obstacles they will face if they jump into this industry. "
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "title": "Light Up Indonesia",
+            "description": "Light Up Indonesia is a Weston Energy campaign as a bridge for millennials who has more to help our friends who needed more. In order to achieve crowdfunding target as a platform, we provided video campaign and grand launching program to build awareness of our campaign.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/hamish-daud-2224403a",
+            "name": "Hamish Daud ",
+            "summary": "CMO & Co-founder at Octopus.ina",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chandni-chainani",
+            "name": "Chandni Chainani",
+            "summary": "Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/heinrich-vincent",
+            "name": "Heinrich Vincent",
+            "summary": "Founder and CEO Bizhare.id | Forbes Indonesia 30 Under 30 | Vice Chairman ALUDI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/andersonsumarli",
+            "name": "Anderson Sumarli",
+            "summary": "Co-Founder & CEO at Ajaib",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hendoko",
+            "name": "Hendoko Kwik",
+            "summary": "CEO of Modal Rakyat | Commisioner at Verihubs",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adrian-agus-2031a64b",
+            "name": "Adrian Agus",
+            "summary": "Co-founder & CEO at PUYO Group | Forbes 30 Under 30 Asia",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mestyariotedjo",
+            "name": "Mesty Ariotedjo",
+            "summary": "Mom, Pediatrician, & CEO at Tentang Anak",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vasilrusinov",
+            "name": "Vasil Rusinov",
+            "summary": "COO at SwipeRx | Forbes 30 Under 30",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/farhangunawan",
+            "name": "Muhammad Farhan Gunawan",
+            "summary": "Sr. Business Development at VERIHUBS (YC S21) | End-to-end Verifications Solutions",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/clarisa-fiona-wardjono-8a028a143",
+            "name": "Clarisa Fiona Wardjono",
+            "summary": "Business Development Manager at VERIHUBS (YC S21) | Providing Digital Businesses A One-Stop Reliable Verification Solutions",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Rick Firnando",
+            "link": "https://id.linkedin.com/in/rick-firnando-bb5831242",
+            "summary": "--",
+            "location": "Jakarta"
+        },
+        {
+            "name": "Richard Firnando",
+            "link": "https://id.linkedin.com/in/richard-firnando-91ba6193",
+            "summary": "JUNIOR STAFF at Pantos Logistics",
+            "location": "Jakarta"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

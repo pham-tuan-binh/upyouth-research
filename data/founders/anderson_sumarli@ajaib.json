@@ -1,0 +1,229 @@
+{
+    "public_identifier": "andersonsumarli",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andersonsumarli/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221149Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e5ee86f71a71b2fd74ab85c8355c6c7da563380a59e2b1766ce398690d68cd54",
+    "background_cover_image_url": null,
+    "first_name": "Anderson",
+    "last_name": "Sumarli",
+    "full_name": "Anderson Sumarli",
+    "follower_count": 12591,
+    "occupation": "Co-Founder & CEO at Ajaib",
+    "headline": "Co-Founder & CEO at Ajaib",
+    "summary": null,
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Ajaib",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ajaib-id",
+            "title": "Co-Founder & CEO",
+            "description": "Welcoming a new generation to modern financial services \ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFu4t_e5ZXhdw/company-logo_400_400/0/1630585568006/ajaib_id_logo?e=1714003200&v=beta&t=FR3gofE_1SJmJnR2CIaPvTUY5t7CXxq77w-Hkn_Gvyc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Management Consultant",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHNZE0CugLtDg/company-logo_400_400/0/1692025007014/boston_consulting_group_logo?e=1714003200&v=beta&t=Ku1qxcQrWVAXInV-kQpm90IYzeSkfFCJVAl81kOz-kQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "IBM",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm",
+            "title": "Chief Analytics Office",
+            "description": null,
+            "location": "New York",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715866/ibm_logo?e=1714003200&v=beta&t=pvsqfIe_PTbhQwS4FQ4ZipAEOZ7l2QuwynAcDzuDGxg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration",
+            "school": "Stanford University Graduate School of Business",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/1791/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1714003200&v=beta&t=WAKgk3U1erfR-QMiyLxpxubWXMSnVSYei13PxvkZOhI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Applied Economics and Management, Summa Cum Laude",
+            "degree_name": "Bachelor of Science",
+            "school": "Cornell University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3523/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_400_400/0/1631339899678?e=1714003200&v=beta&t=61KPVjQBBoYbCslTsS0Wj7WZU_iqq2flTWYYwRn5NzQ",
+            "grade": "4.0/4.0",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "S18",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2023
+            },
+            "ends_at": null,
+            "org_name": "World Economic Forum",
+            "title": "Center for Financial and Monetary Systems",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2023
+            },
+            "org_name": "World Economic Forum",
+            "title": "Global Shaper Curator",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "2022 EY Young Entrepreneur",
+            "issuer": "Ernst & Young",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "description": null
+        },
+        {
+            "title": "Fortune 40 Under 40",
+            "issuer": "Fortune",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 2406,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/hamish-daud-2224403a",
+            "name": "Hamish Daud",
+            "summary": "CMO & Co-founder at Octopus.ina",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/patriciadavina",
+            "name": "Patricia Davina",
+            "summary": "Co-founder at From This Island | Aeris Beaute | Kin + Ally",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/choijesse",
+            "name": "Jesse Choi",
+            "summary": "Building Reku | Stanford MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/patrick-walujo-94a2701",
+            "name": "Patrick Walujo",
+            "summary": "CEO, Goto Group",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ankiti-bose-a125b916",
+            "name": "Ankiti Bose",
+            "summary": "Building in stealth",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Anderson Sumarli",
+            "link": "https://id.linkedin.com/in/anderson-sumarli-3b07bb251",
+            "summary": "--",
+            "location": "Jakarta"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHqcw3FsWUgUg/group-logo_image-shrink_48x48/0/1631371469432?e=1706749200&v=beta&t=MiRGmEXE_XJ-bg61XCjVLKdmZ-pikNxKt1ZbSGTSy2E",
+            "name": "Stanford GSB MBA Class of 2019",
+            "url": "https://www.linkedin.com/groups/12057355"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQHXPQpoku6O8A/group-logo_image-shrink_48x48/0/1631403318260?e=1706749200&v=beta&t=QmdBKyyN2lA54aalEK2XppOXUhZwwieGBq5Oh-61AXc",
+            "name": "JP Morgan Chase & Co. Interns",
+            "url": "https://www.linkedin.com/groups/1837962"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

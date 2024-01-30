@@ -1,0 +1,603 @@
+{
+    "public_identifier": "jy-tan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jy-tan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221613Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=596bd6e2a3ef003fe30937c3098c254d887c792de81d018db2540d4479c9a0e9",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jy-tan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221613Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6ba17cb9f5c1b13f275ef4ff92e3d1d7f96d2584765f35e77cbe9ec43d3f10fb",
+    "first_name": "JunYuan",
+    "last_name": "Tan",
+    "full_name": "JunYuan Tan",
+    "follower_count": 7643,
+    "occupation": "CEO & Co-founder at Homebase (YC W'21)",
+    "headline": "CEO & Co-founder at Homebase (YC W'21) - We\u2019re hiring!",
+    "summary": "Entrepreneur | Technologist | Top 6, Global Inspired Leadership Award 2017 (past winners incl. Richard Branson, Melinda Gates) | 1 of 3 featured in Singapore's 50th anniversary national stories",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "Amazon Web Services (AWS)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-web-services/",
+            "title": "CTO Fellowship",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264051233/amazon_web_services_logo?e=1712793600&v=beta&t=40pQCsCoaQYhiCS0b2SgouLZeOH9Z-FcDbxIlXPvqVA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Homebase (YC W'21)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gethomebase/",
+            "title": "CEO & Co-founder",
+            "description": "Homebase is about actualizing each and every individual's dream of homeownership in Southeast Asia.\n\nWe're backed by world-class global investors such as Y Combinator, Antler, Vinacapital, Goodwater, Partech, Ace & Co. et al. and have raised a combined $30M+ in equity & debt.\n\nWe are headquartered in Singapore, and our first market is in Vietnam where we provide game-changing homeownership solutions such as rent-to-own and iBuyer.",
+            "location": "Singapore & Ho Chi Minh City",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGUKCkP-waHkw/company-logo_400_400/0/1630621647132/gethomebase_logo?e=1712793600&v=beta&t=lpUl-pffb1Nj5AVkyFQTBzu8LMNxokk4CQw7Fz2KeFk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Antler",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/antlerglobal/",
+            "title": "Entrepreneur (co-founded Homebase)",
+            "description": "Won \"Founder Most Likely to Found a Unicorn\" out of 100 in the cohort as voted by peers and mentors.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGcO8WhScYJvg/company-logo_400_400/0/1630652634929/antlerglobal_logo?e=1712793600&v=beta&t=vSFRhYqMl6V3vJYPDCo-PkXpjd6u3ihfy88VxU7ZW74"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Reprice Technologies (previously 11th Hour Technologies)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/reprice-technologies-pte-ltd/",
+            "title": "CEO & Co-founder",
+            "description": "Reprice Technologies doubles as a software outsourcing company and an R&D house. The company has presence in both Singapore and Ho Chi Minh City (Vietnam). Reprice Technologies has expertise in end-to-end mobile, web, backend and blockchain development.\n\nFor my work with 11th Hour Technologies (former name of Reprice Technologies), I was named top six finalists in a global Inspired Leadership Award 2017 (past winners included Sir Richard Branson, Melinda Gates et al.)",
+            "location": "Singapore & Vietnam",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGRNJpYbuADkQ/company-logo_400_400/0/1630628184678/reprice_technologies_pte_ltd_logo?e=1712793600&v=beta&t=iNduP7KZZZU2s12gfYt_OEk3pyIo6OiQkaAxznHhC9Q"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Atlantis Lab",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/atlantislab/",
+            "title": "Co-founder",
+            "description": "Atlantis Lab is a blockchain development organisation specialising in blockchain, with an emphasis on the EOS blockchain. The core team contains more than 70+ years of engineering excellence and 2 advanced PhDs.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGq8s84sEBoUg/company-logo_400_400/0/1630571119893/atlantislab_logo?e=1712793600&v=beta&t=OZSQ5Y0rM6vQhdM1u0ReDINquPhM3vG_8N_tHGyY7fo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Incite",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/incite/",
+            "title": "Consulting",
+            "description": "Provide regional strategic and research consulting for major clients from various sectors, including FMCG, financial services and telecommunications. Primarily focused on new product ideation and new market penetration strategies in developing markets and locally. Market coverage includes SEA, East Asia, South Asia and parts of Middle East. Trained in both quantitative and qualitative techniques and data synthesis methodologies.",
+            "location": "Singapore & London",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGj13ecRfU_3A/company-logo_400_400/0/1665575423942/incite_logo?e=1712793600&v=beta&t=Tys_3MXlUpQn_GbEb_eigg0osRIV1TsT6JGlmJm6LwE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2014
+            },
+            "company": "Yuan Bak Kut Teh",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/yuan-bak-kut-teh/",
+            "title": "Business Owner",
+            "description": "Established a highly profitable F&B business that drew significant media attention. Responsibilities as an entrepreneur encompass almost every aspect of business, including product development, and marketing.\n\n> Broke-even within 1.5 months.\n> Was featured 10+ times in various news media, including Yahoo News. \n> Starred in 2 episodes of a Mediacorp (XinMSN) documentary that explores entrepreneurship.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGBj-Si2tQn7A/company-logo_400_400/0/1631434717278/yuan_bak_kut_teh_logo?e=1712793600&v=beta&t=046_7yHYOXRFiXF7rRxk7Oe4uUE9lmphFhyOVyzCRdo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2008
+            },
+            "company": "Singapore Armed Forces (SAF)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/singapore-army/",
+            "title": "Platoon Commander (Lieutenant) \u2013 National Service",
+            "description": "> Awarded \"Platoon Best Trainee\" out of 50 trainees\n> Commissioned as a Military Officer (top 10%)\n> Won \"Best Infantry Unit\"\n> Led a platoon of ~30 men",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEqaycg6_-zMQ/company-logo_400_400/0/1679987388159/singapore_army_logo?e=1712793600&v=beta&t=yqZ-Ms64zfCJPh3tqdpNLL5vIn-rR74RGK524pkiRBI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Master of Computer & Information Technology (Deferred)",
+            "school": "University of Pennsylvania",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHnbnsnJlBiZg/company-logo_400_400/0/1630601168515/university_of_pennsylvania_logo?e=1712793600&v=beta&t=TryEuV9uCiBlH725s204GXl69HRs_D7Tc909EYxVEjM",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "YC W'21",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "CFA Charterholder",
+            "school": "CFA Institute",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGhKpDZa2hDDQ/company-logo_400_400/0/1631318364055?e=1712793600&v=beta&t=w4UOzvXC4hcR1LI2vNI0UQ4tw3WIoQdh4-pf2qaZCQ8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Business Administration and Management, General",
+            "degree_name": "Bachelor of Science",
+            "school": "The University of Manchester",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEYpS-SHXO1Mg/company-logo_400_400/0/1631386008712?e=1712793600&v=beta&t=KOAIwoOKYuY_QinDP8bedRHVDpPMbWD_Fy7YAhaTJlI",
+            "grade": "1st-class Honours (2nd in cohort)",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "org_name": "Inspired Leadership Award (ILA) Alumni",
+            "title": "Alumni",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2008
+            },
+            "ends_at": null,
+            "org_name": "MENSA Society Singapore",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2006
+            },
+            "ends_at": null,
+            "org_name": "Singapore Armed Forces",
+            "title": "Platoon Commander (Lieutenant) ",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Global Inspired Leadership Award (2017), Finalist",
+            "issuer": null,
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "description": "Past winners include Sir Richard Branson, Melinda Gates et al. Was top 6 finalist for global Inspired Leadership Award 2017. "
+        },
+        {
+            "title": "1 of 3 featured national success stories in SG50",
+            "issuer": "Ministry of Community Development Youth & Sports",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "description": "SG50 is a nationwide campaign to celebrate the 50th birthday of Singapore"
+        },
+        {
+            "title": "Platoon Best Trainee",
+            "issuer": "Singapore Armed Forces",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "description": "Awarded \"Platoon Best Trainee\" during military National Service"
+        },
+        {
+            "title": "Distinction, Australian Mathematics Competition",
+            "issuer": "Australian Mathematics Competition for the Westpac Awards",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "MENSA Admission IQ Test",
+            "score": "156 IQ (99%ile)",
+            "date_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "name": "GMAT",
+            "score": "740/800 (97%ile)",
+            "date_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Master LangChain Build #15 AI Apps-OpenAI,LLAMA2,HuggingFace",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Udemy",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Agile Project Management",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Google",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Introduction to Generative AI",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Google",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "ChatGPT Prompt Engineering for Developers",
+            "license_number": null,
+            "display_source": null,
+            "authority": "DeepLearning.AI",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Get started with Figma",
+            "license_number": "WS8V2XZSZBJT",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://coursera.org/share/d0137bef84e509285b02b4041bfe8f91"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Introduction to Google SEO",
+            "license_number": "BGLU78QACV7B",
+            "display_source": "coursera.org",
+            "authority": "University of California, Davis",
+            "url": "https://coursera.org/share/bcf3e9d2229d9d793f3fe146fc32cae3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "The Complete React JS & Redux Course - Build Modern Web Apps",
+            "license_number": "UC-O36KAP72",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-O36KAP72/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Lending, Crowdfunding, and Modern Investing",
+            "license_number": "2XXTZJDKHLZ7",
+            "display_source": "coursera.org",
+            "authority": "University of Pennsylvania",
+            "url": "https://www.coursera.org/account/accomplishments/verify/2XXTZJDKHLZ7"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Google AdSense",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Google",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Bitcoin & Cryptocurrency Technologies",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Princeton University",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Ethereum & Solidty: The Complete Developer's Guide",
+            "license_number": "UC-MQMBF578",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-MQMBF578/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Gamification & Behavioral Design: The Octalysis Framework",
+            "license_number": "UC-NLGNSGVJ",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-NLGNSGVJ/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Machine Learning",
+            "license_number": "5CWV2VSRS7CB",
+            "display_source": "coursera.org",
+            "authority": "Stanford University",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/5CWV2VSRS7CB"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Machine Learning for Apps",
+            "license_number": "UC-7A69PJY8",
+            "display_source": "udemy.com",
+            "authority": "Devslopes",
+            "url": "https://www.udemy.com/certificate/UC-7A69PJY8/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "name": "The Complete Web Developer Course 2.0",
+            "license_number": "UC-24I9DCFY",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-24I9DCFY/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Getting Started with Illustrator CC",
+            "license_number": "UC-JRPQGFKN",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-JRPQGFKN/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "The Complete iOS 9 Developer Course - Build 18 Apps",
+            "license_number": "UC-EZLYWBOR",
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-EZLYWBOR/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Chartered Financial Analyst (CFA)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "CFA Institute",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2009
+            },
+            "ends_at": null,
+            "name": "Competent Communicator (CC)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Toastmasters International",
+            "url": null
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Junyuan T.",
+            "link": "https://www.linkedin.com/in/junyuan-t-8162a2109",
+            "summary": "Senior Software Engineer at Paxos",
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "name": "JunYuan Tan",
+            "link": "https://my.linkedin.com/in/jytan94",
+            "summary": "Senior Actuarial Analyst at HSBC Singapore",
+            "location": "Penang, Malaysia"
+        },
+        {
+            "name": "Junyuan Tan",
+            "link": "https://cn.linkedin.com/in/junyuan-tan-9aabb2235",
+            "summary": "A fresh graduate from Ritsumeikan Asia Pacific University\uff5c22-23 University of Edinburgh Finance, technology and policy",
+            "location": "Chongqing, China"
+        },
+        {
+            "name": "JunYuan Tan",
+            "link": "https://sg.linkedin.com/in/junyuan-",
+            "summary": "Associate Manager at Bank Julius Baer",
+            "location": "Singapore"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

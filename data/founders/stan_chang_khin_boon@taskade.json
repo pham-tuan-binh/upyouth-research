@@ -1,0 +1,323 @@
+{
+    "public_identifier": "lxcid",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Stan",
+    "last_name": "Chang Khin Boon",
+    "full_name": "Stan Chang Khin Boon",
+    "follower_count": 345,
+    "occupation": "Co-Founder and CTO (YC S19) at Taskade",
+    "headline": "Co-Founder and CTO at Taskade (YC S19)",
+    "summary": "Co-Founder and CTO of Taskade. I feed code to compilers or runtimes everyday, in JS, Swift or Python flavour.",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Taskade",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/taskade",
+            "title": "Co-Founder and CTO (YC S19)",
+            "description": "In 2017 we started out on a mission: to reimagine team productivity and help teams reach their full potential, no matter how far apart their members may be. We wanted a better way to collaborate on team projects, and yet the right tool simply didn't exist. So we decided to build one. \n\nTaskade is everything we\u2019ve ever wanted in a team productivity tool. One that would let you ideate, organize, and manage tasks together in real-time \u2014 and yet was no more difficult to use than a pen and paper.\n\nNo steep learning curves. No complex interface. No maze of functionality you might never find your way out of. Taskade makes team productivity simple, flexible, and smart.\n\n\u2014 https://www.taskade.com",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH2F1neTXqogA/company-logo_400_400/0/1630587390272/taskade_logo?e=1714003200&v=beta&t=I7dVcj0pzJFzngr0mh0nEVmL8AS9Ko9hbBXXMuclbpM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Trifia",
+            "company_linkedin_profile_url": null,
+            "title": "Co-Founder",
+            "description": "(Previously known as d--buzz)\n\n- Showtimezz.SG\n- TrafficWatch.SG",
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "company": "The Pragmatic Lab",
+            "company_linkedin_profile_url": null,
+            "title": "iOS Trainer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2011
+            },
+            "company": "Nexgen Studio Pte Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "\u2022 Developed an iPhone game series. (TerrablesFree and Terrables)\nhttp://itunes.apple.com/us/app/terrables-free/id399978373?mt=8\nhttp://itunes.apple.com/us/app/terrables/id407424427?mt=8\n\n \u2022 Developed multiple version of the Company Website.\nhttp://www.nexgenstudio.com/\n\n \u2022 Developed a Crane Physics Stimulation.\nFor training new operators to use Quay Crane, Tandem Lift Crane, Rubber Gantry Tyred Crane and Dock Pedestal Crane.\n\n \u2022 Developed a Web based multiplayer online card game. (Tactics Anthem)\nhttp://www.tacticsanthem.com/\n\n \u2022 Developed a mobile multiplayer online game. (Elven Legends)\nhttp://www.elvenlegends.com/\n\n \u2022 Developed a PC casual RTS game. (Deep Quest)\nhttp://get.games.yahoo.com/proddesc?gamekey=deepquest\n\n \u2022 Developed a kiosk system for a client.\n\n \u2022 Make modification to a PC multiplayer online game.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2015
+            },
+            "company": "MeowChat",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meowchat",
+            "title": "Lead iOS Engineer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHqFS3wFQQZOg/company-logo_400_400/0/1631341612995?e=1714003200&v=beta&t=z3wWMfSBmgB-EFbUiYgF-VVlfEMxk_kpzUj0cn1jn8U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "MeowChat",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meowchat",
+            "title": "iOS Engineer",
+            "description": null,
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHqFS3wFQQZOg/company-logo_400_400/0/1631341612995?e=1714003200&v=beta&t=z3wWMfSBmgB-EFbUiYgF-VVlfEMxk_kpzUj0cn1jn8U"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "buUuk Pte Ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/buuuk-pte-ltd",
+            "title": "iOS Engineer",
+            "description": "Mainly iOS Development. With a bit of Ruby here and there.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGBzmabjYHdrQ/company-logo_400_400/0/1630569581259/buuuk_pte_ltd_logo?e=1714003200&v=beta&t=-aiM2eO3wwb_h5j3lhb5P8-WOow07SokYn-UXm21frs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2009
+            },
+            "company": "Cabal Entertainment Software",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cabal-entertainment-software",
+            "title": "Software Engineer",
+            "description": "\u2022 Responsible for integrating and extending OGRE 3D for graphic component of the in house game engine being developed.\n \u2022 Worked on a prototype, mainly research with the graphical side, e.g. depth of field post processing effect, rim material.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQE6KIAnWd3rEw/company-logo_400_400/0/1631337414946?e=1714003200&v=beta&t=CmZplkTNSt0NNtjGqDMmUJGkT8uWBmARaJ0E-TCSdJo"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": "S19"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Multimedia Computing",
+            "degree_name": "Diploma in Multimedia Computing",
+            "school": "Ngee Ann Polytechnic",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/165191/",
+            "description": "\u2022 Developed a RPG with a 3D world but 2D characters (Similar to Ragnarok Online) for Final Year Project.",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEc-IoUGeW79Q/company-logo_400_400/0/1697524879652/ngee_ann_polytechnic_logo?e=1714003200&v=beta&t=J2htDG3std85rVP4SD5n2VbHvCNAGtDupFx-b67Ut3Q",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2002
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Woodlands Secondary School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1998
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Qihua Primary School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Polycliniczz@SG",
+            "description": "To build a mobile application that allow public to be able to view the current queue status of different polyclinics in Singapore that are run by different organizations.",
+            "url": "https://itunes.apple.com/app/id565285206"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Showtimezz@SG for iOS",
+            "description": "\u2605 Won 3rd in AppVenture Challenge 2011!\n\u2605 Featured in The Straits Times \u2014 Digital Life on 23rd Feb 2011!\n\u2605 Featured as #6 of 100 Hot Apps in The Straits Times \u2014 Digital Life on 27th July 2011!\n\u2605 Featured in What's Hot in Singapore's Entertainment category\n\u2605 Featured in New and Noteworthy in Singapore's Entertainment category\n\nShowtimezz (Singapore) is an app that will help you to decide and book your next movie showtime as effortless and easy as possible.\n\nCovering Cathay Cineplexes, Eng Wah, Filmgarde, Golden Village and Shaw, the major theatre's/cinema's/cineplexes' operators in Singapore (SG/SGP), allowing you to easily book tickets with these operators directly.\n\nYou can easily search for for movie trailers with just a tap using Showtimezz!\n\nGet directions to theatres using gothere.sg or Maps!\n\nAs user experience is of our foremost priority, it is designed to be simple, intuitive and user-friendly.\n\nTry it and see for yourself.",
+            "url": "http://itunes.apple.com/sg/app/showtimezz-singapore/id416536728?mt=8"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Financial Markets",
+            "license_number": "DQSUK6UFUK",
+            "display_source": "www.coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/signature/certificate/DQSUK6UFUK"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Machine Learning",
+            "license_number": null,
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/signature/certificate/DQSUK6UFUK"
+        }
+    ],
+    "connections": 262,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Danien Chee\n\n\n\nStan is one of those extremely passionate, capable, yet humble people who are a joy to work with.\r\n\r\nI first met Stan when he was working at Nexgen. I was very impressed by his abilities and his attitude and asked for him to be seconded to Cabal to help us with integrating Ogre3D with our internal game framework.  Stan is a great team player and he was always offering great suggestions for fixing problems and was very proactive in suggesting alternatives as well as new research directions.\r\n\r\nHe is always researching new technologies and techniques and trying to improve himself. His hunger for learning and appreciation for good technique and design is a boon to any team."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQEp8OMWshMn3g/group-logo_image-shrink_48x48/0/1631368841709?e=1706770800&v=beta&t=cpOJj1dO3jhnc1Qg6yUim4f_eFsrhStZzaeIKYntnDg",
+            "name": "OGRE",
+            "url": "https://www.linkedin.com/groups/139012"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

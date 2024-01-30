@@ -1,0 +1,717 @@
+{
+    "public_identifier": "yanchuan",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yanchuan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221626Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a8687e7747dbc8447953fb84f5e103365b4c259d2c56030134c5ae506f4df69a",
+    "background_cover_image_url": null,
+    "first_name": "Yanchuan",
+    "last_name": "Sim",
+    "full_name": "Yanchuan Sim",
+    "follower_count": 3348,
+    "occupation": "Co-Founder / CTO at Bot M.D.",
+    "headline": "CTO and Co-Founder at Bot M.D. (YC S18)",
+    "summary": "Bot MD is an AI clinical assistant for doctors. Our chat based platform will reduce the amount of time and friction for doctors to look up medical information. We are currently hiring native Android engineers and Python+Django backend engineers!\n\nBefore I put on my startup hat, I was a research scientist working in the field of natural language processing and machine learning. I am interested in building machine learning applications to discover knowledge and \"stories\" from texts of all domains.\n\nInterests: computational linguistics, natural language processing, text mining, information extraction, social media analysis.\n\nI am always interested in the ML and NLP problems that others are solving so feel free to reach out!",
+    "country": "SG",
+    "country_full_name": "Singapore",
+    "city": "Singapore",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Bot M.D.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/botmd/",
+            "title": "Co-Founder / CTO",
+            "description": "Bot MD is an AI clinical assistant for doctors. Our chat based platform will reduce the amount of time and friction for doctors to look up medical information. We are currently based at Block 71; come say hi!",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_400_400/0/1631425947349/botmd_logo?e=1710374400&v=beta&t=iaYoi8jxa9c2PFn2TKDMDEXxTYl3H0pSU6JYvXVK0nE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "INTELLLEX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/intelllex/",
+            "title": "Technical Advisor",
+            "description": "At Intelllex, I support and advise the engineering team on building and designing scalable solutions to machine learning and natural language processing for their core products.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQELej3j55w3CA/company-logo_400_400/0/1630494109412/intelllex_logo?e=1710374400&v=beta&t=g7jfVDObiF8pLgvPQ2tUW_9PCOB5FG0ngOXOv8SmShE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Stravito",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stravito/",
+            "title": "Technical Advisor",
+            "description": "At Stravito, I support and advise the engineering team on how to build and design machine learning and natural language processing into their core search product. Some of the projects that I advise on include:\n- Improving the performance of a vanilla Elasticsearch search engines significantly through NLP (e.g., query expansion and parsing, intent understanding, keyword extraction, etc) and ML (e.g., learning to rank, boosting factor tuning, reranking, semantic embeddings, etc)\n- Implement smart AI features such as document tagging and metadata extraction (i.e., time, place, names, brand information, etc).",
+            "location": "Stockholm, Sweden",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEwJC_R1JU4wg/company-logo_400_400/0/1669627751814/stravito_logo?e=1710374400&v=beta&t=EBY-LHMP60gjtY1mDS_hRVPVifjp5PqMRaF5-2tycqA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Institute for Infocomm Research",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/institute-for-infocomm-research/",
+            "title": "Research Scientist",
+            "description": "I work in the Baidu-I\u00b2R Research Centre, which is part of I2R's Natural Language Processing department.\nMy current projects involve on sentiment analysis, topic tracking, and fine-grained automatic negation detection in Chinese user generated content.",
+            "location": "South West, Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGyGP83_DJ95g/company-logo_400_400/0/1630602910206/institute_for_infocomm_research_logo?e=1710374400&v=beta&t=JNJCh5GmbHvC9O0OHCMqI6XN_ZHV_ozxzhiH8VpXyrw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "Institute for Infocomm Research",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/institute-for-infocomm-research/",
+            "title": "Research Officer",
+            "description": "We built an entity resolution system by leveraging unsupervised topical features. I designed a robust module for acronym identification, creatively using data from a large corpus of acronyms, and carefully crafting features to build a high precision acronym classifier. Our team\u2019s system were ranked top 3 in the TAC 2010 Knowledge Population (KBP) task.",
+            "location": "Singapore",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQGyGP83_DJ95g/company-logo_400_400/0/1630602910206/institute_for_infocomm_research_logo?e=1710374400&v=beta&t=JNJCh5GmbHvC9O0OHCMqI6XN_ZHV_ozxzhiH8VpXyrw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "AirPR",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/onclusive/",
+            "title": "Technical Advisor",
+            "description": "I worked on various ML and NLP related problems \u2013 automatic key phrase extraction, topical analysis, and author-expert ranking algorithms, etc. At AirPR, we deal with large datasets of billions of documents and we use Spark and AWS EMR to efficiently process the documents. I compliment the engineering team by providing expertise on ML/NLP as well as designing the architecture of large scale ML pipelines.",
+            "location": "San Francisco, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFUQtyd__Q0aA/company-logo_400_400/0/1688464882846/onclusive_logo?e=1710374400&v=beta&t=FB2ADJ1yYd7lpnuR3h4nUf9ReIQtU_Q1wNJG1tqq5Ug"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "Carnegie Mellon University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+            "title": "Graduate Research Assistant",
+            "description": "I work with Noah Smith in the Noah's ARK NLP lab. My research interests are natural language processing and building statistical models for applications in text mining and knowledge discovery. I seek to build automated tools to help human efforts in analysis of text in politics, social media and scientific publishing. My previous coursework include NLP, probabilistic graphical models, advanced optimization, statistical machine learning & deep learning, analysis of social media.",
+            "location": "Pittsburgh, PA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2013
+            },
+            "company": "Carnegie Mellon University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+            "title": "Teaching Assistant for Natural Language Processing",
+            "description": "Teaching assistant for 11-411/611: Natural Language Processing, an introductory class to natural language processing for senior undergraduates.",
+            "location": "Pittsburgh, PA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "University of Washington",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-washington/",
+            "title": "Visiting PhD Student",
+            "description": "PhD student in-residence at University of Washington.",
+            "location": "Seattle, WA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEMmhF9TqUCgA/company-logo_400_400/0/1630545704089/university_of_washington_logo?e=1710374400&v=beta&t=vmt8XDDu8MZCDmQG07n3NjxJ5O5rJz58jcDk-2EYo8Y"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2013
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "title": "PhD Research Intern",
+            "description": "I worked with Google Knowledge team to improve state of the art NLP pipeline. We proposed and implemented a novel model for performing joint inference on entity type tagging and coreference resolution, developing efficient algorithms to find good solutions in the high dimension combinatorics space using dual decomposition.",
+            "location": "Mountain View, CA",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": "Language and Information Technologies",
+            "degree_name": "PhD",
+            "school": "Carnegie Mellon University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1710374400&v=beta&t=6yGGSOWkYcMl4RJdgxCgVG1Bw7VnAfw-4ufzri5k4js",
+            "grade": "GPA 3.78",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1710374400&v=beta&t=Q-qQL8YAGA3kws2SGXfuGtBz1lhfWcycVOSK15t1PRE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "BSc",
+            "school": "University of Illinois Urbana-Champaign",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1710374400&v=beta&t=0LWNvhN3-lLk6GJZRbe4mHG0qSa3WQQrZmf6zq7oMyY",
+            "grade": "GPA 3.89",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "Aviation",
+            "degree_name": "Private Pilot Certificate",
+            "school": "Community College of Allegheny County",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEkXnqGsScaAw/company-logo_400_400/0/1630619529316/community_college_of_allegheny_county_logo?e=1710374400&v=beta&t=NEouwiKbDbtH3h08DFGYEE60vzuIkkILw0-onHFA5v8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2004
+            },
+            "field_of_study": null,
+            "degree_name": "GCE A Levels",
+            "school": "Hwa Chong Junior College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": "Grade 11-12",
+            "activities_and_societies": "International Olympiad in Informatics"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2002
+            },
+            "field_of_study": null,
+            "degree_name": "GCE O Levels",
+            "school": "The Chinese High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": "Grade 7-10",
+            "activities_and_societies": "Electronics, Communications and Computer Club"
+        }
+    ],
+    "languages": [
+        "Cantonese",
+        "English",
+        "Hokkien",
+        "Japanese",
+        "Mandarin Chinese",
+        "Spanish",
+        "Teochew"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "A Utility Model of Authors in the Scientific Community",
+            "publisher": "Conference on Empirical Methods in Natural Language Processing (EMNLP 2015)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/sim2015authors.pdf"
+        },
+        {
+            "name": "Modeling User Arguments, Interactions, and Attributes for Stance Prediction in Online Debate Forums",
+            "publisher": "SIAM International Conference on Data Mining (SDM 2015)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/qiu2015modeling.pdf"
+        },
+        {
+            "name": "The Utility of Text: The Case of Amicus Briefs and the Supreme Court",
+            "publisher": "AAAI Conference on Artificial Intelligence (AAAI 2015)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/sim2015utility.pdf"
+        },
+        {
+            "name": "Learning Topics and Positions from Debatepedia",
+            "publisher": "Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/#paper5"
+        },
+        {
+            "name": "Measuring Ideological Proportions in Political Speeches",
+            "publisher": "Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/sim2013measuring.pdf"
+        },
+        {
+            "name": "Testing the Etch-a-Sketch Hypothesis: A Computational Analysis of Mitt Romney's Ideological Makeover During the 2012 Primary vs. General Elections",
+            "publisher": "American Political Science Association (APSA) 2013 Annual Meeting Paper. Chicago, IL.",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/gross2013testing.pdf"
+        },
+        {
+            "name": "A Probabilistic Model for Canonicalizing Named Entity Mentions",
+            "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2012)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/yogatama2012probabilistic.pdf"
+        },
+        {
+            "name": "Discovering Factions in the Computational Linguistics Community",
+            "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2012) Rediscovering 50 Years of Discoveries Workshop",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/sim2012discovering.pdf"
+        },
+        {
+            "name": "I2R-NUS-MSRA at TAC 2011: Entity Linking",
+            "publisher": "4th Text Analysis Conference (TAC 2011)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/zhang2011nus.pdf"
+        },
+        {
+            "name": "Entity Linking with Effective Acronym Expansion, Instance Selection and Topic Modeling",
+            "publisher": "International Joint Conferences on Artificial Intelligence (IJCAI 2011)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/zhang2011entity.pdf"
+        },
+        {
+            "name": "NUS-I2R: Learning a Combined System for Entity Linking",
+            "publisher": "Text Analysis Conference (TAC 2010)",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "description": null,
+            "url": "http://hello.yanchuan.sg/assets/papers/zhang2010nus.pdf"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "National Science Scholarship",
+            "issuer": "Agency for Science, Technology, and Research",
+            "issued_on": {
+                "day": 1,
+                "month": 5,
+                "year": 2006
+            },
+            "description": "Prestigious fellowship covers up to 8 years of tuition and living expenses at top institutions in USA and UK."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Advanced NLP Seminar",
+            "number": "11-713"
+        },
+        {
+            "name": "Air Traffic Control Systems",
+            "number": "AVT 103"
+        },
+        {
+            "name": "Algorithms for NLP",
+            "number": "11-711"
+        },
+        {
+            "name": "Analysis of Social Media",
+            "number": "10-802"
+        },
+        {
+            "name": "Elementary Spanish I",
+            "number": "82-141"
+        },
+        {
+            "name": "Elementary Spanish II",
+            "number": "82-142"
+        },
+        {
+            "name": "Grammar Formalisms",
+            "number": "11-722"
+        },
+        {
+            "name": "Instrument Flight Theory",
+            "number": "AVT 111"
+        },
+        {
+            "name": "Introduction to Artificial Intelligence",
+            "number": "CS 440"
+        },
+        {
+            "name": "Introduction to NLP",
+            "number": "CS 498JH"
+        },
+        {
+            "name": "Machine Learning",
+            "number": "CS 446"
+        },
+        {
+            "name": "Optimization",
+            "number": "10-725"
+        },
+        {
+            "name": "Private Pilot Flight",
+            "number": "AVT 105"
+        },
+        {
+            "name": "Private Pilot Theory",
+            "number": "AVT 101"
+        },
+        {
+            "name": "Probabilistic Graphical Modelling",
+            "number": "10-708"
+        },
+        {
+            "name": "Special Topics in Advanced NLP",
+            "number": "CS 598"
+        },
+        {
+            "name": "Statistical Machine Learning",
+            "number": "10-702"
+        },
+        {
+            "name": "Structured Prediction for Language and Other Discrete Data",
+            "number": "11-763"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            },
+            "title": "yc-utils",
+            "description": "This is an assortment of utilities / functions that I have written and found useful for data manipulation and NLP. It is written mostly in C++, along with a mismash of scripts, libraries, modules, headers, etc written i n Python and Java",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "title": "Morphological Analyzer for Japanese Nouns, Verbs and Adjectives",
+            "description": "This is an open source morphological analyzer for Japanese nouns, verbs and adjectives that I built for the NLP lab class at CMU. The system builds upon the morphological analyzing capabilities of MeCab to incorporate finer details of classification such as politeness, tense, mood, voice attributes, and more. It is implemented in the form of a finite state transducer using the open source finite state compiler FOMA toolkit.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "ark-sage",
+            "description": "Ark-SAGE is a Java library that implements the L1-regularized version of Sparse Additive GenerativE models of Text (Einsenstein et al, 2011). SAGE is an algorithm for learning sparse representations of text.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/hanstella",
+            "name": "Stella Han",
+            "summary": "Co-Founder at Fractional (YC W21) \u2014 We\u2019re Hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/felicia-ng-yh",
+            "name": "Felicia Ng",
+            "summary": "Head of People, Online Talent Platform & New Markets.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/chang-zi-qian-b6121a16",
+            "name": "Chang Zi Qian",
+            "summary": "Co Founder at Intelllex (scott.intelllex.com)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/darylyeo",
+            "name": "Daryl Yeo",
+            "summary": "Startups | Angel Investor | Butter Maker",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dion-neo-470a161a6",
+            "name": "Dion Neo",
+            "summary": "Building Birdlabs \ud83d\ude80",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nhandtran",
+            "name": "Nhan Tran",
+            "summary": "Builder",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dotkoh",
+            "name": "Dorothea K.",
+            "summary": "Founder & CEO @ Bot MD | A.I. Clinical Assistant",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/amrita-kokkeri",
+            "name": "Amrita Kokkeri",
+            "summary": "Computing and Law Student Singapore Management University",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ajay-nagarajan-a64a3740",
+            "name": "Ajay Nagarajan",
+            "summary": "Lead Android Developer at Bot M.D.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/agnesbutethanis",
+            "name": "Agnes Butet Hanis",
+            "summary": "Healthcare Enthusiast | Product & Marketing at Bot MD",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "The beauty and sophistication of \"Mechanized agriculture.\" Agricultural technology is traced to its origins in ancient Egypt and the invention of the\u2026",
+            "link": "https://www.linkedin.com/posts/nourialireza_agriculture-technology-mechanization-activity-7026476081905885184-TwQk",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Meet Hannes Petri: backend developer at Stravito and devoted Stockholm office dweller \ud83d\udc4bQ: How long have you been at Stravito? \ud83e\udd14A: Since\u2026",
+            "link": "https://www.linkedin.com/posts/stravito_teamstravito-team-culture-activity-6968880034115649536-Jtst",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Always a pleasure running a remote-first company \ud83d\ude09Stravito #marketresearch #innovation #tech",
+            "link": "https://www.linkedin.com/posts/thorolof_marketresearch-innovation-tech-activity-6965208235431608320-cqEA",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "New blog! In this blog, Uber\u2019s API platform team talks about how they built their Next Generation Push Platform on gRPC which helped improve the\u2026",
+            "link": "https://www.linkedin.com/posts/uberengineering_ubers-next-gen-push-platform-on-grpc-activity-6965726051691872256-IFy6",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Just want to update that today marks the first day of my job transition. I officially start to serve as an assistant professor at the School of\u2026",
+            "link": "https://www.linkedin.com/posts/haohanwang_just-want-to-update-that-today-marks-the-activity-6965525106093699072-hagS",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "The GIM ladies back together but missing the boys!",
+            "link": "https://www.linkedin.com/posts/salina-saneh-9b86948a_the-gim-ladies-back-together-but-missing-activity-6957593574641160192-AArT",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Over the past month, my team (all from NTU DSAI) consisting of Cammy Mun, Josephine Agatha Hemingway, Pooja Srinivas Nag, Tan Wen Xiu, and I\u2026",
+            "link": "https://www.linkedin.com/posts/chuaziheng_ai-computervision-nlp-activity-6946052255468900352-S7fA",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "We started our quest for Ajaib\u2019s brand ambassador last year and LISA was the perfect choice. She represents our brand identity of bravery. In my\u2026",
+            "link": "https://www.linkedin.com/posts/yadapi_lisaforajaib-activity-6940299178036072449-BOM4",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Welcome Lisa to team Ajaib! The K-Pop Superstar joins Indonesia\u2019s Financial SuperApp \ud83c\uddee\ud83c\udde9The voice of our generation joins our mission to welcome a\u2026",
+            "link": "https://www.linkedin.com/posts/andersonsumarli_blackpinks-lisa-brings-magic-to-indonesian-activity-6940338817195216896-FwEF",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Plein de soleil \u00e0 Paris!Grateful for being able to travel again, for meeting with clients and partners in person, and for this beautiful city \ud83c\udf1f",
+            "link": "https://www.linkedin.com/posts/thorolof_plein-de-soleil-%C3%A0-paris-grateful-for-being-activity-6937317368503144448-WbQ_",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "Recently, I was given the opportunity at Ascenda to work with Grafana, an observability platform, as part of ensuring that our system can\u2026",
+            "link": "https://www.linkedin.com/posts/karissekhoo_anomaly-detection-with-z-score-activity-6938059723346743299-7rgE",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "What's the best career advice that you've ever received?For me, it's that my company is only as good as its people. It's been incredibly true in\u2026",
+            "link": "https://www.linkedin.com/posts/thorolof_c-suite-career-advice-thor-olof-philog%C3%A8ne-activity-6931941085829029888-9Cn1",
+            "activity_status": "Liked by Yanchuan Sim"
+        },
+        {
+            "title": "My mentor had a rule.The Rule of 3.For every problem I bring to him, I must bring at least 3 possible solutions I've thought of. If not, he'd\u2026",
+            "link": "https://www.linkedin.com/posts/junyangng_humanresources-hr-management-activity-6936589810975301632-Fcmy",
+            "activity_status": "Liked by Yanchuan Sim"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

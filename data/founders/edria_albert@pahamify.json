@@ -1,0 +1,388 @@
+{
+    "public_identifier": "edria-albert-38223341",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/edria-albert-38223341/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221635Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=08a088c5e924f9245f4b39c76b9829c717c1ab8eb04d7371ea48589d6f8f59ad",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/edria-albert-38223341/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221635Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c64a394767c8fb26c7e719fec5cf9726f49ac7bee249a98704d245ff29f32e24",
+    "first_name": "Edria",
+    "last_name": "Albert",
+    "full_name": "Edria Albert",
+    "follower_count": null,
+    "occupation": "Co-founder, Chief Technology Officer at Pahamify",
+    "headline": "Pahamify (YC W20) Helping the youth in Indonesia discover the authentic joy in learning",
+    "summary": "Co-founder, Chief Technology Officer at Pahamify",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": "West Java",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Aruline Studio",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aruline-studio/",
+            "title": "Programmer",
+            "description": null,
+            "location": "Bandung Area, West Java, Indonesia",
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C510BAQEFcJvoofF2ew/company-logo_400_400/0/1519933103160?e=1666224000&v=beta&t=2oCmC8mmUpn8uWslcVKzZjRmLqWyCX515AyKugMNukM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Pahamify",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pahamify/",
+            "title": "Co-founder, Chief Technology Officer",
+            "description": null,
+            "location": "Indonesia",
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQEBZSvaAjmvhQ/company-logo_400_400/0/1635920495371?e=1666224000&v=beta&t=FdLk8fBR02XtfefJ0ixDtFkrEHjHaz0ZzK36vYRtSSs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "company": "PT Bamboomedia Cipta Persada",
+            "company_linkedin_profile_url": null,
+            "title": "Software Developer Internship",
+            "description": "Develop software for multimedia laboratory, which enrich the functions of multimedia and language lab in Indonesian's high school.",
+            "location": "Denpasar, Bali, Indonesia",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Informatics",
+            "degree_name": "Bachelor",
+            "school": "Institut Teknologi Bandung",
+            "school_linkedin_profile_url": null,
+            "description": "Head of Media and Information Division , Head of Public Relation Division",
+            "logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_400_400/0/1616576004373?e=1666224000&v=beta&t=tpAp93XGIJeYUFdPvdN3YS3Wm_0YUmo7q_k1ipcoPQk",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": null,
+            "org_name": "AGI (Asosiasi Game Indonesia)",
+            "title": "-",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": null,
+            "org_name": "IF-Association",
+            "title": "-",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": null,
+            "org_name": "GDB (Game Developer Bandung)",
+            "title": "-",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": null,
+            "org_name": "GDI (Game Developer Indonesia)",
+            "title": "-",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "2nd Winner - API Pemilu Hackaton",
+            "issuer": "API Pemilu Hackaton",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "description": null
+        },
+        {
+            "title": "Grand Winner - Game Idea Competition - Indonesia Bermain 2011",
+            "issuer": "Indonesia Bermain",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "description": null
+        },
+        {
+            "title": "Round 2 Finalist - Game Design Contest",
+            "issuer": "Microsoft Imagine Cup 2011",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2014
+            },
+            "title": "Pemilu Hore",
+            "description": "2nd Winner of Pemilu API Hackaton\nTrivia Game about Indonesian General Election 2014\n\n#Game designer, UI designer, programmer",
+            "url": "https://play.google.com/store/apps/details?id=com.arulinestudio.irfan.gamepemilu"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2011
+            },
+            "title": "Countastic",
+            "description": "Grand Winner  Game Idea Competition - Indonesia Bermain 2011\nCountastic combines simple math operations with innovative gameplay and easy touch control that anyone can enjoy. Just swipe your finger across the numbers to divide them or sum them up by dragging one number to another.\n\n#Game producer, game designer, programmer",
+            "url": "https://play.google.com/store/apps/details?id=com.arulinestudio.countastic"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 355,
+    "people_also_viewed": [
+        {
+            "link": "https://id.linkedin.com/in/syarif-rousyan-fikri-4b223851",
+            "name": "Syarif Rousyan Fikri",
+            "summary": "Building Pahamify (YC W20), the future of education technology.",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/triharyopratama",
+            "name": "Tri Haryo Pratama",
+            "summary": "Lead Product Manager at Tokopedia",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/gina-ghassari-9a3778170",
+            "name": "Gina Ghassari",
+            "summary": "Head of Math at Pahamify",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/mohammad-ikhsan-2a861a30",
+            "name": "Mohammad Ikhsan",
+            "summary": "Co-Founder of Pahamify",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nandareynaldi",
+            "name": "Nanda Reynaldi",
+            "summary": "Engineering Manager at Pahamify (YC W20) | I Love Tech, Product and People",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/hafidlotulfatimah",
+            "name": "Hafidlotul Fatimah",
+            "summary": "React Native Developer at Pahamify",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/elbert-evan-38545a149",
+            "name": "Elbert Evan",
+            "summary": "Data Analyst at Pahamify (YC W20)",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/ainun-abdullah-046609117",
+            "name": "Ainun Abdullah",
+            "summary": "Infrastructure Engineer at Pahamify (YC W20)",
+            "location": "Jawa Timur, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhammad-khusnul-hisyam-a25b58165",
+            "name": "Muhammad Khusnul Hisyam",
+            "summary": "People Culture and Engagement di Pahamify",
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/risky-feryansyah-pribadi-8278591a6",
+            "name": "Risky Feryansyah Pribadi",
+            "summary": "Backend Engineer Intern di Pahamify",
+            "location": "Malang"
+        },
+        {
+            "link": "https://id.linkedin.com/in/doniyusdinar",
+            "name": "Doni Y.",
+            "summary": "Lead Software Engineer at Pahamify",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/aditya-okke-sugiarso-a49a7aa0",
+            "name": "ADITYA OKKE SUGIARSO",
+            "summary": "Senior Software Engineer at Pahamify",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/reza-shebubakar-63475189",
+            "name": "Reza Shebubakar",
+            "summary": "Business development and Partnership at Pahamify (YC W20)",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/jason-rusli-a83736a6",
+            "name": "Jason Rusli",
+            "summary": "CFO at Pahamify (YC W20)",
+            "location": "Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/fatmasari-putri",
+            "name": "Fatmasari Putri",
+            "summary": "Content Specialist and Host at Pahamify",
+            "location": "Jawa Barat, Indonesia"
+        },
+        {
+            "link": "https://id.linkedin.com/in/nullphantom",
+            "name": "Ilham Bintang",
+            "summary": "Machine Learning Engineer at Pahamify | Huawei AI and Microsoft TA certified",
+            "location": "Mataram"
+        },
+        {
+            "link": "https://id.linkedin.com/in/muhfaisal",
+            "name": "Muhammad F.",
+            "summary": "Consumer Product Manager",
+            "location": "Bandung"
+        },
+        {
+            "link": "https://id.linkedin.com/in/irfangirindra",
+            "name": "Muhammad Irfan Girindra",
+            "summary": "Data Analyst at Pahamify",
+            "location": "Pamulang"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/andiakbartanjung",
+            "name": "Andi Akbar Tanjung",
+            "summary": "Educationist | Empowering Teachers through Pahamify | M.Ed. Candidate at NTU Singapore | LPDP Scholarship Awardee",
+            "location": "Singapura"
+        },
+        {
+            "link": "https://id.linkedin.com/in/theodorusyoga",
+            "name": "Theodorus Yoga Mahendraputra",
+            "summary": null,
+            "location": "Jakarta Raya, Indonesia"
+        },
+        {
+            "link": "https://www.linkedin.com/in/edy-bagus-pamungkas-a4b82b106",
+            "name": "Edy Bagus Pamungkas",
+            "summary": "Head of Content & Creative Marketing at Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arkanmis",
+            "name": "Arkan Muhammad Irsyad",
+            "summary": "Full Stack Engineer @ Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/fachmi-sasmita-716b96139",
+            "name": "Fachmi Sasmita",
+            "summary": "Finance Accounting & Tax at Pahamify (YC W20)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ferhadija",
+            "name": "Fitriana Ferhadija",
+            "summary": "Bahasa Indonesia Team Lead at Pahamify",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/oktafianangga",
+            "name": "Oktafian Angga Nugraha",
+            "summary": "Head of Creative at Pahamify (YC W20)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "[Latepost]January 2019 - volunteering with Seoul National University Social Responsibility to build a water purification system, integrated with IoT\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Edria Albert"
+        },
+        {
+            "title": "There was at least 8 cases of Edtech funding on 2020 in Indonesia totaling higher than 23 million USD, including 20 million USD Series-A funding for\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Edria Albert"
+        },
+        {
+            "title": "I'm glad to be given again another opportunity to meet and create more conversations about Data Analytics in GlintsI will share insights and\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Disukai oleh Edria Albert"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

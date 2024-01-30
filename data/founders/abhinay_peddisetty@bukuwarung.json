@@ -1,0 +1,316 @@
+{
+    "public_identifier": "abh1nay",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/abh1nay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221214Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d11e7c1941293f9a84dde9046c138dcaf36bb037d21c11898944dd6f3e5f7a82",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/abh1nay/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221214Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f2e06e797f1bbf02e59503c26ae7131ca8fadb89e60b4ad98e919781355014e7",
+    "first_name": "Abhinay",
+    "last_name": "Peddisetty",
+    "full_name": "Abhinay Peddisetty",
+    "follower_count": 5234,
+    "occupation": "Co-Founder & CEO at BukuWarung",
+    "headline": "Co-Founder & CEO at BukuWarung | YC S20",
+    "summary": "My experience consists of building and scaling early to late stage internet companies (seed to series D) across SEA and India, where I built growth, revenue and partnership teams.\n\n\"If you're offered a seat on a rocket ship, don't ask what seat! Just get on.\" - Sheryl Sandberg\n\n",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": "Jakarta",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "BukuWarung",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bukuwarung",
+            "title": "Co-Founder & CEO",
+            "description": "BukuWarung is SEA's fastest growing startup and we are building the digital infrastructure for 60 million MSMEs in Indonesia, enabling them to efficiently manage and grow their business, starting with digital bookkeeping, online storefront & payments. BukuWarung's vision is to empower 60 million MSMEs in Indonesia to become financially aware and enable them to manage and grow their business using technology.\n\nWe are a Series A company and have raised ~$80 million backed by top tier VCs globally: Peter Thiel's Valar Ventures, Goodwater Capital, Y-Combinator, AC Ventures, Quona Capital, East Ventures, Golden Gate Ventures, Rocketship.vc, Tanglin Venture Partners and strategic angel investors from Stripe, PayPal, Plaid, Grab, Gojek, Facebook, AirBnB, Fast, Mastercard etc.\n\nWe are actively hiring across all levels and roles, please reach out at join@bukuwarung.com\n\nCheck out bit.ly/JoinBukuWarung for more details about who we are and our culture.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEpdD48gFZ1dA/company-logo_400_400/0/1630646596390?e=1714003200&v=beta&t=CdGs7o72ddTnl_oa5Wv3vO1Rs9L8vzrmMLZk2QgEbiY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": null,
+            "company": "Hitachi Consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hitachi-vantara",
+            "title": "Project Management",
+            "description": null,
+            "location": "Hyderabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQFrBPM24o_Ruw/company-logo_400_400/0/1688414684959/hitachi_vantara_logo?e=1714003200&v=beta&t=pp4385jaiAD_YKJ8IKlnFV6tfAxMjn2d1CQkskX3amw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Carousell",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/carousellgroup",
+            "title": "Head of Enterprise Business, APAC",
+            "description": "Carousell is the largest mobile classifieds platform in SEA, valued at 850M$ and raised over 180M$, from leading investors such as Telenor, Naspers, Sequoia Capital, Rakuten Ventures, Golden Gate Ventures, 500 Startups and EDBI\n",
+            "location": "Singapore, SEA",
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQETxuGkcTm-Dw/company-logo_400_400/0/1630570449681/carousell_logo?e=1714003200&v=beta&t=baEYRqEmLtpN557Cwk7eWMII907SZ2cazAKQvmAUVv8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Belong.co",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/belong-co",
+            "title": "Head of Business, Founding Team Member ",
+            "description": "Belong is a predictive hiring platform, and has raised over 15M$ in funding from leading investors as Sequoia Capital, Matrix Partners and Blume Ventures. ",
+            "location": "India, SEA",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHnOSHdVMgl6g/company-logo_400_400/0/1630612497901/belong_co_logo?e=1714003200&v=beta&t=U1EIGZfiqZLTxniEVnhTqjEUP23CafgfxRRAu-wtjsM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Near",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/-near",
+            "title": "Business Manager",
+            "description": "Near is the world's largest source of intelligence on people and places\n\nNear has raised over 100Mn$ from leading investors including Sequoia Capital, JP Morgan Private Equity Group, Cisco Investments and Telstra Ventures",
+            "location": "India, SEA",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE417FoAJBuVQ/company-logo_400_400/0/1637167272498/_near_logo?e=1714003200&v=beta&t=sMhqYFEyyrEtROBzTE50zu5-b9q2a95R2aTDSHeAY6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "company": "MediaMint",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mediamint",
+            "title": "Business Strategy",
+            "description": null,
+            "location": "India",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGnV45s0vtRng/company-logo_400_400/0/1631415600686?e=1714003200&v=beta&t=ENPRAJ_CAx5nr3uOqWesoifd40FxFbwZUxfKX4mSO84"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "PPCPundit",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ppcpundit",
+            "title": "Business Development Manager",
+            "description": null,
+            "location": "India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGui_Jv0OeyPg/company-logo_400_400/0/1631336603751?e=1714003200&v=beta&t=ngC_bY_y2_iQOhvzbxmzM3kVVcfXRULV8B6xkcIGbpc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": null,
+            "degree_name": "BukuWarung (YC S20)",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1714003200&v=beta&t=dsoKlSXk74RvWkj7wCL1O7Jw3wfE3h24tu8wZ1hpR50",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Information Systems",
+            "degree_name": "Bachelor's degree",
+            "school": "Birla Institute of Technology and Science, Pilani",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/739903/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1714003200&v=beta&t=X5uzVBqPGAcW7ZQwMYlXakerFf2dAuJ4JluJq4Iyo1I",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 4991,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/marionicolas",
+            "name": "Mario Nicolas",
+            "summary": "CEO @ Unpad EdEx",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ankiti-bose-a125b916",
+            "name": "Ankiti Bose",
+            "summary": "Building in stealth",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/adrian-a-gunadi-89662a20",
+            "name": "Adrian A. Gunadi",
+            "summary": "Co-Founder & CEO Investree",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saurabhpandey1995",
+            "name": "Saurabh Pandey",
+            "summary": "Building BukuWarung",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/davidtannoto",
+            "name": "David Tannoto",
+            "summary": "Payment | Financial Technology | SaaS",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "It's the beginning of the new financial year - a fresh start for some and the same old monotony for others.As we go through yet another slump in\u2026",
+            "link": "https://www.linkedin.com/posts/anubhavak_its-the-beginning-of-the-new-financial-year-activity-7051452850220007424-cBuo",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Congrats to our client Kredivo on their successful fundraise, especially in these markets. It\u2019s been an honor for Cooley LLP to represent Kredivo\u2026",
+            "link": "https://www.linkedin.com/posts/ferish-patel-23651a1_southeast-asian-credit-fintech-kredivo-scores-activity-7048918872959172608-JhVP",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Trihill Capital is excited to announce our commitment to double down on our investment in the emerging health and fitness platform, FIT HUB, for its\u2026",
+            "link": "https://www.linkedin.com/posts/trihill-capital_indonesias-fitness-platform-fit-hub-closes-activity-7051009774678642688-TU2V",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "VCs are Vultures.Initially, I was resistant to that notion. However, recent experiences in the industry have caused me to reconsider this belief\u2026",
+            "link": "https://www.linkedin.com/posts/vincentlauria_vcs-are-vultures-initially-i-was-resistant-activity-7049988713560363008-ve4k",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "\ud83c\udf89Sweet Sixteen and thriving!Happy 16th anniversary, DOKU! \ud83c\udf89Proud to be part of an innovative, visionary, collaborative, and resilient journey\u2026",
+            "link": "https://www.linkedin.com/posts/doku-indonesia_doku-16-anniversary-activity-7049609562521288704-Qzyy",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Privileged to have had the opportunity to learn from Colin Bryar's wisdom and experience over the years. Amongst countless other superpowers, I'm\u2026",
+            "link": "https://www.linkedin.com/posts/siurui_privileged-to-have-had-the-opportunity-to-activity-7049546151015968768-csBq",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Team that eats together\u2026 stays together!Last week, the EasyEat  Indonesia team gathered for Buka Puasa (Iftar)dinner. Great to see the team grow to\u2026",
+            "link": "https://www.linkedin.com/posts/mohdwassem_indonesia-jakarta-ramadan-activity-7048921205185155073-Wpyr",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "We had an amazing time at our #communitygathering event in Lampung, and we're excited to share the highlights with you! Over 150 of our fantastic\u2026",
+            "link": "https://www.linkedin.com/posts/bukuwarung_bukuwarung-flagship-event-in-lampung-activity-7048891674718003200-LyLR",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Super excited to bring Volker Steinle to join our leadership team. Americas is our fastest growing market and we couldn't have had a better leader to\u2026",
+            "link": "https://www.linkedin.com/posts/prajitnanu_super-excited-to-bring-volker-steinle-to-activity-7048786843563143168-NXpK",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "One thing people might not realize about the role of a CFO is that it often involves a lot of time managing communications to boards of directors on\u2026",
+            "link": "https://www.linkedin.com/posts/charlykevers_one-thing-people-might-not-realize-about-activity-7046155052931026944-EAp1",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "When brands empower local entrepreneurs, they create magic like never before.",
+            "link": "https://www.linkedin.com/posts/anilthontepu_when-brands-empower-local-entrepreneurs-activity-7048358197899784192-AZ05",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Thrilled to be supporting Zeiad Idris and the  Algbra team on their mission to make financial services more accessible, equitable and sustainable for\u2026",
+            "link": "https://www.linkedin.com/posts/ankur-mehrotra-936320_thrilled-to-be-supporting-zeiad-idris-and-activity-7048314981196447744-uBXe",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Since our launch in 2020 we\u2019ve been on a mission to provide our clients with a platform of the highest calibre, a comprehensive platform that takes\u2026",
+            "link": "https://www.linkedin.com/posts/vamsi-krishna-38534b5b_g2-g2leader-customerfeedback-activity-7048239660082368512-Te7A",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "Lending is a tough business, littered with landmines. (a) Success in lending ultimately comes down to quality of underwriting; extremely hard to\u2026",
+            "link": "https://www.linkedin.com/posts/gokulrajaram1_lending-is-a-tough-business-littered-with-activity-7047772753306808320-tCVW",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        },
+        {
+            "title": "There are over 300 million small business credit cards issued in the US, and more than $1.4 trillion is spent on them. But a vast majority of\u2026",
+            "link": "https://www.linkedin.com/posts/yashwanthm_how-fyle-plans-to-make-expenses-hassle-a-activity-7046880538757890050-ucoX",
+            "activity_status": "Disukai oleh Abhinay Peddisetty"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQHU-duxY_Cx-g/group-logo_image-shrink_400x400/0/1653723707695?e=1706749200&v=beta&t=-7PCjixVkVXMNaLlmox1mnBeazgVsgAvlUwZHtj0Xsk",
+            "name": "MobileMonday",
+            "url": "https://www.linkedin.com/groups/22352"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQHVUK_qWR3glw/group-logo_image-shrink_48x48/0/1631435658676?e=1706749200&v=beta&t=mpLyJln-RaC0YF79uGaqndZ24BRuWA_08l2YdadhDM8",
+            "name": "MMA Global",
+            "url": "https://www.linkedin.com/groups/3314"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

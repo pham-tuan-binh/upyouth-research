@@ -1,0 +1,285 @@
+{
+    "public_identifier": "dominicsumarli",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dominicsumarli/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240130%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240130T221326Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9ec8126e3eea7fc0f047f1cbbfc4c955bd0e33e8a5333c43cc7510380884c940",
+    "background_cover_image_url": null,
+    "first_name": "Dominic",
+    "last_name": "Sumarli",
+    "full_name": "Dominic Sumarli",
+    "follower_count": 1681,
+    "occupation": "Co-Founder at Whiz (YC W22)",
+    "headline": "Building Whiz (YC W22)",
+    "summary": "Building a Fintech for Indonesia, by Indonesians.",
+    "country": "ID",
+    "country_full_name": "Indonesia",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Whiz (YC W22)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/whiz-idn",
+            "title": "Co-Founder",
+            "description": "We envision that all Indonesians can make their own informed financial decisions.\nOur mission is to cultivate financial responsibility & independence for the next generation of Indonesians, by nurturing them in a constructive financial ecosystem.",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEc_HnQwKDX8Q/company-logo_400_400/0/1659370818281/whiz_id_logo?e=1712793600&v=beta&t=RsOGZ7b_hssdgjXNTlz-sXlmeuVuEX-bqQunNacf04M"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Falcon House Partners",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/falconhousepartners",
+            "title": "Private Equity Investor",
+            "description": "Private Equity fund focused on Indonesian consumer sector.\n\nI covered the following industries: Financial Services, Logistics, F&B, FMCG, Healthcare, Ingredients",
+            "location": "Jakarta, Indonesia",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGO2OBeXpwHQQ/company-logo_400_400/0/1630656316361/falconhousepartners_logo?e=1712793600&v=beta&t=1ici41eVvmGB7TPUJ5CzWScodWE2FsbRj1yY2I48zxE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Boston Consulting Group (BCG)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/boston-consulting-group",
+            "title": "Consultant",
+            "description": "I served Financial Services clients across Southeast Asia including the following topics: Payments, Consumer Lending, SME Lending, Auto Financing, Supply Chain Financing, and Insurance.",
+            "location": "Jakarta | Singapore | Kuala Lumpur",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQE_RmtwzBSpAg/company-logo_400_400/0/1702568604682/boston_consulting_group_logo?e=1712793600&v=beta&t=BGKwd6QM1MuGhXaqkOSQ5WmkZ_Bgapffyx_1-8jbuKg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "BNP Paribas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bnp-paribas",
+            "title": "Analyst",
+            "description": "Fund management of $1.5bn AUM multi-asset portfolio (equities, bonds, alternatives)",
+            "location": "Hong Kong",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGaPfduOoKCJA/company-logo_400_400/0/1669711365932/bnp_paribas_logo?e=1712793600&v=beta&t=W7Ujf7bvkhYOokVeNgxkFxBntij_byF73cyzcQa9u64"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Ramboll",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ramboll",
+            "title": "Associate",
+            "description": "Sustainability strategy for Fortune 500 companies, including: greenhouse gas emissions, air quality management, and energy consumption.",
+            "location": "Los Angeles, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQF-l_sI_laF1g/company-logo_400_400/0/1686563108316/ramboll_logo?e=1712793600&v=beta&t=WG09MULBIb9UpYsvPCmq8RsMtwRu4YvNROJLXcOfNcI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": "Master of Business Administration - MBA",
+            "school": "UCLA Anderson School of Management",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2475/",
+            "description": "- Anderson Exceptional Int'l Student (out of 120 int'l students)\n- Received $90,000 scholarship from UCLA Anderson\n- GMAT 99th percentile\n- 6-months non-profit project to increase income for coffee farmers in Guatemala",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEie8vD0XYgWg/company-logo_400_400/0/1630623988428/ucla_anderson_school_of_management_logo?e=1712793600&v=beta&t=fxErsfXUDNaUtrseNXGjClnTm9av7DOVMAozsqixRyc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "UCLA",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2477/",
+            "description": "- Cum Laude\n- Tau Beta Pi Honor Society (top 12.5% engineering students)\n- Youngest graduate of cohort (19 years old)",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831517/ucla_logo?e=1712793600&v=beta&t=_H-H3sgzpU_Dg8fr6xsvVZVe2quGzj87_A0TGGpMUsI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "International exchange program",
+            "degree_name": "MBA",
+            "school": "London Business School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/5954/",
+            "description": "Focus on Finance courses",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEqDlcBJVq7_A/company-logo_400_400/0/1688382214897/london_business_school_logo?e=1712793600&v=beta&t=AhoZVRUt-PE6K4vb-DMqYR3dYWtOrIZ2KkkGnhJ4CRc",
+            "grade": "4.0",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "W22",
+            "school": "Y Combinator",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/167872/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1712793600&v=beta&t=CLePinaxvdeXuqLl0yj0eHJNIzvtgsRsXiyoRX4SHa0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Bahasa Indonesia",
+        "English"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "UCLA Anderson Indonesia Alumni Chapter",
+            "title": "Jun 2016 - Present",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Exceptional International Student",
+            "issuer": "UCLA Anderson",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": "Awarded scholarship as the top student out of 120 international students in the MBA cohort"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "GMAT",
+            "score": "770",
+            "date_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "description": "99th percentile"
+        },
+        {
+            "name": "Fundamentals of Securities & Futures Regulation",
+            "score": "Pass",
+            "date_on": null,
+            "description": "Hong Kong Securities and Investment Institute"
+        }
+    ],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1549,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/agneswlie",
+            "name": "Agnes W Lie",
+            "summary": "Co-Founder at Whiz (YC W22) | ex-OVO, ex-BCG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pitra-harun-789a42a3",
+            "name": "Pitra Harun",
+            "summary": "Asia Partners",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/armand-amadeus",
+            "name": "Armand Amadeus",
+            "summary": "Co-Founder at Diri Care - we're hiring!",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yih-lin-teh",
+            "name": "Yih Lin Teh",
+            "summary": "Founder & CEO at bipi (YC W22) | MIT MBA",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/reinaldo-tendean",
+            "name": "Reinaldo Tendean",
+            "summary": "Co-Founder at Finku (YC W22)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQGWXSIkB3xudg/group-logo_image-shrink_48x48/0/1630999702453?e=1705478400&v=beta&t=h6Y8OFA2VyvQoP_5cMqGSp74Pjx_Mq5PTUI9F-IHB-k",
+            "name": "Entrepreneur BCGers",
+            "url": "https://www.linkedin.com/groups/12122799"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQG4ysTwYsnaGA/group-logo_image-shrink_48x48/0/1631421569535?e=1705478400&v=beta&t=tjncE9SGTKkiYAsGDJ_YOthB1qm3ZmwGOm3whS6xVJo",
+            "name": "LBS MBA IEP 2016",
+            "url": "https://www.linkedin.com/groups/8419456"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

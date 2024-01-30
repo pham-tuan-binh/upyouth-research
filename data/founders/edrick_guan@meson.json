@@ -1,0 +1,382 @@
+{
+    "public_identifier": "edrick-yuhui-guan-913a3637",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Edrick Yuhui",
+    "last_name": "Guan",
+    "full_name": "Edrick Yuhui Guan",
+    "follower_count": null,
+    "occupation": "VP, Product & Infrastructure at Obsidian Labs",
+    "headline": "I build infrastructures. On the cloud. In the team.",
+    "summary": null,
+    "country": "CN",
+    "country_full_name": "China",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Obsidian Labs",
+            "company_linkedin_profile_url": "https://cn.linkedin.com/company/obsidian-labs",
+            "title": "VP, Product & Infrastructure",
+            "description": "Obsidians Lab is the world leader in IDE toolkits for Blockchains. Founded by two Y-Combinator alumni, great minds with extensive experiences in blockchain world have come together to explore the forefront on blockchain development, providing tools to developers worldwide on leading public chains.Our IDE product family, being the most powerful and popular blockchain IDEs available on the market, integrates all necessary toolkits from environment setup, compilation, debug to deployment that serves a complete development lifecycle. Available in both web and desktop versions, our IDEs runs in major web browsers and OS, such as Windows, macOS or Linux and are trusted by developers in over 100 countries/regions.Our flagship IDE products, EOS Studio, Substrate IDE, CKB Studio, Conflux Studio, Algorand Studio, Alaya Studio have been officially recognized by their respective public chain foundations (EOS.IO, Web3 Foundation (Polkadot), Nervos (CKB), Conflux, Algorand, LatticeX (PlatON) ) as the official IDE to the developer communities.A few days ago, we\u2019re thrilled to introduce Etherenum Studio and EVM-compatible BSC Studio, Heco Studio to our product family, extending our support further to thousands of developers developing on these booming blockchain platforms.* Lead product development for all Studio-series blockchain IDEs product family* Lead infrastructure design and implementation on the cloud (AWS, Tencent Cloud, Alibaba Cloud)* Lead international partnership development and liaison",
+            "location": "Shenzhen, Guangdong, China & Beijing, China",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Daniel Wellington",
+            "company_linkedin_profile_url": "https://cn.linkedin.com/company/danielwellington",
+            "title": "IT Operations Manager Asia-Pacific",
+            "description": "Build from scratch a multilingual & multi-site 17-people Operations team focusing on architecting, deploying and operating cloud-native application on public clouds. Certified experience on AWS/Alibaba Cloud and B/S structure multi-layer web application on public clouds.\u2022\tMake use of docker container clusters, Redis/Memcached cache and RDS services to build distributed web applications and microservices with AWS Lambda, NoSQL,  API Gateway and SQS.\u2022\tExperiences with common DevOps and project management tools like Jenkins, ELK, Ansible, Sentry, OpsGenie, Jira, Confluence and Github/Bitbucket.\u2022\tResponsible for infrastructure security and network compliance for China operations, familiarity with network concepts and tool of SDN, LAN, WAN, DNS, WAF and VPN as well as related regulations like ICP, Police registration and Network Security Law.\u2022\tFamiliar with the service differences between AWS China and Global regions, hands on experience on making use of Ali-cloud services and Azure to complement. Persuaded Stockholm HQ to adapt a multi-cloud infrastructure with Ali-cloud and AWS for China Stronghold The localized architecture as made by AWS China as a user reference case.\u2022\tAs an important communication bridge between China IT and global IT, worked as Cloud Architect in Korean CRM and China ECOM 2.0 project and coordinated throughout the project with local partner, China IT, local BU and HQ IT towards a solution respecting and support local business requirements without losing global unity.\u2022\tAs China incident manager, taking the lead during APAC time zones in the follow-the-sun IT oncall routine, coordinated the procedure for incident and emergency plan for business cricital applications, and worked as the spokesman during incident towards company\u2019s C-level officers.",
+            "location": "Shenzhen, Guangdong, China and Hong Kong SAR, China",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Daniel Wellington",
+            "company_linkedin_profile_url": "https://cn.linkedin.com/company/danielwellington",
+            "title": "IT Support Manager China",
+            "description": "Overseeing, Refining and Supporting Internal & Retail IT infrastructure for Daniel Wellington in the Greater China region. Agilely building a centrally-managed scalable IT infrastructure on the cloud to support European fastest-growing private company* doubling its turnover YoY to billion-scale in China in 2017 while always connected to our global infrastructure.What I do here:1. Supporting the cloud-based Internal IT infrastructure for DW China Offices:Keywords: Office 365, Cisco-Meraki networks, corporate IT policies, Sophos Security, MDM (Filewave), Apple DEP/VPP/EPP, Zendesk, airtame, printers and multimedia equipments.2. Refining the Internal IT infrastructure for better localization and global connectivity.Keywords: VPN(l2tp,pptp,shadowsocks), cross-border circuits, SDN  and SIP-based VoIP3.  IT infrastructure OperationsKeywords: AWS, Aliyun, Container(Docker AWS ECS), CI (Jenkins), DevOps, Redis, AWS RDS/DynamoDB, AWS Lambda4. Continuously Delivery of Infrastructure and Service to CN retail businessKeywords: Omnichannel retail, Integrated Mobile Payments(AliPay, Wechat Pay),  interactive in-store applications (with Social Media, Augment Reliability, Face Recognition etc.)Working closely with IT Support, Reliability and Operation Teams in Stockholm,Sweden, My team and I are based in Shenzhen, China taking care of IT infrastructure and services in 6 offices in Hong Kong, Shenzhen, and Shanghai, as well as 70+ stores across China mainland and Hong Kong.2015.10-2016.12 as IT Support Specialist China* Source: Inc 5000 Europe 2017 https://www.inc.com/inc5000eu/list/2017/",
+            "location": "Shenzhen, Guangdong, China & Hong Kong SAR, China",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "company": "UTACCEL",
+            "company_linkedin_profile_url": "https://cn.linkedin.com/company/utaccel",
+            "title": "Vice President, Innovation",
+            "description": "Coordinating with the executive management team with external service providers.Scheduling daily activities for the conference agenda.On-site executive during the Beijing conference.",
+            "location": "Toronto, Ontario, Canada and Beijing, P.R. China",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "company": "UT&FUN",
+            "company_linkedin_profile_url": null,
+            "title": "Founding Managing Director, Intramural Consulting Group",
+            "description": "Provided consultancy to the establishment of UT&FUN\u2019s subsidiaries in Mississauga and Scarborough campus. UT&FUN Scarborough is now second largest student organization on campus.Provided strategic consultancy for migration of FUSE Program to UT&FUN Mississauga and Scarborough.Provided marketing consultancy to TEAM UNITE in University of Toronto 2014 General Student Election.",
+            "location": "University of Toronto, Toronto, Ontario, Canada",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "company": "UT&FUN Organization, University of Toronto",
+            "company_linkedin_profile_url": null,
+            "title": "Founding Executive President",
+            "description": "Leading designer of the current governance structure, human resources system, business model and strategic plan (till 2017).Leading designer and leader for FUSE Program, the largest U of T student reception program overseas.Leading partnership negotiator. Our partners including fido communications, Bank of Montreal, Citibank (China) Shanghai Branch and China Eastern AirlinesManaged a team of 118 staff, outsourcing customers including COSA at University of Western Ontario, Enactus, Ansync Education and National Bank of Canada, Toronto Branch.Low turnover rate (<5%%) during the term along with high rate of support at 95%%.",
+            "location": "University of Toronto, Toronto, Ontario, Canada",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": null,
+            "degree_name": "Electrical & Computer Engineering",
+            "school": "University of Toronto",
+            "school_linkedin_profile_url": null,
+            "description": "Minors in Bioengineering and Engineering Business (jointly offered by Rotman Commerce)",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "3-year High School Science courses",
+            "degree_name": "CHN. H.S.D.",
+            "school": "Dalian No.12 Senior High School",
+            "school_linkedin_profile_url": null,
+            "description": "Took TOEFL & SAT Reasoning and Subject Tests as well as Chinese National University Examinations during high school.Received offers from:Engineering Science, University of TorontoComputer Engineering, McGill UniversityComputer Engineering Coop, McMaster UniversityComputer Engineering, University of Ottawa",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "name": "AWS Certified Solutions Architect - Associate",
+            "license_number": "0QYP5S1KL1V4QF5V",
+            "display_source": "aws.amazon.com",
+            "authority": "Amazon Web Services",
+            "url": "http://aws.amazon.com/verification"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "name": "AWS Certified Solutions Architect - Professional",
+            "license_number": "GCMYNYK1KBEQ1ZCP",
+            "display_source": "aws.amazon.com",
+            "authority": "Amazon Web Services",
+            "url": "http://aws.amazon.com/verification"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "name": "Alibaba Cloud Certified Professional",
+            "license_number": "ACP01191100137128",
+            "display_source": "edu.aliyun.com",
+            "authority": "Alibaba Cloud",
+            "url": "https://edu.aliyun.com/clouder/Certificate/search?type=1&num=ACP01191100137128"
+        }
+    ],
+    "connections": 407,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/zehao-li",
+            "name": "Zehao (Phil) Li",
+            "summary": "CEO of Obsidian Labs, YC Alumni",
+            "location": "\u65e7\u91d1\u5c71, CA"
+        },
+        {
+            "link": "https://kr.linkedin.com/in/yunhi-zhang-6894111ab",
+            "name": "Yunhi Zhang",
+            "summary": "--",
+            "location": "\u9996\u5c14"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/suzie-yuhui-wei-9928877b",
+            "name": "Suzie(Yuhui) Wei",
+            "summary": "--MBA Candidate",
+            "location": "\u6c49\u5bc6\u5c14\u987f, ON"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/ivan-peng-ab1195a8",
+            "name": "Ivan Peng",
+            "summary": "Tencent -  SRE",
+            "location": "\u6d77\u6dc0\u533a"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/di-wu-03b94b40",
+            "name": "Di Wu",
+            "summary": "\u6df1\u5733\u548c\u6893\u521b\u5b9e\u4f01\u4e1a\u7ba1\u7406\u6709\u9650\u516c\u53f8 - \u9879\u76ee\u7ecf\u7406",
+            "location": "\u6df1\u5733"
+        },
+        {
+            "link": "https://se.linkedin.com/in/jacob-b%%C3%%A4ckman",
+            "name": "Jacob B\u00e4ckman",
+            "summary": "Global Senior Supply Planner p\u00e5 Daniel Wellington",
+            "location": "\u745e\u5178"
+        },
+        {
+            "link": "https://kr.linkedin.com/in/joon-hyun-patrick-cho-96858b44",
+            "name": "Joon Hyun(Patrick) Cho",
+            "summary": "Professor & Lawyer",
+            "location": "\u97e9\u56fd"
+        },
+        {
+            "link": "https://au.linkedin.com/in/simon-giles",
+            "name": "Simon Giles",
+            "summary": "Co-Founder @ Yieldly",
+            "location": "\u6089\u5c3c\u5730\u533a"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/zhiwen-guo-011674b",
+            "name": "Zhiwen Guo",
+            "summary": "Site reliability engineer at Tencent",
+            "location": "\u5e7f\u4e1c\u7701, \u4e2d\u56fd"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/feihongliu",
+            "name": "Feihong Liu",
+            "summary": "Senior SRE Engineer at Tencent",
+            "location": "\u6df1\u5733"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/paula-johnson-4550bb48",
+            "name": "Paula Johnson",
+            "summary": "Assistant Registrar Student Recruitment at McMaster University",
+            "location": "Ancaster, ON"
+        },
+        {
+            "link": "https://www.linkedin.com/in/luluchuarubenfeld",
+            "name": "Lulu Chua-Rubenfeld",
+            "summary": "J.D. Candidate at Harvard Law School",
+            "location": "\u5251\u6865, MA"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/yuhuiwei",
+            "name": "Yuhui (Kayla) Wei",
+            "summary": "Manager of Mergers & Acquisitions Advisory Services at Grant Thornton LLP",
+            "location": "\u57fa\u5947\u7d0d, ON"
+        },
+        {
+            "link": "https://www.linkedin.com/in/yuhui-leila-jiang-career",
+            "name": "Yuhui \"Leila\" Jiang",
+            "summary": "--",
+            "location": "\u6ce2\u58eb\u987f, MA"
+        },
+        {
+            "link": "https://kr.linkedin.com/in/sung-hun-scott-lee-13650023",
+            "name": "Sung Hun \"Scott\" Lee",
+            "summary": "Brand building specialist",
+            "location": "\u9996\u5c14\u7279\u522b\u5e02, \u97e9\u56fd"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/james-ma-cpa-ca-10403050",
+            "name": "James Ma, CPA, CA",
+            "summary": "Senior Tax Manager at Rolfe Benson Chartered Professional Accountants",
+            "location": "\u6e29\u54e5\u534e, BC"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/aaron-hu-60900ab1",
+            "name": "Aaron Hu",
+            "summary": "Data Centre Infrastructure Support Analyst at Scotiabank",
+            "location": "\u591a\u4f26\u591a, ON"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/xiaobinjiang",
+            "name": "Xiaobin Jiang",
+            "summary": "Google - Technical Account Manager",
+            "location": "\u5317\u4eac\u5e02, \u4e2d\u56fd"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/nathan-he-02782a56",
+            "name": "Nathan He",
+            "summary": "Cloud Solution Architect",
+            "location": "\u4e2d\u56fd"
+        },
+        {
+            "link": "https://cn.linkedin.com/in/jerry-yang-51293532",
+            "name": "Jerry Yang",
+            "summary": "Lead Engineer at KPMG China",
+            "location": "\u6df1\u5733"
+        }
+    ],
+    "recommendations": [
+        "Edrick proved to be a fantastic person to work with. He understands complicated issues even when outside of his direct area of expertise and has exceptional experience in technology, culture understanding, problem solving oriented and fast learner. Working at Daniel wellington is most challenging, and he battled the impediments. Dedicated and goal oriented strategist that cannot be overestimated. Definitely someone I'd want to to have on my team again in the future.",
+        "Edrick was one of the most committed professionals through his work at Danielwellington. When you get to connect with him, you will find a fantastic person with unique skills! Thanks to interpersonal skills, he has excellent relations with both colleagues and customers. His organizational and technical skills have been invaluable to the company. Edrick will find a way to weather any storm with a smile. He learns quickly, and I would not doubt working with Edrick again in the future!"
+    ],
+    "activities": [
+        {
+            "title": "Do you wonder how DW is using (more then 25+) AWS Services in AWS China? Jump in here and use your favorite translation service!",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Edrick Yuhui Guan\u70b9\u8d5e"
+        },
+        {
+            "title": "\ud83c\udf89 Cheers to 192 years! Help wish U of T a happy birthday by testing your knowledge with this quiz by University of Toronto Magazine\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Edrick Yuhui Guan\u70b9\u8d5e"
+        },
+        {
+            "title": "After 4 years at Insight it is now time for me to move on with new challenges. \n\nA big THANK YOU to all colleagues, clients and partners for these\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Edrick Yuhui Guan\u70b9\u8d5e"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
