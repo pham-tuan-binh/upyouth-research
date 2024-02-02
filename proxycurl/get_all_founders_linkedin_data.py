@@ -33,7 +33,7 @@ def save_linkedin(url, filename):
     save_to_json(data, filename)
 
 # Path to your CSV file
-csv_file_path = './founders_linkedin.csv'
+csv_file_path = '../data/founders_linkedin.csv'
 
 # Load the CSV file into a DataFrame
 data = pd.read_csv(csv_file_path)
