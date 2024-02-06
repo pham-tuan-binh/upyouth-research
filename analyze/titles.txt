@@ -1,0 +1,14 @@
+Went to elite university           59.447005
+Major in Business                  43.317972
+Major in Engineering               48.847926
+Completed Doctor Degree             7.373272
+Completed Master Degree            35.023041
+Completed Bachelor Degree          91.705069
+Master in Engineering              12.442396
+Master in Business                 21.198157
+Doctor in Engineering               5.069124
+Doctor in Business                  1.382488
+Role in Product/Engineering        41.935484
+Role in Business/Marketing/Comm    37.327189
+Role in Finance                    29.493088
+dtype: float64

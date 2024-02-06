@@ -16,16 +16,19 @@ with open('rated_companies_list.csv', 'r') as csvfile:
         company, score = row[0], int(row[1])
         
         # Check if the score is already a key in the dictionary
-        if score in data_map:
-            data_map[score].append(company)
-        else:
-            data_map[score] = [company]
+        # if score in data_map:
+        #     data_map[score].append(company)
+        # else:
+        #     data_map[score] = [company]
 
-# Specify the path for the JSON output file
-output_file_path = 'output.json'
+        if score == 1:
+            print(company)
 
-# Write the JSON data to the output file
-with open(output_file_path, 'w') as jsonfile:
-    json.dump(data_map, jsonfile, indent=4)
+# # Specify the path for the JSON output file
+# output_file_path = 'output.json'
 
-print(f"JSON data has been written to {output_file_path}")
+# # Write the JSON data to the output file
+# with open(output_file_path, 'w') as jsonfile:
+#     json.dump(data_map, jsonfile, indent=4)
+
+# print(f"JSON data has been written to {output_file_path}")

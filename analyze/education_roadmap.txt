@@ -1,0 +1,29 @@
+Founders [129] Elite University
+Founders [88] Other University
+
+Elite University [43] Engineering
+Elite University [43] Business
+Elite University [23] Both
+Elite University [20] Other Major
+
+Other University [28] Engineering
+Other University [16] Business
+Other University [12] Both
+Other University [32] Other Major
+
+Other Major [1] Doctor
+Other Major [17] Master
+Other Major [18] Bachelor
+Other Major [16] No Degree
+
+Business [1] Doctor
+Business [21] Master
+Business [37] Bachelor
+
+Engineering [10] Doctor
+Engineering [16] Master
+Engineering [45] Bachelor
+
+Both [4] Doctor
+Both [12] Master
+Both [19] Bachelor

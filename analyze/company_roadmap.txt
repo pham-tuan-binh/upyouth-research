@@ -1,0 +1,21 @@
+Founders [91] Product/Engineering
+Founders [59] Business/Marketing/Comm
+Founders [24] Finance
+Founders [43] Other roles
+
+Product/Engineering [65] MNC
+Product/Engineering [8] National Company
+Product/Engineering [18] Entrepreneurial Company
+
+Business/Marketing/Comm [44] MNC
+Business/Marketing/Comm [4] National Company
+Business/Marketing/Comm [11] Entrepreneurial Company
+
+Finance [20] MNC
+Finance [1] National Company
+Finance [3] Entrepreneurial Company
+
+Other roles [9] Entrepreneurial Company
+Other roles [4] National Company
+Other roles [24] MNC
+Other roles [6] Unknown Company
